@@ -3,7 +3,7 @@
 <a href="https://www.sefism.com/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-    <img src="assets/logo.png" alt="Sefism" width="260">
+    <img src="assets/logo.png" alt="Sefism" width="240">
   </picture>
 </a>
 
@@ -34,43 +34,43 @@ final year project ideas, curated resources, and guides to tech companies and un
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="#roadmaps"><b>🧭&nbsp; Roadmaps</b></a>&nbsp;<sub>16</sub><br>
+<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>16</sub><br>
 <sub>Step-by-step paths in your language or stack, with AI prompts that test you</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#cheat-sheets"><b>📑&nbsp; Cheat sheets</b></a>&nbsp;<sub>16</sub><br>
+<a href="#cheat-sheets"><b>Cheat sheets</b></a>&nbsp;<sub>16</sub><br>
 <sub>The key concepts of a topic on a few pages, with code</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#career-questions"><b>💬&nbsp; Career questions</b></a>&nbsp;<sub>73</sub><br>
+<a href="#career-questions"><b>Career questions</b></a>&nbsp;<sub>73</sub><br>
 <sub>Real questions from developers, answered in writing</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#final-year-project-ideas"><b>🎓&nbsp; FYP ideas</b></a>&nbsp;<sub>80</sub><br>
+<a href="#final-year-project-ideas"><b>FYP ideas</b></a>&nbsp;<sub>80</sub><br>
 <sub>Scoped project briefs with difficulty and a suggested stack</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#learning-resources"><b>📚&nbsp; Resources</b></a>&nbsp;<sub>569</sub><br>
+<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>569</sub><br>
 <sub>Curated courses, books, guides, tools and repos</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#blog"><b>✍️&nbsp; Blog</b></a>&nbsp;<sub>35</sub><br>
+<a href="#blog"><b>Blog</b></a>&nbsp;<sub>35</sub><br>
 <sub>AI engineering, software engineering and careers</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#tech-companies-in-pakistan"><b>🏢&nbsp; Companies</b></a>&nbsp;<sub>308</sub><br>
+<a href="#tech-companies-in-pakistan"><b>Companies</b></a>&nbsp;<sub>308</sub><br>
 <sub>Hiring process, pay ranges and perks, every claim sourced</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#universities-in-pakistan"><b>🏛️&nbsp; Universities</b></a>&nbsp;<sub>24</sub><br>
+<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>24</sub><br>
 <sub>Computing degrees, admissions, merit and fees</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#internships"><b>💼&nbsp; Internships</b></a><br>
+<a href="#internships"><b>Internships</b></a><br>
 <sub>Open internships in Pakistan, kept current on the site</sub>
 </td>
 </tr>
@@ -83,7 +83,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>📘&nbsp; Learn with a plan</b>
+<b>Learn with a plan</b>
 <ul>
 <li><b><a href="#roadmaps">Roadmaps</a></b> in your language or stack, built for AI-assisted learning</li>
 <li><b><a href="#cheat-sheets">Cheat sheets</a></b> made to go with each roadmap</li>
@@ -92,7 +92,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </ul>
 </td>
 <td width="50%" valign="top">
-<b>🤝&nbsp; Get help from a mentor</b>
+<b>Get help from a mentor</b>
 <ul>
 <li><b>Get your queries answered</b> in writing, in your dashboard and by email</li>
 <li><b>Discuss your project or <a href="#final-year-project-ideas">FYP idea</a></b>, with free follow-ups</li>
@@ -103,7 +103,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </tr>
 <tr>
 <td width="50%" valign="top">
-<b>🌐&nbsp; Show your work</b>
+<b>Show your work</b>
 <ul>
 <li><b>Host your portfolio</b> at <code>sefism.com/u/your-name</code></li>
 <li>About, experience, education, projects, skills and recommendations, and you choose what shows</li>
@@ -111,7 +111,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </ul>
 </td>
 <td width="50%" valign="top">
-<b>🎟️&nbsp; How credits work</b>
+<b>How credits work</b>
 <ul>
 <li>Start with <b>10 free credits</b></li>
 <li>A query or a new project discussion costs <b>1</b>, and follow-ups are free</li>
@@ -134,24 +134,24 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <table>
 <tr>
 <td width="33%" valign="top">
-<b>🧩 Concepts in order</b><br><sub>Every stage lists what it covers and a milestone, so you always know what comes next.</sub>
+<b>Concepts in order</b><br><sub>Every stage lists what it covers and a milestone, so you always know what comes next.</sub>
 </td>
 <td width="33%" valign="top">
-<b>🤖 AI that tests you</b><br><sub>Each stage has a prompt that makes an AI quiz you and explain only what you got wrong.</sub>
+<b>AI that tests you</b><br><sub>Each stage has a prompt that makes an AI quiz you and explain only what you got wrong.</sub>
 </td>
 <td width="33%" valign="top">
-<b>🔀 Your stack</b><br><sub>Pick a language, framework or platform, and the stages and resources follow.</sub>
+<b>Your stack</b><br><sub>Pick a language, framework or platform, and the stages and resources follow.</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<b>🎯 Picked resources</b><br><sub>A few per stage, not a pile, and always with a free option.</sub>
+<b>Picked resources</b><br><sub>A few per stage, not a pile, and always with a free option.</sub>
 </td>
 <td width="33%" valign="top">
-<b>🛠️ Checklists and projects</b><br><sub>Hands-on stages have checklists, and every roadmap ends in real projects.</sub>
+<b>Checklists and projects</b><br><sub>Hands-on stages have checklists, and every roadmap ends in real projects.</sub>
 </td>
 <td width="33%" valign="top">
-<b>⏱️ Your pace</b><br><sub>Set hours per week, go free-only, follow up to six roadmaps and tick off stages.</sub>
+<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to six roadmaps and tick off stages.</sub>
 </td>
 </tr>
 </table>
@@ -210,7 +210,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 > [!NOTE]
 > Roadmaps are part of the free membership. Links open after you [create an account](https://www.sefism.com/auth/signup/).
 
-📖 **[Every roadmap's stages, concepts and outcomes →](roadmaps.md)**
+**[Every roadmap's stages, concepts and outcomes →](roadmaps.md)**
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -240,7 +240,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 > [!NOTE]
 > Cheat sheets are part of the free membership. Links open after you [create an account](https://www.sefism.com/auth/signup/).
 
-📖 **[Every cheat sheet's chapters →](cheatsheets.md)**
+**[Every cheat sheet's chapters →](cheatsheets.md)**
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -702,7 +702,7 @@ Runs Sefism, and answers the queries and takes the sessions himself.
 </tr>
 </table>
 
-Found a broken link or want something covered? [Open an issue](../../issues) or ask in [Discord](https://discord.com/invite/XqtCRvHGVn). If this helped, a ⭐ helps other developers find it.
+Found a broken link or want something covered? [Open an issue](../../issues) or ask in [Discord](https://discord.com/invite/XqtCRvHGVn). If this helped, starring the repo helps other developers find it.
 
 ---
 
