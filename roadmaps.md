@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-16 roadmaps, free for Sefism members. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one.
+17 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
 
 Every roadmap puts the concepts in a clear order, so you always know what to learn next and why it comes before the next thing. They are built for **AI-assisted learning**: you learn with AI, but it does not do the work for you.
 
@@ -11,7 +11,7 @@ Every roadmap puts the concepts in a clear order, so you always know what to lea
 - **AI study prompts that test you.** Paste a stage's prompt into any AI assistant and it quizzes you, from easy to hard, and explains only what you got wrong.
 - **Picked resources, not a pile.** Each stage has at most a few: one to learn from (always with a free option), one to practise on, one to keep open as a reference.
 - **Checklists and projects.** Doing stages come with concrete checklists, and every roadmap ends in real projects from the FYP library.
-- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to six roadmaps at once and tick off stages as you go.
+- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to 6 roadmaps at once and tick off stages as you go.
 
 A real stage prompt:
 
@@ -19,14 +19,14 @@ A real stage prompt:
 
 - [Foundations](#foundations) (3)
 - [Build products](#build-products) (4)
-- [Specialise](#specialise) (4)
+- [Specialise](#specialise) (5)
 - [Career](#career) (5)
 
 ## Foundations
 
 _Start here if you are new or your basics are patchy._
 
-### [Programming foundations](https://www.sefism.com/account/roadmap/programming/)
+### [Programming foundations](https://www.sefism.com/roadmaps/programming/)
 
 For someone starting from zero, or self-taught with gaps, who wants to write code a team can trust. By the end you write, test and ship small programs in Python, JavaScript, Java, C++ or C#, use Git and the terminal daily, and can reason about memory, data structures and the cost of your code.
 
@@ -35,12 +35,12 @@ For someone starting from zero, or self-taught with gaps, who wants to write cod
 
 <details><summary>The path (Python shown) and what you can do at the end</summary>
 
-1. **Your first language**: Variables, types and input, Conditionals and loops, Functions and scope, Lists, dictionaries and sets, Errors and exceptions
-2. **Command line and Git**: Navigating files in the shell, status, add, diff and commit, Branches and merging, clone, fetch, pull and push, Pull requests on GitHub
-3. **How computers run your code**: Binary, bits and text encodings, Memory: stack, heap and references, How a CPU runs a program, Compiled vs interpreted code, Floating point numbers
-4. **Data structures and Big-O**: Arrays and linked lists, Stacks and queues, Hash maps and sets, Trees and graphs at a first look, Recursion
-5. **Object-oriented design and clean code**: Classes, objects and composition, Separation of concerns, DRY, KISS and YAGNI, Naming and small functions, Unit tests and test-driven development
-6. **Build and ship your first projects**: Scoping a small project, Files, JSON and public APIs, Virtual environments and pip, Tests with pytest, README and a short demo
+1. **Your first language**: Variables, types and input, Strings and f-strings, Conditionals and loops, Functions, parameters and scope, Reading tracebacks and debugging
+2. **Command line and Git**: Navigating files in the shell, status, add, diff and commit, What to commit and .gitignore, Branches and merging, Merge conflicts
+3. **How computers run your code**: Binary, bits and bytes, Text encodings: ASCII, Unicode and UTF-8, Integers and overflow, Floating point numbers, How a CPU runs a program
+4. **Data structures and Big-O**: Big-O time complexity, Arrays and dynamic arrays, Linked lists, Stacks and queues, Hash maps and sets
+5. **Object-oriented design and clean code**: Classes, objects and encapsulation, Composition, inheritance and interfaces, Naming and small functions, Separation of concerns, DRY, KISS and YAGNI
+6. **Build and ship your first projects**: Scoping a small project, Virtual environments and pip, Files, JSON and pathlib, Calling a public API with requests, Configuration and secrets
 
 **By the end you can:**
 
@@ -52,7 +52,7 @@ For someone starting from zero, or self-taught with gaps, who wants to write cod
 
 </details>
 
-### [DSA and problem solving](https://www.sefism.com/account/roadmap/dsa/)
+### [DSA and problem solving](https://www.sefism.com/roadmaps/dsa/)
 
 For developers and students who can write code but freeze when a problem has no obvious library call. By the end you reason about cost before coding, pick the right data structure, recognise common problem shapes, and work an unfamiliar problem to a correct, efficient solution under time pressure, which also carries you through coding rounds.
 
@@ -61,14 +61,14 @@ For developers and students who can write code but freeze when a problem has no 
 
 <details><summary>The path (Python shown) and what you can do at the end</summary>
 
-1. **Complexity and Big-O**: Counting operations in loops, Common growth rates from O(1) to O(2^n), Best, worst and average case, Space complexity and the call stack, Amortised cost
-2. **Arrays, hashing, linked lists, stacks and queues**: Arrays, dynamic arrays and strings, Hash maps and sets, Prefix sums and frequency counts, Singly and doubly linked lists, Stacks, queues and deques
-3. **Recursion, sorting and searching**: Base case and the call stack, Merge sort and quicksort, Counting sort and when O(n log n) is not the limit, Binary search and its boundary variants, Binary search on the answer
-4. **Trees and heaps**: Binary trees and the four traversals, Binary search trees and their invariant, Balanced trees in concept, Heaps and priority queues, Root-to-leaf paths and tree DFS
+1. **Complexity and Big-O**: What Big-O means and the common growth rates, Counting operations in loops, Best, worst and average case, Space complexity and the call stack, Amortised cost
+2. **Arrays, hashing, linked lists, stacks and queues**: Arrays, dynamic arrays and strings, Singly and doubly linked lists, Stacks, queues and deques, Hash maps and sets, Prefix sums and frequency counts
+3. **Recursion, sorting and searching**: Base case and the call stack, Recursion vs iteration, Merge sort and quicksort, Counting sort and when O(n log n) is not the limit, Binary search and its boundary variants
+4. **Trees and heaps**: Binary trees and the four traversals, Root-to-leaf paths and tree DFS, Level order traversal and tree BFS, Binary search trees and their invariant, Balanced trees in concept
 5. **Graphs**: Adjacency lists, matrices and grids, BFS and DFS, Connected components and union-find, Cycle detection and topological sort, Shortest paths with Dijkstra
-6. **Coding patterns**: Sliding window and two pointers, Fast and slow pointers, Merge intervals, Top K elements and K-way merge, BFS, DFS and topological sort as patterns
-7. **Dynamic programming**: From recursion to memoisation, Tabulation and space optimisation, 0/1 and unbounded knapsack, Longest common subsequence family, Grid paths and counting problems
-8. **Timed practice and coding-round habits**: Mixed problem lists, A 45-minute problem routine, Thinking aloud, Testing by hand and edge cases, Contests for time pressure
+6. **Coding patterns**: Two pointers, Sliding window, Fast and slow pointers, Merge intervals, Monotonic stack
+7. **Dynamic programming**: From recursion to memoisation, Tabulation and space optimisation, One-dimensional DP and Kadane's algorithm, Grid paths and counting problems, 0/1 and unbounded knapsack
+8. **Timed practice and coding-round habits**: A 45-minute problem routine, Thinking aloud, Testing by hand and edge cases, Mixed problem lists, Contests for time pressure
 
 **By the end you can:**
 
@@ -79,7 +79,7 @@ For developers and students who can write code but freeze when a problem has no 
 
 </details>
 
-### [University to job-ready](https://www.sefism.com/account/roadmap/job_ready/)
+### [University to job-ready](https://www.sefism.com/roadmaps/job-ready/)
 
 For university students whose degree covers the syllabus but not the job: what to do alongside your courses, from first year to final year. By the end you have finished projects on GitHub, a steady problem-solving habit, real experience and applications going out every week.
 
@@ -88,14 +88,14 @@ For university students whose degree covers the syllabus but not the job: what t
 
 <details><summary>The path (First or second year shown) and what you can do at the end</summary>
 
-1. **Learn beyond the syllabus**: One language, learnt properly, A weekly coding habit, Debugging without copying answers, Files, collections and errors, Reading other people's code
-2. **Git and GitHub as your portfolio**: Commits with clear messages, Branches and pull requests, Writing a README, A GitHub profile README, Undoing mistakes safely
-3. **Problem solving, a little every week**: Big-O for time and space, Arrays, strings and hash maps, Stacks, queues and linked lists, Recursion, trees and graphs, Patterns: two pointers, sliding window, BFS, DFS
+1. **Learn beyond the syllabus**: One language, learnt properly, A weekly coding habit, Files, collections and errors, Functions, classes and objects, Debugging without copying answers
+2. **Git and GitHub as your portfolio**: Commits and the staging area, Commits with clear messages, Keeping secrets and junk out of Git, Remotes: push, fetch and pull, Branches and pull requests
+3. **Problem solving, a little every week**: Big-O for time and space, How to practise: a mistakes log and re-solving, Arrays, strings and hash maps, Stacks, queues and linked lists, Recursion
 4. **Real projects, one per semester**: Scoping a project you can finish, Databases and APIs in a real app, Tests for the parts that matter, Code review with a friend, Deployment and a live link
-5. **Pick a direction and go one level deeper**: Choosing web, mobile, AI or cloud, One framework, learnt properly, How the web works end to end, System design basics: caching, load balancing, databases, Drawing your project's architecture
-6. **Your resume, LinkedIn and network**: A one-page resume built on projects, Bullets with results and numbers, A complete LinkedIn profile, Connecting with engineers and alumni, Sharing what you build
-7. **Get experience before final year**: Summer and part-time internships, Open source contributions, Programmes like Google Summer of Code, Freelance work for real clients, Hackathons and campus developer groups
-8. **Start the application habit early**: A weekly application rhythm, Referrals from alumni and connections, Online assessments and coding rounds, Behavioural questions with real stories, Tracking applications and following up
+5. **Pick a direction and go one level deeper**: Choosing web, mobile, AI or cloud, One framework, learnt properly, How the web works end to end, Indexes, transactions and choosing a database, Scaling basics
+6. **Your resume, LinkedIn and network**: A one-page resume built on projects, Bullets with results and numbers, Keywords and automated screening, Getting feedback and editing, A complete LinkedIn profile
+7. **Get experience before final year**: What counts as real experience, Hackathons and campus developer groups, Open source contributions, Programmes like Google Summer of Code, Freelance work for real clients
+8. **Start the application habit early**: A weekly application rhythm, Tracking applications and following up, Referrals from alumni and connections, Online assessments, Coding rounds
 
 **By the end you can:**
 
@@ -111,7 +111,7 @@ For university students whose degree covers the syllabus but not the job: what t
 
 _Ship real apps for the web and phones._
 
-### [Frontend development](https://www.sefism.com/account/roadmap/frontend/)
+### [Frontend development](https://www.sefism.com/roadmaps/frontend/)
 
 For beginners and career switchers who want to build the parts of the web people use, and for backend developers filling in the browser side. By the end you can ship a typed, tested, accessible and fast app in React, Vue or Angular, deployed with real users on it.
 
@@ -120,13 +120,13 @@ For beginners and career switchers who want to build the parts of the web people
 
 <details><summary>The path (React shown) and what you can do at the end</summary>
 
-1. **How the web works, HTML and CSS**: HTTP, DNS and the request path, Semantic HTML and accessible forms, Box model and the cascade, Flexbox and Grid, Responsive, mobile first layout
-2. **JavaScript and the browser**: Types, functions and scope, Arrays, objects and destructuring, Closures and this, DOM and events, Promises, async/await and the event loop
-3. **Git, npm and build tooling**: Commits, branches and merges, Pull requests and code review, package.json, scripts and lockfiles, Semantic versioning, Vite dev server and builds
-4. **React and Next.js**: Components and props, State and hooks, Effects and data fetching, Forms and controlled inputs, App Router pages and layouts
-5. **TypeScript and testing**: Types, unions and narrowing, Typing props, events and API responses, Strict mode without any, ESLint and Prettier, Component tests with Vitest
-6. **Performance, accessibility and security**: Core Web Vitals: LCP, INP and CLS, Images, fonts and compression, Code splitting and lazy loading, Prefetching critical resources, Caching headers and CDNs
-7. **Ship a real product**: Scoping to three core flows, CI on every pull request, Deploy previews and a custom domain, Error tracking and analytics, User feedback and iteration
+1. **How the web works, HTML and CSS**: From URL to page: DNS, TCP, TLS and HTTP, HTTP methods, status codes and headers, Semantic HTML, headings and landmarks, Accessible forms, The box model, the cascade and specificity
+2. **JavaScript and the browser**: Values, types and equality, Functions and scope, Arrays, objects, destructuring and array methods, Closures, How this works
+3. **Git, npm and build tooling**: Commits and branches, Merging, rebasing and conflicts, Pull requests and code review, npm, package.json and scripts, Semantic versioning and lockfiles
+4. **React and Next.js**: Components, JSX and props, State with useState, Derived values instead of extra state, Lists, keys and conditional rendering, Forms, controlled inputs and actions
+5. **TypeScript and testing**: Types, interfaces and unions, Narrowing and discriminated unions, Generics, Strict mode, unknown and validating API data, Typing props, events and API responses
+6. **Performance, accessibility and security**: Core Web Vitals and how to measure them, Images, Fonts and compression, Code splitting and lazy loading, Prefetching and resource hints
+7. **Ship a real product**: Scoping to three core flows, Choosing how the app renders, Loading, empty and error states, Environment variables and secrets, CI on every pull request
 
 **By the end you can:**
 
@@ -138,7 +138,7 @@ For beginners and career switchers who want to build the parts of the web people
 
 </details>
 
-### [Backend development](https://www.sefism.com/account/roadmap/backend/)
+### [Backend development](https://www.sefism.com/roadmaps/backend/)
 
 For people who can already write a little code and want to build the server side of real products in Node.js, Python, Java, C#, Go or PHP. By the end you can design a schema and an API, secure it, make it fast, test and ship it in containers, and explain the architecture choices behind it.
 
@@ -147,13 +147,13 @@ For people who can already write a little code and want to build the server side
 
 <details><summary>The path (Node.js shown) and what you can do at the end</summary>
 
-1. **Your language and how HTTP works**: TypeScript types and interfaces, Modules and npm packages, Promises and async/await, The event loop, DNS, TCP and TLS
-2. **Relational databases and SQL**: Queries, joins and aggregates, Data modelling and normalisation, Keys, constraints and relationships, Indexes and EXPLAIN, Transactions and isolation
-3. **Designing and building APIs**: Resources, methods and status codes, Validation and one error shape, Pagination, filtering and sorting, Idempotency keys and safe retries, Versioning and OpenAPI docs
-4. **Authentication and API security**: Password hashing and sessions, OAuth 2.0 flows and access tokens, JWT signing, expiry and refresh, Role and object-level authorisation, Input validation and safe error messages
-5. **Caching, queues and performance**: Measuring p50, p95 and p99 latency, Redis cache-aside and TTLs, Cache invalidation, Message queues and background workers, Connection pooling
-6. **Testing, CI/CD and deployment**: Unit and integration tests, Testing against a real database, Dockerfiles and Docker Compose, CI pipelines with GitHub Actions, Config and secrets from the environment
-7. **Architecture and reliability**: Monolith first, then service boundaries, API gateway and backends for frontends, Service discovery and sidecars, Circuit breaker, retry with backoff and timeouts, Saga, outbox and CQRS
+1. **Your language and how HTTP works**: The terminal and Git, JavaScript essentials, TypeScript types and strict mode, Modules and npm packages, Promises and async/await
+2. **Relational databases and SQL**: Queries and joins, Grouping and aggregates, Data modelling and normalisation, Keys, constraints and relationships, Indexes
+3. **Designing and building APIs**: Resources, routes and status codes, Validating every request, One error shape for every failure, Pagination, filtering and sorting, Idempotency keys and safe retries
+4. **Authentication and API security**: Authentication versus authorisation, Password hashing, Sessions and cookies, JWT access and refresh tokens, OAuth 2.0 and OpenID Connect
+5. **Caching, queues and performance**: Measuring latency with percentiles, Connection pooling, Cache-aside with Redis, TTLs and cache invalidation, Cache stampedes
+6. **Testing, CI/CD and deployment**: Unit, integration and end-to-end tests, Unit tests and test doubles, Testing endpoints over HTTP, Containers, images and Dockerfiles, Docker Compose for local services
+7. **Architecture and reliability**: Monolith first, then service boundaries, Logs, metrics and distributed traces, Timeouts, retries and backoff, Circuit breakers, API gateway and backend for frontend
 
 **By the end you can:**
 
@@ -165,7 +165,7 @@ For people who can already write a little code and want to build the server side
 
 </details>
 
-### [Full stack development](https://www.sefism.com/account/roadmap/fullstack/)
+### [Full stack development](https://www.sefism.com/roadmaps/fullstack/)
 
 For developers who want to build and run a complete web product on their own, from the React interface to the database and the server it runs on, in Next.js, MERN or Django with React. By the end you can model data, build a secure API and UI, deploy to Linux or AWS and ship every change through CI.
 
@@ -174,13 +174,13 @@ For developers who want to build and run a complete web product on their own, fr
 
 <details><summary>The path (Next.js and PostgreSQL shown) and what you can do at the end</summary>
 
-1. **Web foundations: HTML, CSS and JavaScript**: How a request reaches a server, Semantic HTML and forms, Flexbox, Grid and responsive layout, JavaScript fundamentals, DOM, events and fetch
-2. **Git, npm and React**: Git branches and pull requests, npm and package.json, Components, props and state, Forms and validation, App Router pages and layouts
-3. **The server side of Next.js**: Node.js event loop and async I/O, Route handlers and HTTP methods, Server actions and form mutations, Environment variables and secrets, Input validation with a schema
-4. **PostgreSQL, data modelling and Prisma**: Tables, keys and relationships, Normalisation, Joins and aggregates, Indexes and EXPLAIN, Transactions
-5. **APIs, authentication and caching**: Resources, status codes and one error shape, Pagination, filtering and versioning, Sessions, cookies and tokens, Authorisation by role, Caching with Redis and HTTP headers
-6. **Deployment, CI/CD, Linux and AWS**: Shell, SSH and processes, Docker images and Compose, Core AWS: IAM, EC2, S3, RDS and Route 53, Domains, HTTPS and a reverse proxy, GitHub Actions: test on PR, deploy on merge
-7. **Ship a complete product**: Scope and data model first, Tests on the critical paths, Safe migrations and backups, Error tracking, logs and uptime, User feedback and iteration
+1. **Web foundations: HTML, CSS and JavaScript**: How a request reaches a server, Semantic HTML and forms, Flexbox, Grid and responsive layout, JavaScript values, functions and scope, The DOM and events
+2. **Git, npm and React**: Git commits, branches and pull requests, npm, package.json and lockfiles, Components, JSX and props, State, events and lifting state up, Effects, and when you do not need one
+3. **The server side of Next.js**: Node.js under Next.js, Environment variables and secrets, Route handlers and HTTP methods, Server actions and form mutations, Input validation with a schema
+4. **PostgreSQL, data modelling and Prisma**: Tables, keys and relationships, Normalisation, Constraints that protect your data, Joins and aggregates in SQL, Indexes and EXPLAIN
+5. **APIs, authentication and caching**: Resources, methods and status codes, One predictable error shape, Pagination, filtering and versioning, Storing passwords safely, Sessions, cookies and tokens
+6. **Deployment, CI/CD, Linux and AWS**: Shell, SSH and processes, Configuration and stateless processes, Core AWS: IAM, EC2, S3, RDS and Route 53, Domains, HTTPS and a reverse proxy, Docker images and containers
+7. **Ship a complete product**: Scope and data model first, Tests on the critical paths, Safe database migrations, Backups you have restored, Error tracking, logs and uptime
 
 **By the end you can:**
 
@@ -192,7 +192,7 @@ For developers who want to build and run a complete web product on their own, fr
 
 </details>
 
-### [Mobile development](https://www.sefism.com/account/roadmap/mobile/)
+### [Mobile development](https://www.sefism.com/roadmaps/mobile/)
 
 For programmers who want to build and ship real Android and iOS apps with Flutter, React Native, Kotlin or Swift. By the end you can build a multi-screen app that works offline, uses device features, is tested and accessible, and is live in a store with real users.
 
@@ -201,13 +201,13 @@ For programmers who want to build and ship real Android and iOS apps with Flutte
 
 <details><summary>The path (Flutter shown) and what you can do at the end</summary>
 
-1. **Dart fundamentals**: Types, null safety and type inference, Functions and closures, Classes, mixins and enums, List, Map and Set, Futures, async and await
-2. **Widgets and layout**: Widgets and the widget tree, Row, Column, Stack and constraints, ListView and GridView, Forms and input, Material 3 and Cupertino widgets
-3. **State management and navigation**: setState and when it stops scaling, Provider or Riverpod, ChangeNotifier and view models, go_router and deep links, Passing data between screens
-4. **Networking, APIs and local storage**: http or dio and JSON serialization, Loading, error and empty states, SQLite with sqflite or drift, shared_preferences and flutter_secure_storage, Repository pattern and offline-first
-5. **Device features, permissions and notifications**: Permission prompts with permission_handler, Camera and image_picker, Geolocation, Local notifications, Push with Firebase Cloud Messaging
-6. **Testing, performance and accessibility**: Unit and widget tests, Integration tests on a device, DevTools: frames, memory and rebuilds, Release builds and app size, Semantics with TalkBack and VoiceOver
-7. **Publishing to Google Play and the App Store**: Release builds and signing, Store listing and screenshots, Privacy policy and data declarations, Beta testing tracks, Review guidelines and common rejections
+1. **Dart fundamentals**: var, final, const and type inference, Sound null safety, Functions, named parameters and closures, Classes, constructors, mixins and enums, Sealed classes, records and patterns
+2. **Widgets and layout**: Widgets and the widget tree, Hot reload, hot restart and the widget inspector, Constraints go down, sizes go up, Row, Column, Stack, Expanded and Padding, SafeArea, MediaQuery and LayoutBuilder
+3. **State management and navigation**: setState and when it stops scaling, Lifting state up and callbacks, ChangeNotifier and view models, Provider or Riverpod for shared state, Separating UI, logic and data
+4. **Networking, APIs and local storage**: http or dio and JSON serialisation, Loading, error and empty states, Timeouts and retries, shared_preferences for settings, SQLite with sqflite or drift
+5. **Device features, permissions and notifications**: The app lifecycle in Flutter, Permission prompts with permission_handler, Camera and image_picker, Geolocation, Local notifications
+6. **Testing, performance and accessibility**: Unit tests in Dart, Fakes and constructor injection, Widget tests, Integration tests on a device, DevTools: frames, rebuilds and memory
+7. **Publishing to Google Play and the App Store**: App ID, version and build number, Release builds, Signing on both stores, Crash reporting and analytics, Privacy policy and data declarations
 
 **By the end you can:**
 
@@ -223,7 +223,7 @@ For programmers who want to build and ship real Android and iOS apps with Flutte
 
 _Go deep in one area of engineering._
 
-### [AI engineering](https://www.sefism.com/account/roadmap/ai_engineering/)
+### [AI engineering](https://www.sefism.com/roadmaps/ai-engineering/)
 
 For developers who can already ship a web or backend app and want to build products on large language models. By the end you can build, evaluate and run an LLM feature with retrieval, tools and agents, and explain what it costs, how you measured it and where it fails.
 
@@ -232,13 +232,13 @@ For developers who can already ship a web or backend app and want to build produ
 
 <details><summary>The path (Python shown) and what you can do at the end</summary>
 
-1. **How LLMs work: tokens and context**: Tokens and tokenisation, Token pricing and rate limits, The context window, Temperature and sampling, Why models hallucinate
-2. **Prompting and model APIs**: Specific instructions and output format, System prompts, Few-shot examples, Streaming responses, Timeouts, retries and rate limits
-3. **RAG: embeddings, chunking and retrieval**: Embedding models and semantic search, Chunking strategies, Vector search with pgvector, Hybrid search and reranking, Grounded answers with citations
-4. **Evals: measure before you add more**: Error analysis on real outputs, A test set of 20 to 50 questions, Code-based assertions, LLM-as-judge, checked against your labels, Retrieval metrics
-5. **Tool calling, structured output and MCP**: The tool calling loop, Tool names, descriptions and parameters, Structured output with schemas, Validating and repairing model output, Errors a model can recover from
+1. **How LLMs work: tokens and context**: What a model does: predicting the next token, Tokens and tokenisation, The context window as a budget, Token pricing and rate limits, Temperature and sampling
+2. **Prompting and model APIs**: The chat messages API, Specific instructions and output format, System prompts, Few-shot examples, Prompts in version control
+3. **RAG: embeddings, chunking and retrieval**: What RAG is and the pipeline, Embedding models, Semantic search and cosine similarity, Chunking strategies, Vector search with pgvector
+4. **Evals: measure before you add more**: What an eval is and why vibes fail, Error analysis on real outputs, A test set of 20 to 50 questions, Code-based assertions, LLM-as-judge, checked against your labels
+5. **Tool calling, structured output and MCP**: The tool calling loop, Tool names, descriptions and parameters, Structured output with schemas, Validating and repairing model output, Tool errors a model can recover from
 6. **Agents and durable execution**: Workflows vs agents, The agent loop, written by hand, Context engineering across steps, Step, time and cost limits, Checkpoints and resumable runs
-7. **Running AI systems in production**: Tracing model, retrieval and tool calls, Guardrails and prompt injection defence, Prompt caching and semantic caching, Model routing and fallbacks via an LLM gateway, Latency, cost and rate-limit budgets
+7. **Running AI systems in production**: Tracing model, retrieval and tool calls, Prompt injection defence, Input and output guardrails, Prompt caching, Semantic caching
 
 **By the end you can:**
 
@@ -250,7 +250,7 @@ For developers who can already ship a web or backend app and want to build produ
 
 </details>
 
-### [Machine learning](https://www.sefism.com/account/roadmap/machine_learning/)
+### [Machine learning](https://www.sefism.com/roadmaps/machine-learning/)
 
 For programmers and students who want to train models on data rather than only call someone else's API. By the end you can clean a real dataset, choose and honestly evaluate a classical or deep learning model, and ship it as a reproducible, monitored service.
 
@@ -258,13 +258,13 @@ For programmers and students who want to train models on data rather than only c
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Python for data**: Core Python, Jupyter notebooks, NumPy arrays and vectorisation, pandas DataFrames, Matplotlib charts
-2. **The maths you need**: Vectors and matrices, Derivatives and gradients, The chain rule, Probability and Bayes, Distributions
-3. **Data cleaning and feature engineering**: Missing values and outliers, Exploratory data analysis, Encoding categorical data, Scaling and normalisation, Feature creation
-4. **Classical machine learning**: Linear and logistic regression, Bias, variance and regularisation, Decision trees and random forests, Gradient boosting, Clustering
-5. **Evaluating and tuning models**: Train, validation and test splits, Precision, recall and ROC-AUC, Cross-validation, Data leakage, Hyperparameter search
-6. **Deep learning**: Backpropagation, The PyTorch training loop, CNNs, Attention and transformers, Transfer learning and fine-tuning
-7. **Production ML and MLOps**: Experiment tracking, Data and model versioning, Batch vs real-time serving, CI/CD for ML, Drift monitoring and retraining
+1. **Python for data**: Core Python for data work, Working in Jupyter notebooks, NumPy arrays, shapes and indexing, Vectorisation and broadcasting, pandas DataFrames: selecting, filtering and cleaning
+2. **The maths you need**: Vectors, matrices and the dot product, Matrix multiplication and shapes, Derivatives and gradients, The chain rule, Gradient descent
+3. **Data cleaning and feature engineering**: Exploratory data analysis, Missing values, Outliers, Encoding categorical data, Scaling and normalisation
+4. **Classical machine learning**: Supervised vs unsupervised learning, Linear regression, Logistic regression, Bias, variance and overfitting, Regularisation (L1 and L2)
+5. **Evaluating and tuning models**: Train, validation and test splits, Baselines, Precision, recall and F1, ROC-AUC and PR-AUC, Regression metrics
+6. **Deep learning**: Neural networks and activations, Tensors and autograd in PyTorch, Loss functions, Backpropagation, Optimisers: SGD and AdamW
+7. **Production ML and MLOps**: Experiment tracking, Data and model versioning, Batch vs real-time serving, Training-serving skew, CI/CD for ML
 
 **By the end you can:**
 
@@ -276,7 +276,7 @@ For programmers and students who want to train models on data rather than only c
 
 </details>
 
-### [System design](https://www.sefism.com/account/roadmap/system_design/)
+### [System design](https://www.sefism.com/roadmaps/system-design/)
 
 For engineers who can build a service and want to reason about how systems behave at scale, under failure and across teams. By the end you can take a vague product requirement to a defensible architecture and explain every trade-off in it.
 
@@ -284,13 +284,13 @@ For engineers who can build a service and want to reason about how systems behav
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Core concepts and building blocks**: Scalability and capacity estimates, Latency vs throughput, Availability, redundancy and SLOs, Load balancers, reverse proxies and API gateways, CDNs, caching and cache invalidation
-2. **Data storage, partitioning and replication**: SQL vs NoSQL and data modelling, Indexes and query plans, ACID transactions and the write-ahead log, Replication and read replicas, Partitioning and sharding
-3. **Networking, APIs and messaging**: DNS and the request path, TCP, UDP and HTTP/2, REST, gRPC and GraphQL, WebSockets, SSE and long polling, Sync vs async communication
-4. **Distributed systems fundamentals**: Consistency models, strong to eventual, Quorum reads and writes, Leader election and consensus with Raft, Consistent hashing, Heartbeats, gossip and Merkle trees
-5. **Architecture and resilience patterns**: Monolith vs microservices, API gateway, BFF, service discovery and sidecar, Circuit breakers, retries with backoff, timeouts and bulkheads, Dead letter queues and backpressure, Saga, event sourcing and CQRS
-6. **Performance, observability and safe releases**: p99 latency and the hot path, Monitoring, SLOs and alerting, Distributed tracing and correlation IDs, Structured logs and health checks, Blue-green, canary and feature flags
-7. **Designing real systems end to end**: Requirements and scope, Capacity estimates, API and data model, High-level diagram, Deep dives and bottlenecks
+1. **Core concepts and building blocks**: Vertical vs horizontal scaling and stateless services, Latency, throughput and percentiles, Availability, redundancy and SLOs, Back-of-the-envelope capacity estimates, Load balancers and balancing algorithms
+2. **Data storage, partitioning and replication**: SQL vs NoSQL and the NoSQL families, Data modelling from access patterns, Indexes and query plans, ACID transactions and the write-ahead log, Isolation levels and concurrency anomalies
+3. **Networking, APIs and messaging**: DNS and the request path, TCP and UDP, HTTP/1.1, HTTP/2, HTTP/3 and TLS, REST API design, gRPC and GraphQL
+4. **Distributed systems fundamentals**: Partial failure, unreliable networks and clocks, Consistency models, strong to eventual, Heartbeats, failure detection and gossip, Quorum reads and writes, Leader election and consensus with Raft
+5. **Architecture and resilience patterns**: Monolith vs microservices, API gateway and backend for frontend, Service discovery and sidecars, Timeouts, retries, backoff and jitter, Circuit breakers and bulkheads
+6. **Performance, observability and safe releases**: Metrics and the golden signals, p99 latency and the hot path, Structured logs and correlation IDs, Distributed tracing, Health checks
+7. **Designing real systems end to end**: Requirements and scope, Capacity estimates that drive decisions, API and data model, The high-level diagram, Recurring building blocks: IDs, search and storage
 
 **By the end you can:**
 
@@ -302,7 +302,7 @@ For engineers who can build a service and want to reason about how systems behav
 
 </details>
 
-### [DevOps and cloud](https://www.sefism.com/account/roadmap/devops_cloud/)
+### [DevOps and cloud](https://www.sefism.com/roadmaps/devops-cloud/)
 
 For developers and sysadmins who want to own how software gets built, shipped and kept running. By the end you can take an application from a Git repository to a monitored, automatically deployed service on AWS and Kubernetes, and run the incident when it breaks.
 
@@ -310,13 +310,13 @@ For developers and sysadmins who want to own how software gets built, shipped an
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Linux, the shell and scripting**: Files, permissions and users, Processes, services and systemd, Packages and system logs, Pipes, grep, sed and awk, Bash scripts and cron
-2. **Networking for engineers**: IP addressing, subnets and CIDR, TCP, UDP and ports, DNS records and resolution, HTTP and TLS certificates, Firewalls and SSH
-3. **Containers with Docker**: Images and containers, Writing Dockerfiles, Layer caching and multi-stage builds, Volumes and container networking, Docker Compose
-4. **Cloud on AWS, service by service**: IAM users, roles and policies, EC2, EBS and security groups, S3 and VPC networking, CloudWatch metrics, logs and alarms, Load balancers, Auto Scaling and Route 53
-5. **Infrastructure as code and CI/CD**: Terraform plans, state and modules, Remote state and locking, GitHub Actions workflows, Build, test and deploy stages, Secrets and OIDC in pipelines
-6. **Kubernetes and GitOps**: Pods, Deployments and Services, ConfigMaps and Secrets, Ingress, Requests, limits and autoscaling, Helm charts
-7. **Observability and incident response**: Prometheus and PromQL, Grafana dashboards for the golden signals, Centralised logs, Tracing with OpenTelemetry, SLOs, error budgets and alerting
+1. **Linux, the shell and scripting**: The filesystem, files and permissions, Users, groups and sudo, Processes and signals, Services with systemd, Packages and system logs
+2. **Networking for engineers**: IP addresses, subnets and CIDR, TCP, UDP and ports, DNS records and resolution, HTTP requests and responses, TLS and certificates
+3. **Containers with Docker**: What a container is, Images, containers and the Docker CLI, Writing Dockerfiles, Layer caching and build speed, Multi-stage builds and small images
+4. **Cloud on AWS, service by service**: Regions, availability zones and a safe account, IAM users, roles and policies, EC2 instances and EBS volumes, Security groups, S3 object storage
+5. **Infrastructure as code and CI/CD**: Why infrastructure as code, Terraform providers, resources and the plan and apply loop, Terraform state, Remote state and locking, Modules, environments and drift
+6. **Kubernetes and GitOps**: Cluster architecture and kubectl, Pods, Deployments and rolling updates, Services and service discovery, ConfigMaps and Secrets
+7. **Observability and incident response**: Metrics, logs and traces, Prometheus and PromQL, Grafana dashboards for the golden signals, Centralised, structured logs, Tracing with OpenTelemetry
 
 **By the end you can:**
 
@@ -328,11 +328,40 @@ For developers and sysadmins who want to own how software gets built, shipped an
 
 </details>
 
+### [Data analytics](https://www.sefism.com/roadmaps/data-analytics/)
+
+For students and early-career engineers who want to turn data into decisions as a data or BI analyst, whether you start from Excel and Power BI, Tableau or Python. By the end you can take a vague business question, answer it with spreadsheets, SQL, basic statistics and your chosen tool, and present a clear recommendation backed by a portfolio of real projects.
+
+**Choose your tool:** Excel and Power BI · Tableau · Python  
+**Inside:** 8 stages · about 238 hours · 8 AI study prompts · 4 projects
+
+<details><summary>The path (Excel and Power BI shown) and what you can do at the end</summary>
+
+1. **How analysts think**: What a data analyst does all day, Asking the right business question, Metrics, KPIs and precise definitions, Descriptive, diagnostic, predictive, prescriptive, The analysis workflow and tidy data
+2. **Spreadsheets properly**: References and structured tables, SUMIFS, COUNTIFS and IF logic, Lookups with XLOOKUP, Cleaning text, numbers and dates, Pivot tables for exploring
+3. **SQL for analysis**: SELECT, WHERE and how a query runs, GROUP BY, HAVING and counting correctly, Joins without inflating totals, NULLs and CASE WHEN, CTEs and subqueries for readable steps
+4. **Statistics you need**: Averages and spread, Distributions and outliers, Samples and sampling bias, Correlation, causation and Simpson's paradox, A/B test basics
+5. **Power BI in depth**: Power Query: repeatable data preparation, Data modelling and the star schema in Power BI, DAX measures, CALCULATE, filter context and time intelligence, Building Power BI reports
+6. **Cleaning and modelling data**: Profiling a new dataset, Missing values: decide, do not default, Duplicates, keys and consistent categories, Types, dates and parsing, Grain, facts and dimensions
+7. **Charts, dashboards and storytelling**: Choosing the right chart, Clutter, colour and focus, Accessible and honest charts, Designing a dashboard people use, Finding the one-sentence message
+8. **Portfolio and first analyst role**: Finding public data worth analysing, Two or three question-driven projects, Writing up each project, Resume and profile for analyst roles, How analyst hiring works
+
+**By the end you can:**
+
+- Turn a vague request into a specific business question with written metric definitions
+- Clean and summarise data in Excel or Google Sheets with lookups, conditional aggregation and pivot tables
+- Write SQL with joins, CTEs and window functions for rankings, running totals and cohorts
+- Explain averages, spread, correlation and an A/B test result with a confidence interval in plain words
+- Build a trustworthy model and dashboard in Power BI, Tableau or Python that reconciles with an independent total
+- Present a finding as a one-sentence message with clean charts, and publish two or three portfolio projects
+
+</details>
+
 ## Career
 
 _Get hired, get seen and grow._
 
-### [Job search](https://www.sefism.com/account/roadmap/job_search/)
+### [Job search](https://www.sefism.com/roadmaps/job-search/)
 
 For students, graduates and working engineers who are ready to look for a software job and want a plan instead of mass applying. By the end you have a sharp one-page resume, proof of work that backs it up, a steady application rhythm with referrals, rehearsed answers for every round and the words to negotiate an offer.
 
@@ -340,13 +369,13 @@ For students, graduates and working engineers who are ready to look for a softwa
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Know your target**: Role titles and level, Skills from real job descriptions, A tiered company list, Market pay for your level and city, Your constraints
-2. **Your resume**: One page, single column, PDF, Bullets that show results with numbers, Projects with stack, scale and links, Keywords mirrored from the job description, Education and grouped skills
-3. **Proof of work**: Pinned projects that match your target role, READMEs a reviewer can skim, A live demo, GitHub profile README, A one-page portfolio
-4. **Where and how to apply**: Job boards for your market, Referrals, Messages to hiring managers, A weekly application rhythm, Tracking and follow-ups
-5. **Coding and system design rounds**: Company rounds and what they score, Coding patterns, Thinking out loud, Edge cases, testing and complexity, System design basics for mid level and above
-6. **Behavioural rounds and your questions**: A story bank from your own work, Tell me about yourself, Strengths, weakness and stress, Salary expectations and resume gaps, Questions to ask the interviewer
-7. **Offers, pay and a strong start**: Market pay for your level, Total compensation, Making a counter-offer, What is negotiable beyond base pay, Your first 90 days
+1. **Know your target**: Role titles and your honest level, Your constraints, written down first, Reading real job descriptions, Marking your skill gaps honestly, A tiered company list
+2. **Your resume**: How resumes are screened, One page, single column, PDF, Bullets that show results with numbers, Finding numbers when you think you have none, Projects with stack, scale and links
+3. **Proof of work**: What proof of work means, Choosing and pinning the right projects, READMEs a reviewer can skim, A live demo, Commit history and repository hygiene
+4. **Where and how to apply**: Job boards for your market, A tracker before the first application, Referrals, Short messages to hiring managers, A weekly application rhythm
+5. **Coding and system design rounds**: Company rounds and what they score, Coding problems by pattern, A repeatable approach: restate, clarify, brute force, improve, Thinking out loud, Edge cases and testing your own code
+6. **Behavioural rounds and your questions**: The STAR structure, A story bank from your own work, Tell me about yourself, Strengths and weakness, Stress, pressure and gaps
+7. **Offers, pay and a strong start**: What is in an offer, Vesting and total compensation, Comparing offers against the market, Negotiation principles and leverage, Making a counter-offer
 
 **By the end you can:**
 
@@ -357,7 +386,7 @@ For students, graduates and working engineers who are ready to look for a softwa
 
 </details>
 
-### [LinkedIn and personal branding](https://www.sefism.com/account/roadmap/personal_branding/)
+### [LinkedIn and personal branding](https://www.sefism.com/roadmaps/personal-branding/)
 
 For students and engineers who want recruiters, peers and future teammates to find them for the right reasons, without turning into an influencer. By the end you have a clear niche, a profile that works as a landing page, a steady rhythm of useful posts and a network built on real conversations.
 
@@ -365,12 +394,12 @@ For students and engineers who want recruiters, peers and future teammates to fi
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Your niche and story**: What you want to be known for, Your audience, Values and voice, Proof of work over proof of authority, Real branding versus influencer habits
+1. **Your niche and story**: Real branding versus influencer habits, Proof of work over proof of authority, What you want to be known for, Your audience, Your positioning statement
 2. **Your profile as a landing page**: Headline, Banner with offer, audience and call to action, About section, Experience as stories with results, Featured section and profile link
-3. **Write posts people read**: Hooks in the first three lines, One post, one topic, one goal, Writing like you talk, Short paragraphs and simple words, Carousels, infographics and images
-4. **A consistent posting rhythm**: A weekly minimum, A swipe file, Learning in public, Batching and scheduling, Blog cross-posting
-5. **Grow your network through comments and relationships**: Thoughtful comments, Relationships in your niche, Connection requests with context, Reaching HR and hiring managers, Helping first
-6. **Measure and stay credible**: Numbers worth tracking, Monthly post review, Quality over volume, Paid promotion, Keeping proof of work current
+3. **Write posts people read**: One post, one topic, one goal, Hooks in the first three lines, Writing like you talk, Short paragraphs and simple words, An editing pass before you post
+4. **A consistent posting rhythm**: A weekly minimum, Content pillars and post types, A swipe file, Learning in public, Batching and scheduling
+5. **Grow your network through comments and relationships**: Thoughtful comments, Relationships in your niche, Connection requests with context, Helping first, From comments to conversations
+6. **Measure and stay credible**: Numbers worth tracking, Monthly post review, Quality over volume, Using AI without losing your voice, Paid promotion
 
 **By the end you can:**
 
@@ -382,7 +411,7 @@ For students and engineers who want recruiters, peers and future teammates to fi
 
 </details>
 
-### [Open source](https://www.sefism.com/account/roadmap/open_source/)
+### [Open source](https://www.sefism.com/roadmaps/open-source/)
 
 For students and engineers who can already build small programs and want to contribute to real open source projects, from a first pull request to a mentored programme. By the end you work confidently in someone else's codebase, have merged pull requests you can point to, and can run a small project of your own.
 
@@ -390,12 +419,12 @@ For students and engineers who can already build small programs and want to cont
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **How open source works**: Permissive and copyleft licences, Maintainers and project governance, Contributing guides and codes of conduct, Issue and pull request etiquette, Why people and companies contribute
-2. **Git and GitHub for contributors**: Forks, origin and upstream, Feature branches, Fetch, rebase and merge conflicts, Commit messages and Conventional Commits, Squashing and force-pushing safely
-3. **Your first merged pull request**: Finding beginner-friendly issues, Running a project locally, Documentation and test contributions, Writing a pull request description, Responding to review feedback
-4. **Becoming a regular on one project**: Reading a large codebase, Issue triage and reproduction, Reviewing other people's pull requests, Project discussions and proposals, Bug fixes and small features
-5. **Mentored programmes**: Programme timelines and eligibility, Choosing an organisation and project idea, Contributing before you apply, Writing a proposal with milestones, Working with a mentor
-6. **Maintaining your own project**: README and contributing guide, Choosing a licence, CI with GitHub Actions, Issue and pull request templates, Semantic versioning and releases
+1. **How open source works**: Why people and companies contribute, What an open source licence does, Permissive and copyleft licences, Maintainers and project governance, Contributing guides and codes of conduct
+2. **Git and GitHub for contributors**: Everyday commands: status, diff, stash, log, Forks, origin and upstream, Feature branches, Commit messages and Conventional Commits, Keeping a branch up to date with rebase
+3. **Your first merged pull request**: Finding beginner-friendly issues, Claiming an issue the right way, Running a project locally, Documentation and test contributions, Opening a pull request
+4. **Becoming a regular on one project**: Choosing one project to stay with, Reading a large codebase, Project discussions and channels, Issue triage, Reproducing bugs with a minimal example
+5. **Mentored programmes**: GSoC, Outreachy and LFX Mentorship, Programme timelines and eligibility, Choosing an organisation and project idea, Contributing before you apply, Writing a proposal with milestones
+6. **Maintaining your own project**: README and quick start, Choosing a licence, Contributing guide and code of conduct, CI with GitHub Actions, Issue and pull request templates
 
 **By the end you can:**
 
@@ -407,7 +436,7 @@ For students and engineers who can already build small programs and want to cont
 
 </details>
 
-### [Mid-level to senior](https://www.sefism.com/account/roadmap/career_growth/)
+### [Mid-level to senior](https://www.sefism.com/roadmaps/career-growth/)
 
 For engineers with a few years of experience who ship reliably and want the scope, ownership and influence of a senior role. By the end you have a written bar for the next level, own problems nobody else did, turn debates into documented decisions, grow the people around you and have the evidence to show it.
 
@@ -415,12 +444,12 @@ For engineers with a few years of experience who ship reliably and want the scop
 
 <details><summary>The path and what you can do at the end</summary>
 
-1. **Seniority as scope, with a clear bar**: Scope and ambiguity, Your company's level framework, The gap to the next level, Written expectations, Monthly progress check-ins
-2. **Ownership and leverage**: Unowned problems: flaky tests, painful releases, neglected services, Root causes over workarounds, Automation and internal tooling, Measuring before and after, Simplicity and fewer dependencies
-3. **Own the design: write to decide**: Design docs: goals, non-goals, alternatives, Trade-off analysis, Architecture decision records, Design patterns and SOLID as shared vocabulary, Estimates as ranges, not promises
-4. **Multiply the people around you**: Code reviews that spread knowledge, Separation of concerns, KISS, DRY and YAGNI in review, Coding standards that end style debates, Mentoring a less experienced engineer, Unblocking and pairing
-5. **Visibility without politics**: Brag document, Regular updates to your manager, Writing up incidents and outcomes, Peer feedback, Sharing work beyond your team
-6. **Influence and choosing your direction**: Persuasion through writing and reasoning, Building trust across teams, Disagree, then commit, Deep, broad or leadership, Knowing when to move on
+1. **Seniority as scope, with a clear bar**: Seniority as scope, not years, Handling ambiguity, Impact over output, Your company's level framework, The gap to the next level
+2. **Ownership and leverage**: What ownership means, Leverage: impact per hour, Finding unowned problems, Choosing the problem and saying no, Measuring before and after
+3. **Own the design: write to decide**: What a design doc is for, Goals and non-goals, Trade-off analysis, One-way and two-way doors, Estimates as ranges, not promises
+4. **Multiply the people around you**: Becoming a force multiplier, Code reviews that teach, Coding standards that end style debates, Using design principles in review comments, Mentoring a less experienced engineer
+5. **Visibility without politics**: Keeping a brag document, Regular updates to your manager, Writing up incidents and outcomes, Asking for peer feedback, Sharing work beyond your team
+6. **Influence and choosing your direction**: Persuasion through writing and reasoning, Talking one to one before the meeting, Building trust across teams, Disagree, then commit, Deep, broad or leadership
 
 **By the end you can:**
 
@@ -432,7 +461,7 @@ For engineers with a few years of experience who ship reliably and want the scop
 
 </details>
 
-### [Staff and leadership](https://www.sefism.com/account/roadmap/leadership/)
+### [Staff and leadership](https://www.sefism.com/roadmaps/leadership/)
 
 For senior engineers who already own designs and influence their team, and want the next step: staff engineer, engineering manager, or an honest trial of both. By the end you own architecture across teams, lead projects and incidents, influence the wider organisation, and have evidence for the path you choose.
 
@@ -441,11 +470,11 @@ For senior engineers who already own designs and influence their team, and want 
 
 <details><summary>The path (Not sure yet shown) and what you can do at the end</summary>
 
-1. **Owning architecture across teams**: Service and data ownership boundaries, Trade-off analysis across teams, Build versus buy, Decision records other teams can find, Failure modes and reliability
-2. **Leading projects and incidents**: Shaping and cutting scope, Milestones and estimates as ranges, Risks and cross-team dependencies, Incident command, Blameless postmortems
-3. **Communication and influence across the organisation**: Writing for directors and product, Proposals and strategy documents, Stakeholder mapping, Aligning teams without authority, Giving and receiving hard feedback
-4. **Try staff-shaped work**: Staff archetypes, Choosing work that matters, Glue work, made visible, Scope across teams, Finding a sponsor
-5. **Try the manager side**: One-on-ones that belong to the report, Feedback and coaching, Delegation, From tech lead to manager, Your first 90 days
+1. **Owning architecture across teams**: Service and data ownership boundaries, Trade-off analysis across teams, Build versus buy, Failure modes and blast radius, SLOs and error budgets
+2. **Leading projects and incidents**: A one-page project brief, Shaping and cutting scope, Milestones and estimates as ranges, Risks and cross-team dependencies, Weekly status that surfaces trouble
+3. **Communication and influence across the organisation**: Conclusion first, Writing for directors and product, One-page proposals and strategy documents, Stakeholder mapping and decision roles, Aligning teams without authority
+4. **Try staff-shaped work**: What a staff engineer actually does, Staff archetypes, Scope across teams, Choosing work that matters, Glue work, made visible
+5. **Try the manager side**: What the manager job really is, One-on-ones that belong to the report, Feedback, often and specific, Coaching instead of answering, Delegation
 
 **By the end you can:**
 
@@ -459,6 +488,6 @@ For senior engineers who already own designs and influence their team, and want 
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

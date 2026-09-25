@@ -38,7 +38,7 @@
 - [LFX Mentorship](https://www.sefism.com/resources/lfx-mentorship/) · The Linux Foundation · Free · Intermediate
 - [MentorCruise](https://www.sefism.com/resources/mentorcruise/) · MentorCruise · Paid
 - [Rafay Abbasi: Interview Coaching](https://www.sefism.com/resources/rafay-abbasi-interview-coaching/) · Design Gurus · Paid
-- [Sefism 1:1 Mentorship](https://www.sefism.com/resources/sefism-11-mentorship/) · Sefism · Paid
+- [Sefism 1:1 Mentorship](https://www.sefism.com/resources/sefism-11-mentorship/) · Sefism · Free
 
 ## Tool
 
@@ -62,6 +62,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

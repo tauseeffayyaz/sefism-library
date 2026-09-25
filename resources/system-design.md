@@ -2,18 +2,32 @@
 
 [← Back to the Sefism Library](../README.md)
 
-86 resources, each with a short review on Sefism explaining who it is for.
+88 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=system_design)
 
+- [Top picks: system design](#top-picks-system-design) (10)
 - [Course](#course) (12)
 - [Roadmap](#roadmap) (2)
-- [Guide](#guide) (50)
+- [Guide](#guide) (51)
 - [Platform](#platform) (1)
 - [Tool](#tool) (2)
 - [GitHub repo](#github-repo) (8)
-- [Book](#book) (8)
+- [Book](#book) (9)
 - [Video](#video) (3)
+
+## Top picks: system design
+
+1. **[Grokking the System Design Interview](https://www.sefism.com/resources/grokking-the-system-design-interview/)** · Design Gurus · Paid
+2. **[Grokking System Design Fundamentals](https://www.sefism.com/resources/grokking-system-design-fundamentals/)** · Design Gurus · Paid
+3. **[Advanced System Design Interview, Volume II](https://www.sefism.com/resources/grokking-the-advanced-system-design-interview/)** · Design Gurus · Paid
+4. **[Grokking Microservices Design Patterns](https://www.sefism.com/resources/grokking-microservices-design-patterns/)** · Design Gurus · Paid
+5. **[System Design Interview Crash Course](https://www.sefism.com/resources/mastering-system-design-interviews-a-crash-course/)** · Design Gurus · Paid
+6. **[Designing Data-Intensive Applications](https://www.sefism.com/resources/designing-data-intensive-applications/)** · Martin Kleppmann · Paid
+7. **[The System Design Primer](https://www.sefism.com/resources/the-system-design-primer/)** · Donne Martin · Free
+8. **[System Design 101](https://www.sefism.com/resources/system-design-101/)** · ByteByteGo · Free
+9. **[High Scalability](https://www.sefism.com/resources/high-scalability/)** · High Scalability · Free
+10. **[Distributed Systems lecture series by Martin Kleppmann](https://www.sefism.com/resources/distributed-systems-lecture-series-by-martin-kleppmann/)** · University of Cambridge · Free
 
 ## Course
 
@@ -69,6 +83,7 @@
 - [HubSpot Product Blog](https://www.sefism.com/resources/hubspot-product-blog/) · HubSpot · Free · Advanced
 - [Indeed Engineering Blog](https://www.sefism.com/resources/indeed-engineering-blog/) · Indeed · Free · Advanced
 - [JioHotstar Tech Blog](https://www.sefism.com/resources/hotstar-tech-blog/) · JioHotstar · Free · Advanced
+- [Kimball Dimensional Modeling Techniques](https://www.sefism.com/resources/kimball-dimensional-modeling-techniques/) · Kimball Group · Free · Intermediate
 - [Learn System Design](https://www.sefism.com/resources/learn-system-design/) · Design Gurus · Free
 - [LinkedIn Engineering Blog](https://www.sefism.com/resources/linkedin-engineering-blog/) · LinkedIn · Free · Advanced
 - [Lyft Engineering](https://www.sefism.com/resources/lyft-engineering/) · Lyft · Free · Advanced
@@ -113,6 +128,7 @@
 - [Building Microservices](https://www.sefism.com/resources/building-microservices/) · Sam Newman · Paid · Advanced
 - [Database Internals](https://www.sefism.com/resources/database-internals/) · Alex Petrov · Paid · Advanced
 - [Designing Data-Intensive Applications](https://www.sefism.com/resources/designing-data-intensive-applications/) · Martin Kleppmann · Paid · Advanced
+- [Fundamentals of Data Engineering](https://www.sefism.com/resources/fundamentals-of-data-engineering/) · O'Reilly Media (Joe Reis and Matt Housley) · Paid · Beginner
 - [Fundamentals of Software Architecture](https://www.sefism.com/resources/fundamentals-of-software-architecture/) · Mark Richards and Neal Ford · Paid · Intermediate
 - [Google Site Reliability Engineering Book](https://www.sefism.com/resources/google-site-reliability-engineering-book/) · Google · Free · Advanced
 - [Software Architecture: The Hard Parts](https://www.sefism.com/resources/software-architecture-the-hard-parts/) · Neal Ford, Mark Richards and others · Paid · Advanced
@@ -127,6 +143,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

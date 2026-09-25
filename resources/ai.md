@@ -2,19 +2,47 @@
 
 [← Back to the Sefism Library](../README.md)
 
-161 resources, each with a short review on Sefism explaining who it is for.
+172 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=ai)
 
-- [Course](#course) (19)
-- [Roadmap](#roadmap) (1)
-- [Guide](#guide) (22)
-- [Platform](#platform) (3)
-- [Tool](#tool) (92)
+- [Top picks: learn ai](#top-picks-learn-ai) (10)
+- [Top picks: ai tools](#top-picks-ai-tools) (10)
+- [Course](#course) (22)
+- [Roadmap](#roadmap) (2)
+- [Guide](#guide) (25)
+- [Platform](#platform) (5)
+- [Tool](#tool) (91)
 - [GitHub repo](#github-repo) (13)
 - [Book](#book) (7)
 - [Video](#video) (3)
-- [Community](#community) (1)
+- [Community](#community) (4)
+
+## Top picks: learn ai
+
+1. **[Grokking Modern AI Fundamentals](https://www.sefism.com/resources/grokking-modern-ai-fundamentals/)** · Design Gurus · Paid
+2. **[Grokking the AI System Design Interview](https://www.sefism.com/resources/grokking-the-ai-system-design-interview/)** · Design Gurus · Paid
+3. **[Grokking Prompt Engineering for Software Engineers](https://www.sefism.com/resources/grokking-prompt-engineering-for-software-engineers/)** · Design Gurus · Paid
+4. **[Anthropic Academy](https://www.sefism.com/resources/anthropic-academy/)** · Anthropic · Free
+5. **[Neural Networks: Zero to Hero](https://www.sefism.com/resources/neural-networks-zero-to-hero/)** · Andrej Karpathy · Free
+6. **[Practical Deep Learning for Coders](https://www.sefism.com/resources/practical-deep-learning-for-coders/)** · fast.ai · Free
+7. **[Hugging Face AI Agents Course](https://www.sefism.com/resources/hugging-face-ai-agents-course/)** · Hugging Face · Free
+8. **[Machine Learning Specialization](https://www.sefism.com/resources/machine-learning-specialization/)** · DeepLearning.AI and Stanford Online · Paid
+9. **[Building Effective Agents](https://www.sefism.com/resources/building-effective-agents/)** · Anthropic · Free
+10. **[OpenAI Cookbook](https://www.sefism.com/resources/openai-cookbook/)** · OpenAI · Free
+
+## Top picks: ai tools
+
+1. **[ChatGPT](https://www.sefism.com/resources/chatgpt/)** · OpenAI · Free
+2. **[Claude](https://www.sefism.com/resources/claude/)** · Anthropic · Free
+3. **[Cursor](https://www.sefism.com/resources/cursor/)** · Anysphere · Free
+4. **[GitHub Copilot](https://www.sefism.com/resources/github-copilot/)** · GitHub · Free
+5. **[Google Gemini](https://www.sefism.com/resources/google-gemini/)** · Google · Free
+6. **[Perplexity](https://www.sefism.com/resources/perplexity/)** · Perplexity AI · Free
+7. **[Gemini Notebook (formerly NotebookLM)](https://www.sefism.com/resources/notebooklm/)** · Google · Free
+8. **[Ollama](https://www.sefism.com/resources/ollama/)** · Ollama · Free
+9. **[v0](https://www.sefism.com/resources/v0/)** · Vercel · Free
+10. **[Google AI Studio](https://www.sefism.com/resources/google-ai-studio/)** · Google · Free
 
 ## Course
 
@@ -26,7 +54,7 @@
 - [Grokking Modern AI Fundamentals](https://www.sefism.com/resources/grokking-modern-ai-fundamentals/) · Design Gurus · Paid · Beginner
 - [Grokking Prompt Engineering for Professional Portfolio and Job Search](https://www.sefism.com/resources/grokking-prompt-engineering-for-professional-portfolio-and-job-search/) · Design Gurus · Paid · Beginner
 - [Grokking Prompt Engineering for Software Engineers](https://www.sefism.com/resources/grokking-prompt-engineering-for-software-engineers/) · Design Gurus · Paid · Beginner
-- [Grokking the AI System Design Interview](https://www.sefism.com/resources/grokking-the-ai-system-design-interview/) · Design Gurus · Paid · Advanced
+- [Grokking the AI System Design Interview](https://www.sefism.com/resources/grokking-the-ai-system-design-interview/) · Design Gurus · Paid · Beginner
 - [Hugging Face AI Agents Course](https://www.sefism.com/resources/hugging-face-ai-agents-course/) · Hugging Face · Free · Beginner
 - [Hugging Face Learn](https://www.sefism.com/resources/hugging-face-learn/) · Hugging Face · Free · Intermediate
 - [Introduction to LangGraph](https://www.sefism.com/resources/introduction-to-langgraph/) · LangChain Academy · Free · Intermediate
@@ -34,12 +62,16 @@
 - [Machine Learning in Python with scikit-learn](https://www.sefism.com/resources/scikit-learn-mooc/) · Inria · Free · Intermediate
 - [Machine Learning Specialization](https://www.sefism.com/resources/machine-learning-specialization/) · DeepLearning.AI and Stanford Online · Paid · Beginner
 - [Made With ML](https://www.sefism.com/resources/made-with-ml/) · Goku Mohandas · Free · Advanced
+- [Make Academy](https://www.sefism.com/resources/make-academy/) · Make · Free · Beginner
 - [Mathematics for Machine Learning and Data Science Specialization](https://www.sefism.com/resources/mathematics-for-machine-learning-and-data-science/) · DeepLearning.AI · Paid · Beginner
+- [n8n Academy](https://www.sefism.com/resources/n8n-academy/) · n8n · Free · Beginner
 - [Practical Deep Learning for Coders](https://www.sefism.com/resources/practical-deep-learning-for-coders/) · fast.ai · Free · Beginner
 - [Retrieval Augmented Generation (RAG)](https://www.sefism.com/resources/deeplearning-ai-retrieval-augmented-generation/) · DeepLearning.AI · Paid · Intermediate
+- [Zapier Academy](https://www.sefism.com/resources/zapier-academy/) · Zapier · Free · Beginner
 
 ## Roadmap
 
+- [roadmap.sh: AI Agents](https://www.sefism.com/resources/roadmapsh-ai-agents/) · roadmap.sh · Free · Intermediate
 - [roadmap.sh: AI Engineer](https://www.sefism.com/resources/roadmapsh-ai-engineer/) · roadmap.sh · Free · Beginner
 
 ## Guide
@@ -55,7 +87,9 @@
 - [Effective Context Engineering for AI Agents](https://www.sefism.com/resources/effective-context-engineering-for-ai-agents/) · Anthropic · Free · Intermediate
 - [How and When to Build Multi-Agent Systems](https://www.sefism.com/resources/how-and-when-to-build-multi-agent-systems/) · LangChain · Free · Intermediate
 - [How We Built Our Multi-Agent Research System](https://www.sefism.com/resources/how-we-built-our-multi-agent-research-system/) · Anthropic · Free · Advanced
+- [Make Help Center](https://www.sefism.com/resources/make-help-center/) · Make · Free
 - [Model Context Protocol Documentation](https://www.sefism.com/resources/model-context-protocol-documentation/) · Anthropic · Free · Intermediate
+- [n8n Documentation](https://www.sefism.com/resources/n8n-documentation/) · n8n · Free
 - [OpenAI Agents SDK Documentation](https://www.sefism.com/resources/openai-agents-sdk-documentation/) · OpenAI · Free · Intermediate
 - [OpenAI Cookbook](https://www.sefism.com/resources/openai-cookbook/) · OpenAI · Free · Intermediate
 - [OWASP Top 10 for LLM Applications](https://www.sefism.com/resources/owasp-top-10-for-llm-applications/) · OWASP · Free · Intermediate
@@ -66,17 +100,20 @@
 - [Simon Willison's Blog](https://www.sefism.com/resources/simon-willisons-blog/) · Simon Willison · Free
 - [The Illustrated Transformer](https://www.sefism.com/resources/the-illustrated-transformer/) · Jay Alammar · Free · Intermediate
 - [Writing Effective Tools for AI Agents](https://www.sefism.com/resources/writing-effective-tools-for-ai-agents/) · Anthropic · Free · Intermediate
+- [Zapier Help Center](https://www.sefism.com/resources/zapier-help-center/) · Zapier · Free
 
 ## Platform
 
 - [AI Mock Interviews](https://www.sefism.com/resources/ai-mock-interviews/) · Design Gurus · Paid
 - [Hugging Face Hub](https://www.sefism.com/resources/hugging-face-hub/) · Hugging Face · Free · Intermediate
 - [Kaggle Competitions](https://www.sefism.com/resources/kaggle-competitions/) · Kaggle · Free
+- [n8n Workflow Templates](https://www.sefism.com/resources/n8n-workflow-templates/) · n8n · Free
+- [Zapier Templates](https://www.sefism.com/resources/zapier-templates/) · Zapier · Free · Beginner
 
 ## Tool
 
 - [Adobe Firefly](https://www.sefism.com/resources/adobe-firefly/) · Adobe · Free
-- [AskCodi](https://www.sefism.com/resources/askcodi/) · AskCodi · Paid
+- [AskCodi](https://www.sefism.com/resources/askcodi/) · AskCodi · Free
 - [AutoDraw](https://www.sefism.com/resources/autodraw/) · Google Creative Lab · Free
 - [Avoma](https://www.sefism.com/resources/avoma/) · Avoma · Paid
 - [Beautiful.ai](https://www.sefism.com/resources/beautiful-ai/) · Beautiful.ai · Paid
@@ -147,7 +184,6 @@
 - [Reclaim.ai](https://www.sefism.com/resources/reclaim-ai/) · Reclaim.ai · Free
 - [Recraft](https://www.sefism.com/resources/recraft/) · Recraft · Free
 - [Replit](https://www.sefism.com/resources/replit/) · Replit · Free
-- [Rows](https://www.sefism.com/resources/rows/) · Rows · Free
 - [Runway](https://www.sefism.com/resources/runway/) · Runway · Paid
 - [Rytr](https://www.sefism.com/resources/rytr/) · Rytr · Free
 - [SheetAI](https://www.sefism.com/resources/sheetai/) · SheetAI · Free
@@ -203,9 +239,12 @@
 ## Community
 
 - [Latent Space](https://www.sefism.com/resources/latent-space/) · swyx and Alessio Fanelli · Free
+- [Make Community](https://www.sefism.com/resources/make-community/) · Make · Free
+- [n8n Community Forum](https://www.sefism.com/resources/n8n-community-forum/) · n8n · Free
+- [Zapier Community](https://www.sefism.com/resources/zapier-community/) · Zapier · Free
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

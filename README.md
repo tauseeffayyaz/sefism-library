@@ -10,14 +10,14 @@
 ### Learn with a plan. Build with feedback. Grow with a mentor.
 
 A free library for developers: AI-assisted roadmaps, cheat sheets, career questions answered,<br>
-final year project ideas, curated resources, and guides to tech companies and universities in Pakistan.
+final year project ideas, curated resources, jobs, and guides to Pakistani and global tech companies and universities.
 
 <a href="#free-membership"><img src="https://img.shields.io/badge/Membership-Free-5865f2?style=flat-square" alt="Membership: Free"></a>
-<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-16-5865f2?style=flat-square" alt="Roadmaps: 16"></a>
-<a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-16-5865f2?style=flat-square" alt="Cheat sheets: 16"></a>
+<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-17-5865f2?style=flat-square" alt="Roadmaps: 17"></a>
+<a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-17-5865f2?style=flat-square" alt="Cheat sheets: 17"></a>
 <a href="#career-questions"><img src="https://img.shields.io/badge/Questions-73-5865f2?style=flat-square" alt="Questions: 73"></a>
-<a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-80-5865f2?style=flat-square" alt="FYP ideas: 80"></a>
-<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-569-5865f2?style=flat-square" alt="Resources: 569"></a>
+<a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-122-5865f2?style=flat-square" alt="FYP ideas: 122"></a>
+<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-880-5865f2?style=flat-square" alt="Resources: 880"></a>
 
 <b><a href="https://www.sefism.com/">Website</a></b> &nbsp;·&nbsp;
 <b><a href="https://www.sefism.com/auth/signup/">Join free</a></b> &nbsp;·&nbsp;
@@ -34,11 +34,11 @@ final year project ideas, curated resources, and guides to tech companies and un
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>16</sub><br>
+<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>17</sub><br>
 <sub>Step-by-step paths in your language or stack, with AI prompts that test you</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#cheat-sheets"><b>Cheat sheets</b></a>&nbsp;<sub>16</sub><br>
+<a href="#cheat-sheets"><b>Cheat sheets</b></a>&nbsp;<sub>17</sub><br>
 <sub>The key concepts of a topic on a few pages, with code</sub>
 </td>
 <td width="33%" valign="top">
@@ -48,11 +48,11 @@ final year project ideas, curated resources, and guides to tech companies and un
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#final-year-project-ideas"><b>FYP ideas</b></a>&nbsp;<sub>80</sub><br>
+<a href="#final-year-project-ideas"><b>FYP ideas</b></a>&nbsp;<sub>122</sub><br>
 <sub>Scoped project briefs with difficulty and a suggested stack</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>569</sub><br>
+<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>880</sub><br>
 <sub>Curated courses, books, guides, tools and repos</sub>
 </td>
 <td width="33%" valign="top">
@@ -62,16 +62,26 @@ final year project ideas, curated resources, and guides to tech companies and un
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#tech-companies-in-pakistan"><b>Companies</b></a>&nbsp;<sub>308</sub><br>
-<sub>Hiring process, pay ranges and perks, every claim sourced</sub>
+<a href="#pakistani-and-global-tech-companies"><b>Companies</b></a>&nbsp;<sub>506</sub><br>
+<sub>Pakistani and global: hiring process, pay ranges and perks, every claim sourced</sub>
+</td>
+<td width="33%" valign="top">
+<a href="#jobs"><b>Jobs</b></a><br>
+<sub>Graduate to senior roles, each linked to the company posting and dated</sub>
 </td>
 <td width="33%" valign="top">
 <a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>24</sub><br>
 <sub>Computing degrees, admissions, merit and fees</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="#internships"><b>Internships</b></a><br>
-<sub>Open internships in Pakistan, kept current on the site</sub>
+<sub>Open internships, kept current on the site</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://www.sefism.com/learn-for-free/"><b>Learn for free</b></a><br>
+<sub>Where to start: roadmaps, cheat sheets, resources and answers in one place</sub>
 </td>
 </tr>
 </table>
@@ -96,8 +106,8 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <ul>
 <li><b>Get your queries answered</b> in writing, in your dashboard and by email</li>
 <li><b>Discuss your project or <a href="#final-year-project-ideas">FYP idea</a></b>, with free follow-ups</li>
-<li><b><a href="https://www.sefism.com/mentorship/">Free 1:1 sessions</a></b> when a call works better</li>
-<li><b>Ask for a referral</b> from any <a href="#tech-companies-in-pakistan">company page</a></li>
+<li><b><a href="https://www.sefism.com/mentorship/">1:1 sessions</a></b> with Tauseef when a call works better, booked on a real calendar</li>
+<li><b>Ask for a referral</b> from any <a href="#pakistani-and-global-tech-companies">company page</a></li>
 </ul>
 </td>
 </tr>
@@ -113,23 +123,24 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <td width="50%" valign="top">
 <b>How credits work</b>
 <ul>
-<li>Start with <b>10 free credits</b></li>
-<li>A query or a new project discussion costs <b>1</b>, and follow-ups are free</li>
-<li>Run out? Ask for 5, 10, 20 more, <b>still free</b></li>
-<li>Roadmaps, cheat sheets and 1:1 sessions never use credits</li>
+<li>Start with <b>10 credits</b> when you join, and your first roadmap is free</li>
+<li>Each roadmap after that is <b>3</b>, and keeping a cheat sheet is <b>2</b> (a roadmap's own sheet comes with it)</li>
+<li>A query or a new project discussion is <b>2</b>, follow-ups use none, and a 1:1 session is <b>5</b></li>
+<li>Earn <b>2</b> for each accepted company or university contribution</li>
+<li>Learning seriously and run out? Ask for 5, 10, 20 more</li>
 </ul>
 </td>
 </tr>
 </table>
 
 > [!TIP]
-> Credits are a fair-use allowance, not a price. They keep the inbox small enough that every question gets a real answer from a person.
+> Everything here is free to learn from. A few things, like adding a roadmap, keeping a cheat sheet or asking Tauseef a question, use credits. You get 10 when you join, your first roadmap is free, and if you are learning seriously and run out, you can ask for more. Credits only make sure the platform goes to people who are actually learning.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ## Roadmaps
 
-16 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
+17 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
 
 <table>
 <tr>
@@ -151,7 +162,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <b>Checklists and projects</b><br><sub>Hands-on stages have checklists, and every roadmap ends in real projects.</sub>
 </td>
 <td width="33%" valign="top">
-<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to six roadmaps and tick off stages.</sub>
+<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to 6 roadmaps and tick off stages.</sub>
 </td>
 </tr>
 </table>
@@ -169,9 +180,9 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Roadmap | Covers | Choose your path | Stages |
 | :-- | :-- | :-- | :-: |
-| **[Programming foundations](https://www.sefism.com/account/roadmap/programming/)** | First language, Git, CS basics | `Python` `JavaScript` `Java` `C++` `C#` | 6 |
-| **[DSA and problem solving](https://www.sefism.com/account/roadmap/dsa/)** | Data structures and patterns | `Python` `Java` `C++` `JavaScript` | 8 |
-| **[University to job-ready](https://www.sefism.com/account/roadmap/job_ready/)** | Semester by semester plan for CS students | `First or second year` `Third year` `Final year or graduated` | 8 |
+| **[Programming foundations](https://www.sefism.com/roadmaps/programming/)** | First language, Git, CS basics | [`Python`](https://www.sefism.com/roadmaps/programming/) [`JavaScript`](https://www.sefism.com/roadmaps/programming/javascript/) [`Java`](https://www.sefism.com/roadmaps/programming/java/) [`C++`](https://www.sefism.com/roadmaps/programming/cpp/) [`C#`](https://www.sefism.com/roadmaps/programming/csharp/) | 6 |
+| **[DSA and problem solving](https://www.sefism.com/roadmaps/dsa/)** | Data structures and patterns | [`Python`](https://www.sefism.com/roadmaps/dsa/) [`Java`](https://www.sefism.com/roadmaps/dsa/java/) [`C++`](https://www.sefism.com/roadmaps/dsa/cpp/) [`JavaScript`](https://www.sefism.com/roadmaps/dsa/javascript/) | 8 |
+| **[University to job-ready](https://www.sefism.com/roadmaps/job-ready/)** | Semester by semester plan for CS students | [`First or second year`](https://www.sefism.com/roadmaps/job-ready/) [`Third year`](https://www.sefism.com/roadmaps/job-ready/middle/) [`Final year or graduated`](https://www.sefism.com/roadmaps/job-ready/final/) | 8 |
 
 #### Build products
 
@@ -179,10 +190,10 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Roadmap | Covers | Choose your path | Stages |
 | :-- | :-- | :-- | :-: |
-| **[Frontend development](https://www.sefism.com/account/roadmap/frontend/)** | HTML, CSS, JavaScript and a framework | `React` `Vue` `Angular` | 7 |
-| **[Backend development](https://www.sefism.com/account/roadmap/backend/)** | APIs, databases, auth, deploys | `Node.js` `Python` `Java` `C#` `Go` `PHP` | 7 |
-| **[Full stack development](https://www.sefism.com/account/roadmap/fullstack/)** | Build and ship whole web apps | `Next.js and PostgreSQL` `MERN` `Django and React` | 7 |
-| **[Mobile development](https://www.sefism.com/account/roadmap/mobile/)** | Apps for Android and iOS | `Flutter` `React Native` `Android` `iOS` | 7 |
+| **[Frontend development](https://www.sefism.com/roadmaps/frontend/)** | HTML, CSS, JavaScript and a framework | [`React`](https://www.sefism.com/roadmaps/frontend/) [`Vue`](https://www.sefism.com/roadmaps/frontend/vue/) [`Angular`](https://www.sefism.com/roadmaps/frontend/angular/) | 7 |
+| **[Backend development](https://www.sefism.com/roadmaps/backend/)** | APIs, databases, auth, deploys | [`Node.js`](https://www.sefism.com/roadmaps/backend/) [`Python`](https://www.sefism.com/roadmaps/backend/python/) [`Java`](https://www.sefism.com/roadmaps/backend/java/) [`C#`](https://www.sefism.com/roadmaps/backend/csharp/) [`Go`](https://www.sefism.com/roadmaps/backend/go/) [`PHP`](https://www.sefism.com/roadmaps/backend/php/) | 7 |
+| **[Full stack development](https://www.sefism.com/roadmaps/fullstack/)** | Build and ship whole web apps | [`Next.js and PostgreSQL`](https://www.sefism.com/roadmaps/fullstack/) [`MERN`](https://www.sefism.com/roadmaps/fullstack/mern/) [`Django and React`](https://www.sefism.com/roadmaps/fullstack/django-react/) | 7 |
+| **[Mobile development](https://www.sefism.com/roadmaps/mobile/)** | Apps for Android and iOS | [`Flutter`](https://www.sefism.com/roadmaps/mobile/) [`React Native`](https://www.sefism.com/roadmaps/mobile/react-native/) [`Android`](https://www.sefism.com/roadmaps/mobile/android/) [`iOS`](https://www.sefism.com/roadmaps/mobile/ios/) | 7 |
 
 #### Specialise
 
@@ -190,10 +201,11 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Roadmap | Covers | Choose your path | Stages |
 | :-- | :-- | :-- | :-: |
-| **[AI engineering](https://www.sefism.com/account/roadmap/ai_engineering/)** | Build products on LLMs | `Python` `TypeScript` | 7 |
-| **[Machine learning](https://www.sefism.com/account/roadmap/machine_learning/)** | Data, models, deep learning | One path | 7 |
-| **[System design](https://www.sefism.com/account/roadmap/system_design/)** | Systems that scale | One path | 7 |
-| **[DevOps and cloud](https://www.sefism.com/account/roadmap/devops_cloud/)** | Linux, Docker, Kubernetes, AWS | One path | 7 |
+| **[AI engineering](https://www.sefism.com/roadmaps/ai-engineering/)** | Build products on LLMs | [`Python`](https://www.sefism.com/roadmaps/ai-engineering/) [`TypeScript`](https://www.sefism.com/roadmaps/ai-engineering/typescript/) | 7 |
+| **[Machine learning](https://www.sefism.com/roadmaps/machine-learning/)** | Data, models, deep learning | One path | 7 |
+| **[System design](https://www.sefism.com/roadmaps/system-design/)** | Systems that scale | One path | 7 |
+| **[DevOps and cloud](https://www.sefism.com/roadmaps/devops-cloud/)** | Linux, Docker, Kubernetes, AWS | One path | 7 |
+| **[Data analytics](https://www.sefism.com/roadmaps/data-analytics/)** | SQL, spreadsheets, dashboards, insight | [`Excel and Power BI`](https://www.sefism.com/roadmaps/data-analytics/) [`Tableau`](https://www.sefism.com/roadmaps/data-analytics/tableau/) [`Python`](https://www.sefism.com/roadmaps/data-analytics/python/) | 8 |
 
 #### Career
 
@@ -201,14 +213,14 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Roadmap | Covers | Choose your path | Stages |
 | :-- | :-- | :-- | :-: |
-| **[Job search](https://www.sefism.com/account/roadmap/job_search/)** | Resume, applications, offers | One path | 7 |
-| **[LinkedIn and personal branding](https://www.sefism.com/account/roadmap/personal_branding/)** | Profile, posting, network | One path | 6 |
-| **[Open source](https://www.sefism.com/account/roadmap/open_source/)** | First contribution to programmes | One path | 6 |
-| **[Mid-level to senior](https://www.sefism.com/account/roadmap/career_growth/)** | Scope, ownership, influence | One path | 6 |
-| **[Staff and leadership](https://www.sefism.com/account/roadmap/leadership/)** | Staff engineer or manager | `Staff engineer` `Engineering manager` `Not sure yet` | 5 |
+| **[Job search](https://www.sefism.com/roadmaps/job-search/)** | Resume, applications, offers | One path | 7 |
+| **[LinkedIn and personal branding](https://www.sefism.com/roadmaps/personal-branding/)** | Profile, posting, network | One path | 6 |
+| **[Open source](https://www.sefism.com/roadmaps/open-source/)** | First contribution to programmes | One path | 6 |
+| **[Mid-level to senior](https://www.sefism.com/roadmaps/career-growth/)** | Scope, ownership, influence | One path | 6 |
+| **[Staff and leadership](https://www.sefism.com/roadmaps/leadership/)** | Staff engineer or manager | [`Staff engineer`](https://www.sefism.com/roadmaps/leadership/staff/) [`Engineering manager`](https://www.sefism.com/roadmaps/leadership/manager/) [`Not sure yet`](https://www.sefism.com/roadmaps/leadership/) | 5 |
 
 > [!NOTE]
-> Roadmaps are part of the free membership. Links open after you [create an account](https://www.sefism.com/auth/signup/).
+> Every roadmap has a public page on [sefism.com/roadmaps/](https://www.sefism.com/roadmaps/) with the first stages open and the rest listed. Following one adds the full plan to your dashboard: your first roadmap is free, and each one after that is 3 credits. [Create an account](https://www.sefism.com/auth/signup/) to start.
 
 **[Every roadmap's stages, concepts and outcomes →](roadmaps.md)**
 
@@ -216,29 +228,30 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Cheat sheets
 
-16 cheat sheets, one for each roadmap. Each puts the key concepts of a topic on a few pages, with code and the common mistakes. Sheets with a language or framework choice come in one edition per option.
+17 cheat sheets, one for each roadmap. Each puts the key concepts of a topic on a few pages, with code and the common mistakes. Sheets with a language or framework choice come in one edition per option.
 
 | Cheat sheet | For | Editions | Chapters | Concepts |
 | :-- | :-- | :-- | :-: | :-: |
-| **[DSA and problem solving](https://www.sefism.com/account/cheatsheets/dsa/)** | learners | `Python` `Java` `C++` `JavaScript` | 9 | 77 |
-| **[Programming foundations](https://www.sefism.com/account/cheatsheets/programming/)** | learners | `Python` `JavaScript` `Java` `C++` `C#` | 8 | 77 |
-| **[University to job-ready](https://www.sefism.com/account/cheatsheets/job_ready/)** | students | `First or second year` `Third year` `Final year or graduated` | 8 | 71 |
-| **[Backend development](https://www.sefism.com/account/cheatsheets/backend/)** | developers | `Node.js` `Python` `Java` `C#` `Go` `PHP` | 7 | 71 |
-| **[Frontend development](https://www.sefism.com/account/cheatsheets/frontend/)** | developers | `React` `Vue` `Angular` | 9 | 80 |
-| **[Full stack development](https://www.sefism.com/account/cheatsheets/fullstack/)** | developers | `Next.js and PostgreSQL` `MERN` `Django and React` | 5 | 58 |
-| **[Mobile development](https://www.sefism.com/account/cheatsheets/mobile/)** | developers | `Flutter` `React Native` `Android` `iOS` | 6 | 66 |
-| **[AI engineering](https://www.sefism.com/account/cheatsheets/ai_engineering/)** | developers | `Python` `TypeScript` | 8 | 64 |
-| **[DevOps and cloud](https://www.sefism.com/account/cheatsheets/devops_cloud/)** | engineers | One edition | 10 | 77 |
-| **[Machine learning](https://www.sefism.com/account/cheatsheets/machine_learning/)** | engineers | One edition | 8 | 68 |
-| **[System design](https://www.sefism.com/account/cheatsheets/system_design/)** | engineers | One edition | 10 | 79 |
-| **[Job search](https://www.sefism.com/account/cheatsheets/job_search/)** | job seekers | One edition | 8 | 55 |
-| **[LinkedIn and personal branding](https://www.sefism.com/account/cheatsheets/personal_branding/)** | professionals | One edition | 6 | 46 |
-| **[Mid-level to senior](https://www.sefism.com/account/cheatsheets/career_growth/)** | growing engineers | One edition | 6 | 46 |
-| **[Open source](https://www.sefism.com/account/cheatsheets/open_source/)** | contributors | One edition | 6 | 51 |
-| **[Staff and leadership](https://www.sefism.com/account/cheatsheets/leadership/)** | tech leads and managers | `Staff engineer` `Engineering manager` `Not sure yet` | 4 | 53 |
+| **[DSA and problem solving](https://www.sefism.com/cheatsheets/dsa/)** | learners | [`Python`](https://www.sefism.com/cheatsheets/dsa/) [`Java`](https://www.sefism.com/cheatsheets/dsa/java/) [`C++`](https://www.sefism.com/cheatsheets/dsa/cpp/) [`JavaScript`](https://www.sefism.com/cheatsheets/dsa/javascript/) | 9 | 77 |
+| **[Programming foundations](https://www.sefism.com/cheatsheets/programming/)** | learners | [`Python`](https://www.sefism.com/cheatsheets/programming/) [`JavaScript`](https://www.sefism.com/cheatsheets/programming/javascript/) [`Java`](https://www.sefism.com/cheatsheets/programming/java/) [`C++`](https://www.sefism.com/cheatsheets/programming/cpp/) [`C#`](https://www.sefism.com/cheatsheets/programming/csharp/) | 8 | 77 |
+| **[University to job-ready](https://www.sefism.com/cheatsheets/job-ready/)** | students | [`First or second year`](https://www.sefism.com/cheatsheets/job-ready/) [`Third year`](https://www.sefism.com/cheatsheets/job-ready/middle/) [`Final year or graduated`](https://www.sefism.com/cheatsheets/job-ready/final/) | 8 | 72 |
+| **[Backend development](https://www.sefism.com/cheatsheets/backend/)** | developers | [`Node.js`](https://www.sefism.com/cheatsheets/backend/) [`Python`](https://www.sefism.com/cheatsheets/backend/python/) [`Java`](https://www.sefism.com/cheatsheets/backend/java/) [`C#`](https://www.sefism.com/cheatsheets/backend/csharp/) [`Go`](https://www.sefism.com/cheatsheets/backend/go/) [`PHP`](https://www.sefism.com/cheatsheets/backend/php/) | 8 | 76 |
+| **[Frontend development](https://www.sefism.com/cheatsheets/frontend/)** | developers | [`React`](https://www.sefism.com/cheatsheets/frontend/) [`Vue`](https://www.sefism.com/cheatsheets/frontend/vue/) [`Angular`](https://www.sefism.com/cheatsheets/frontend/angular/) | 9 | 83 |
+| **[Full stack development](https://www.sefism.com/cheatsheets/fullstack/)** | developers | [`Next.js and PostgreSQL`](https://www.sefism.com/cheatsheets/fullstack/) [`MERN`](https://www.sefism.com/cheatsheets/fullstack/mern/) [`Django and React`](https://www.sefism.com/cheatsheets/fullstack/django-react/) | 5 | 59 |
+| **[Mobile development](https://www.sefism.com/cheatsheets/mobile/)** | developers | [`Flutter`](https://www.sefism.com/cheatsheets/mobile/) [`React Native`](https://www.sefism.com/cheatsheets/mobile/react-native/) [`Android`](https://www.sefism.com/cheatsheets/mobile/android/) [`iOS`](https://www.sefism.com/cheatsheets/mobile/ios/) | 6 | 68 |
+| **[AI engineering](https://www.sefism.com/cheatsheets/ai-engineering/)** | developers | [`Python`](https://www.sefism.com/cheatsheets/ai-engineering/) [`TypeScript`](https://www.sefism.com/cheatsheets/ai-engineering/typescript/) | 8 | 64 |
+| **[Data analytics](https://www.sefism.com/cheatsheets/data-analytics/)** | analysts | [`Excel and Power BI`](https://www.sefism.com/cheatsheets/data-analytics/) [`Tableau`](https://www.sefism.com/cheatsheets/data-analytics/tableau/) [`Python`](https://www.sefism.com/cheatsheets/data-analytics/python/) | 7 | 74 |
+| **[DevOps and cloud](https://www.sefism.com/cheatsheets/devops-cloud/)** | engineers | One edition | 10 | 79 |
+| **[Machine learning](https://www.sefism.com/cheatsheets/machine-learning/)** | engineers | One edition | 8 | 69 |
+| **[System design](https://www.sefism.com/cheatsheets/system-design/)** | engineers | One edition | 10 | 79 |
+| **[Job search](https://www.sefism.com/cheatsheets/job-search/)** | job seekers | One edition | 8 | 55 |
+| **[LinkedIn and personal branding](https://www.sefism.com/cheatsheets/personal-branding/)** | professionals | One edition | 6 | 46 |
+| **[Mid-level to senior](https://www.sefism.com/cheatsheets/career-growth/)** | growing engineers | One edition | 6 | 47 |
+| **[Open source](https://www.sefism.com/cheatsheets/open-source/)** | contributors | One edition | 6 | 51 |
+| **[Staff and leadership](https://www.sefism.com/cheatsheets/leadership/)** | tech leads and managers | [`Staff engineer`](https://www.sefism.com/cheatsheets/leadership/staff/) [`Engineering manager`](https://www.sefism.com/cheatsheets/leadership/manager/) [`Not sure yet`](https://www.sefism.com/cheatsheets/leadership/) | 4 | 53 |
 
 > [!NOTE]
-> Cheat sheets are part of the free membership. Links open after you [create an account](https://www.sefism.com/auth/signup/).
+> Every cheat sheet has a public page on [sefism.com/cheatsheets/](https://www.sefism.com/cheatsheets/) with the first chapters open and the rest listed. Keeping a sheet opens every chapter and the PDF for 2 credits, and a sheet comes with its roadmap. [Create an account](https://www.sefism.com/auth/signup/) to start.
 
 **[Every cheat sheet's chapters →](cheatsheets.md)**
 
@@ -415,32 +428,48 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Final year project ideas
 
-80 project briefs with scope, difficulty, deliverables and a suggested stack. Open to everyone, and members can start a discussion on any idea to shape it into their own.
+122 project briefs with scope, difficulty, deliverables and a suggested stack. Open to everyone, and members can start a discussion on any idea to shape it into their own.
 
 <details>
-<summary><b>Web</b> &nbsp;<sub>22 ideas</sub></summary>
+<summary><b>Web</b> &nbsp;<sub>38 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [Bilingual Community Services Directory with Right-to-Left Support](https://www.sefism.com/fyp-ideas/bilingual-community-services-directory-with-rtl-support/) | Beginner | `Nuxt` `Vue` `TypeScript` |
 | [Campus Lost and Found with Visual Search](https://www.sefism.com/fyp-ideas/campus-lost-and-found-with-visual-search/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
+| [Contractor Invoicing and Multi-Currency Income Tracker](https://www.sefism.com/fyp-ideas/contractor-invoicing-and-multi-currency-income-tracker/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
 | [Developer Portfolio and Blog Generator from GitHub and Markdown](https://www.sefism.com/fyp-ideas/developer-portfolio-and-blog-generator-from-github/) | Beginner | `Astro` `TypeScript` `Markdown` |
+| [Developer Starter Kit Store with Licence Keys](https://www.sefism.com/fyp-ideas/developer-starter-kit-store-with-licence-keys/) | Beginner | `TypeScript` `Node.js` `Next.js or Astro` |
 | [Household Meal Planner with Food Waste Reduction](https://www.sefism.com/fyp-ideas/household-meal-planner-with-food-waste-reduction/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
 | [Job Application Tracker with a Keyword Gap View](https://www.sefism.com/fyp-ideas/job-application-tracker-with-keyword-gap-view/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
+| [Masters Application and Scholarship Deadline Planner](https://www.sefism.com/fyp-ideas/masters-application-and-scholarship-deadline-planner/) | Beginner | `Next.js or React` `Node.js` `PostgreSQL or SQLite` |
 | [Municipal Complaint Tracking with Response Deadlines](https://www.sefism.com/fyp-ideas/municipal-complaint-tracking-with-response-deadlines/) | Beginner | `Django` `PostgreSQL` `PostGIS` |
+| [Nonprofit CMS Website That Volunteers Update Themselves](https://www.sefism.com/fyp-ideas/nonprofit-cms-site-with-volunteer-editing/) | Beginner | `WordPress or Shopify or Webflow` `HTML` `CSS` |
+| [Replace a Spreadsheet Workflow From Your Previous Field With a Small Web App](https://www.sefism.com/fyp-ideas/spreadsheet-workflow-from-your-previous-field-as-a-web-app/) | Beginner | `Any web framework you are learning` `PostgreSQL or SQLite` `Authentication library` |
+| [Small Business Website with Online Booking and a Launch Quality Report](https://www.sefism.com/fyp-ideas/small-business-website-with-booking-and-launch-report/) | Beginner | `WordPress or Shopify or Webflow` `HTML` `CSS` |
 | [University Society Events Manager with QR Check-In](https://www.sefism.com/fyp-ideas/university-society-events-with-qr-check-in/) | Beginner | `React` `Node.js` `Express` |
 | [URL Shortener with Click Analytics and a Load Test Report](https://www.sefism.com/fyp-ideas/url-shortener-with-click-analytics-and-load-test-report/) | Beginner | `Node.js` `TypeScript` `PostgreSQL` |
+| [Usability Study and Redesign of a Public Service Flow](https://www.sefism.com/fyp-ideas/usability-study-and-redesign-of-a-public-service-flow/) | Beginner | `Figma` `FigJam or Excalidraw` `Google Forms or a survey tool` |
+| [Work Log and Weekly Update Builder from Git and Issue Activity](https://www.sefism.com/fyp-ideas/work-log-and-weekly-update-builder/) | Beginner | `Next.js` `TypeScript` `GitHub REST API` |
 | [API Contract Checker for Continuous Integration](https://www.sefism.com/fyp-ideas/api-contract-checker-for-continuous-integration/) | Intermediate | `TypeScript` `Node.js` `OpenAPI` |
 | [Blood Donor Matching and Request Coordination](https://www.sefism.com/fyp-ideas/blood-donor-matching-and-request-coordination/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
+| [Client Project Portal with Milestones, Approvals and Change Requests](https://www.sefism.com/fyp-ideas/client-project-portal-with-milestones-and-change-requests/) | Intermediate | `React` `Node.js` `Express` |
 | [Clinic Appointment Booking with Live Queue Display](https://www.sefism.com/fyp-ideas/clinic-appointment-booking-with-live-queue-display/) | Intermediate | `Angular` `TypeScript` `RxJS` |
+| [Developer Tutorial Series with a Sample App and Feedback Report](https://www.sefism.com/fyp-ideas/developer-tutorial-series-with-sample-app-and-feedback-report/) | Intermediate | `A developer API with a free tier` `Git and GitHub` `DEV or Hashnode` |
+| [Documented Design System with Tokens and Storybook](https://www.sefism.com/fyp-ideas/documented-design-system-with-tokens-and-storybook/) | Intermediate | `Figma` `TypeScript` `React` |
+| [Freelancer Time, Invoice and Multi-Currency Income Tracker](https://www.sefism.com/fyp-ideas/freelancer-time-invoice-and-income-tracker/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
 | [Good First Issue Finder for University Open Source Clubs](https://www.sefism.com/fyp-ideas/good-first-issue-finder-for-university-open-source-clubs/) | Intermediate | `Node.js` `TypeScript` `PostgreSQL` |
+| [Invoice Reminder SaaS with Subscription Billing](https://www.sefism.com/fyp-ideas/invoice-reminder-saas-with-subscription-billing/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
 | [Low-Latency Read API Case Study](https://www.sefism.com/fyp-ideas/low-latency-read-api-case-study/) | Intermediate | `Node.js` `PostgreSQL` `Redis` |
 | [Model Context Protocol Server for University Systems](https://www.sefism.com/fyp-ideas/model-context-protocol-server-for-university-systems/) | Intermediate | `TypeScript` `Node.js` `PostgreSQL` |
 | [Notification Service with Retries, a Dead Letter Queue and Idempotency Keys](https://www.sefism.com/fyp-ideas/notification-service-with-retries-and-dead-letter-queue/) | Intermediate | `Node.js` `TypeScript` `PostgreSQL` |
+| [Online Store for a Local Brand with Country-Aware Payments and Order Workflow](https://www.sefism.com/fyp-ideas/local-brand-online-store-with-country-aware-payments/) | Intermediate | `WooCommerce or Shopify` `PHP or Liquid` `Payment gateway` |
 | [Open Air Quality Dashboard with Low-Cost Sensor Correction](https://www.sefism.com/fyp-ideas/open-air-quality-dashboard-with-low-cost-sensor-correction/) | Intermediate | `Python` `FastAPI` `TimescaleDB` |
 | [Open Source Contribution Matcher](https://www.sefism.com/fyp-ideas/open-source-contribution-matcher/) | Intermediate | `Node.js` `TypeScript` `PostgreSQL` |
 | [Peer Code Review Platform for University Courses](https://www.sefism.com/fyp-ideas/peer-code-review-platform-for-university-courses/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
+| [QA Test Suite for an Open Source Web App](https://www.sefism.com/fyp-ideas/qa-test-suite-for-an-open-source-web-app/) | Intermediate | `Playwright or Selenium` `TypeScript or Java` `Postman or code-based API tests` |
 | [Real-Time Classroom Quiz with Presence and Reconnect Handling](https://www.sefism.com/fyp-ideas/real-time-classroom-quiz-with-presence-and-reconnects/) | Intermediate | `Node.js` `TypeScript` `WebSocket` |
+| [Remote Job Listing Eligibility and Scam Signal Checker](https://www.sefism.com/fyp-ideas/remote-listing-eligibility-and-scam-checker/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
 | [Web Accessibility Regression Testing in CI](https://www.sefism.com/fyp-ideas/web-accessibility-regression-testing-in-ci/) | Intermediate | `TypeScript` `Playwright` `axe-core` |
 | [Collaborative Whiteboard with Conflict-Free Sync](https://www.sefism.com/fyp-ideas/collaborative-whiteboard-with-conflict-free-sync/) | Advanced | `TypeScript` `React` `Canvas API` |
 | [Timetable Scheduling with Constraint Solving](https://www.sefism.com/fyp-ideas/timetable-scheduling-with-constraint-solving/) | Advanced | `Python` `OR-Tools` `FastAPI` |
@@ -448,7 +477,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>Mobile</b> &nbsp;<sub>9 ideas</sub></summary>
+<summary><b>Mobile</b> &nbsp;<sub>10 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
@@ -456,6 +485,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Medication Adherence Tracker with Caregiver View](https://www.sefism.com/fyp-ideas/medication-adherence-tracker-with-caregiver-view/) | Beginner | `Flutter` `SQLite` `Firebase` |
 | [Offline-First Campus Timetable and Assignment Reminders](https://www.sefism.com/fyp-ideas/offline-first-campus-timetable-and-assignment-reminders/) | Beginner | `Flutter` `Dart` `SQLite` |
 | [Crowdsourced Public Transport Arrival Tracker](https://www.sefism.com/fyp-ideas/crowdsourced-public-transport-arrival-tracker/) | Intermediate | `React Native` `Node.js` `PostgreSQL` |
+| [Habit Tracker with Subscription Paywall and Free Trial](https://www.sefism.com/fyp-ideas/habit-tracker-with-subscription-paywall/) | Intermediate | `Flutter or React Native (Expo)` `RevenueCat` `StoreKit` |
 | [Load-Shedding Schedule and Outage Alerts with Home Screen Widgets](https://www.sefism.com/fyp-ideas/load-shedding-schedule-and-outage-alerts/) | Intermediate | `Swift` `SwiftUI` `SwiftData` |
 | [Offline-First Field Data Collection App](https://www.sefism.com/fyp-ideas/offline-first-field-data-collection-app/) | Intermediate | `Flutter` `SQLite` `FastAPI` |
 | [On-Device Wellbeing Journal with Private Sentiment Trends](https://www.sefism.com/fyp-ideas/on-device-wellbeing-journal-with-private-sentiment-trends/) | Intermediate | `Flutter` `TensorFlow Lite` `SQLCipher` |
@@ -465,7 +495,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>AI &amp; ML</b> &nbsp;<sub>15 ideas</sub></summary>
+<summary><b>AI &amp; ML</b> &nbsp;<sub>17 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
@@ -473,8 +503,10 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Automated Alt Text and Accessibility Auditing](https://www.sefism.com/fyp-ideas/automated-alt-text-and-accessibility-auditing/) | Intermediate | `Python` `FastAPI` `Playwright` |
 | [Crop Disease Detection from Phone Photographs](https://www.sefism.com/fyp-ideas/crop-disease-detection-from-phone-photographs/) | Intermediate | `Python` `PyTorch` `TensorFlow Lite` |
 | [Explainable Resume and Job Description Matching](https://www.sefism.com/fyp-ideas/explainable-resume-and-job-description-matching/) | Intermediate | `Python` `FastAPI` `PostgreSQL` |
+| [Invoice and Receipt Parsing Pipeline with Human Review](https://www.sefism.com/fyp-ideas/invoice-and-receipt-parsing-pipeline-with-human-review/) | Intermediate | `n8n, Make or Zapier` `Gmail or Outlook` `Google Drive` |
 | [LLM Gateway with Semantic Cache, Model Routing and Per-User Budgets](https://www.sefism.com/fyp-ideas/llm-gateway-with-semantic-cache-and-model-routing/) | Intermediate | `Python` `FastAPI` `PostgreSQL` |
 | [Predictive Maintenance from Machine Vibration Data](https://www.sefism.com/fyp-ideas/predictive-maintenance-from-machine-vibration-data/) | Intermediate | `Python` `scikit-learn` `PyTorch` |
+| [Reproducing a Published Machine Learning Result with an Open Report](https://www.sefism.com/fyp-ideas/reproducing-a-published-machine-learning-result-with-an-open-report/) | Intermediate | `Python` `PyTorch or scikit-learn` `Jupyter` |
 | [Retrieval Assistant for University Regulations](https://www.sefism.com/fyp-ideas/retrieval-assistant-for-university-regulations/) | Intermediate | `Python` `FastAPI` `PostgreSQL` |
 | [Traffic Flow Forecasting from Open Sensor Data](https://www.sefism.com/fyp-ideas/traffic-flow-forecasting-from-open-sensor-data/) | Intermediate | `Python` `PyTorch` `PostgreSQL` |
 | [Claim Verification Assistant with Source Citations](https://www.sefism.com/fyp-ideas/claim-verification-assistant-with-source-citations/) | Advanced | `Python` `FastAPI` `Elasticsearch` |
@@ -488,16 +520,27 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>Data &amp; Analytics</b> &nbsp;<sub>7 ideas</sub></summary>
+<summary><b>Data &amp; Analytics</b> &nbsp;<sub>18 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Data Story From Your Previous Field Using Public Data](https://www.sefism.com/fyp-ideas/data-story-from-your-previous-field-using-public-data/) | Beginner | `SQL` `Python (pandas) or a spreadsheet` `A BI tool or charting library` |
+| [Online Store Sales and Customer Retention Dashboard](https://www.sefism.com/fyp-ideas/online-store-sales-and-customer-retention-dashboard/) | Beginner | `SQL (PostgreSQL or SQLite)` `Excel or Google Sheets` `Power BI, Tableau Public or pandas` |
 | [Public Budget Transparency Explorer](https://www.sefism.com/fyp-ideas/public-budget-transparency-explorer/) | Beginner | `Python` `pandas` `PostgreSQL` |
+| [Small Business Weekly Report Automation with Monitoring](https://www.sefism.com/fyp-ideas/small-business-weekly-report-automation-with-monitoring/) | Beginner | `n8n, Make or Zapier` `Google Sheets` `Shopify or WooCommerce test store` |
+| [University Records Database with Roles, Audit Trail and Reports](https://www.sefism.com/fyp-ideas/university-records-database-with-roles-and-reports/) | Beginner | `PostgreSQL or MySQL or SQL Server` `SQL` `A migration tool such as Flyway` |
+| [A/B Test Analysis Report on a Public Experiment Dataset](https://www.sefism.com/fyp-ideas/ab-test-analysis-report-on-a-public-experiment-dataset/) | Intermediate | `SQL` `Excel or Google Sheets` `Python (pandas, SciPy) or a BI tool` |
+| [Batch ELT Pipeline with Airflow, dbt and a Cloud Warehouse](https://www.sefism.com/fyp-ideas/batch-elt-pipeline-with-airflow-dbt-and-a-cloud-warehouse/) | Intermediate | `Python` `SQL` `Apache Airflow` |
+| [Crash-Safe Key-Value Store with a Write-Ahead Log](https://www.sefism.com/fyp-ideas/crash-safe-key-value-store-with-write-ahead-log/) | Intermediate | `Go, Rust, C++, Java or Python` `File I/O with fsync` `A test harness in Python or Bash` |
 | [Early Warning System for Student Disengagement](https://www.sefism.com/fyp-ideas/early-warning-system-for-student-disengagement/) | Intermediate | `Python` `pandas` `scikit-learn` |
+| [Lakehouse with Medallion Layers and Data Quality Reports](https://www.sefism.com/fyp-ideas/lakehouse-with-medallion-layers-and-data-quality-reports/) | Intermediate | `Python` `PySpark` `Delta Lake or Apache Iceberg` |
+| [Research Group Finder Built on Open Publication Data](https://www.sefism.com/fyp-ideas/research-group-finder-built-on-open-publication-data/) | Intermediate | `Python` `OpenAlex API` `PostgreSQL or SQLite` |
 | [Retail Demand Forecasting with Inventory Recommendations](https://www.sefism.com/fyp-ideas/retail-demand-forecasting-with-inventory-recommendations/) | Intermediate | `Python` `pandas` `Prophet` |
 | [Sports Performance Analytics from Match Event Data](https://www.sefism.com/fyp-ideas/sports-performance-analytics-from-match-event-data/) | Intermediate | `Python` `pandas` `scikit-learn` |
+| [SQL Query Performance Lab with Execution Plan Reports](https://www.sefism.com/fyp-ideas/sql-query-performance-lab-with-plan-reports/) | Intermediate | `PostgreSQL or MySQL or SQL Server` `SQL` `Python` |
 | [Water Quality Monitoring and Contamination Alerting](https://www.sefism.com/fyp-ideas/water-quality-monitoring-and-contamination-alerting/) | Intermediate | `Python` `pandas` `scikit-learn` |
 | [Building Energy Analytics with Appliance Disaggregation](https://www.sefism.com/fyp-ideas/building-energy-analytics-with-appliance-disaggregation/) | Advanced | `Python` `PyTorch` `TimescaleDB` |
+| [Real-Time Event Pipeline with Kafka and Windowed Metrics](https://www.sefism.com/fyp-ideas/real-time-event-pipeline-with-kafka-and-windowed-metrics/) | Advanced | `Python` `Kafka or a cloud streaming service` `Spark Structured Streaming or Flink` |
 | [Vector Search Engine Built From Scratch](https://www.sefism.com/fyp-ideas/vector-search-engine-built-from-scratch/) | Advanced | `Rust or C++ or Go` `Python bindings` `NumPy` |
 
 </details>
@@ -517,12 +560,13 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>Security</b> &nbsp;<sub>6 ideas</sub></summary>
+<summary><b>Security</b> &nbsp;<sub>7 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [Dependency Supply Chain Risk Scanner](https://www.sefism.com/fyp-ideas/dependency-supply-chain-risk-scanner/) | Intermediate | `Python` `FastAPI` `PostgreSQL` |
 | [Honeypot Network with Attack Telemetry Dashboard](https://www.sefism.com/fyp-ideas/honeypot-network-with-attack-telemetry-dashboard/) | Intermediate | `Python` `Docker` `Elasticsearch` |
+| [Isolated Security Training Lab with Professional Assessment Reports](https://www.sefism.com/fyp-ideas/isolated-security-training-lab-with-assessment-reports/) | Intermediate | `Docker Compose` `Python or Node.js` `PostgreSQL` |
 | [Phishing Detection Browser Extension](https://www.sefism.com/fyp-ideas/phishing-detection-browser-extension/) | Intermediate | `TypeScript` `Chrome Extension API` `Python` |
 | [End-to-End Encrypted File Sharing with Verifiable Keys](https://www.sefism.com/fyp-ideas/end-to-end-encrypted-file-sharing-with-verifiable-keys/) | Advanced | `TypeScript` `WebCrypto API` `Node.js` |
 | [Federated Learning with Differential Privacy](https://www.sefism.com/fyp-ideas/federated-learning-with-differential-privacy/) | Advanced | `Python` `PyTorch` `gRPC` |
@@ -531,13 +575,15 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>Cloud &amp; DevOps</b> &nbsp;<sub>6 ideas</sub></summary>
+<summary><b>Cloud &amp; DevOps</b> &nbsp;<sub>8 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Command-Line Log Analyser with a Scheduled Report](https://www.sefism.com/fyp-ideas/command-line-log-analyser-with-scheduled-report/) | Beginner | `Bash` `grep, awk, sort and uniq` `jq` |
 | [Chaos Engineering Toolkit for Teaching Distributed Systems](https://www.sefism.com/fyp-ideas/chaos-engineering-toolkit-for-teaching-distributed-systems/) | Intermediate | `Go` `Docker` `Kubernetes` |
 | [Distributed Tracing for a Polyglot Microservice System](https://www.sefism.com/fyp-ideas/distributed-tracing-for-a-polyglot-microservice-system/) | Intermediate | `OpenTelemetry` `Go` `Python` |
 | [Self-Hosted CI Runner Autoscaler](https://www.sefism.com/fyp-ideas/self-hosted-ci-runner-autoscaler/) | Intermediate | `Go` `Docker` `Kubernetes` |
+| [Self-Hosted Web App on a Hardened VPS](https://www.sefism.com/fyp-ideas/self-hosted-web-app-on-a-hardened-vps/) | Intermediate | `Ubuntu Server` `SSH` `UFW` |
 | [Three-Tier Web App on AWS with Infrastructure as Code and a Cost Report](https://www.sefism.com/fyp-ideas/three-tier-web-app-on-aws-with-infrastructure-as-code/) | Intermediate | `AWS` `Terraform` `Docker` |
 | [Deployment Pipeline with Progressive Rollout and Automatic Rollback](https://www.sefism.com/fyp-ideas/deployment-pipeline-with-progressive-rollout-and-automatic-rollback/) | Advanced | `Go` `Kubernetes` `Prometheus` |
 | [Kubernetes Resource Right-Sizing Advisor](https://www.sefism.com/fyp-ideas/kubernetes-resource-right-sizing-advisor/) | Advanced | `Go` `Kubernetes API` `Prometheus` |
@@ -545,25 +591,34 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </details>
 
 <details>
-<summary><b>Games &amp; XR</b> &nbsp;<sub>4 ideas</sub></summary>
+<summary><b>Games &amp; XR</b> &nbsp;<sub>7 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [A Finished Small 2D Game Released on itch.io with a Playtest Log](https://www.sefism.com/fyp-ideas/finished-small-2d-game-with-playtest-log/) | Beginner | `Unity, Godot or Unreal Engine` `C#, GDScript or Blueprints` `Git and Git LFS` |
 | [Algorithm Visualisation Puzzle Game](https://www.sefism.com/fyp-ideas/algorithm-visualisation-puzzle-game/) | Intermediate | `TypeScript` `React` `Canvas API` |
 | [Augmented Reality Campus Navigation and Information Layer](https://www.sefism.com/fyp-ideas/augmented-reality-campus-navigation-and-information-layer/) | Intermediate | `Unity` `AR Foundation` `C#` |
+| [Data-Driven Tower Defence with Balancing Tools and Playtest Telemetry](https://www.sefism.com/fyp-ideas/data-driven-tower-defence-with-balancing-tools/) | Intermediate | `Engine data assets` `C#, GDScript or C++` `Engine editor scripting` |
+| [Local Multiplayer Party Game with Full Controller Support](https://www.sefism.com/fyp-ideas/local-multiplayer-party-game-with-controller-support/) | Intermediate | `Unity, Godot or Unreal input actions` `C#, GDScript or C++ and Blueprints` `Git and Git LFS` |
 | [VR Laboratory Safety Training with Performance Assessment](https://www.sefism.com/fyp-ideas/vr-laboratory-safety-training-with-performance-assessment/) | Intermediate | `Unity` `C#` `OpenXR` |
 | [Procedural Level Generation with Guaranteed Solvability](https://www.sefism.com/fyp-ideas/procedural-level-generation-with-guaranteed-solvability/) | Advanced | `C#` `Unity` `Python` |
 
 </details>
 
 <details>
-<summary><b>Other</b> &nbsp;<sub>5 ideas</sub></summary>
+<summary><b>Other</b> &nbsp;<sub>11 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Dotfiles and a One-Command Machine Setup](https://www.sefism.com/fyp-ideas/dotfiles-and-one-command-machine-setup/) | Beginner | `Bash` `Git` `GitHub` |
+| [Lead Capture to CRM Automation with AI Qualification](https://www.sefism.com/fyp-ideas/lead-capture-to-crm-automation-with-ai-qualification/) | Beginner | `n8n, Make or Zapier` `Google Sheets` `HubSpot free CRM or Zoho CRM` |
 | [Plain-Text Ledger with Reports and Tests](https://www.sefism.com/fyp-ideas/plain-text-ledger-with-reports-and-tests/) | Beginner | `Python` `JavaScript` `Java` |
+| [Product Discovery Case Study: From User Interviews to a Tested Prototype](https://www.sefism.com/fyp-ideas/product-discovery-case-study-with-tested-prototype/) | Beginner | `Figma or Excalidraw` `Google Forms or Tally` `Notion or Google Docs` |
 | [API Design Linter and Playground for OpenAPI Specifications](https://www.sefism.com/fyp-ideas/api-design-linter-and-playground-for-openapi/) | Intermediate | `TypeScript` `Node.js` `OpenAPI` |
 | [Course Registration Engine with Waitlists](https://www.sefism.com/fyp-ideas/course-registration-engine-with-waitlists/) | Intermediate | `Java or C#` `JUnit or xUnit` `SQLite` |
+| [Documentation Overhaul for an Open Source Project](https://www.sefism.com/fyp-ideas/documentation-overhaul-for-an-open-source-project/) | Intermediate | `Markdown` `Git and GitHub or GitLab` `Docusaurus or MkDocs` |
+| [HTTP Server from Raw Sockets with a Load Test Report](https://www.sefism.com/fyp-ideas/http-server-from-raw-sockets-with-load-test-report/) | Intermediate | `C, Go, Rust or Python` `Sockets API` `curl` |
+| [Unix Shell with Pipes, Redirection and Job Control](https://www.sefism.com/fyp-ideas/unix-shell-with-pipes-redirection-and-job-control/) | Intermediate | `C` `Linux or WSL` `POSIX system calls` |
 | [Distributed Key-Value Store with Raft Consensus](https://www.sefism.com/fyp-ideas/distributed-key-value-store-with-raft-consensus/) | Advanced | `Go` `gRPC` `BoltDB` |
 | [Interpreter and Type Checker for a Small Language](https://www.sefism.com/fyp-ideas/interpreter-and-type-checker-for-a-small-language/) | Advanced | `Rust` `OCaml` `TypeScript` |
 
@@ -575,31 +630,146 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Learning resources
 
-569 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
+880 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
+
+### Top picks
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>System design</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-the-system-design-interview/">Grokking the System Design Interview</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-system-design-fundamentals/">Grokking System Design Fundamentals</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-the-advanced-system-design-interview/">Advanced System Design Interview, Volume II</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-microservices-design-patterns/">Grokking Microservices Design Patterns</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/mastering-system-design-interviews-a-crash-course/">System Design Interview Crash Course</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/designing-data-intensive-applications/">Designing Data-Intensive Applications</a> <sub>Martin Kleppmann · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/the-system-design-primer/">The System Design Primer</a> <sub>Donne Martin · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/system-design-101/">System Design 101</a> <sub>ByteByteGo · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/high-scalability/">High Scalability</a> <sub>High Scalability · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/distributed-systems-lecture-series-by-martin-kleppmann/">Distributed Systems lecture series by Martin Kleppmann</a> <sub>University of Cambridge · Free</sub></li>
+</ol>
+</td>
+<td width="50%" valign="top">
+<b>Coding practice</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-the-coding-interview-patterns-for-coding-questions/">Grokking the Coding Interview: Patterns for Coding Questions</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-data-structures-algorithms-for-coding-interviews/">Grokking Data Structures &amp; Algorithms for Coding Interviews</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-dynamic-programming-patterns-for-coding-interviews/">Grokking Dynamic Programming Patterns for Coding Interviews</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-75-top-coding-interview-questions/">Grokking 75: Top Coding Interview Questions</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/blind-75-practice-list/">Blind 75 Practice List</a> <sub>Design Gurus · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/leetcode/">LeetCode</a> <sub>LeetCode · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/neetcode-roadmap/">NeetCode Roadmap</a> <sub>NeetCode · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/leetcode-patterns-by-sean-prashad/">LeetCode Patterns by Sean Prashad</a> <sub>Sean Prashad · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/tech-interview-handbook/">Tech Interview Handbook</a> <sub>Yangshun Tay · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/cracking-the-coding-interview/">Cracking the Coding Interview</a> <sub>Gayle Laakmann McDowell · Paid</sub></li>
+</ol>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Learn AI</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-modern-ai-fundamentals/">Grokking Modern AI Fundamentals</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-the-ai-system-design-interview/">Grokking the AI System Design Interview</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-prompt-engineering-for-software-engineers/">Grokking Prompt Engineering for Software Engineers</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/anthropic-academy/">Anthropic Academy</a> <sub>Anthropic · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/neural-networks-zero-to-hero/">Neural Networks: Zero to Hero</a> <sub>Andrej Karpathy · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/practical-deep-learning-for-coders/">Practical Deep Learning for Coders</a> <sub>fast.ai · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/hugging-face-ai-agents-course/">Hugging Face AI Agents Course</a> <sub>Hugging Face · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/machine-learning-specialization/">Machine Learning Specialization</a> <sub>DeepLearning.AI and Stanford Online · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/building-effective-agents/">Building Effective Agents</a> <sub>Anthropic · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/openai-cookbook/">OpenAI Cookbook</a> <sub>OpenAI · Free</sub></li>
+</ol>
+</td>
+<td width="50%" valign="top">
+<b>AI tools</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/chatgpt/">ChatGPT</a> <sub>OpenAI · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/claude/">Claude</a> <sub>Anthropic · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/cursor/">Cursor</a> <sub>Anysphere · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/github-copilot/">GitHub Copilot</a> <sub>GitHub · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/google-gemini/">Google Gemini</a> <sub>Google · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/perplexity/">Perplexity</a> <sub>Perplexity AI · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/notebooklm/">Gemini Notebook (formerly NotebookLM)</a> <sub>Google · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/ollama/">Ollama</a> <sub>Ollama · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/v0/">v0</a> <sub>Vercel · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/google-ai-studio/">Google AI Studio</a> <sub>Google · Free</sub></li>
+</ol>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Web development</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-javascript-fundamentals/">Grokking JavaScript Fundamentals</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-modern-api-design-interview/">Grokking Modern API Design Interview</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-relational-database-design-and-modeling/">Grokking Relational Database Design and Modeling</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/mdn-web-docs/">MDN Web Docs</a> <sub>Mozilla · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/the-odin-project/">The Odin Project</a> <sub>The Odin Project · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/full-stack-open/">Full Stack Open</a> <sub>University of Helsinki · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/javascriptinfo/">JavaScript.info</a> <sub>Ilya Kantor · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/react-documentation/">React Documentation</a> <sub>Meta · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/typescript-handbook/">The TypeScript Handbook</a> <sub>Microsoft · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/roadmapsh-frontend-developer/">roadmap.sh: Frontend Developer</a> <sub>roadmap.sh · Free</sub></li>
+</ol>
+</td>
+<td width="50%" valign="top">
+<b>CS fundamentals and clean code</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-design-patterns-for-engineers-and-managers/">Grokking Design Patterns for Engineers and Managers</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-solid-design-principles/">Grokking SOLID Design Principles</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-python-fundamentals/">Grokking Python Fundamentals</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/cs50-introduction-to-computer-science/">CS50: Introduction to Computer Science</a> <sub>Harvard University · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/the-missing-semester-of-your-cs-education/">The Missing Semester of Your CS Education</a> <sub>MIT · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/pro-git/">Pro Git</a> <sub>Scott Chacon and Ben Straub · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/refactoring-guru-design-patterns/">Refactoring.Guru: Design Patterns</a> <sub>Refactoring.Guru · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/the-pragmatic-programmer/">The Pragmatic Programmer</a> <sub>Hunt and Thomas · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/clean-code/">Clean Code</a> <sub>Robert C. Martin · Paid</sub></li>
+</ol>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>Career growth</b>
+<ol>
+<li><a href="https://www.sefism.com/resources/grokking-tech-salary-negotiations/">Grokking Tech Salary Negotiations</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/grokking-engineering-leadership-interviews/">Grokking Engineering Leadership Interviews</a> <sub>Design Gurus · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/the-pragmatic-engineer/">The Pragmatic Engineer</a> <sub>Gergely Orosz · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/the-staff-engineers-path/">The Staff Engineer's Path</a> <sub>Tanya Reilly · Paid</sub></li>
+<li><a href="https://www.sefism.com/resources/levelsfyi/">levels.fyi</a> <sub>levels.fyi · Free</sub></li>
+<li><a href="https://www.sefism.com/resources/learn-to-code-and-get-a-developer-job/">How to Learn to Code and Get a Developer Job</a> <sub>freeCodeCamp (Quincy Larson) · Free</sub></li>
+</ol>
+</td>
+</tr>
+</table>
+
+### Every category
 
 | Category | Resources | Free | Mostly |
 | :-- | :-: | :-: | :-- |
-| **[AI & Machine Learning](resources/ai.md)** | 161 | 125 | 92 tool, 22 guide, 19 course |
-| **[Web Development](resources/web-development.md)** | 74 | 67 | 36 guide, 13 course, 7 github repo |
-| **[System Design](resources/system-design.md)** | 86 | 67 | 50 guide, 12 course, 8 github repo |
+| **[AI & Machine Learning](resources/ai.md)** | 172 | 137 | 91 tool, 25 guide, 22 course |
+| **[Web Development](resources/web-development.md)** | 145 | 138 | 60 guide, 25 tool, 22 course |
+| **[System Design](resources/system-design.md)** | 88 | 68 | 51 guide, 12 course, 9 book |
 | **[Interview Prep](resources/interview-prep.md)** | 57 | 38 | 18 guide, 13 course, 9 platform |
-| **[Career Growth](resources/career.md)** | 59 | 45 | 18 guide, 12 platform, 11 book |
-| **[Mentorship](resources/mentorship.md)** | 17 | 8 | 9 platform, 1 course, 1 roadmap |
-| **[Other](resources/other.md)** | 115 | 98 | 44 guide, 22 course, 15 book |
+| **[Career Growth](resources/career.md)** | 171 | 139 | 55 guide, 36 platform, 20 tool |
+| **[Mentorship](resources/mentorship.md)** | 17 | 9 | 9 platform, 1 course, 1 roadmap |
+| **[Other](resources/other.md)** | 230 | 213 | 85 guide, 39 course, 24 platform |
 
 <sub>[Filter on sefism.com](https://www.sefism.com/resources/) · [All categories](resources/README.md)</sub>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
-## Tech companies in Pakistan
+## Pakistani and global tech companies
 
-308 companies hiring software engineers, each with interview stages, reported pay ranges, perks and a careers link, and every claim labelled with its source.
+506 companies hiring software engineers, 308 Pakistani and 198 top global tech companies, each with interview stages, reported pay ranges, perks and a careers link, and every claim labelled with its source.
 
 <table>
 <tr>
 <td valign="top">
 
-| Sector | Companies |
+| Pakistan, by sector | Companies |
 | :-- | :-: |
 | [Software services](https://www.sefism.com/companies/?sector=services) | 131 |
 | [Fintech](https://www.sefism.com/companies/?sector=fintech) | 50 |
@@ -618,7 +788,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 </td>
 <td valign="top">
 
-| City | Companies |
+| Pakistan, by city | Companies |
 | :-- | :-: |
 | [Karachi](https://www.sefism.com/companies/?city=karachi) | 148 |
 | [Lahore](https://www.sefism.com/companies/?city=lahore) | 140 |
@@ -628,13 +798,36 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Multan](https://www.sefism.com/companies/?city=multan) | 3 |
 | [Remote (Pakistan)](https://www.sefism.com/companies/?city=remote) | 3 |
 | [Peshawar](https://www.sefism.com/companies/?city=peshawar) | 1 |
-| [Jhelum](https://www.sefism.com/companies/?city=jhelum) | 1 |
+
+</td>
+<td valign="top">
+
+| [Global](https://www.sefism.com/companies/?scope=global), by country | Companies |
+| :-- | :-: |
+| United States | 96 |
+| India | 13 |
+| China | 12 |
+| United Kingdom | 7 |
+| Germany | 7 |
+| Japan | 7 |
+| Netherlands | 6 |
+| 24 more countries | 50 |
 
 </td>
 </tr>
 </table>
 
-<sub>[Browse on sefism.com](https://www.sefism.com/companies/) · [Full list by sector](companies.md)</sub>
+<sub>[Pakistan on sefism.com](https://www.sefism.com/companies/) · [Global on sefism.com](https://www.sefism.com/companies/?scope=global) · [Full list by sector](companies.md)</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+## Jobs
+
+[Tech jobs at Pakistani and global companies](https://www.sefism.com/jobs/), graduate to senior: software, data, QA and design roles. Every job links to the company's own posting and shows when it was last checked. 39 open roles right now (17 in Pakistan, 22 global): 18 graduate · 21 junior.
+
+Looking beyond the list? [Companies hiring](https://www.sefism.com/jobs/companies/) puts the careers pages of 162 companies in one place. Hiring? Companies can post a role from the jobs page, and every submission is reviewed before it goes live.
+
+Jobs open and close often, so they live on the site rather than here.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -680,7 +873,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Internships
 
-[Open internships in Pakistan](https://www.sefism.com/internships/), with deadlines, pay and eligibility, and a link to apply on the company site. They open and close often, so they live on the site rather than here.
+[Open internships at Pakistani and global tech companies](https://www.sefism.com/internships/), with deadlines, pay and eligibility, and a link to apply on the company site. They open and close often, so they live on the site rather than here.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -707,6 +900,6 @@ Found a broken link or want something covered? [Open an issue](../../issues) or 
 ---
 
 <div align="center">
-<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-09-19. The site is always the latest version.</sub><br>
+<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-09-25. The site is always the latest version.</sub><br>
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
 </div>

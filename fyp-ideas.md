@@ -2,19 +2,19 @@
 
 [← Back to the Sefism Library](README.md)
 
-80 project briefs for computer science and software engineering students, each with scope, difficulty, deliverables and a suggested stack. Free, no signup.
+122 project briefs for computer science and software engineering students, each with scope, difficulty, deliverables and a suggested stack. Free, no signup.
 
 Browse and filter them at [sefism.com/fyp-ideas](https://www.sefism.com/fyp-ideas/).
 
-- [Web](#web) (22)
-- [Mobile](#mobile) (9)
-- [AI & ML](#ai-ml) (15)
-- [Data & Analytics](#data-analytics) (7)
+- [Web](#web) (38)
+- [Mobile](#mobile) (10)
+- [AI & ML](#ai-ml) (17)
+- [Data & Analytics](#data-analytics) (18)
 - [IoT & Embedded](#iot-embedded) (6)
-- [Security](#security) (6)
-- [Cloud & DevOps](#cloud-devops) (6)
-- [Games & XR](#games-xr) (4)
-- [Other](#other) (5)
+- [Security](#security) (7)
+- [Cloud & DevOps](#cloud-devops) (8)
+- [Games & XR](#games-xr) (7)
+- [Other](#other) (11)
 
 ## Web
 
@@ -24,23 +24,39 @@ On the site: [Web project ideas](https://www.sefism.com/fyp-ideas/?domain=web)
 | --- | --- | --- |
 | [Bilingual Community Services Directory with Right-to-Left Support](https://www.sefism.com/fyp-ideas/bilingual-community-services-directory-with-rtl-support/) | Beginner | Nuxt, Vue, TypeScript, Nuxt i18n |
 | [Campus Lost and Found with Visual Search](https://www.sefism.com/fyp-ideas/campus-lost-and-found-with-visual-search/) | Beginner | Next.js, TypeScript, PostgreSQL, pgvector |
+| [Contractor Invoicing and Multi-Currency Income Tracker](https://www.sefism.com/fyp-ideas/contractor-invoicing-and-multi-currency-income-tracker/) | Beginner | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
 | [Developer Portfolio and Blog Generator from GitHub and Markdown](https://www.sefism.com/fyp-ideas/developer-portfolio-and-blog-generator-from-github/) | Beginner | Astro, TypeScript, Markdown, GitHub API |
+| [Developer Starter Kit Store with Licence Keys](https://www.sefism.com/fyp-ideas/developer-starter-kit-store-with-licence-keys/) | Beginner | TypeScript, Node.js, Next.js or Astro, Lemon Squeezy, Paddle or Gumroad |
 | [Household Meal Planner with Food Waste Reduction](https://www.sefism.com/fyp-ideas/household-meal-planner-with-food-waste-reduction/) | Beginner | Next.js, TypeScript, PostgreSQL, Prisma |
 | [Job Application Tracker with a Keyword Gap View](https://www.sefism.com/fyp-ideas/job-application-tracker-with-keyword-gap-view/) | Beginner | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
+| [Masters Application and Scholarship Deadline Planner](https://www.sefism.com/fyp-ideas/masters-application-and-scholarship-deadline-planner/) | Beginner | Next.js or React, Node.js, PostgreSQL or SQLite, Prisma |
 | [Municipal Complaint Tracking with Response Deadlines](https://www.sefism.com/fyp-ideas/municipal-complaint-tracking-with-response-deadlines/) | Beginner | Django, PostgreSQL, PostGIS, React |
+| [Nonprofit CMS Website That Volunteers Update Themselves](https://www.sefism.com/fyp-ideas/nonprofit-cms-site-with-volunteer-editing/) | Beginner | WordPress or Shopify or Webflow, HTML, CSS, WAVE |
+| [Replace a Spreadsheet Workflow From Your Previous Field With a Small Web App](https://www.sefism.com/fyp-ideas/spreadsheet-workflow-from-your-previous-field-as-a-web-app/) | Beginner | Any web framework you are learning, PostgreSQL or SQLite, Authentication library, CSV export |
+| [Small Business Website with Online Booking and a Launch Quality Report](https://www.sefism.com/fyp-ideas/small-business-website-with-booking-and-launch-report/) | Beginner | WordPress or Shopify or Webflow, HTML, CSS, Google Search Console |
 | [University Society Events Manager with QR Check-In](https://www.sefism.com/fyp-ideas/university-society-events-with-qr-check-in/) | Beginner | React, Node.js, Express, MongoDB |
 | [URL Shortener with Click Analytics and a Load Test Report](https://www.sefism.com/fyp-ideas/url-shortener-with-click-analytics-and-load-test-report/) | Beginner | Node.js, TypeScript, PostgreSQL, Redis |
+| [Usability Study and Redesign of a Public Service Flow](https://www.sefism.com/fyp-ideas/usability-study-and-redesign-of-a-public-service-flow/) | Beginner | Figma, FigJam or Excalidraw, Google Forms or a survey tool, WAVE |
+| [Work Log and Weekly Update Builder from Git and Issue Activity](https://www.sefism.com/fyp-ideas/work-log-and-weekly-update-builder/) | Beginner | Next.js, TypeScript, GitHub REST API, PostgreSQL |
 | [API Contract Checker for Continuous Integration](https://www.sefism.com/fyp-ideas/api-contract-checker-for-continuous-integration/) | Intermediate | TypeScript, Node.js, OpenAPI, GitHub Actions |
 | [Blood Donor Matching and Request Coordination](https://www.sefism.com/fyp-ideas/blood-donor-matching-and-request-coordination/) | Intermediate | Next.js, TypeScript, PostgreSQL, PostGIS |
+| [Client Project Portal with Milestones, Approvals and Change Requests](https://www.sefism.com/fyp-ideas/client-project-portal-with-milestones-and-change-requests/) | Intermediate | React, Node.js, Express, PostgreSQL |
 | [Clinic Appointment Booking with Live Queue Display](https://www.sefism.com/fyp-ideas/clinic-appointment-booking-with-live-queue-display/) | Intermediate | Angular, TypeScript, RxJS, Angular Material |
+| [Developer Tutorial Series with a Sample App and Feedback Report](https://www.sefism.com/fyp-ideas/developer-tutorial-series-with-sample-app-and-feedback-report/) | Intermediate | A developer API with a free tier, Git and GitHub, DEV or Hashnode, OBS Studio |
+| [Documented Design System with Tokens and Storybook](https://www.sefism.com/fyp-ideas/documented-design-system-with-tokens-and-storybook/) | Intermediate | Figma, TypeScript, React, CSS custom properties or Tailwind CSS |
+| [Freelancer Time, Invoice and Multi-Currency Income Tracker](https://www.sefism.com/fyp-ideas/freelancer-time-invoice-and-income-tracker/) | Intermediate | Next.js, TypeScript, PostgreSQL, Prisma |
 | [Good First Issue Finder for University Open Source Clubs](https://www.sefism.com/fyp-ideas/good-first-issue-finder-for-university-open-source-clubs/) | Intermediate | Node.js, TypeScript, PostgreSQL, Next.js |
+| [Invoice Reminder SaaS with Subscription Billing](https://www.sefism.com/fyp-ideas/invoice-reminder-saas-with-subscription-billing/) | Intermediate | Next.js, TypeScript, PostgreSQL, Supabase or Prisma |
 | [Low-Latency Read API Case Study](https://www.sefism.com/fyp-ideas/low-latency-read-api-case-study/) | Intermediate | Node.js, PostgreSQL, Redis, Nginx |
 | [Model Context Protocol Server for University Systems](https://www.sefism.com/fyp-ideas/model-context-protocol-server-for-university-systems/) | Intermediate | TypeScript, Node.js, PostgreSQL, Model Context Protocol |
 | [Notification Service with Retries, a Dead Letter Queue and Idempotency Keys](https://www.sefism.com/fyp-ideas/notification-service-with-retries-and-dead-letter-queue/) | Intermediate | Node.js, TypeScript, PostgreSQL, RabbitMQ |
+| [Online Store for a Local Brand with Country-Aware Payments and Order Workflow](https://www.sefism.com/fyp-ideas/local-brand-online-store-with-country-aware-payments/) | Intermediate | WooCommerce or Shopify, PHP or Liquid, Payment gateway, Google Search Console |
 | [Open Air Quality Dashboard with Low-Cost Sensor Correction](https://www.sefism.com/fyp-ideas/open-air-quality-dashboard-with-low-cost-sensor-correction/) | Intermediate | Python, FastAPI, TimescaleDB, React |
 | [Open Source Contribution Matcher](https://www.sefism.com/fyp-ideas/open-source-contribution-matcher/) | Intermediate | Node.js, TypeScript, PostgreSQL, React |
 | [Peer Code Review Platform for University Courses](https://www.sefism.com/fyp-ideas/peer-code-review-platform-for-university-courses/) | Intermediate | Next.js, TypeScript, PostgreSQL, Prisma |
+| [QA Test Suite for an Open Source Web App](https://www.sefism.com/fyp-ideas/qa-test-suite-for-an-open-source-web-app/) | Intermediate | Playwright or Selenium, TypeScript or Java, Postman or code-based API tests, GitHub Actions |
 | [Real-Time Classroom Quiz with Presence and Reconnect Handling](https://www.sefism.com/fyp-ideas/real-time-classroom-quiz-with-presence-and-reconnects/) | Intermediate | Node.js, TypeScript, WebSocket, React |
+| [Remote Job Listing Eligibility and Scam Signal Checker](https://www.sefism.com/fyp-ideas/remote-listing-eligibility-and-scam-checker/) | Intermediate | Next.js, TypeScript, PostgreSQL, Tailwind CSS |
 | [Web Accessibility Regression Testing in CI](https://www.sefism.com/fyp-ideas/web-accessibility-regression-testing-in-ci/) | Intermediate | TypeScript, Playwright, axe-core, Node.js |
 | [Collaborative Whiteboard with Conflict-Free Sync](https://www.sefism.com/fyp-ideas/collaborative-whiteboard-with-conflict-free-sync/) | Advanced | TypeScript, React, Canvas API, WebSocket |
 | [Timetable Scheduling with Constraint Solving](https://www.sefism.com/fyp-ideas/timetable-scheduling-with-constraint-solving/) | Advanced | Python, OR-Tools, FastAPI, PostgreSQL |
@@ -55,6 +71,7 @@ On the site: [Mobile project ideas](https://www.sefism.com/fyp-ideas/?domain=mob
 | [Medication Adherence Tracker with Caregiver View](https://www.sefism.com/fyp-ideas/medication-adherence-tracker-with-caregiver-view/) | Beginner | Flutter, SQLite, Firebase, Node.js |
 | [Offline-First Campus Timetable and Assignment Reminders](https://www.sefism.com/fyp-ideas/offline-first-campus-timetable-and-assignment-reminders/) | Beginner | Flutter, Dart, SQLite, Drift |
 | [Crowdsourced Public Transport Arrival Tracker](https://www.sefism.com/fyp-ideas/crowdsourced-public-transport-arrival-tracker/) | Intermediate | React Native, Node.js, PostgreSQL, PostGIS |
+| [Habit Tracker with Subscription Paywall and Free Trial](https://www.sefism.com/fyp-ideas/habit-tracker-with-subscription-paywall/) | Intermediate | Flutter or React Native (Expo), RevenueCat, StoreKit, Google Play Billing |
 | [Load-Shedding Schedule and Outage Alerts with Home Screen Widgets](https://www.sefism.com/fyp-ideas/load-shedding-schedule-and-outage-alerts/) | Intermediate | Swift, SwiftUI, SwiftData, WidgetKit |
 | [Offline-First Field Data Collection App](https://www.sefism.com/fyp-ideas/offline-first-field-data-collection-app/) | Intermediate | Flutter, SQLite, FastAPI, PostgreSQL |
 | [On-Device Wellbeing Journal with Private Sentiment Trends](https://www.sefism.com/fyp-ideas/on-device-wellbeing-journal-with-private-sentiment-trends/) | Intermediate | Flutter, TensorFlow Lite, SQLCipher, Dart |
@@ -71,8 +88,10 @@ On the site: [AI & ML project ideas](https://www.sefism.com/fyp-ideas/?domain=ai
 | [Automated Alt Text and Accessibility Auditing](https://www.sefism.com/fyp-ideas/automated-alt-text-and-accessibility-auditing/) | Intermediate | Python, FastAPI, Playwright, React |
 | [Crop Disease Detection from Phone Photographs](https://www.sefism.com/fyp-ideas/crop-disease-detection-from-phone-photographs/) | Intermediate | Python, PyTorch, TensorFlow Lite, Flutter |
 | [Explainable Resume and Job Description Matching](https://www.sefism.com/fyp-ideas/explainable-resume-and-job-description-matching/) | Intermediate | Python, FastAPI, PostgreSQL, pgvector |
+| [Invoice and Receipt Parsing Pipeline with Human Review](https://www.sefism.com/fyp-ideas/invoice-and-receipt-parsing-pipeline-with-human-review/) | Intermediate | n8n, Make or Zapier, Gmail or Outlook, Google Drive, An LLM or document extraction API |
 | [LLM Gateway with Semantic Cache, Model Routing and Per-User Budgets](https://www.sefism.com/fyp-ideas/llm-gateway-with-semantic-cache-and-model-routing/) | Intermediate | Python, FastAPI, PostgreSQL, pgvector |
 | [Predictive Maintenance from Machine Vibration Data](https://www.sefism.com/fyp-ideas/predictive-maintenance-from-machine-vibration-data/) | Intermediate | Python, scikit-learn, PyTorch, InfluxDB |
+| [Reproducing a Published Machine Learning Result with an Open Report](https://www.sefism.com/fyp-ideas/reproducing-a-published-machine-learning-result-with-an-open-report/) | Intermediate | Python, PyTorch or scikit-learn, Jupyter, Weights and Biases or MLflow |
 | [Retrieval Assistant for University Regulations](https://www.sefism.com/fyp-ideas/retrieval-assistant-for-university-regulations/) | Intermediate | Python, FastAPI, PostgreSQL, pgvector |
 | [Traffic Flow Forecasting from Open Sensor Data](https://www.sefism.com/fyp-ideas/traffic-flow-forecasting-from-open-sensor-data/) | Intermediate | Python, PyTorch, PostgreSQL, TimescaleDB |
 | [Claim Verification Assistant with Source Citations](https://www.sefism.com/fyp-ideas/claim-verification-assistant-with-source-citations/) | Advanced | Python, FastAPI, Elasticsearch, React |
@@ -89,12 +108,23 @@ On the site: [Data & Analytics project ideas](https://www.sefism.com/fyp-ideas/?
 
 | Idea | Difficulty | Suggested stack |
 | --- | --- | --- |
+| [Data Story From Your Previous Field Using Public Data](https://www.sefism.com/fyp-ideas/data-story-from-your-previous-field-using-public-data/) | Beginner | SQL, Python (pandas) or a spreadsheet, A BI tool or charting library, GitHub |
+| [Online Store Sales and Customer Retention Dashboard](https://www.sefism.com/fyp-ideas/online-store-sales-and-customer-retention-dashboard/) | Beginner | SQL (PostgreSQL or SQLite), Excel or Google Sheets, Power BI, Tableau Public or pandas, GitHub |
 | [Public Budget Transparency Explorer](https://www.sefism.com/fyp-ideas/public-budget-transparency-explorer/) | Beginner | Python, pandas, PostgreSQL, React |
+| [Small Business Weekly Report Automation with Monitoring](https://www.sefism.com/fyp-ideas/small-business-weekly-report-automation-with-monitoring/) | Beginner | n8n, Make or Zapier, Google Sheets, Shopify or WooCommerce test store, Stripe test mode |
+| [University Records Database with Roles, Audit Trail and Reports](https://www.sefism.com/fyp-ideas/university-records-database-with-roles-and-reports/) | Beginner | PostgreSQL or MySQL or SQL Server, SQL, A migration tool such as Flyway, Python or Node.js for a thin front end |
+| [A/B Test Analysis Report on a Public Experiment Dataset](https://www.sefism.com/fyp-ideas/ab-test-analysis-report-on-a-public-experiment-dataset/) | Intermediate | SQL, Excel or Google Sheets, Python (pandas, SciPy) or a BI tool, GitHub |
+| [Batch ELT Pipeline with Airflow, dbt and a Cloud Warehouse](https://www.sefism.com/fyp-ideas/batch-elt-pipeline-with-airflow-dbt-and-a-cloud-warehouse/) | Intermediate | Python, SQL, Apache Airflow, dbt |
+| [Crash-Safe Key-Value Store with a Write-Ahead Log](https://www.sefism.com/fyp-ideas/crash-safe-key-value-store-with-write-ahead-log/) | Intermediate | Go, Rust, C++, Java or Python, File I/O with fsync, A test harness in Python or Bash, Git |
 | [Early Warning System for Student Disengagement](https://www.sefism.com/fyp-ideas/early-warning-system-for-student-disengagement/) | Intermediate | Python, pandas, scikit-learn, FastAPI |
+| [Lakehouse with Medallion Layers and Data Quality Reports](https://www.sefism.com/fyp-ideas/lakehouse-with-medallion-layers-and-data-quality-reports/) | Intermediate | Python, PySpark, Delta Lake or Apache Iceberg, Parquet |
+| [Research Group Finder Built on Open Publication Data](https://www.sefism.com/fyp-ideas/research-group-finder-built-on-open-publication-data/) | Intermediate | Python, OpenAlex API, PostgreSQL or SQLite, FastAPI |
 | [Retail Demand Forecasting with Inventory Recommendations](https://www.sefism.com/fyp-ideas/retail-demand-forecasting-with-inventory-recommendations/) | Intermediate | Python, pandas, Prophet, LightGBM |
 | [Sports Performance Analytics from Match Event Data](https://www.sefism.com/fyp-ideas/sports-performance-analytics-from-match-event-data/) | Intermediate | Python, pandas, scikit-learn, Plotly |
+| [SQL Query Performance Lab with Execution Plan Reports](https://www.sefism.com/fyp-ideas/sql-query-performance-lab-with-plan-reports/) | Intermediate | PostgreSQL or MySQL or SQL Server, SQL, Python, Docker |
 | [Water Quality Monitoring and Contamination Alerting](https://www.sefism.com/fyp-ideas/water-quality-monitoring-and-contamination-alerting/) | Intermediate | Python, pandas, scikit-learn, TimescaleDB |
 | [Building Energy Analytics with Appliance Disaggregation](https://www.sefism.com/fyp-ideas/building-energy-analytics-with-appliance-disaggregation/) | Advanced | Python, PyTorch, TimescaleDB, Grafana |
+| [Real-Time Event Pipeline with Kafka and Windowed Metrics](https://www.sefism.com/fyp-ideas/real-time-event-pipeline-with-kafka-and-windowed-metrics/) | Advanced | Python, Kafka or a cloud streaming service, Spark Structured Streaming or Flink, PostgreSQL or a cloud warehouse |
 | [Vector Search Engine Built From Scratch](https://www.sefism.com/fyp-ideas/vector-search-engine-built-from-scratch/) | Advanced | Rust or C++ or Go, Python bindings, NumPy |
 
 ## IoT & Embedded
@@ -118,6 +148,7 @@ On the site: [Security project ideas](https://www.sefism.com/fyp-ideas/?domain=s
 | --- | --- | --- |
 | [Dependency Supply Chain Risk Scanner](https://www.sefism.com/fyp-ideas/dependency-supply-chain-risk-scanner/) | Intermediate | Python, FastAPI, PostgreSQL, React |
 | [Honeypot Network with Attack Telemetry Dashboard](https://www.sefism.com/fyp-ideas/honeypot-network-with-attack-telemetry-dashboard/) | Intermediate | Python, Docker, Elasticsearch, Kibana |
+| [Isolated Security Training Lab with Professional Assessment Reports](https://www.sefism.com/fyp-ideas/isolated-security-training-lab-with-assessment-reports/) | Intermediate | Docker Compose, Python or Node.js, PostgreSQL, OWASP ZAP |
 | [Phishing Detection Browser Extension](https://www.sefism.com/fyp-ideas/phishing-detection-browser-extension/) | Intermediate | TypeScript, Chrome Extension API, Python, scikit-learn |
 | [End-to-End Encrypted File Sharing with Verifiable Keys](https://www.sefism.com/fyp-ideas/end-to-end-encrypted-file-sharing-with-verifiable-keys/) | Advanced | TypeScript, WebCrypto API, Node.js, PostgreSQL |
 | [Federated Learning with Differential Privacy](https://www.sefism.com/fyp-ideas/federated-learning-with-differential-privacy/) | Advanced | Python, PyTorch, gRPC, Docker |
@@ -129,9 +160,11 @@ On the site: [Cloud & DevOps project ideas](https://www.sefism.com/fyp-ideas/?do
 
 | Idea | Difficulty | Suggested stack |
 | --- | --- | --- |
+| [Command-Line Log Analyser with a Scheduled Report](https://www.sefism.com/fyp-ideas/command-line-log-analyser-with-scheduled-report/) | Beginner | Bash, grep, awk, sort and uniq, jq, cron |
 | [Chaos Engineering Toolkit for Teaching Distributed Systems](https://www.sefism.com/fyp-ideas/chaos-engineering-toolkit-for-teaching-distributed-systems/) | Intermediate | Go, Docker, Kubernetes, React |
 | [Distributed Tracing for a Polyglot Microservice System](https://www.sefism.com/fyp-ideas/distributed-tracing-for-a-polyglot-microservice-system/) | Intermediate | OpenTelemetry, Go, Python, Node.js |
 | [Self-Hosted CI Runner Autoscaler](https://www.sefism.com/fyp-ideas/self-hosted-ci-runner-autoscaler/) | Intermediate | Go, Docker, Kubernetes, PostgreSQL |
+| [Self-Hosted Web App on a Hardened VPS](https://www.sefism.com/fyp-ideas/self-hosted-web-app-on-a-hardened-vps/) | Intermediate | Ubuntu Server, SSH, UFW, Nginx or Caddy |
 | [Three-Tier Web App on AWS with Infrastructure as Code and a Cost Report](https://www.sefism.com/fyp-ideas/three-tier-web-app-on-aws-with-infrastructure-as-code/) | Intermediate | AWS, Terraform, Docker, ECS Fargate |
 | [Deployment Pipeline with Progressive Rollout and Automatic Rollback](https://www.sefism.com/fyp-ideas/deployment-pipeline-with-progressive-rollout-and-automatic-rollback/) | Advanced | Go, Kubernetes, Prometheus, Argo |
 | [Kubernetes Resource Right-Sizing Advisor](https://www.sefism.com/fyp-ideas/kubernetes-resource-right-sizing-advisor/) | Advanced | Go, Kubernetes API, Prometheus, PostgreSQL |
@@ -142,8 +175,11 @@ On the site: [Games & XR project ideas](https://www.sefism.com/fyp-ideas/?domain
 
 | Idea | Difficulty | Suggested stack |
 | --- | --- | --- |
+| [A Finished Small 2D Game Released on itch.io with a Playtest Log](https://www.sefism.com/fyp-ideas/finished-small-2d-game-with-playtest-log/) | Beginner | Unity, Godot or Unreal Engine, C#, GDScript or Blueprints, Git and Git LFS, itch.io |
 | [Algorithm Visualisation Puzzle Game](https://www.sefism.com/fyp-ideas/algorithm-visualisation-puzzle-game/) | Intermediate | TypeScript, React, Canvas API, Node.js |
 | [Augmented Reality Campus Navigation and Information Layer](https://www.sefism.com/fyp-ideas/augmented-reality-campus-navigation-and-information-layer/) | Intermediate | Unity, AR Foundation, C#, Node.js |
+| [Data-Driven Tower Defence with Balancing Tools and Playtest Telemetry](https://www.sefism.com/fyp-ideas/data-driven-tower-defence-with-balancing-tools/) | Intermediate | Engine data assets, C#, GDScript or C++, Engine editor scripting, Python or a spreadsheet for analysis |
+| [Local Multiplayer Party Game with Full Controller Support](https://www.sefism.com/fyp-ideas/local-multiplayer-party-game-with-controller-support/) | Intermediate | Unity, Godot or Unreal input actions, C#, GDScript or C++ and Blueprints, Git and Git LFS, itch.io or Steam Playtest |
 | [VR Laboratory Safety Training with Performance Assessment](https://www.sefism.com/fyp-ideas/vr-laboratory-safety-training-with-performance-assessment/) | Intermediate | Unity, C#, OpenXR, PostgreSQL |
 | [Procedural Level Generation with Guaranteed Solvability](https://www.sefism.com/fyp-ideas/procedural-level-generation-with-guaranteed-solvability/) | Advanced | C#, Unity, Python, Z3 |
 
@@ -153,14 +189,20 @@ On the site: [Other project ideas](https://www.sefism.com/fyp-ideas/?domain=othe
 
 | Idea | Difficulty | Suggested stack |
 | --- | --- | --- |
+| [Dotfiles and a One-Command Machine Setup](https://www.sefism.com/fyp-ideas/dotfiles-and-one-command-machine-setup/) | Beginner | Bash, Git, GitHub, apt or Homebrew |
+| [Lead Capture to CRM Automation with AI Qualification](https://www.sefism.com/fyp-ideas/lead-capture-to-crm-automation-with-ai-qualification/) | Beginner | n8n, Make or Zapier, Google Sheets, HubSpot free CRM or Zoho CRM, Slack |
 | [Plain-Text Ledger with Reports and Tests](https://www.sefism.com/fyp-ideas/plain-text-ledger-with-reports-and-tests/) | Beginner | Python, JavaScript, Java, C++ |
+| [Product Discovery Case Study: From User Interviews to a Tested Prototype](https://www.sefism.com/fyp-ideas/product-discovery-case-study-with-tested-prototype/) | Beginner | Figma or Excalidraw, Google Forms or Tally, Notion or Google Docs, Google Sheets |
 | [API Design Linter and Playground for OpenAPI Specifications](https://www.sefism.com/fyp-ideas/api-design-linter-and-playground-for-openapi/) | Intermediate | TypeScript, Node.js, OpenAPI, JSON Schema |
 | [Course Registration Engine with Waitlists](https://www.sefism.com/fyp-ideas/course-registration-engine-with-waitlists/) | Intermediate | Java or C#, JUnit or xUnit, SQLite, Git |
+| [Documentation Overhaul for an Open Source Project](https://www.sefism.com/fyp-ideas/documentation-overhaul-for-an-open-source-project/) | Intermediate | Markdown, Git and GitHub or GitLab, Docusaurus or MkDocs, Vale |
+| [HTTP Server from Raw Sockets with a Load Test Report](https://www.sefism.com/fyp-ideas/http-server-from-raw-sockets-with-load-test-report/) | Intermediate | C, Go, Rust or Python, Sockets API, curl, wrk, hey or k6 for load testing |
+| [Unix Shell with Pipes, Redirection and Job Control](https://www.sefism.com/fyp-ideas/unix-shell-with-pipes-redirection-and-job-control/) | Intermediate | C, Linux or WSL, POSIX system calls, GDB |
 | [Distributed Key-Value Store with Raft Consensus](https://www.sefism.com/fyp-ideas/distributed-key-value-store-with-raft-consensus/) | Advanced | Go, gRPC, BoltDB, Docker |
 | [Interpreter and Type Checker for a Small Language](https://www.sefism.com/fyp-ideas/interpreter-and-type-checker-for-a-small-language/) | Advanced | Rust, OCaml, TypeScript |
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

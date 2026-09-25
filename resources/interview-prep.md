@@ -6,6 +6,7 @@
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=interview_prep)
 
+- [Top picks: coding practice](#top-picks-coding-practice) (10)
 - [Course](#course) (13)
 - [Roadmap](#roadmap) (3)
 - [Guide](#guide) (18)
@@ -16,6 +17,19 @@
 - [Book](#book) (3)
 - [Video](#video) (1)
 - [Community](#community) (1)
+
+## Top picks: coding practice
+
+1. **[Grokking the Coding Interview: Patterns for Coding Questions](https://www.sefism.com/resources/grokking-the-coding-interview-patterns-for-coding-questions/)** · Design Gurus · Paid
+2. **[Grokking Data Structures & Algorithms for Coding Interviews](https://www.sefism.com/resources/grokking-data-structures-algorithms-for-coding-interviews/)** · Design Gurus · Paid
+3. **[Grokking Dynamic Programming Patterns for Coding Interviews](https://www.sefism.com/resources/grokking-dynamic-programming-patterns-for-coding-interviews/)** · Design Gurus · Paid
+4. **[Grokking 75: Top Coding Interview Questions](https://www.sefism.com/resources/grokking-75-top-coding-interview-questions/)** · Design Gurus · Paid
+5. **[Blind 75 Practice List](https://www.sefism.com/resources/blind-75-practice-list/)** · Design Gurus · Free
+6. **[LeetCode](https://www.sefism.com/resources/leetcode/)** · LeetCode · Free
+7. **[NeetCode Roadmap](https://www.sefism.com/resources/neetcode-roadmap/)** · NeetCode · Free
+8. **[LeetCode Patterns by Sean Prashad](https://www.sefism.com/resources/leetcode-patterns-by-sean-prashad/)** · Sean Prashad · Free
+9. **[Tech Interview Handbook](https://www.sefism.com/resources/tech-interview-handbook/)** · Yangshun Tay · Free
+10. **[Cracking the Coding Interview](https://www.sefism.com/resources/cracking-the-coding-interview/)** · Gayle Laakmann McDowell · Paid
 
 ## Course
 
@@ -67,9 +81,9 @@
 
 ## Platform
 
+- [Aced (formerly Exponent)](https://www.sefism.com/resources/exponent/) · Exponent · Paid
 - [Codeforces](https://www.sefism.com/resources/codeforces/) · Codeforces · Free · Advanced
 - [Design Gurus Problem Set](https://www.sefism.com/resources/design-gurus-problem-set/) · Design Gurus · Free
-- [Exponent](https://www.sefism.com/resources/exponent/) · Exponent · Paid
 - [HackerEarth Practice](https://www.sefism.com/resources/hackerearth-practice/) · HackerEarth · Free
 - [HackerRank Interview Preparation Kit](https://www.sefism.com/resources/hackerrank-interview-preparation-kit/) · HackerRank · Free · Beginner
 - [interviewing.io](https://www.sefism.com/resources/interviewingio/) · interviewing.io · Paid
@@ -106,6 +120,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-19. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
