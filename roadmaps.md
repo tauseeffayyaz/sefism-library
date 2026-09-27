@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-17 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
+18 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
 
 Every roadmap puts the concepts in a clear order, so you always know what to learn next and why it comes before the next thing. They are built for **AI-assisted learning**: you learn with AI, but it does not do the work for you.
 
@@ -20,7 +20,7 @@ A real stage prompt:
 - [Foundations](#foundations) (3)
 - [Build products](#build-products) (4)
 - [Specialise](#specialise) (5)
-- [Career](#career) (5)
+- [Career](#career) (6)
 
 ## Foundations
 
@@ -486,8 +486,35 @@ For senior engineers who already own designs and influence their team, and want 
 
 </details>
 
+### [Your first tech job](https://www.sefism.com/roadmaps/first-job/)
+
+For students and graduates who have accepted, or just started, their first software job and want to do well in it rather than just survive. By the end you can find your way around a new codebase and team, ship reviewed pull requests safely, keep your manager informed, look after yourself and walk into your first review and raise conversation with evidence.
+
+**Inside:** 8 stages · about 74 hours · 8 AI study prompts · 4 projects
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Before day one**: Reading your contract before you sign, IP, non-compete, side work and bond clauses, Spotting fake offers and joining fees, Learning about the company, Paperwork, accounts and security basics
+2. **The first two weeks**: Agreeing your onboarding plan, Getting your development environment working, Reading an unfamiliar codebase, Following one feature end to end, Asking good questions, at the right time
+3. **Working with your team**: Standups that help the team, Tickets and acceptance criteria, Giving honest estimates, Sprint planning, reviews and retrospectives, Written, low-context updates
+4. **Your first pull requests**: Keeping pull requests small, Descriptions and self-review, Testing your change and passing CI, Receiving code review without taking it personally, Reviewing other people's code
+5. **Communication and visibility**: Short weekly status updates, Raising blockers and risks early, Running useful one-on-ones, Starting your work log, Asking for and receiving feedback
+6. **Productivity and learning on the job**: Knowing what matters most this week, Protecting focus time, A routine for getting unstuck, Using AI assistants within company policy, Owning what an AI assistant writes
+7. **Workplace basics**: Getting through probation, How performance reviews work, Payslips, leave and benefits, Notice periods and leaving well, Workplace rights and reporting harassment
+8. **Your first year plan**: Setting goals with your manager, Reading your career ladder, When and how to ask for more responsibility, Your first raise conversation, Mentors and your network inside the company
+
+**By the end you can:**
+
+- Read your contract, spot fake offers and arrive on day one with accounts secured and questions ready
+- Get a working setup and merge a first small change within your first two weeks, with notes you can reuse
+- Open small, well-described pull requests, take review well and review teammates' code with useful comments
+- Send short weekly updates, raise blockers early and run your own one-on-ones with a list
+- Keep a work log all year and agree written goals, so your probation, first review and raise conversation rest on evidence
+
+</details>
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-27. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

@@ -2,14 +2,14 @@
 
 [← Back to the Sefism Library](README.md)
 
-17 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
+18 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
 
 Each cheat sheet puts the key concepts of a topic on a few pages, with code and the common mistakes, and is written to go with the matching roadmap. Sheets with a language or framework choice have one edition per option.
 
 - [Foundations](#foundations) (3)
 - [Build products](#build-products) (4)
 - [Specialise](#specialise) (5)
-- [Career](#career) (5)
+- [Career](#career) (6)
 
 ## Foundations
 
@@ -35,7 +35,7 @@ For students. Semester by semester plan for CS students.
 
 **Editions:** [First or second year](https://www.sefism.com/cheatsheets/job-ready/) · [Third year](https://www.sefism.com/cheatsheets/job-ready/middle/) · [Final year or graduated](https://www.sefism.com/cheatsheets/job-ready/final/)
 
-**Chapters:** Programming and object-oriented design · Software engineering practice and Git · Data structures and algorithms · Database management systems · Operating systems · Computer networks and the web · Projects and portfolio · Resume, network and the hiring process
+**Chapters:** Programming and object-oriented design · Software engineering practice and Git · Data structures and algorithms · Database management systems · Operating systems · Computer networks and the web · Projects and portfolio · Choosing a direction and going deeper · Resume, network and the hiring process
 
 ## Build products
 
@@ -148,8 +148,15 @@ For tech leads and managers. Staff engineer or manager.
 
 **Chapters:** Owning architecture across teams · Leading projects · Leading incidents and postmortems · Communication and influence
 
+### [Your first tech job](https://www.sefism.com/cheatsheets/first-job/)
+
+For new engineers. First 90 days, reviews, growing fast.
+
+
+**Chapters:** Before day one · The first two weeks · Working with your team · Your first pull requests · Communication and visibility · Productivity and learning on the job · Workplace basics · Your first year plan
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-25. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-27. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
