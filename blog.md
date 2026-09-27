@@ -2,10 +2,40 @@
 
 [← Back to the Sefism Library](README.md)
 
-35 articles on AI engineering, software engineering and career growth, newest first.
+50 articles on AI engineering, software engineering and career growth, newest first.
 
 Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
+- **[Will AI Replace Software Engineers? An Honest Look at the Data in 2026](https://www.sefism.com/blog/will-ai-replace-software-engineers/)**  
+  Will AI replace software engineers?
+- **[Which Programming Language Is in Demand in Pakistan? A 2026 Guide by Job Type](https://www.sefism.com/blog/which-programming-language-is-in-demand-in-pakistan/)**  
+  JavaScript, Python, Java, C#, PHP, Go, Kotlin, Swift and Dart mapped to the jobs they lead to in Pakistan and globally, with what software houses hire for and a decision table…
+- **[Trainee Software Engineer Jobs for Fresh Graduates in Pakistan: How Hiring Works](https://www.sefism.com/blog/trainee-software-engineer-jobs-for-fresh-graduates-in-pakistan/)**  
+  How trainee and associate software engineer hiring works at Pakistani software houses: online assessments, technical and HR rounds, training, probation and bonds, what to…
+- **[Scope of Software Engineering in Pakistan in 2026: An Honest Picture](https://www.sefism.com/blog/scope-of-software-engineering-in-pakistan/)**  
+  Record IT exports, fewer entry-level hires and the AI shift: where software engineering jobs in Pakistan really are, what separates hired graduates, and what moves salary.
+- **[Remote Jobs in Pakistan: How Software Engineers Get Remote Work That Pays in Dollars](https://www.sefism.com/blog/remote-jobs-in-pakistan-for-software-engineers/)**  
+  A practical guide to remote jobs in Pakistan for software engineers: the four kinds of remote work, where to find real listings, what remote employers screen for, getting paid…
+- **[No Job After BSCS? A 90 Day Plan for Unemployed CS Graduates](https://www.sefism.com/blog/no-job-after-bscs-90-day-plan/)**  
+  No job after BSCS and months of silence?
+- **[MS in Computer Science Abroad from Pakistan: Countries, Scholarships and Timeline](https://www.sefism.com/blog/ms-in-computer-science-abroad-from-pakistan-scholarships/)**  
+  Thinking about an MS in computer science abroad from Pakistan?
+- **[How to Learn DSA from Scratch: A 12-Week DSA Roadmap for Beginners](https://www.sefism.com/blog/how-to-learn-dsa-from-scratch/)**  
+  How to learn DSA from scratch when you cannot solve anything yet: a phased 12-week plan, how to start LeetCode, how many problems are enough, a review system so you stop…
+- **[How to Get an Internship in Pakistan as a Software Engineering Student (2026)](https://www.sefism.com/blog/how-to-get-a-software-engineering-internship-in-pakistan/)**  
+  Where software engineering internships in Pakistan come from, when to apply for summer 2026 and 2027, paid vs unpaid internships honestly, what to put on a CV with no experience,…
+- **[How to Become an AI Engineer in Pakistan: Roles, Real Job Requirements and a 2026 Roadmap](https://www.sefism.com/blog/how-to-become-an-ai-engineer-in-pakistan/)**  
+  How to become an AI engineer in Pakistan: AI engineer vs ML engineer vs data scientist, what AI jobs in Pakistan and remote roles actually ask for, a realistic 2026 roadmap from…
+- **[How to Become a DevOps Engineer in Pakistan: An Honest Roadmap for Beginners](https://www.sefism.com/blog/how-to-become-a-devops-engineer-in-pakistan/)**  
+  How to become a DevOps engineer when it is rarely a fresh-grad title: the realistic routes in, a DevOps roadmap for beginners, AWS vs Azure, which certifications are worth it,…
+- **[How to Become a Data Analyst in Pakistan: Skills, Jobs and a 16 Week Roadmap](https://www.sefism.com/blog/how-to-become-a-data-analyst-in-pakistan/)**  
+  How to become a data analyst in Pakistan: the SQL, Excel, Power BI and Python skills employers ask for, where the jobs are, a 16 week plan, portfolio projects on real data, and…
+- **[FYP Ideas for BSCS 2026: How to Choose a Final Year Project That Gets You Hired](https://www.sefism.com/blog/fyp-ideas-for-bscs-how-to-choose-a-final-year-project/)**  
+  How to choose a final year project that recruiters care about: a real problem, real users, scope that fits two semesters, the right supervisor and team split, the mistakes to…
+- **[Freelancing vs Job in Pakistan: An Honest Guide for Developers (2026)](https://www.sefism.com/blog/freelancing-vs-job-in-pakistan-for-developers/)**  
+  Freelancing vs job in Pakistan, compared honestly: who should freelance first, how to start as a developer, Upwork vs Fiverr, getting paid through Payoneer and bank channels,…
+- **[BSCS vs BSSE vs BS AI vs BS Data Science: Which Should You Choose in Pakistan?](https://www.sefism.com/blog/bscs-vs-bsse-vs-bs-ai-vs-bs-data-science/)**  
+  An honest admission-season comparison of BSCS, BSSE, BS AI and BS Data Science in Pakistan: what each degree teaches, how employers read it, and how to choose by interest and…
 - **[Getting Into Cybersecurity as a Fresh Graduate: Where to Actually Start](https://www.sefism.com/blog/getting-into-cybersecurity-as-a-fresh-graduate/)**  
   A practical route into cybersecurity or IT operations for final year students and fresh graduates: whether to keep a low paid internship, SOC analyst versus operations versus…
 - **[Moving Into Tech From a Commerce Degree: Which Paths Actually Pay](https://www.sefism.com/blog/moving-into-tech-from-a-commerce-degree/)**  

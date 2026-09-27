@@ -56,7 +56,7 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <sub>Curated courses, books, guides, tools and repos</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#blog"><b>Blog</b></a>&nbsp;<sub>35</sub><br>
+<a href="#blog"><b>Blog</b></a>&nbsp;<sub>50</sub><br>
 <sub>AI engineering, software engineering and careers</sub>
 </td>
 </tr>
@@ -427,20 +427,35 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Blog
 
-35 articles on AI engineering, software engineering and career growth.
+50 articles on AI engineering, software engineering and career growth.
 
 | Latest articles |
 | :-- |
-| **[Getting Into Cybersecurity as a Fresh Graduate: Where to Actually Start](https://www.sefism.com/blog/getting-into-cybersecurity-as-a-fresh-graduate/)**<br><sub>A practical route into cybersecurity or IT operations for final year students and fresh graduates: whether to keep a low paid internship, SOC…</sub> |
-| **[Moving Into Tech From a Commerce Degree: Which Paths Actually Pay](https://www.sefism.com/blog/moving-into-tech-from-a-commerce-degree/)**<br><sub>An honest guide for commerce graduates who want a better paid career in tech: how salaries really grow, which paths turn a finance and business…</sub> |
-| **[Returning to Software Engineering After a Career Break: A Realistic Plan](https://www.sefism.com/blog/returning-to-software-engineering-after-a-career-break/)**<br><sub>A practical guide to getting back into software development after years away: the skills that matter today, which area to focus on, how to rebuild…</sub> |
-| **[Why Your Resume Is Not Getting Shortlisted, and How to Fix It](https://www.sefism.com/blog/why-your-resume-is-not-getting-shortlisted/)**<br><sub>Strong grades do not get a software resume shortlisted on their own. How screening really works, what applicant tracking systems do and do not do…</sub> |
-| **[From CSE Graduate to Your First Software Engineering Job](https://www.sefism.com/blog/from-cse-graduate-to-first-software-engineering-job/)**<br><sub>Job, timing and learning are one loop that traps graduates. How to run learning, applications and interview practice in parallel, what to stop…</sub> |
-| **[Left Your Job to Learn? How Experienced Developers Should Use the Gap](https://www.sefism.com/blog/what-to-learn-after-leaving-your-job-as-an-experienced-developer/)**<br><sub>Resigning after years in software to learn new things can reset your career or quietly drain your savings. How to choose a direction before topics…</sub> |
+| **[Will AI Replace Software Engineers? An Honest Look at the Data in 2026](https://www.sefism.com/blog/will-ai-replace-software-engineers/)**<br><sub>Will AI replace software engineers? What Stanford research really shows about junior hiring, what is happening in Pakistan with record IT exports…</sub> |
+| **[Which Programming Language Is in Demand in Pakistan? A 2026 Guide by Job Type](https://www.sefism.com/blog/which-programming-language-is-in-demand-in-pakistan/)**<br><sub>JavaScript, Python, Java, C#, PHP, Go, Kotlin, Swift and Dart mapped to the jobs they lead to in Pakistan and globally, with what software houses…</sub> |
+| **[Trainee Software Engineer Jobs for Fresh Graduates in Pakistan: How Hiring Works](https://www.sefism.com/blog/trainee-software-engineer-jobs-for-fresh-graduates-in-pakistan/)**<br><sub>How trainee and associate software engineer hiring works at Pakistani software houses: online assessments, technical and HR rounds, training…</sub> |
+| **[Scope of Software Engineering in Pakistan in 2026: An Honest Picture](https://www.sefism.com/blog/scope-of-software-engineering-in-pakistan/)**<br><sub>Record IT exports, fewer entry-level hires and the AI shift: where software engineering jobs in Pakistan really are, what separates hired graduates…</sub> |
+| **[Remote Jobs in Pakistan: How Software Engineers Get Remote Work That Pays in Dollars](https://www.sefism.com/blog/remote-jobs-in-pakistan-for-software-engineers/)**<br><sub>A practical guide to remote jobs in Pakistan for software engineers: the four kinds of remote work, where to find real listings, what remote…</sub> |
+| **[No Job After BSCS? A 90 Day Plan for Unemployed CS Graduates](https://www.sefism.com/blog/no-job-after-bscs-90-day-plan/)**<br><sub>No job after BSCS and months of silence? A structured 90 day plan: diagnose where your search is failing, build one strong project, apply with…</sub> |
 
 <details>
-<summary><b>All 35 articles</b></summary>
+<summary><b>All 50 articles</b></summary>
 
+- [MS in Computer Science Abroad from Pakistan: Countries, Scholarships and Timeline](https://www.sefism.com/blog/ms-in-computer-science-abroad-from-pakistan-scholarships/)
+- [How to Learn DSA from Scratch: A 12-Week DSA Roadmap for Beginners](https://www.sefism.com/blog/how-to-learn-dsa-from-scratch/)
+- [How to Get an Internship in Pakistan as a Software Engineering Student (2026)](https://www.sefism.com/blog/how-to-get-a-software-engineering-internship-in-pakistan/)
+- [How to Become an AI Engineer in Pakistan: Roles, Real Job Requirements and a 2026 Roadmap](https://www.sefism.com/blog/how-to-become-an-ai-engineer-in-pakistan/)
+- [How to Become a DevOps Engineer in Pakistan: An Honest Roadmap for Beginners](https://www.sefism.com/blog/how-to-become-a-devops-engineer-in-pakistan/)
+- [How to Become a Data Analyst in Pakistan: Skills, Jobs and a 16 Week Roadmap](https://www.sefism.com/blog/how-to-become-a-data-analyst-in-pakistan/)
+- [FYP Ideas for BSCS 2026: How to Choose a Final Year Project That Gets You Hired](https://www.sefism.com/blog/fyp-ideas-for-bscs-how-to-choose-a-final-year-project/)
+- [Freelancing vs Job in Pakistan: An Honest Guide for Developers (2026)](https://www.sefism.com/blog/freelancing-vs-job-in-pakistan-for-developers/)
+- [BSCS vs BSSE vs BS AI vs BS Data Science: Which Should You Choose in Pakistan?](https://www.sefism.com/blog/bscs-vs-bsse-vs-bs-ai-vs-bs-data-science/)
+- [Getting Into Cybersecurity as a Fresh Graduate: Where to Actually Start](https://www.sefism.com/blog/getting-into-cybersecurity-as-a-fresh-graduate/)
+- [Moving Into Tech From a Commerce Degree: Which Paths Actually Pay](https://www.sefism.com/blog/moving-into-tech-from-a-commerce-degree/)
+- [Returning to Software Engineering After a Career Break: A Realistic Plan](https://www.sefism.com/blog/returning-to-software-engineering-after-a-career-break/)
+- [Why Your Resume Is Not Getting Shortlisted, and How to Fix It](https://www.sefism.com/blog/why-your-resume-is-not-getting-shortlisted/)
+- [From CSE Graduate to Your First Software Engineering Job](https://www.sefism.com/blog/from-cse-graduate-to-first-software-engineering-job/)
+- [Left Your Job to Learn? How Experienced Developers Should Use the Gap](https://www.sefism.com/blog/what-to-learn-after-leaving-your-job-as-an-experienced-developer/)
 - [LinkedIn for Engineers: What Actually Works, and What Is Folklore](https://www.sefism.com/blog/linkedin-for-engineers-what-actually-works/)
 - [Git, Properly: The Model Behind the Commands You Use Every Day](https://www.sefism.com/blog/git-the-model-behind-the-commands/)
 - [Twelve Moves That Take You From Mid Level to Senior](https://www.sefism.com/blog/twelve-moves-that-take-you-from-mid-level-to-senior/)
