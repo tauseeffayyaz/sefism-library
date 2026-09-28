@@ -2,18 +2,18 @@
 
 [← Back to the Sefism Library](../README.md)
 
-88 resources, each with a short review on Sefism explaining who it is for.
+92 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=system_design)
 
 - [Top picks: system design](#top-picks-system-design) (10)
 - [Course](#course) (12)
 - [Roadmap](#roadmap) (2)
-- [Guide](#guide) (51)
+- [Guide](#guide) (52)
 - [Platform](#platform) (1)
 - [Tool](#tool) (2)
 - [GitHub repo](#github-repo) (8)
-- [Book](#book) (9)
+- [Book](#book) (12)
 - [Video](#video) (3)
 
 ## Top picks: system design
@@ -64,6 +64,7 @@
 - [Capital One Tech Blog](https://www.sefism.com/resources/capital-one-tech-blog/) · Capital One · Free · Intermediate
 - [Cloud Design Patterns](https://www.sefism.com/resources/azure-cloud-design-patterns/) · Microsoft · Free · Intermediate
 - [Cloudflare Blog](https://www.sefism.com/resources/cloudflare-blog/) · Cloudflare · Free · Advanced
+- [CNCF Platforms White Paper](https://www.sefism.com/resources/cncf-platforms-white-paper/) · CNCF TAG App Delivery · Free · Intermediate
 - [Code as Craft (Etsy)](https://www.sefism.com/resources/etsy-code-as-craft/) · Etsy · Free · Advanced
 - [Databricks Engineering Blog](https://www.sefism.com/resources/databricks-engineering-blog/) · Databricks · Free · Advanced
 - [Design Docs at Google](https://www.sefism.com/resources/design-docs-at-google/) · Malte Ubl · Free · Intermediate
@@ -131,8 +132,11 @@
 - [Fundamentals of Data Engineering](https://www.sefism.com/resources/fundamentals-of-data-engineering/) · O'Reilly Media (Joe Reis and Matt Housley) · Paid · Beginner
 - [Fundamentals of Software Architecture](https://www.sefism.com/resources/fundamentals-of-software-architecture/) · Mark Richards and Neal Ford · Paid · Intermediate
 - [Google Site Reliability Engineering Book](https://www.sefism.com/resources/google-site-reliability-engineering-book/) · Google · Free · Advanced
+- [Implementing Service Level Objectives](https://www.sefism.com/resources/implementing-service-level-objectives/) · O'Reilly Media · Paid · Intermediate
+- [Release It! Design and Deploy Production-Ready Software](https://www.sefism.com/resources/release-it/) · Pragmatic Bookshelf · Paid · Intermediate
 - [Software Architecture: The Hard Parts](https://www.sefism.com/resources/software-architecture-the-hard-parts/) · Neal Ford, Mark Richards and others · Paid · Advanced
 - [System Design Interview: An Insider's Guide](https://www.sefism.com/resources/system-design-interview-an-insiders-guide/) · Alex Xu · Paid · Intermediate
+- [The Site Reliability Workbook](https://www.sefism.com/resources/the-site-reliability-workbook/) · Google (O'Reilly) · Free · Intermediate
 - [Understanding Distributed Systems](https://www.sefism.com/resources/understanding-distributed-systems/) · Roberto Vitillo · Paid · Intermediate
 
 ## Video
@@ -143,6 +147,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-27. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

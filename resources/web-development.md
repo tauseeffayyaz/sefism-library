@@ -2,19 +2,19 @@
 
 [← Back to the Sefism Library](../README.md)
 
-145 resources, each with a short review on Sefism explaining who it is for.
+163 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=web_development)
 
 - [Top picks: web development](#top-picks-web-development) (10)
 - [Course](#course) (22)
 - [Roadmap](#roadmap) (7)
-- [Guide](#guide) (60)
+- [Guide](#guide) (73)
 - [Cheat sheet](#cheat-sheet) (4)
 - [Platform](#platform) (8)
-- [Tool](#tool) (25)
+- [Tool](#tool) (29)
 - [GitHub repo](#github-repo) (11)
-- [Book](#book) (4)
+- [Book](#book) (5)
 - [Video](#video) (3)
 - [Community](#community) (1)
 
@@ -70,6 +70,7 @@
 
 - [Angular Documentation](https://www.sefism.com/resources/angular-documentation/) · Google · Free
 - [ASP.NET Core Documentation](https://www.sefism.com/resources/aspnet-core-documentation/) · Microsoft · Free
+- [Axum Documentation](https://www.sefism.com/resources/axum-documentation/) · Tokio · Free · Intermediate
 - [Chrome DevTools Documentation](https://www.sefism.com/resources/chrome-devtools-documentation/) · Google · Free · Beginner
 - [Django REST Framework](https://www.sefism.com/resources/django-rest-framework-documentation/) · Encode · Free · Beginner
 - [Django Tutorial (official)](https://www.sefism.com/resources/django-tutorial/) · Django Software Foundation · Free · Beginner
@@ -88,6 +89,10 @@
 - [Learn OpenAPI](https://www.sefism.com/resources/openapi-learn/) · OpenAPI Initiative · Free · Beginner
 - [MDN Web Docs](https://www.sefism.com/resources/mdn-web-docs/) · Mozilla · Free
 - [MDN: HTTP](https://www.sefism.com/resources/mdn-http/) · Mozilla · Free · Beginner
+- [MongoDB Java Driver Documentation](https://www.sefism.com/resources/mongodb-java-driver-documentation/) · MongoDB · Free · Intermediate
+- [MongoDB Manual](https://www.sefism.com/resources/mongodb-manual/) · MongoDB · Free
+- [MongoDB Node.js Driver Documentation](https://www.sefism.com/resources/mongodb-node-driver-documentation/) · MongoDB · Free · Intermediate
+- [Mongoose Documentation](https://www.sefism.com/resources/mongoose-documentation/) · Mongoose (Automattic) · Free · Intermediate
 - [MySQL Reference Manual](https://www.sefism.com/resources/mysql-reference-manual/) · Oracle · Free
 - [MySQL Tutorial (official manual)](https://www.sefism.com/resources/mysql-tutorial/) · Oracle · Free · Beginner
 - [NestJS Documentation](https://www.sefism.com/resources/nestjs-documentation/) · NestJS · Free · Intermediate
@@ -105,6 +110,7 @@
 - [PostgreSQL Tutorial](https://www.sefism.com/resources/postgresql-tutorial/) · PostgreSQL Global Development Group · Free · Beginner
 - [Postman Learning Center](https://www.sefism.com/resources/postman-learning-center/) · Postman · Free · Beginner
 - [Prisma Documentation](https://www.sefism.com/resources/prisma-documentation/) · Prisma · Free · Intermediate
+- [PyMongo Documentation](https://www.sefism.com/resources/pymongo-documentation/) · MongoDB · Free · Intermediate
 - [RabbitMQ Tutorials](https://www.sefism.com/resources/rabbitmq-tutorials/) · RabbitMQ · Free · Intermediate
 - [React Documentation](https://www.sefism.com/resources/react-documentation/) · Meta · Free
 - [Redis Documentation](https://www.sefism.com/resources/redis-documentation/) · Redis · Free · Intermediate
@@ -112,12 +118,18 @@
 - [SEO Starter Guide (Google Search Central)](https://www.sefism.com/resources/google-seo-starter-guide/) · Google · Free · Beginner
 - [Shopify Liquid Reference](https://www.sefism.com/resources/shopify-liquid-reference/) · Shopify · Free
 - [Shopify Theme Development Docs](https://www.sefism.com/resources/shopify-theme-docs/) · Shopify · Free · Intermediate
+- [Spring Boot Reference Documentation](https://www.sefism.com/resources/spring-boot-documentation/) · Broadcom (Spring team) · Free · Intermediate
+- [Spring Data JPA Reference Documentation](https://www.sefism.com/resources/spring-data-jpa-documentation/) · Broadcom (Spring team) · Free · Intermediate
+- [Spring Data MongoDB Documentation](https://www.sefism.com/resources/spring-data-mongodb-documentation/) · Spring · Free · Intermediate
 - [Spring Guides](https://www.sefism.com/resources/spring-guides/) · Broadcom (Spring team) · Free · Intermediate
+- [Spring Security Reference Documentation](https://www.sefism.com/resources/spring-security-documentation/) · Broadcom (Spring team) · Free · Intermediate
 - [SQL Server Documentation](https://www.sefism.com/resources/sql-server-documentation/) · Microsoft · Free
+- [SQLx Documentation](https://www.sefism.com/resources/sqlx-documentation/) · SQLx maintainers · Free · Intermediate
 - [Stripe Documentation](https://www.sefism.com/resources/stripe-documentation/) · Stripe · Free · Intermediate
 - [Supabase Documentation](https://www.sefism.com/resources/supabase-documentation/) · Supabase · Free · Intermediate
 - [Tailwind CSS Documentation](https://www.sefism.com/resources/tailwind-css-documentation/) · Tailwind Labs · Free
 - [The TypeScript Handbook](https://www.sefism.com/resources/typescript-handbook/) · Microsoft · Free · Intermediate
+- [Tokio Tutorial](https://www.sefism.com/resources/tokio-tutorial/) · Tokio · Free · Intermediate
 - [Use The Index, Luke](https://www.sefism.com/resources/use-the-index-luke/) · Markus Winand · Free · Intermediate
 - [Vite Guide](https://www.sefism.com/resources/vite-documentation/) · Vite · Free · Beginner
 - [Vitest Documentation](https://www.sefism.com/resources/vitest-documentation/) · Vitest · Free · Intermediate
@@ -128,6 +140,7 @@
 - [WordPress Block Editor Handbook](https://www.sefism.com/resources/wordpress-block-editor-handbook/) · WordPress.org · Free · Intermediate
 - [WordPress Developer Resources](https://www.sefism.com/resources/wordpress-developer-resources/) · WordPress.org · Free · Intermediate
 - [Zalando RESTful API Guidelines](https://www.sefism.com/resources/zalando-restful-api-guidelines/) · Zalando · Free · Intermediate
+- [Zod Documentation](https://www.sefism.com/resources/zod-documentation/) · Colin McDonnell · Free · Intermediate
 
 ## Cheat sheet
 
@@ -158,6 +171,10 @@
 - [Google Search Console](https://www.sefism.com/resources/google-search-console/) · Google · Free · Beginner
 - [Lemon Squeezy](https://www.sefism.com/resources/lemon-squeezy/) · Lemon Squeezy (Stripe) · Free · Beginner
 - [Local](https://www.sefism.com/resources/localwp/) · WP Engine · Free · Beginner
+- [Mongo Playground](https://www.sefism.com/resources/mongo-playground/) · feliixx (open source project) · Free · Beginner
+- [MongoDB Atlas](https://www.sefism.com/resources/mongodb-atlas/) · MongoDB · Free
+- [MongoDB Compass](https://www.sefism.com/resources/mongodb-compass/) · MongoDB · Free
+- [MongoDB Shell (mongosh)](https://www.sefism.com/resources/mongodb-shell/) · MongoDB · Free
 - [MySQL Workbench](https://www.sefism.com/resources/mysql-workbench/) · Oracle · Free
 - [nvm (Node Version Manager)](https://www.sefism.com/resources/nvm/) · nvm-sh · Free · Beginner
 - [Paddle](https://www.sefism.com/resources/paddle/) · Paddle · Free · Intermediate
@@ -195,6 +212,7 @@
 - [OAuth 2.0 Simplified](https://www.sefism.com/resources/oauth-2-simplified/) · Aaron Parecki (Okta) · Free · Intermediate
 - [Refactoring UI](https://www.sefism.com/resources/refactoring-ui/) · Adam Wathan and Steve Schoger · Paid
 - [Test-Driven Development with Python (Obey the Testing Goat)](https://www.sefism.com/resources/obey-the-testing-goat/) · Harry Percival · Free · Intermediate
+- [Zero To Production In Rust](https://www.sefism.com/resources/zero-to-production-in-rust/) · Luca Palmieri · Paid · Intermediate
 
 ## Video
 
@@ -208,6 +226,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-27. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

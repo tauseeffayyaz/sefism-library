@@ -2,21 +2,21 @@
 
 [← Back to the Sefism Library](../README.md)
 
-171 resources, each with a short review on Sefism explaining who it is for.
+190 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=career)
 
 - [Top picks: career growth](#top-picks-career-growth) (6)
-- [Course](#course) (15)
-- [Roadmap](#roadmap) (8)
-- [Guide](#guide) (55)
+- [Course](#course) (22)
+- [Roadmap](#roadmap) (9)
+- [Guide](#guide) (58)
 - [Cheat sheet](#cheat-sheet) (1)
 - [Platform](#platform) (36)
 - [Tool](#tool) (20)
 - [GitHub repo](#github-repo) (4)
-- [Book](#book) (16)
-- [Video](#video) (1)
-- [Community](#community) (6)
+- [Book](#book) (22)
+- [Video](#video) (2)
+- [Community](#community) (7)
 - [Scholarship](#scholarship) (9)
 
 ## Top picks: career growth
@@ -30,9 +30,13 @@
 
 ## Course
 
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.sefism.com/resources/aws-certified-cloud-practitioner/) · Amazon Web Services · Paid · Beginner
 - [AWS Certified Data Engineer: Associate (DEA-C01)](https://www.sefism.com/resources/aws-certified-data-engineer-associate/) · Amazon Web Services · Paid · Intermediate
+- [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.sefism.com/resources/aws-certified-solutions-architect-associate/) · Amazon Web Services · Paid · Intermediate
 - [Georgia Tech Online Master of Science in Computer Science (OMSCS)](https://www.sefism.com/resources/georgia-tech-omscs/) · Georgia Institute of Technology · Paid · Intermediate
 - [Google Career Certificates](https://www.sefism.com/resources/google-career-certificates/) · Google (on Coursera) · Paid · Beginner
+- [Google Cloud Associate Cloud Engineer](https://www.sefism.com/resources/google-associate-cloud-engineer/) · Google Cloud · Paid · Intermediate
+- [Google Cloud Digital Leader](https://www.sefism.com/resources/google-cloud-digital-leader/) · Google Cloud · Paid · Beginner
 - [Google Cloud Professional Data Engineer](https://www.sefism.com/resources/google-professional-data-engineer/) · Google Cloud · Paid · Advanced
 - [Google Data Analytics Professional Certificate](https://www.sefism.com/resources/google-data-analytics-certificate/) · Google (Coursera) · Paid · Beginner
 - [Google Technical Writing Courses](https://www.sefism.com/resources/google-technical-writing-courses/) · Google · Free
@@ -40,8 +44,11 @@
 - [Grokking Engineering Leadership Interviews](https://www.sefism.com/resources/grokking-engineering-leadership-interviews/) · Design Gurus · Paid · Advanced
 - [Grokking Tech Salary Negotiations](https://www.sefism.com/resources/grokking-tech-salary-negotiations/) · Design Gurus · Paid
 - [Grokking the Engineering Manager Interview](https://www.sefism.com/resources/grokking-the-engineering-manager-interview/) · Design Gurus · Paid · Advanced
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://www.sefism.com/resources/microsoft-azure-administrator-associate-az-104/) · Microsoft · Paid · Intermediate
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.sefism.com/resources/microsoft-azure-fundamentals-az-900/) · Microsoft · Paid · Beginner
 - [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://www.sefism.com/resources/microsoft-fabric-data-engineer-associate/) · Microsoft · Paid · Intermediate
 - [OffSec PEN-200 and the OSCP+ certification](https://www.sefism.com/resources/offsec-oscp/) · OffSec · Paid · Advanced
+- [Professor Messer's Network+ (N10-009) Course](https://www.sefism.com/resources/professor-messer-network-plus/) · Professor Messer · Free · Beginner
 - [Professor Messer's Security+ (SY0-701) Course](https://www.sefism.com/resources/professor-messer-security-plus/) · Professor Messer · Free · Beginner
 - [Startup School](https://www.sefism.com/resources/yc-startup-school/) · Y Combinator · Free · Beginner
 - [University of the People: Bachelor of Science in Computer Science](https://www.sefism.com/resources/university-of-the-people-computer-science/) · University of the People · Paid · Beginner
@@ -49,6 +56,7 @@
 ## Roadmap
 
 - [Engineering Manager Interview Roadmap](https://www.sefism.com/resources/engineering-manager-interview-roadmap/) · Design Gurus · Paid · Advanced
+- [Learn to Cloud](https://www.sefism.com/resources/learn-to-cloud/) · Learn to Cloud · Free · Beginner
 - [Product Manager Roadmap (roadmap.sh)](https://www.sefism.com/resources/roadmapsh-product-manager/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: BI Analyst](https://www.sefism.com/resources/roadmapsh-bi-analyst/) · roadmap.sh · Free
 - [roadmap.sh: Data Analyst](https://www.sefism.com/resources/roadmapsh-data-analyst/) · roadmap.sh · Free
@@ -63,6 +71,7 @@
 - [Apple Interview Tips](https://www.sefism.com/resources/apple-interview-tips/) · Apple · Free
 - [Atlassian Agile Coach](https://www.sefism.com/resources/atlassian-agile-coach/) · Atlassian · Free · Beginner
 - [Atlassian Team Playbook](https://www.sefism.com/resources/atlassian-team-playbook/) · Atlassian · Free
+- [Cisco CCNA Certification](https://www.sefism.com/resources/cisco-ccna-certification/) · Cisco · Paid · Beginner
 - [CompTIA Cybersecurity Analyst (CySA+)](https://www.sefism.com/resources/comptia-cysa-plus/) · CompTIA · Paid · Intermediate
 - [CompTIA Security+](https://www.sefism.com/resources/comptia-security-plus/) · CompTIA · Paid · Beginner
 - [DeveloperRelations.com (DevRelCon)](https://www.sefism.com/resources/developerrelations-com/) · Hoopy (DevRelCon) · Free
@@ -79,6 +88,7 @@
 - [How to Ask Good Questions (Julia Evans)](https://www.sefism.com/resources/julia-evans-asking-good-questions/) · Julia Evans · Free · Beginner
 - [How To Market A Game](https://www.sefism.com/resources/how-to-market-a-game/) · Chris Zukowski · Free · Intermediate
 - [How To Spot, Avoid, and Report Fake Check Scams](https://www.sefism.com/resources/ftc-fake-check-scams/) · US Federal Trade Commission · Free · Beginner
+- [IIBA Business Analysis Certifications (ECBA, CCBA, CBAP)](https://www.sefism.com/resources/iiba-business-analysis-certifications/) · IIBA · Paid
 - [Irrational Exuberance (Will Larson)](https://www.sefism.com/resources/irrational-exuberance/) · Will Larson · Free · Advanced
 - [ISC2 Certified in Cybersecurity (CC)](https://www.sefism.com/resources/isc2-certified-in-cybersecurity/) · ISC2 · Paid · Beginner
 - [ISTQB Certified Tester Foundation Level (CTFL) v4.0](https://www.sefism.com/resources/istqb-ctfl/) · ISTQB · Free · Beginner
@@ -108,6 +118,7 @@
 - [SVPG Articles (Silicon Valley Product Group)](https://www.sefism.com/resources/svpg-articles/) · Silicon Valley Product Group · Free
 - [Tech Interview Handbook: Resume Guide](https://www.sefism.com/resources/tech-interview-handbook-resume-guide/) · Yangshun Tay · Free
 - [Ten Rules for Negotiating a Job Offer](https://www.sefism.com/resources/ten-rules-for-negotiating-a-job-offer/) · Haseeb Qureshi · Free
+- [The Business Analysis Standard](https://www.sefism.com/resources/iiba-business-analysis-standard/) · IIBA · Free · Beginner
 - [The Complete Freelance Web Developer Guide](https://www.sefism.com/resources/freecodecamp-freelance-web-developer-guide/) · freeCodeCamp · Free · Beginner
 - [The Engineer/Manager Pendulum](https://www.sefism.com/resources/the-engineer-manager-pendulum/) · Charity Majors · Free · Intermediate
 - [The Pragmatic Engineer](https://www.sefism.com/resources/the-pragmatic-engineer/) · Gergely Orosz · Free
@@ -190,17 +201,23 @@
 
 ## Book
 
+- [A Guide to the Business Analysis Body of Knowledge (BABOK Guide v3)](https://www.sefism.com/resources/iiba-babok-guide/) · IIBA · Paid · Intermediate
 - [An Elegant Puzzle](https://www.sefism.com/resources/an-elegant-puzzle/) · Will Larson · Paid · Advanced
 - [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.sefism.com/resources/docs-for-developers/) · Jared Bhatti, Sarah Corleissen, Jen Lambourne, David Nunez and Heidi Waterhouse (Apress) · Paid · Beginner
+- [Doing Discovery](https://www.sefism.com/resources/doing-discovery/) · Peter E. Cohan · Paid · Beginner
+- [Great Demo!](https://www.sefism.com/resources/great-demo/) · Peter E. Cohan · Paid · Beginner
 - [How to Learn to Code and Get a Developer Job](https://www.sefism.com/resources/learn-to-code-and-get-a-developer-job/) · freeCodeCamp (Quincy Larson) · Free · Beginner
 - [Inspired: How to Create Tech Products Customers Love (2nd edition)](https://www.sefism.com/resources/inspired-marty-cagan/) · Marty Cagan (Wiley) · Paid · Beginner
+- [Mastering Technical Sales: The Sales Engineer's Handbook](https://www.sefism.com/resources/mastering-technical-sales/) · John Care (Artech House) · Paid · Beginner
 - [Never Split the Difference](https://www.sefism.com/resources/never-split-the-difference/) · Chris Voss · Paid
 - [On Writing Well](https://www.sefism.com/resources/on-writing-well/) · William Zinsser · Paid
 - [Peopleware](https://www.sefism.com/resources/peopleware/) · Tom DeMarco and Timothy Lister · Paid
 - [Shape Up](https://www.sefism.com/resources/shape-up/) · Ryan Singer, Basecamp · Free · Intermediate
 - [Show Your Work!](https://www.sefism.com/resources/show-your-work/) · Austin Kleon · Paid
 - [Software Engineering at Google](https://www.sefism.com/resources/software-engineering-at-google/) · Titus Winters, Tom Manshreck and Hyrum Wright · Free · Intermediate
+- [Software Requirements Essentials: Core Practices for Successful Business Analysis](https://www.sefism.com/resources/software-requirements-essentials/) · Karl Wiegers and Candase Hokanson (Addison-Wesley) · Paid · Beginner
 - [The Manager's Path](https://www.sefism.com/resources/the-managers-path/) · Camille Fournier · Paid · Intermediate
+- [The Minto Pyramid Principle](https://www.sefism.com/resources/the-pyramid-principle/) · Barbara Minto · Paid
 - [The Missing README: A Guide for the New Software Engineer](https://www.sefism.com/resources/the-missing-readme/) · Chris Riccomini and Dmitriy Ryaboy (No Starch Press) · Paid · Beginner
 - [The Mom Test](https://www.sefism.com/resources/the-mom-test/) · Rob Fitzpatrick · Paid · Beginner
 - [The Mythical Man-Month](https://www.sefism.com/resources/the-mythical-man-month/) · Frederick P. Brooks Jr. · Paid
@@ -209,6 +226,7 @@
 
 ## Video
 
+- [Jeremy's IT Lab: CCNA 200-301 Complete Course](https://www.sefism.com/resources/jeremys-it-lab-ccna/) · Jeremy's IT Lab · Free · Beginner
 - [LeadDev](https://www.sefism.com/resources/leaddev/) · LeadDev · Free · Advanced
 
 ## Community
@@ -217,6 +235,7 @@
 - [Google Developer Groups](https://www.sefism.com/resources/google-developer-groups/) · Google · Free · Beginner
 - [Indie Hackers](https://www.sefism.com/resources/indie-hackers/) · Indie Hackers · Free
 - [Ministry of Testing](https://www.sefism.com/resources/ministry-of-testing/) · Ministry of Testing · Free
+- [PreSales Collective](https://www.sefism.com/resources/presales-collective/) · PreSales Collective · Free
 - [r/ExperiencedDevs](https://www.sefism.com/resources/rexperienceddevs/) · Reddit · Free · Advanced
 - [Write the Docs Slack](https://www.sefism.com/resources/write-the-docs-slack/) · Write the Docs · Free
 
@@ -234,6 +253,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-27. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
