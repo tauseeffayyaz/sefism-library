@@ -2,20 +2,20 @@
 
 [← Back to the Sefism Library](../README.md)
 
-163 resources, each with a short review on Sefism explaining who it is for.
+190 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=web_development)
 
 - [Top picks: web development](#top-picks-web-development) (10)
 - [Course](#course) (22)
-- [Roadmap](#roadmap) (7)
+- [Roadmap](#roadmap) (15)
 - [Guide](#guide) (73)
-- [Cheat sheet](#cheat-sheet) (4)
+- [Cheat sheet](#cheat-sheet) (12)
 - [Platform](#platform) (8)
 - [Tool](#tool) (29)
 - [GitHub repo](#github-repo) (11)
 - [Book](#book) (5)
-- [Video](#video) (3)
+- [Video](#video) (14)
 - [Community](#community) (1)
 
 ## Top picks: web development
@@ -65,6 +65,14 @@
 - [roadmap.sh: PostgreSQL DBA](https://www.sefism.com/resources/roadmapsh-postgresql-dba/) · roadmap.sh · Free · Advanced
 - [roadmap.sh: SQL](https://www.sefism.com/resources/roadmapsh-sql/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: WordPress](https://www.sefism.com/resources/roadmapsh-wordpress/) · roadmap.sh · Free
+- [Sefism Backend Development Roadmap](https://www.sefism.com/resources/sefism-backend-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Frontend Development Roadmap](https://www.sefism.com/resources/sefism-frontend-roadmap/) · Sefism · Free · Beginner
+- [Sefism Full Stack Development Roadmap](https://www.sefism.com/resources/sefism-fullstack-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Mobile Development Roadmap](https://www.sefism.com/resources/sefism-mobile-roadmap/) · Sefism · Free · Beginner
+- [Sefism MongoDB Roadmap](https://www.sefism.com/resources/sefism-mongodb-roadmap/) · Sefism · Free · Beginner
+- [Sefism SQL and Databases Roadmap](https://www.sefism.com/resources/sefism-sql-databases-roadmap/) · Sefism · Free · Beginner
+- [Sefism UI/UX Design Roadmap](https://www.sefism.com/resources/sefism-ui-ux-roadmap/) · Sefism · Free · Beginner
+- [Sefism WordPress and Shopify Roadmap](https://www.sefism.com/resources/sefism-cms-sites-roadmap/) · Sefism · Free · Beginner
 
 ## Guide
 
@@ -147,6 +155,14 @@
 - [DevDocs](https://www.sefism.com/resources/devdocs/) · DevDocs · Free
 - [How to Meet WCAG 2.2 (Quick Reference)](https://www.sefism.com/resources/wcag-quick-reference/) · W3C Web Accessibility Initiative · Free
 - [OWASP Cheat Sheet Series](https://www.sefism.com/resources/owasp-cheat-sheet-series/) · OWASP · Free · Intermediate
+- [Sefism Backend Development Cheat Sheet](https://www.sefism.com/resources/sefism-backend-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Frontend Development Cheat Sheet](https://www.sefism.com/resources/sefism-frontend-cheat-sheet/) · Sefism · Free
+- [Sefism Full Stack Development Cheat Sheet](https://www.sefism.com/resources/sefism-fullstack-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Mobile Development Cheat Sheet](https://www.sefism.com/resources/sefism-mobile-cheat-sheet/) · Sefism · Free
+- [Sefism MongoDB Cheat Sheet](https://www.sefism.com/resources/sefism-mongodb-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism SQL and Databases Cheat Sheet](https://www.sefism.com/resources/sefism-sql-databases-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism UI/UX Design Cheat Sheet](https://www.sefism.com/resources/sefism-ui-ux-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism WordPress and Shopify Cheat Sheet](https://www.sefism.com/resources/sefism-cms-sites-cheat-sheet/) · Sefism · Free · Beginner
 - [The A11Y Project Checklist](https://www.sefism.com/resources/a11y-project-checklist/) · The A11Y Project · Free · Beginner
 
 ## Platform
@@ -216,9 +232,20 @@
 
 ## Video
 
+- [Chai aur Code (YouTube channel)](https://www.sefism.com/resources/chai-aur-code-youtube-channel/) · Hitesh Choudhary · Free · Beginner
+- [CodeWithHarry (YouTube channel)](https://www.sefism.com/resources/codewithharry-youtube-channel/) · CodeWithHarry · Free · Beginner
+- [Fireship (YouTube channel)](https://www.sefism.com/resources/fireship-youtube-channel/) · Jeff Delaney (Fireship) · Free
+- [Jack Herrington (YouTube channel)](https://www.sefism.com/resources/jack-herrington-youtube-channel/) · Jack Herrington · Free · Intermediate
 - [JavaScript30](https://www.sefism.com/resources/javascript30/) · Wes Bos · Free · Beginner
+- [Kevin Powell (YouTube channel)](https://www.sefism.com/resources/kevin-powell-youtube-channel/) · Kevin Powell · Free
 - [Laravel Learn (formerly Laravel Bootcamp)](https://www.sefism.com/resources/laravel-bootcamp/) · Laravel · Free · Beginner
+- [Net Ninja (YouTube channel)](https://www.sefism.com/resources/net-ninja-youtube-channel/) · Net Ninja · Free · Beginner
+- [Philipp Lackner (YouTube channel)](https://www.sefism.com/resources/philipp-lackner-youtube-channel/) · Philipp Lackner · Free · Intermediate
 - [PHP For Beginners](https://www.sefism.com/resources/laracasts-php-for-beginners/) · Laracasts · Free · Beginner
+- [Programming with Mosh (YouTube channel)](https://www.sefism.com/resources/programming-with-mosh-youtube-channel/) · Mosh Hamedani · Free · Beginner
+- [Theo (t3.gg) (YouTube channel)](https://www.sefism.com/resources/theo-t3gg-youtube-channel/) · Theo Browne (t3.gg) · Free · Intermediate
+- [Traversy Media (YouTube channel)](https://www.sefism.com/resources/traversy-media-youtube-channel/) · Brad Traversy (Traversy Media) · Free · Beginner
+- [Web Dev Simplified (YouTube channel)](https://www.sefism.com/resources/web-dev-simplified-youtube-channel/) · Kyle Cook (Web Dev Simplified) · Free · Beginner
 
 ## Community
 
@@ -226,6 +253,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

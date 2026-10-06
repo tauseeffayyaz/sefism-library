@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-17 resources, each with a short review on Sefism explaining who it is for.
+21 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=mentorship)
 
@@ -13,7 +13,7 @@
 - [Tool](#tool) (1)
 - [GitHub repo](#github-repo) (1)
 - [Book](#book) (1)
-- [Video](#video) (1)
+- [Video](#video) (5)
 - [Community](#community) (1)
 
 ## Course
@@ -54,6 +54,10 @@
 
 ## Video
 
+- [A Life Engineered (YouTube channel)](https://www.sefism.com/resources/a-life-engineered-youtube-channel/) · Steve Huynh · Free · Intermediate
+- [Hisham Sarwar (YouTube channel)](https://www.sefism.com/resources/hisham-sarwar-youtube-channel/) · Hisham Sarwar · Free · Beginner
+- [Irfan Malik (YouTube channel)](https://www.sefism.com/resources/irfan-malik-youtube-channel/) · Irfan Malik · Free · Beginner
+- [mayuko (YouTube channel)](https://www.sefism.com/resources/mayuko-youtube-channel/) · Mayuko Inoue · Free · Beginner
 - [Soft Skills Engineering](https://www.sefism.com/resources/soft-skills-engineering/) · Dave Smith and Jamison Dance · Free
 
 ## Community
@@ -62,6 +66,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

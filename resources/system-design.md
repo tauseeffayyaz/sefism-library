@@ -2,14 +2,15 @@
 
 [← Back to the Sefism Library](../README.md)
 
-92 resources, each with a short review on Sefism explaining who it is for.
+96 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=system_design)
 
 - [Top picks: system design](#top-picks-system-design) (10)
 - [Course](#course) (12)
-- [Roadmap](#roadmap) (2)
+- [Roadmap](#roadmap) (4)
 - [Guide](#guide) (52)
+- [Cheat sheet](#cheat-sheet) (2)
 - [Platform](#platform) (1)
 - [Tool](#tool) (2)
 - [GitHub repo](#github-repo) (8)
@@ -47,6 +48,8 @@
 ## Roadmap
 
 - [roadmap.sh: System Design](https://www.sefism.com/resources/roadmapsh-system-design/) · roadmap.sh · Free
+- [Sefism Software Design and Clean Code Roadmap](https://www.sefism.com/resources/sefism-software-design-roadmap/) · Sefism · Free · Intermediate
+- [Sefism System Design Roadmap](https://www.sefism.com/resources/sefism-system-design-roadmap/) · Sefism · Free · Intermediate
 - [System Design Interview Playbook](https://www.sefism.com/resources/system-design-interview-playbook/) · Design Gurus · Paid
 
 ## Guide
@@ -104,6 +107,11 @@
 - [Yelp Engineering Blog](https://www.sefism.com/resources/yelp-engineering-blog/) · Yelp · Free · Advanced
 - [Zomato Blog](https://www.sefism.com/resources/zomato-blog/) · Zomato · Free · Intermediate
 
+## Cheat sheet
+
+- [Sefism Software Design and Clean Code Cheat Sheet](https://www.sefism.com/resources/sefism-software-design-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism System Design Cheat Sheet](https://www.sefism.com/resources/sefism-system-design-cheat-sheet/) · Sefism · Free · Intermediate
+
 ## Platform
 
 - [System Design Practice Questions](https://www.sefism.com/resources/system-design-practice-questions/) · Design Gurus · Free · Intermediate
@@ -147,6 +155,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

@@ -2,20 +2,21 @@
 
 [← Back to the Sefism Library](../README.md)
 
-224 resources, each with a short review on Sefism explaining who it is for.
+247 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=ai)
 
 - [Top picks: learn ai](#top-picks-learn-ai) (10)
 - [Top picks: ai tools](#top-picks-ai-tools) (10)
 - [Course](#course) (29)
-- [Roadmap](#roadmap) (2)
+- [Roadmap](#roadmap) (8)
 - [Guide](#guide) (48)
+- [Cheat sheet](#cheat-sheet) (9)
 - [Platform](#platform) (6)
 - [Tool](#tool) (103)
 - [GitHub repo](#github-repo) (17)
 - [Book](#book) (11)
-- [Video](#video) (4)
+- [Video](#video) (12)
 - [Community](#community) (4)
 
 ## Top picks: learn ai
@@ -80,6 +81,12 @@
 
 - [roadmap.sh: AI Agents](https://www.sefism.com/resources/roadmapsh-ai-agents/) · roadmap.sh · Free · Intermediate
 - [roadmap.sh: AI Engineer](https://www.sefism.com/resources/roadmapsh-ai-engineer/) · roadmap.sh · Free · Beginner
+- [Sefism AI Agents and MCP Roadmap](https://www.sefism.com/resources/sefism-ai-agents-roadmap/) · Sefism · Free · Intermediate
+- [Sefism AI Engineering Roadmap](https://www.sefism.com/resources/sefism-ai-engineering-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Coding with AI Tools Roadmap](https://www.sefism.com/resources/sefism-ai-coding-roadmap/) · Sefism · Free
+- [Sefism Data Science Roadmap](https://www.sefism.com/resources/sefism-data-science-roadmap/) · Sefism · Free · Beginner
+- [Sefism Machine Learning Roadmap](https://www.sefism.com/resources/sefism-machine-learning-roadmap/) · Sefism · Free · Beginner
+- [Sefism MLOps and LLMOps Roadmap](https://www.sefism.com/resources/sefism-mlops-roadmap/) · Sefism · Free · Intermediate
 
 ## Guide
 
@@ -131,6 +138,18 @@
 - [Ultralytics YOLO Documentation](https://www.sefism.com/resources/ultralytics-yolo-documentation/) · Ultralytics · Free · Intermediate
 - [Writing Effective Tools for AI Agents](https://www.sefism.com/resources/writing-effective-tools-for-ai-agents/) · Anthropic · Free · Intermediate
 - [Zapier Help Center](https://www.sefism.com/resources/zapier-help-center/) · Zapier · Free
+
+## Cheat sheet
+
+- [Sefism AI Agents and MCP Cheat Sheet](https://www.sefism.com/resources/sefism-ai-agents-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism AI Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-ai-engineering-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Coding with AI Tools Cheat Sheet](https://www.sefism.com/resources/sefism-ai-coding-cheat-sheet/) · Sefism · Free
+- [Sefism Data Science Cheat Sheet](https://www.sefism.com/resources/sefism-data-science-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism LLM APIs Cheat Sheet](https://www.sefism.com/resources/sefism-llm-apis-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Machine Learning Cheat Sheet](https://www.sefism.com/resources/sefism-machine-learning-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism MLflow Cheat Sheet](https://www.sefism.com/resources/sefism-mlflow-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism MLOps and LLMOps Cheat Sheet](https://www.sefism.com/resources/sefism-mlops-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Model Context Protocol Cheat Sheet](https://www.sefism.com/resources/sefism-mcp-cheat-sheet/) · Sefism · Free · Intermediate
 
 ## Platform
 
@@ -284,9 +303,17 @@
 ## Video
 
 - [3Blue1Brown Neural Networks Series](https://www.sefism.com/resources/3blue1brown-neural-networks-series/) · Grant Sanderson · Free · Beginner
+- [AI Engineer (YouTube channel)](https://www.sefism.com/resources/ai-engineer-youtube-channel/) · AI Engineer · Free · Intermediate
+- [CampusX (YouTube channel)](https://www.sefism.com/resources/campusx-youtube-channel/) · CampusX (Nitish Singh) · Free · Beginner
 - [Deep Dive into Large Language Models like ChatGPT](https://www.sefism.com/resources/deep-dive-into-large-language-models-like-chatgpt/) · Andrej Karpathy · Free · Intermediate
+- [DeepLearning.AI (YouTube channel)](https://www.sefism.com/resources/deeplearning-ai-youtube-channel/) · DeepLearning.AI · Free · Beginner
+- [Krish Naik (YouTube channel)](https://www.sefism.com/resources/krish-naik-youtube-channel/) · Krish Naik · Free
 - [Neural Networks: Zero to Hero](https://www.sefism.com/resources/neural-networks-zero-to-hero/) · Andrej Karpathy · Free · Intermediate
+- [sentdex (YouTube channel)](https://www.sefism.com/resources/sentdex-youtube-channel/) · Harrison Kinsley (sentdex) · Free · Intermediate
 - [StatQuest with Josh Starmer](https://www.sefism.com/resources/statquest/) · StatQuest · Free · Beginner
+- [Two Minute Papers (YouTube channel)](https://www.sefism.com/resources/two-minute-papers-youtube-channel/) · Károly Zsolnai-Fehér · Free
+- [Umar Jamil (YouTube channel)](https://www.sefism.com/resources/umar-jamil-youtube-channel/) · Umar Jamil · Free · Advanced
+- [Yannic Kilcher (YouTube channel)](https://www.sefism.com/resources/yannic-kilcher-youtube-channel/) · Yannic Kilcher · Free · Advanced
 
 ## Community
 
@@ -297,6 +324,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

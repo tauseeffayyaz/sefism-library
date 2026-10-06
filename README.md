@@ -13,11 +13,11 @@ A free library for developers: AI-assisted roadmaps, cheat sheets, career questi
 final year project ideas, curated resources, jobs, and guides to Pakistani and global tech companies and universities.
 
 <a href="#free-membership"><img src="https://img.shields.io/badge/Membership-Free-5865f2?style=flat-square" alt="Membership: Free"></a>
-<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-46-5865f2?style=flat-square" alt="Roadmaps: 46"></a>
+<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-47-5865f2?style=flat-square" alt="Roadmaps: 47"></a>
 <a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-49-5865f2?style=flat-square" alt="Cheat sheets: 49"></a>
 <a href="#career-questions"><img src="https://img.shields.io/badge/Questions-191-5865f2?style=flat-square" alt="Questions: 191"></a>
-<a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-253-5865f2?style=flat-square" alt="FYP ideas: 253"></a>
-<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1051-5865f2?style=flat-square" alt="Resources: 1051"></a>
+<a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-353-5865f2?style=flat-square" alt="FYP ideas: 353"></a>
+<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1194-5865f2?style=flat-square" alt="Resources: 1194"></a>
 
 <b><a href="https://www.sefism.com/">Website</a></b> &nbsp;·&nbsp;
 <b><a href="https://www.sefism.com/auth/signup/">Join free</a></b> &nbsp;·&nbsp;
@@ -34,7 +34,7 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>46</sub><br>
+<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>47</sub><br>
 <sub>Step-by-step paths in your language or stack, with AI prompts that test you</sub>
 </td>
 <td width="33%" valign="top">
@@ -48,21 +48,21 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#final-year-project-ideas"><b>FYP ideas</b></a>&nbsp;<sub>253</sub><br>
+<a href="#final-year-project-ideas"><b>FYP ideas</b></a>&nbsp;<sub>353</sub><br>
 <sub>Scoped project briefs with difficulty and a suggested stack</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1051</sub><br>
+<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1194</sub><br>
 <sub>Curated courses, books, guides, tools and repos</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#blog"><b>Blog</b></a>&nbsp;<sub>50</sub><br>
+<a href="#blog"><b>Blog</b></a>&nbsp;<sub>64</sub><br>
 <sub>AI engineering, software engineering and careers</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#pakistani-and-global-tech-companies"><b>Companies</b></a>&nbsp;<sub>506</sub><br>
+<a href="#pakistani-and-global-tech-companies"><b>Companies</b></a>&nbsp;<sub>507</sub><br>
 <sub>Pakistani and global: hiring process, pay ranges and perks, every claim sourced</sub>
 </td>
 <td width="33%" valign="top">
@@ -140,7 +140,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Roadmaps
 
-46 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
+47 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
 
 <table>
 <tr>
@@ -242,6 +242,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | **[Masters and scholarships abroad](https://www.sefism.com/roadmaps/higher-studies/)** | Programmes, funding, SOPs, visas | [`Europe`](https://www.sefism.com/roadmaps/higher-studies/) [`United States`](https://www.sefism.com/roadmaps/higher-studies/usa/) [`United Kingdom`](https://www.sefism.com/roadmaps/higher-studies/uk/) [`Canada and Australia`](https://www.sefism.com/roadmaps/higher-studies/canada-australia/) [`East Asia`](https://www.sefism.com/roadmaps/higher-studies/asia/) | 8 |
 | **[Switch into tech](https://www.sefism.com/roadmaps/career-switch/)** | From another field or no degree | [`A non-CS degree`](https://www.sefism.com/roadmaps/career-switch/) [`Another career`](https://www.sefism.com/roadmaps/career-switch/another-job/) [`Self-taught, no degree`](https://www.sefism.com/roadmaps/career-switch/self-taught/) | 8 |
 | **[Tech roles beyond coding](https://www.sefism.com/roadmaps/non-coding-roles/)** | Product, business analysis, writing and devrel | [`Product manager`](https://www.sefism.com/roadmaps/non-coding-roles/) [`Technical writer`](https://www.sefism.com/roadmaps/non-coding-roles/technical-writer/) [`Developer relations`](https://www.sefism.com/roadmaps/non-coding-roles/devrel/) [`Business analyst`](https://www.sefism.com/roadmaps/non-coding-roles/business-analyst/) | 7 |
+| **[Layoffs and AI](https://www.sefism.com/roadmaps/layoffs-ai/)** | Stay hard to cut, and recover if laid off | One path | 7 |
 | **[Forward deployed and solutions engineering](https://www.sefism.com/roadmaps/forward-deployed/)** | Customer-facing engineering roles | [`Forward deployed engineer`](https://www.sefism.com/roadmaps/forward-deployed/) [`Solutions engineer`](https://www.sefism.com/roadmaps/forward-deployed/solutions/) [`Sales engineer`](https://www.sefism.com/roadmaps/forward-deployed/sales-engineer/) | 10 |
 
 #### Earn independently
@@ -562,20 +563,34 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Blog
 
-50 articles on AI engineering, software engineering and career growth.
+64 articles on AI engineering, software engineering and career growth.
 
 | Latest articles |
 | :-- |
-| **[Freelancing vs Job in Pakistan: An Honest Guide for Developers (2026)](https://www.sefism.com/blog/freelancing-vs-job-in-pakistan-for-developers/)**<br><sub>Freelancing vs job in Pakistan, compared honestly: who should freelance first, how to start as a developer, Upwork vs Fiverr, getting paid through…</sub> |
-| **[No Job After BSCS? A 90 Day Plan for Unemployed CS Graduates](https://www.sefism.com/blog/no-job-after-bscs-90-day-plan/)**<br><sub>No job after BSCS and months of silence? A structured 90 day plan: diagnose where your search is failing, build one strong project, apply with…</sub> |
-| **[How to Become an AI Engineer in Pakistan: Roles, Real Job Requirements and a 2026 Roadmap](https://www.sefism.com/blog/how-to-become-an-ai-engineer-in-pakistan/)**<br><sub>How to become an AI engineer in Pakistan: AI engineer vs ML engineer vs data scientist, what AI jobs in Pakistan and remote roles actually ask for…</sub> |
-| **[Remote Jobs in Pakistan: How Software Engineers Get Remote Work That Pays in Dollars](https://www.sefism.com/blog/remote-jobs-in-pakistan-for-software-engineers/)**<br><sub>A practical guide to remote jobs in Pakistan for software engineers: the four kinds of remote work, where to find real listings, what remote…</sub> |
-| **[Which Programming Language Is in Demand in Pakistan? A 2026 Guide by Job Type](https://www.sefism.com/blog/which-programming-language-is-in-demand-in-pakistan/)**<br><sub>JavaScript, Python, Java, C#, PHP, Go, Kotlin, Swift and Dart mapped to the jobs they lead to in Pakistan and globally, with what software houses…</sub> |
-| **[Will AI Replace Software Engineers? An Honest Look at the Data in 2026](https://www.sefism.com/blog/will-ai-replace-software-engineers/)**<br><sub>Will AI replace software engineers? What Stanford research really shows about junior hiring, what is happening in Pakistan with record IT exports…</sub> |
+| **[IT Fresher Hiring in 2026: What TCS and Infosys Numbers Tell You](https://www.sefism.com/blog/it-fresher-hiring-2026-tcs-infosys/)**<br><sub>TCS has 25,000 fresher offers for FY27 after hiring more than 44,000 in FY26, and Infosys plans about 20,000. What changed in IT services fresher…</sub> |
+| **[Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)**<br><sub>DigiSkills, NAVTTC's Skills of Tomorrow and Punjab's e-Rozgaar compared: what each offers, eligibility, fees, batch timing, who should take which…</sub> |
+| **[EU Blue Card Germany for Software Engineers: 2026 Salary and Steps](https://www.sefism.com/blog/eu-blue-card-germany-software-engineer/)**<br><sub>The 2026 EU Blue Card salary thresholds for IT in Germany, the route for IT specialists without a degree, permanent residence in 21 months, and an…</sub> |
+| **[Is BTech CSE Worth It in 2026? An Honest Answer for Indian Students](https://www.sefism.com/blog/is-btech-cse-worth-it/)**<br><sub>CS engineers still top India's employability data, but mass fresher hiring has shrunk and AI is changing junior work. When a BTech in CSE is worth…</sub> |
+| **[Graduate Tech Jobs in the UK in 2026: Why It Is Hard and What Works](https://www.sefism.com/blog/graduate-tech-jobs-uk/)**<br><sub>UK graduate tech vacancies fell sharply in 2026 and the Graduate visa shrinks to 18 months from January 2027. The latest data, the visa clock for…</sub> |
+| **[How to Get a Job at a GCC in India: A Fresher's Guide (2026)](https://www.sefism.com/blog/how-to-get-a-job-at-a-gcc-in-india/)**<br><sub>GCC hiring in India is heading for about 5.1 lakh jobs in 2026 and most new roles want AI or data skills. How global capability centres hire…</sub> |
 
 <details>
-<summary><b>All 50 articles</b></summary>
+<summary><b>All 64 articles</b></summary>
 
+- [Software Engineer Jobs in Japan for Foreigners: A 2026 Guide](https://www.sefism.com/blog/software-engineer-jobs-in-japan-for-foreigners/)
+- [Most In-Demand Tech Skills in India in 2026, Backed by Hiring Data](https://www.sefism.com/blog/in-demand-tech-skills-in-india/)
+- [AI Automation Freelancing in Pakistan: What Clients Pay For (2026)](https://www.sefism.com/blog/ai-automation-freelancing-in-pakistan/)
+- [Germany Opportunity Card for Software Developers: A 2026 Guide](https://www.sefism.com/blog/germany-opportunity-card-software-developers/)
+- [H-1B Changes 2026: What International Students Should Do Now](https://www.sefism.com/blog/h1b-changes-for-international-students/)
+- [Is Computer Science Still Worth It in 2026? What the US Data Says](https://www.sefism.com/blog/is-computer-science-worth-it/)
+- [How to Find a Mentor in Tech: A Practical Guide for 2026](https://www.sefism.com/blog/how-to-find-a-mentor-in-tech/)
+- [China's Youth Unemployment in 2026: What It Means for Tech Graduates](https://www.sefism.com/blog/china-youth-unemployment-and-tech-jobs/)
+- [Freelancing vs Job in Pakistan: An Honest Guide for Developers (2026)](https://www.sefism.com/blog/freelancing-vs-job-in-pakistan-for-developers/)
+- [No Job After BSCS? A 90 Day Plan for Unemployed CS Graduates](https://www.sefism.com/blog/no-job-after-bscs-90-day-plan/)
+- [How to Become an AI Engineer in Pakistan: Roles, Real Job Requirements and a 2026 Roadmap](https://www.sefism.com/blog/how-to-become-an-ai-engineer-in-pakistan/)
+- [Remote Jobs in Pakistan: How Software Engineers Get Remote Work That Pays in Dollars](https://www.sefism.com/blog/remote-jobs-in-pakistan-for-software-engineers/)
+- [Which Programming Language Is in Demand in Pakistan? A 2026 Guide by Job Type](https://www.sefism.com/blog/which-programming-language-is-in-demand-in-pakistan/)
+- [Will AI Replace Software Engineers? An Honest Look at the Data in 2026](https://www.sefism.com/blog/will-ai-replace-software-engineers/)
 - [How to Learn DSA from Scratch: A 12-Week DSA Roadmap for Beginners](https://www.sefism.com/blog/how-to-learn-dsa-from-scratch/)
 - [Scope of Software Engineering in Pakistan in 2026: An Honest Picture](https://www.sefism.com/blog/scope-of-software-engineering-in-pakistan/)
 - [Getting Into Cybersecurity as a Fresh Graduate: Where to Actually Start](https://www.sefism.com/blog/getting-into-cybersecurity-as-a-fresh-graduate/)
@@ -629,10 +644,10 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Final year project ideas
 
-253 project briefs with scope, difficulty, deliverables and a suggested stack. Open to everyone, and members can start a discussion on any idea to shape it into their own.
+353 project briefs with scope, difficulty, deliverables and a suggested stack. Open to everyone, and members can start a discussion on any idea to shape it into their own.
 
 <details>
-<summary><b>Web</b> &nbsp;<sub>53 ideas</sub></summary>
+<summary><b>Web</b> &nbsp;<sub>65 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
@@ -641,6 +656,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Developer Portfolio and Blog Generator from GitHub and Markdown](https://www.sefism.com/fyp-ideas/developer-portfolio-and-blog-generator-from-github/) | Beginner | `Astro` `TypeScript` `Markdown and MDX` |
 | [Developer Starter Kit Store with Licence Keys](https://www.sefism.com/fyp-ideas/developer-starter-kit-store-with-licence-keys/) | Beginner | `TypeScript` `Node.js` `Next.js or Astro` |
 | [Form Backend Service for Static Sites with Spam Filtering](https://www.sefism.com/fyp-ideas/form-backend-service-for-static-sites-with-spam-filtering/) | Beginner | `Node.js with Express or Hono` `PostgreSQL` `React or Next.js dashboard` |
+| [Government Website Accessibility and Performance Observatory with Monthly Public Reports](https://www.sefism.com/fyp-ideas/government-website-accessibility-and-performance-observatory/) | Beginner | `Node.js or Python` `Lighthouse CLI` `axe-core with Playwright` |
 | [Household Meal Planner with Food Waste Reduction](https://www.sefism.com/fyp-ideas/household-meal-planner-with-food-waste-reduction/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
 | [Job Application Tracker with a Keyword Gap View](https://www.sefism.com/fyp-ideas/job-application-tracker-with-keyword-gap-view/) | Beginner | `Next.js` `TypeScript` `PostgreSQL` |
 | [Masters Application and Scholarship Deadline Planner](https://www.sefism.com/fyp-ideas/masters-application-and-scholarship-deadline-planner/) | Beginner | `Next.js or React` `Node.js` `PostgreSQL or SQLite` |
@@ -654,12 +670,14 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [University Society Events Manager with QR Check-In](https://www.sefism.com/fyp-ideas/university-society-events-with-qr-check-in/) | Beginner | `React` `Node.js with Express` `MongoDB` |
 | [URL Shortener with Click Analytics and a Load Test Report](https://www.sefism.com/fyp-ideas/url-shortener-with-click-analytics-and-load-test-report/) | Beginner | `Node.js` `TypeScript` `PostgreSQL` |
 | [Usability Study and Redesign of a Public Service Flow](https://www.sefism.com/fyp-ideas/usability-study-and-redesign-of-a-public-service-flow/) | Beginner | `Figma with auto layout and components` `FigJam or Excalidraw` `Maze or moderated remote sessions` |
+| [Village-Level Flood Warning Web App in Urdu and Sindhi That Works Offline](https://www.sefism.com/fyp-ideas/village-level-flood-warning-web-app-in-urdu-and-sindhi/) | Beginner | `Next.js or SvelteKit` `Service workers and Web Push` `Leaflet with cached map tiles` |
 | [Work Log and Weekly Update Builder from Git and Issue Activity](https://www.sefism.com/fyp-ideas/work-log-and-weekly-update-builder/) | Beginner | `Next.js` `TypeScript` `GitHub REST or GraphQL API` |
 | [API Contract Checker for Continuous Integration](https://www.sefism.com/fyp-ideas/api-contract-checker-for-continuous-integration/) | Intermediate | `TypeScript` `Node.js` `OpenAPI 3.x and JSON Schema` |
 | [Blood Donor Matching and Request Coordination](https://www.sefism.com/fyp-ideas/blood-donor-matching-and-request-coordination/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL with PostGIS` |
 | [Client Project Portal with Milestones, Approvals and Change Requests](https://www.sefism.com/fyp-ideas/client-project-portal-with-milestones-and-change-requests/) | Intermediate | `React` `Node.js with Express` `TypeScript` |
 | [Clinic Appointment Booking with Live Queue Display](https://www.sefism.com/fyp-ideas/clinic-appointment-booking-with-live-queue-display/) | Intermediate | `Angular with signals` `TypeScript` `RxJS` |
 | [Competitive Programming Training Tracker for University Clubs and ICPC Coaches](https://www.sefism.com/fyp-ideas/competitive-programming-training-tracker-for-university-clubs/) | Intermediate | `Next.js or React` `Node.js or Python (FastAPI)` `PostgreSQL` |
+| [Cookie Consent Behaviour Checker That Tests What a Site Does After You Click Reject](https://www.sefism.com/fyp-ideas/cookie-consent-behaviour-checker-after-reject/) | Intermediate | `Python or TypeScript` `Playwright` `Chrome DevTools Protocol` |
 | [Developer Tutorial Series with a Sample App and Feedback Report](https://www.sefism.com/fyp-ideas/developer-tutorial-series-with-sample-app-and-feedback-report/) | Intermediate | `A developer API or open source library` `A web stack you know well (e.g. Next.js)` `Git and GitHub with Actions` |
 | [Diagnostic Lab Reporting System with Verifiable Reports](https://www.sefism.com/fyp-ideas/diagnostic-lab-reporting-system-with-verifiable-reports/) | Intermediate | `Next.js or Vue` `Node.js or Spring Boot` `PostgreSQL` |
 | [Documented Design System with Tokens and Storybook](https://www.sefism.com/fyp-ideas/documented-design-system-with-tokens-and-storybook/) | Intermediate | `Figma variables` `TypeScript and React` `Style Dictionary (DTCG token format)` |
@@ -677,60 +695,83 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Open Source Contribution Matcher](https://www.sefism.com/fyp-ideas/open-source-contribution-matcher/) | Intermediate | `Node.js` `TypeScript` `PostgreSQL` |
 | [Peer Code Review Platform for University Courses](https://www.sefism.com/fyp-ideas/peer-code-review-platform-for-university-courses/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
 | [Pharmacy Stock Ledger with Batch Expiry and FEFO Dispensing](https://www.sefism.com/fyp-ideas/pharmacy-stock-ledger-with-batch-expiry-and-fefo-dispensing/) | Intermediate | `Next.js or React` `Node.js with Express or NestJS` `PostgreSQL` |
+| [Power-Cut-Resilient Programming Lab Exam Server That Runs on the Local Network](https://www.sefism.com/fyp-ideas/power-cut-resilient-programming-lab-exam-server-on-a-local-network/) | Intermediate | `Node.js or Go` `PostgreSQL with write-ahead logging` `Monaco Editor` |
 | [QA Test Suite for an Open Source Web App](https://www.sefism.com/fyp-ideas/qa-test-suite-for-an-open-source-web-app/) | Intermediate | `Playwright or Selenium` `TypeScript or Java` `Playwright API testing or Postman` |
 | [Real-Time Classroom Quiz with Presence and Reconnect Handling](https://www.sefism.com/fyp-ideas/real-time-classroom-quiz-with-presence-and-reconnects/) | Intermediate | `Node.js` `TypeScript` `ws or Socket.IO` |
+| [Real-User Performance Monitoring for Low-End Android Phones and Slow Mobile Networks](https://www.sefism.com/fyp-ideas/real-user-performance-monitoring-for-low-end-android-phones/) | Intermediate | `TypeScript` `web-vitals library` `Long Animation Frames API` |
 | [Remote Job Listing Eligibility and Scam Signal Checker](https://www.sefism.com/fyp-ideas/remote-listing-eligibility-and-scam-checker/) | Intermediate | `Next.js` `TypeScript` `PostgreSQL` |
 | [Restaurant Kitchen Display System with Station Routing](https://www.sefism.com/fyp-ideas/restaurant-kitchen-display-system-with-station-routing/) | Intermediate | `React or SvelteKit` `Node.js with Socket.IO or WebSockets` `PostgreSQL` |
 | [School Report Card System with Configurable Grading Rules and Batch PDFs](https://www.sefism.com/fyp-ideas/school-report-card-system-with-configurable-grading-rules/) | Intermediate | `Next.js` `NestJS or Laravel` `PostgreSQL` |
 | [Team Chat App with Threads and Read Receipts on MongoDB](https://www.sefism.com/fyp-ideas/team-chat-with-threads-and-read-receipts/) | Intermediate | `MongoDB replica set (Atlas free cluster)` `Node.js with Socket.IO or WebSockets` `MongoDB Node.js driver or Mongoose` |
+| [Visual Autograder for HTML and CSS Assignments That Grades What the Page Looks Like](https://www.sefism.com/fyp-ideas/visual-autograder-for-html-and-css-assignments/) | Intermediate | `TypeScript or Python` `Playwright` `OpenCV or scikit-image` |
 | [Web Accessibility Regression Testing in CI](https://www.sefism.com/fyp-ideas/web-accessibility-regression-testing-in-ci/) | Intermediate | `TypeScript` `Playwright` `axe-core` |
+| [AI Agent Readiness Audit for Websites: Can a Browser Agent Complete Your Key Tasks?](https://www.sefism.com/fyp-ideas/ai-agent-readiness-audit-for-websites/) | Advanced | `TypeScript or Python` `Playwright` `An open LLM or an LLM API` |
+| [Checkout Dark Pattern Detector for South Asian Online Stores and Quick Commerce Sites](https://www.sefism.com/fyp-ideas/checkout-dark-pattern-detector-for-south-asian-online-stores/) | Advanced | `Python` `Playwright` `A small multilingual text classifier` |
 | [Collaborative Whiteboard with Conflict-Free Sync](https://www.sefism.com/fyp-ideas/collaborative-whiteboard-with-conflict-free-sync/) | Advanced | `TypeScript` `React` `Canvas API` |
 | [Courier Dispatch with Cash on Delivery Reconciliation and Merchant Payouts](https://www.sefism.com/fyp-ideas/courier-dispatch-with-cod-reconciliation-and-merchant-payouts/) | Advanced | `Next.js for merchant and ops portals` `Mobile web rider app (PWA)` `Go or Node.js (TypeScript)` |
+| [Fair Scraper Gate for Small Websites with Adaptive Proof of Work and Signed AI Agent Verification](https://www.sefism.com/fyp-ideas/fair-scraper-gate-with-proof-of-work-and-signed-agent-verification/) | Advanced | `Go or Rust` `Reverse proxy (net/http or hyper)` `Web Crypto API and WebAssembly` |
+| [In-Browser Document Redaction for ID Cards, Bank Statements and Medical Reports](https://www.sefism.com/fyp-ideas/in-browser-document-redaction-for-id-cards-and-bank-statements/) | Advanced | `TypeScript` `PDF.js and pdf-lib` `Tesseract.js or ONNX Runtime Web` |
 | [Offline-First Point of Sale Web App for Multi-Till Retail Shops](https://www.sefism.com/fyp-ideas/offline-first-point-of-sale-web-app-for-multi-till-shops/) | Advanced | `React with TypeScript` `Service worker and IndexedDB` `Node.js or Go sync server` |
+| [Self-Hosted Virtual Waiting Room for Exam Result and Admission Day Traffic Spikes](https://www.sefism.com/fyp-ideas/self-hosted-virtual-waiting-room-for-result-and-admission-day-traffic/) | Advanced | `Go or Node.js` `Redis or Valkey` `NGINX or Caddy` |
+| [Signed Web Page Archiving for Journalists and Fact-Checkers with Verifiable Captures](https://www.sefism.com/fyp-ideas/signed-web-page-archiving-for-journalists-and-fact-checkers/) | Advanced | `TypeScript or Python` `Browsertrix Crawler or Playwright` `WACZ and WARC formats` |
 | [University Timetable Scheduling with Constraint Solving](https://www.sefism.com/fyp-ideas/timetable-scheduling-with-constraint-solving/) | Advanced | `Python` `Google OR-Tools CP-SAT` `FastAPI` |
 | [Usage Metering and Billing Engine for API Products](https://www.sefism.com/fyp-ideas/usage-metering-and-billing-engine-for-api-products/) | Advanced | `Go or TypeScript (Node.js)` `PostgreSQL` `ClickHouse or TimescaleDB` |
 
 </details>
 
 <details>
-<summary><b>Mobile</b> &nbsp;<sub>22 ideas</sub></summary>
+<summary><b>Mobile</b> &nbsp;<sub>33 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Electricity Slab Tracker App That Warns Before You Lose the Protected Tariff](https://www.sefism.com/fyp-ideas/electricity-slab-tracker-app-with-protected-tariff-alerts/) | Beginner | `Flutter` `Dart` `SQLite (sqflite)` |
 | [Job Quote and Invoice App for Electricians and Plumbers](https://www.sefism.com/fyp-ideas/job-quote-and-invoice-app-for-electricians-and-plumbers/) | Beginner | `React Native (Expo)` `expo-sqlite` `expo-print for PDF` |
 | [Local Market Price Transparency App for Farmers and Buyers](https://www.sefism.com/fyp-ideas/local-market-price-transparency-app/) | Beginner | `Flutter` `Firebase or Supabase` `PostgreSQL` |
 | [Medication Adherence Tracker with Caregiver View](https://www.sefism.com/fyp-ideas/medication-adherence-tracker-with-caregiver-view/) | Beginner | `Flutter` `SQLite (Drift)` `flutter_local_notifications` |
+| [Offline Bird Call Survey App for Wetland and Wildlife Field Teams](https://www.sefism.com/fyp-ideas/offline-bird-call-survey-app-for-wetland-field-teams/) | Beginner | `Kotlin or Flutter` `TensorFlow Lite` `BirdNET model files` |
 | [Offline Farm Diary with Field Area Mapping for Smallholders](https://www.sefism.com/fyp-ideas/offline-farm-diary-with-field-area-mapping-for-smallholders/) | Beginner | `Flutter` `Drift (SQLite)` `geolocator + flutter_map (OpenStreetMap)` |
 | [Offline-First Campus Timetable and Assignment Reminders](https://www.sefism.com/fyp-ideas/offline-first-campus-timetable-and-assignment-reminders/) | Beginner | `Flutter` `Dart` `Drift over SQLite` |
 | [Shared Attendance and Wage Ledger for Domestic Workers](https://www.sefism.com/fyp-ideas/shared-attendance-and-wage-ledger-for-domestic-workers/) | Beginner | `Flutter` `Firebase Auth (phone OTP)` `Cloud Firestore with offline cache` |
+| [Cattle Weight Estimation from Phone Photos for Small Dairy Farmers and Livestock Buyers](https://www.sefism.com/fyp-ideas/cattle-weight-estimation-from-phone-photos-for-small-dairy-farmers/) | Intermediate | `Flutter or Kotlin` `Python` `YOLO pose keypoint model` |
 | [Crowdsourced Public Transport Arrival Tracker for Buses Without Live Data](https://www.sefism.com/fyp-ideas/crowdsourced-public-transport-arrival-tracker/) | Intermediate | `React Native (Expo)` `Node.js` `PostgreSQL` |
 | [Habit Tracker App with Subscription Paywall and Free Trial](https://www.sefism.com/fyp-ideas/habit-tracker-with-subscription-paywall/) | Intermediate | `Flutter or React Native (Expo)` `RevenueCat or native store SDKs` `StoreKit 2` |
 | [Load-Shedding Schedule and Outage Alerts App with Home Screen Widgets](https://www.sefism.com/fyp-ideas/load-shedding-schedule-and-outage-alerts/) | Intermediate | `Swift` `SwiftUI` `SwiftData` |
 | [Offline Banknote Reader for Blind and Low-Vision Users](https://www.sefism.com/fyp-ideas/offline-banknote-reader-for-blind-and-low-vision-users/) | Intermediate | `Kotlin + CameraX` `TensorFlow Lite image classifier` `Python + Keras for training` |
+| [Offline Child Growth Monitoring App for Lady Health Workers with WHO Z-Scores](https://www.sefism.com/fyp-ideas/offline-child-growth-monitoring-app-for-community-health-workers/) | Intermediate | `Kotlin` `Jetpack Compose` `Room (SQLite)` |
 | [Offline Order Booking and Route Planner for Field Sales Reps](https://www.sefism.com/fyp-ideas/offline-order-booking-and-route-planner-for-field-sales-reps/) | Intermediate | `Flutter` `Drift (SQLite)` `OpenStreetMap + flutter_map` |
+| [Offline Reading Level Assessment App for Teaching at the Right Level Programmes](https://www.sefism.com/fyp-ideas/offline-reading-level-assessment-app-for-teaching-at-the-right-level/) | Intermediate | `Flutter` `Dart` `Drift (SQLite)` |
 | [Offline-First Field Data Collection App with Conflict-Safe Sync](https://www.sefism.com/fyp-ideas/offline-first-field-data-collection-app/) | Intermediate | `Flutter` `SQLite (Drift)` `FastAPI` |
 | [On-Device Wellbeing Journal with Private Mood and Sentiment Trends](https://www.sefism.com/fyp-ideas/on-device-wellbeing-journal-with-private-sentiment-trends/) | Intermediate | `Flutter` `Dart` `TensorFlow Lite or LiteRT` |
 | [Payment Confirmation App for Small Merchants Against Fake Screenshots](https://www.sefism.com/fyp-ideas/payment-confirmation-app-for-small-merchants-against-fake-screenshots/) | Intermediate | `Kotlin` `NotificationListenerService` `Room` |
 | [Receipt Scanning Expense Splitter App with Item-Level Bill Splitting](https://www.sefism.com/fyp-ideas/receipt-scanning-expense-splitter/) | Intermediate | `React Native (Expo)` `ML Kit or Tesseract OCR` `OpenCV for perspective correction` |
+| [School Hearing Screening App with Ambient Noise Monitoring and Referral Tracking](https://www.sefism.com/fyp-ideas/school-hearing-screening-app-with-noise-monitoring/) | Intermediate | `Kotlin` `Jetpack Compose` `Android audio APIs` |
 | [Trip Check-In and Overdue Alert App for Mountain Travellers](https://www.sefism.com/fyp-ideas/trip-check-in-and-overdue-alert-app-for-mountain-travellers/) | Intermediate | `Flutter` `Firebase Auth, Firestore, Functions` `Cloud Scheduler for overdue checks` |
+| [Urdu Handwriting Practice App for Children with Stroke Order and Letter Form Feedback](https://www.sefism.com/fyp-ideas/urdu-handwriting-practice-app-with-stroke-feedback/) | Intermediate | `Flutter or Kotlin` `A custom drawing canvas` `Python for model development` |
 | [Verified Commute Carpool App for University Students and Staff](https://www.sefism.com/fyp-ideas/verified-commute-carpool-app-for-university-students-and-staff/) | Intermediate | `Flutter` `FastAPI or Node.js API` `PostgreSQL + PostGIS` |
+| [Video-Observed TB Treatment App with Offline Upload for Patients and Treatment Supporters](https://www.sefism.com/fyp-ideas/video-observed-tb-treatment-app-with-offline-upload/) | Intermediate | `Kotlin` `Jetpack Compose` `CameraX` |
 | [Voice-First Udhaar Ledger App for Small Shopkeepers](https://www.sefism.com/fyp-ideas/voice-first-udhaar-ledger-app-for-small-shopkeepers/) | Intermediate | `Kotlin + Jetpack Compose` `Room (SQLite)` `Android SpeechRecognizer / Vosk` |
+| [Fingernail Photo Anaemia Screening App for Community Health Workers](https://www.sefism.com/fyp-ideas/fingernail-photo-anaemia-screening-app-for-community-health-workers/) | Advanced | `Kotlin or Flutter` `CameraX or the Flutter camera plugin` `Python for model development` |
 | [Home Physiotherapy Exercise App with On-Device Rep Counting](https://www.sefism.com/fyp-ideas/home-physiotherapy-exercise-app-with-on-device-rep-counting/) | Advanced | `Kotlin + CameraX` `ML Kit Pose Detection or MediaPipe` `Jetpack Compose` |
 | [Indoor Navigation App Using Bluetooth Beacons and Sensor Fusion](https://www.sefism.com/fyp-ideas/indoor-navigation-using-bluetooth-beacons/) | Advanced | `Kotlin` `Android BLE scanning APIs` `Android sensor APIs` |
 | [Offline Classroom Content Sharing over Wi-Fi Direct for Schools](https://www.sefism.com/fyp-ideas/offline-classroom-content-sharing-over-wifi-direct-for-schools/) | Advanced | `Kotlin` `Google Nearby Connections API` `Room + content-addressed file store` |
+| [Offline Mesh SOS and Relief Messaging App for Flood-Hit Areas](https://www.sefism.com/fyp-ideas/offline-mesh-sos-and-relief-messaging-for-flood-hit-areas/) | Advanced | `Kotlin` `Google Nearby Connections API` `Room (SQLite)` |
+| [On-Device LLM Benchmark App for Budget Android Phones with Urdu Quality Tests](https://www.sefism.com/fyp-ideas/on-device-llm-benchmark-app-for-budget-android-phones/) | Advanced | `Kotlin` `Jetpack Compose` `llama.cpp Android bindings` |
 | [Phone-Based Crash Detection and SOS for Motorcycle Riders](https://www.sefism.com/fyp-ideas/phone-based-crash-detection-and-sos-for-motorcycle-riders/) | Advanced | `Kotlin` `Android sensor APIs + foreground service` `Fused location provider` |
 
 </details>
 
 <details>
-<summary><b>AI &amp; ML</b> &nbsp;<sub>34 ideas</sub></summary>
+<summary><b>AI &amp; ML</b> &nbsp;<sub>47 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [Adaptive Study Planner with Spaced Repetition](https://www.sefism.com/fyp-ideas/adaptive-study-planner-with-spaced-repetition/) | Beginner | `Python` `Django and Django REST Framework` `PostgreSQL` |
 | [Aspect-Based Review Insights for Small Sellers in English and Roman Urdu](https://www.sefism.com/fyp-ideas/aspect-based-review-insights-for-small-online-sellers/) | Beginner | `Python` `Hugging Face Transformers` `XLM-RoBERTa` |
+| [Clustered Short-Answer Grading for Large University Classes with Lecturer Control](https://www.sefism.com/fyp-ideas/clustered-short-answer-grading-for-large-university-classes/) | Beginner | `Python` `Sentence embedding models` `scikit-learn` |
 | [Fabric Defect Inspection with Anomaly Detection for Small Textile Units](https://www.sefism.com/fyp-ideas/fabric-defect-inspection-anomaly-detection-small-textile-units/) | Beginner | `Python` `PyTorch` `Anomalib` |
 | [Handwritten Exam Marks Reader for Cover Sheets and Result Entry](https://www.sefism.com/fyp-ideas/handwritten-exam-marks-reader-for-cover-sheets/) | Beginner | `Python` `OpenCV` `PyTorch` |
+| [Medicine Box and Strip Identification for Pharmacy Dispensing Double-Checks](https://www.sefism.com/fyp-ideas/medicine-box-and-strip-identification-for-pharmacy-dispensing/) | Beginner | `Python` `A pretrained image embedding model` `FAISS or pgvector` |
+| [Pheromone Trap Moth Counting from Phone Photos for Cotton Pest Scouts](https://www.sefism.com/fyp-ideas/pheromone-trap-moth-counting-from-phone-photos-for-cotton/) | Beginner | `Python` `Ultralytics YOLO` `Label Studio` |
 | [Construction Site PPE Compliance Monitoring with Privacy-First Video](https://www.sefism.com/fyp-ideas/construction-site-ppe-compliance-monitoring-privacy-first/) | Intermediate | `Python` `Ultralytics YOLO` `ByteTrack` |
 | [Context-Aware Alt Text Generation and Accessibility Auditing](https://www.sefism.com/fyp-ideas/automated-alt-text-and-accessibility-auditing/) | Intermediate | `Python` `FastAPI` `Playwright` |
 | [Crop Disease Detection from Phone Photographs](https://www.sefism.com/fyp-ideas/crop-disease-detection-from-phone-photographs/) | Intermediate | `Python` `PyTorch` `MobileNet or EfficientNet-Lite` |
@@ -738,18 +779,25 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Employment Contract and Offer Letter Clause Explainer for Job Seekers](https://www.sefism.com/fyp-ideas/employment-contract-offer-letter-clause-explainer/) | Intermediate | `Python` `Hugging Face Transformers` `DeBERTa or Legal-BERT` |
 | [Explainable Resume and Job Description Matching](https://www.sefism.com/fyp-ideas/explainable-resume-and-job-description-matching/) | Intermediate | `Python` `FastAPI` `PostgreSQL with pgvector` |
 | [Fundus Photo Quality Gate for Diabetic Eye Screening Camps](https://www.sefism.com/fyp-ideas/fundus-photo-quality-gate-diabetic-eye-screening-camps/) | Intermediate | `Python` `PyTorch` `timm` |
+| [Glossary-Consistent English to Urdu Translation for Public Notices and Health Leaflets](https://www.sefism.com/fyp-ideas/glossary-consistent-english-to-urdu-translation-for-public-notices/) | Intermediate | `Python` `Hugging Face Transformers` `An open translation model such as NLLB` |
 | [Guarded Text-to-SQL Assistant for Small Business Sales Data](https://www.sefism.com/fyp-ideas/guarded-text-to-sql-assistant-small-business-sales-data/) | Intermediate | `Python` `LLM API or small open model` `sqlglot` |
 | [Invoice and Receipt Parsing Pipeline with Human Review](https://www.sefism.com/fyp-ideas/invoice-and-receipt-parsing-pipeline-with-human-review/) | Intermediate | `n8n (self-hosted) or Make` `Python for extraction and checks` `An LLM or document extraction API` |
 | [LLM Gateway with Semantic Cache, Model Routing and Per-User Budgets](https://www.sefism.com/fyp-ideas/llm-gateway-with-semantic-cache-and-model-routing/) | Intermediate | `Python` `FastAPI` `PostgreSQL with pgvector` |
+| [Mule Account Detection with Graph Machine Learning for Mobile Wallets](https://www.sefism.com/fyp-ideas/mule-account-detection-with-graph-machine-learning-for-mobile-wallets/) | Intermediate | `Python` `PyTorch Geometric or DGL` `NetworkX` |
 | [Pharmacy Demand Forecasting Service with Drift Monitoring and Automated Retraining](https://www.sefism.com/fyp-ideas/demand-forecasting-service-with-drift-monitoring-and-automated-retraining/) | Intermediate | `Python` `scikit-learn or LightGBM` `DVC` |
 | [Policy-Bound Returns and Refunds Agent for Small Online Stores](https://www.sefism.com/fyp-ideas/policy-bound-returns-refunds-agent-small-online-stores/) | Intermediate | `Python` `LLM API with tool calling` `Pydantic` |
 | [Predictive Maintenance from Machine Vibration Data](https://www.sefism.com/fyp-ideas/predictive-maintenance-from-machine-vibration-data/) | Intermediate | `Python` `NumPy and SciPy for signal processing` `scikit-learn` |
 | [Reproducing a Published Machine Learning Result with an Open Report](https://www.sefism.com/fyp-ideas/reproducing-a-published-machine-learning-result-with-an-open-report/) | Intermediate | `Python` `PyTorch or scikit-learn` `Jupyter or Google Colab` |
 | [Retrieval Assistant for University Regulations](https://www.sefism.com/fyp-ideas/retrieval-assistant-for-university-regulations/) | Intermediate | `Python` `FastAPI` `PostgreSQL with pgvector` |
+| [Road Damage Mapping from Phone Video for Municipal Maintenance Teams](https://www.sefism.com/fyp-ideas/road-damage-mapping-from-phone-video-for-municipal-maintenance/) | Intermediate | `Python` `Ultralytics YOLO` `OpenCV` |
 | [Roman Urdu and English Customer Message Triage for Small Business Inboxes](https://www.sefism.com/fyp-ideas/roman-urdu-english-customer-message-triage-small-business/) | Intermediate | `Python` `Hugging Face Transformers` `XLM-RoBERTa or mDeBERTa` |
+| [Rooftop Solar Panel Mapping from Drone and Aerial Imagery for Electricity Distribution Planners](https://www.sefism.com/fyp-ideas/rooftop-solar-panel-mapping-from-drone-and-aerial-imagery/) | Intermediate | `Python` `PyTorch` `U-Net or SegFormer` |
 | [Socratic AI Programming Tutor for University Labs That Never Gives the Answer](https://www.sefism.com/fyp-ideas/socratic-ai-programming-tutor-for-university-labs/) | Intermediate | `Next.js or Django` `An LLM API with a guardrail layer` `PostgreSQL` |
 | [Traffic Flow Forecasting from Open Sensor Data](https://www.sefism.com/fyp-ideas/traffic-flow-forecasting-from-open-sensor-data/) | Intermediate | `Python` `PyTorch and PyTorch Geometric` `pandas` |
+| [Urdu and English Personal Data Redaction Before Prompts Reach Cloud AI Tools](https://www.sefism.com/fyp-ideas/urdu-and-english-personal-data-redaction-before-cloud-ai-prompts/) | Intermediate | `Python` `Microsoft Presidio` `Hugging Face Transformers` |
+| [Weakly Supervised Urdu and Roman Urdu Classification of Relief Needs During Floods](https://www.sefism.com/fyp-ideas/weakly-supervised-urdu-classification-of-relief-needs-during-floods/) | Intermediate | `Python` `Snorkel` `Hugging Face Transformers` |
 | [Claim Verification Assistant with Source Citations](https://www.sefism.com/fyp-ideas/claim-verification-assistant-with-source-citations/) | Advanced | `Python` `FastAPI` `OpenSearch or Elasticsearch with BM25` |
+| [Cloned Voice Detection for Urdu Phone Calls and Voice Notes](https://www.sefism.com/fyp-ideas/cloned-voice-detection-for-urdu-phone-calls-and-voice-notes/) | Advanced | `Python` `PyTorch` `wav2vec 2.0 or similar speech encoders` |
 | [Evaluation Harness for Language Model Applications](https://www.sefism.com/fyp-ideas/evaluation-harness-for-language-model-applications/) | Advanced | `Python` `FastAPI` `PostgreSQL` |
 | [Evidence-Grounded Pull Request Review Agent](https://www.sefism.com/fyp-ideas/evidence-grounded-pull-request-review-agent/) | Advanced | `Python` `GitHub Actions and the GitHub API` `Tree-sitter` |
 | [Financial Statement Table Extraction with Accounting Consistency Checks](https://www.sefism.com/fyp-ideas/financial-statement-table-extraction-accounting-consistency-checks/) | Advanced | `Python` `PyMuPDF` `Table Transformer (TATR)` |
@@ -758,20 +806,25 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Offline Coding Assistant on Consumer Hardware](https://www.sefism.com/fyp-ideas/offline-coding-assistant-on-consumer-hardware/) | Advanced | `Python` `llama.cpp or Ollama` `Tree-sitter` |
 | [On-Device Speech Recognition for an Under-Served Language](https://www.sefism.com/fyp-ideas/on-device-speech-recognition-for-an-under-served-language/) | Advanced | `Python` `PyTorch and Hugging Face Transformers` `Whisper or Meta MMS` |
 | [Real-Time Sign Language Recognition from a Webcam](https://www.sefism.com/fyp-ideas/real-time-sign-language-recognition/) | Advanced | `Python` `MediaPipe Holistic or Hand Landmarker` `OpenCV` |
+| [Sandboxed Benchmark of Browser Agents on Local-Style Service Websites with Safety Traps](https://www.sefism.com/fyp-ideas/sandboxed-browser-agent-benchmark-for-local-service-websites/) | Advanced | `Python` `Playwright` `Browser Use or similar agent` |
 | [Sandboxed Spreadsheet Analyst Agent for Small Business Owners](https://www.sefism.com/fyp-ideas/sandboxed-spreadsheet-analyst-agent-for-small-businesses/) | Advanced | `Python` `pandas` `LLM API with tool calling` |
+| [Semantic Entropy Confidence Flags for LLM Answers in Urdu and English](https://www.sefism.com/fyp-ideas/semantic-entropy-confidence-flags-for-urdu-and-english-llm-answers/) | Advanced | `Python` `Hugging Face Transformers` `A multilingual NLI model` |
 | [Shelf Gap and Planogram Check from Phone Photos for FMCG Distributors](https://www.sefism.com/fyp-ideas/shelf-gap-planogram-check-phone-photos-fmcg-distributors/) | Advanced | `Python` `PyTorch` `Ultralytics YOLO` |
 | [Urdu and English Phone Booking Voice Agent for Clinics and Salons](https://www.sefism.com/fyp-ideas/urdu-english-phone-booking-voice-agent-clinics-salons/) | Advanced | `Python` `Pipecat or LiveKit Agents` `Whisper (fine-tuned)` |
+| [Urdu Nastaliq OCR for Printed Books and Newspaper Archives with Searchable Output](https://www.sefism.com/fyp-ideas/urdu-nastaliq-ocr-for-printed-books-and-archives/) | Advanced | `Python` `PyTorch` `UTRNet or a CRNN baseline` |
 
 </details>
 
 <details>
-<summary><b>Data &amp; Analytics</b> &nbsp;<sub>30 ideas</sub></summary>
+<summary><b>Data &amp; Analytics</b> &nbsp;<sub>41 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [City Heatwave Risk Dashboard from Open Weather and Census Data](https://www.sefism.com/fyp-ideas/city-heatwave-risk-dashboard-from-open-weather-and-census-data/) | Beginner | `Python` `pandas` `Open-Meteo API` |
 | [Data Story From Your Previous Field Using Public Data](https://www.sefism.com/fyp-ideas/data-story-from-your-previous-field-using-public-data/) | Beginner | `SQL (SQLite or PostgreSQL)` `Python with pandas, or a spreadsheet` `Power BI, Tableau Public or matplotlib` |
+| [MCQ Exam Item Analysis and Faulty Question Finder for University Teachers](https://www.sefism.com/fyp-ideas/mcq-exam-item-analysis-and-faulty-question-finder-for-teachers/) | Beginner | `Python` `pandas and NumPy` `FastAPI or Streamlit` |
 | [Online Store Sales and Customer Retention Dashboard](https://www.sefism.com/fyp-ideas/online-store-sales-and-customer-retention-dashboard/) | Beginner | `SQL (PostgreSQL or SQLite)` `Excel or Google Sheets` `Power BI or Tableau Public` |
+| [Open Data Portal Quality Scorecard with Freshness and Broken Link Checks](https://www.sefism.com/fyp-ideas/open-data-portal-quality-scorecard-with-freshness-and-broken-link-checks/) | Beginner | `Python` `requests and the CKAN API` `pandas` |
 | [Public Budget Transparency Explorer](https://www.sefism.com/fyp-ideas/public-budget-transparency-explorer/) | Beginner | `Python` `pdfplumber, Camelot or Tabula` `pandas` |
 | [Restaurant Menu Profitability Analytics from POS Sales Exports](https://www.sefism.com/fyp-ideas/restaurant-menu-profitability-analytics-from-pos-sales-exports/) | Beginner | `Python` `pandas` `PostgreSQL` |
 | [Small Business Weekly Report Automation with Monitoring](https://www.sefism.com/fyp-ideas/small-business-weekly-report-automation-with-monitoring/) | Beginner | `n8n (or Make or Zapier)` `Google Sheets` `Shopify or WooCommerce test store` |
@@ -782,6 +835,9 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Batch ELT Pipeline with Airflow, dbt and a Cloud Warehouse](https://www.sefism.com/fyp-ideas/batch-elt-pipeline-with-airflow-dbt-and-a-cloud-warehouse/) | Intermediate | `Python and SQL` `Apache Airflow` `dbt` |
 | [Cash-on-Delivery Return Analytics for Small Online Sellers](https://www.sefism.com/fyp-ideas/cash-on-delivery-return-analytics-for-small-online-sellers/) | Intermediate | `Python` `pandas` `DuckDB` |
 | [Crash-Safe Key-Value Store with a Write-Ahead Log](https://www.sefism.com/fyp-ideas/crash-safe-key-value-store-with-write-ahead-log/) | Intermediate | `Go, Rust, C++ or Java` `File I/O with fsync` `CRC32 checksums` |
+| [Cumulative Antibiogram Builder and Resistance Trend Dashboard from Hospital Lab Exports](https://www.sefism.com/fyp-ideas/cumulative-antibiogram-builder-from-hospital-lab-exports/) | Intermediate | `Python or R` `pandas or the AMR R package` `PostgreSQL` |
+| [Daily Online Grocery Price Index for Pakistani Cities with Product Matching](https://www.sefism.com/fyp-ideas/daily-online-grocery-price-index-for-pakistani-cities/) | Intermediate | `Python` `Playwright or Scrapy` `PostgreSQL` |
+| [District Dengue Early Warning from Weather and Case Counts for Health Departments](https://www.sefism.com/fyp-ideas/district-dengue-early-warning-from-weather-and-case-counts/) | Intermediate | `Python` `pandas` `statsmodels` |
 | [Early Warning System for Student Disengagement](https://www.sefism.com/fyp-ideas/early-warning-system-for-student-disengagement/) | Intermediate | `Python` `pandas` `scikit-learn` |
 | [Hospital Bed Occupancy and Admissions Forecasting Dashboard](https://www.sefism.com/fyp-ideas/hospital-bed-occupancy-and-admissions-forecasting-dashboard/) | Intermediate | `Python` `PostgreSQL` `dbt Core` |
 | [Household Survey Cleaning and Weighting Toolkit for NGOs](https://www.sefism.com/fyp-ideas/household-survey-cleaning-and-weighting-toolkit-for-ngos/) | Intermediate | `Python` `pandas` `DuckDB` |
@@ -790,35 +846,49 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Neighbourhood House Price Index from Open Property Sales Data](https://www.sefism.com/fyp-ideas/neighbourhood-house-price-index-from-open-property-sales-data/) | Intermediate | `Python` `DuckDB` `statsmodels` |
 | [Research Group Finder Built on Open Publication Data](https://www.sefism.com/fyp-ideas/research-group-finder-built-on-open-publication-data/) | Intermediate | `Python` `OpenAlex API` `PostgreSQL or SQLite` |
 | [Retail Demand Forecasting with Inventory Recommendations](https://www.sefism.com/fyp-ideas/retail-demand-forecasting-with-inventory-recommendations/) | Intermediate | `Python` `pandas` `statsforecast or Prophet` |
+| [Rooftop Solar and Battery Sizing Advisor Under Net Billing Using Open Building Footprints](https://www.sefism.com/fyp-ideas/rooftop-solar-and-battery-sizing-advisor-under-net-billing/) | Intermediate | `Python` `pvlib` `Google Open Buildings or OpenStreetMap` |
 | [Sports Performance Analytics from Match Event Data](https://www.sefism.com/fyp-ideas/sports-performance-analytics-from-match-event-data/) | Intermediate | `Python` `pandas` `scikit-learn or LightGBM` |
 | [SQL Query Performance Lab with Execution Plan Reports](https://www.sefism.com/fyp-ideas/sql-query-performance-lab-with-plan-reports/) | Intermediate | `PostgreSQL (or MySQL or SQL Server)` `SQL` `Python` |
 | [Water Quality Monitoring and Contamination Alerting](https://www.sefism.com/fyp-ideas/water-quality-monitoring-and-contamination-alerting/) | Intermediate | `Python` `pandas` `scikit-learn and statsmodels` |
+| [Wheelchair Route Scoring from Crowdsourced Footpath Accessibility Audits](https://www.sefism.com/fyp-ideas/wheelchair-route-scoring-from-crowdsourced-footpath-accessibility-audits/) | Intermediate | `Python` `KoboToolbox or ODK forms` `OpenStreetMap data` |
 | [Building Energy Analytics with Appliance Disaggregation](https://www.sefism.com/fyp-ideas/building-energy-analytics-with-appliance-disaggregation/) | Advanced | `Python` `PyTorch` `NILMTK` |
 | [Column-Level Data Lineage and Impact Analysis from SQL Code](https://www.sefism.com/fyp-ideas/column-level-data-lineage-and-impact-analysis-from-sql-code/) | Advanced | `Python` `sqlglot` `dbt Core` |
+| [Crop Fire Smoke Attribution for Lahore Smog Using Satellite Fire Data and Wind Back-Trajectories](https://www.sefism.com/fyp-ideas/crop-fire-smoke-attribution-for-lahore-smog-using-satellite-fires-and-back-trajectories/) | Advanced | `Python` `NASA FIRMS active fire data` `NOAA HYSPLIT or ERA5 winds` |
 | [Messy Address Geocoder for Last-Mile Delivery Using Past Drop Points](https://www.sefism.com/fyp-ideas/messy-address-geocoder-for-last-mile-delivery-using-past-drop-points/) | Advanced | `Python` `PostGIS` `Elasticsearch or OpenSearch` |
 | [Public Procurement Red-Flag Analytics with Supplier Entity Resolution](https://www.sefism.com/fyp-ideas/public-procurement-red-flag-analytics-with-supplier-entity-resolution/) | Advanced | `Python` `Splink` `DuckDB` |
 | [Real-Time Event Pipeline with Kafka and Windowed Metrics](https://www.sefism.com/fyp-ideas/real-time-event-pipeline-with-kafka-and-windowed-metrics/) | Advanced | `Python` `Apache Kafka in Docker` `Flink or Spark Structured Streaming` |
+| [Synthetic Patient Records Generator with a Privacy Attack Report for Hospital Data Sharing](https://www.sefism.com/fyp-ideas/synthetic-patient-records-generator-with-privacy-attack-report/) | Advanced | `Python` `SDV (Synthetic Data Vault)` `SmartNoise Synth` |
+| [Thin-File Credit Scoring with Alternative Data and a Fairness Audit for Digital Lenders](https://www.sefism.com/fyp-ideas/thin-file-credit-scoring-with-fairness-audit-for-digital-lenders/) | Advanced | `Python` `LightGBM` `SHAP` |
 | [Vector Search Engine Built From Scratch](https://www.sefism.com/fyp-ideas/vector-search-engine-built-from-scratch/) | Advanced | `Rust, C++ or Go` `Python bindings (PyO3 or pybind11)` `NumPy` |
+| [Wheat Crop Monitoring and District Yield Estimates from Sentinel-2 for Punjab](https://www.sefism.com/fyp-ideas/wheat-crop-monitoring-and-yield-estimates-from-sentinel-2-for-punjab/) | Advanced | `Python` `Google Earth Engine` `Sentinel-2 surface reflectance` |
 
 </details>
 
 <details>
-<summary><b>IoT &amp; Embedded</b> &nbsp;<sub>21 ideas</sub></summary>
+<summary><b>IoT &amp; Embedded</b> &nbsp;<sub>32 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Low-Cost WBGT Heat Stress Station with Work-Rest Alerts for Outdoor Workers](https://www.sefism.com/fyp-ideas/low-cost-wbgt-heat-stress-station-with-work-rest-alerts-for-outdoor-workers/) | Beginner | `ESP32` `SHT31 or SHT45 humidity sensor` `Black globe thermometer with DS18B20` |
 | [LPG Cylinder Gas Level and Leak Monitor for Restaurant Kitchens](https://www.sefism.com/fyp-ideas/lpg-cylinder-gas-level-and-leak-monitor-for-restaurant-kitchens/) | Beginner | `ESP32` `Load cells with HX711 amplifier` `MQ-5 or MQ-6 gas sensor` |
+| [Plug-In Voltage and Outage Logger for Mapping Neighbourhood Power Quality](https://www.sefism.com/fyp-ideas/plug-in-voltage-and-outage-logger-for-mapping-neighbourhood-power-quality/) | Beginner | `ESP32` `PZEM-004T metering module` `Real-time clock with backup` |
 | [Privacy-Safe Footfall Counter for Small Shops Using ToF Sensors](https://www.sefism.com/fyp-ideas/privacy-safe-footfall-counter-for-small-shops-using-tof-sensors/) | Beginner | `ESP32` `VL53L1X time-of-flight sensor` `C++ with Arduino or ESP-IDF` |
 | [Rooftop Water Tank Level and Pump Controller with Dry-Run Protection](https://www.sefism.com/fyp-ideas/rooftop-water-tank-level-and-pump-controller-with-dry-run-protection/) | Beginner | `ESP32` `Waterproof ultrasonic sensor (JSN-SR04T)` `Current sensor (ACS712 or SCT-013)` |
 | [Classroom CO2 and Ventilation Monitor Network with a Raspberry Pi Gateway for Schools](https://www.sefism.com/fyp-ideas/classroom-co2-and-ventilation-monitor-network-with-raspberry-pi-gateway/) | Intermediate | `Raspberry Pi (gateway)` `Raspberry Pi Pico W or ESP32 nodes` `NDIR CO2 sensor (e.g. SCD40/SCD41)` |
 | [Clip-On Machine Downtime Tracker for Small Factories](https://www.sefism.com/fyp-ideas/clip-on-machine-downtime-tracker-for-small-factories/) | Intermediate | `ESP32` `Split-core current transformer (SCT-013)` `C++ firmware` |
 | [Distributed Air Quality Sensor Mesh with LoRa and Calibration](https://www.sefism.com/fyp-ideas/distributed-air-quality-sensor-mesh/) | Intermediate | `ESP32 with LoRa (SX1276/SX1262)` `PMS5003 or SPS30 PM sensor` `C++ (Arduino or ESP-IDF)` |
+| [Distribution Transformer Overload and Hot-Spot Monitor for Power Utilities](https://www.sefism.com/fyp-ideas/distribution-transformer-overload-and-hot-spot-monitor-for-power-utilities/) | Intermediate | `ESP32` `Split-core current transformers` `DS18B20 or PT100 temperature probes` |
+| [Hill Torrent Flash Flood Early Warning with LoRaWAN River Gauges and Village Sirens](https://www.sefism.com/fyp-ideas/hill-torrent-flash-flood-early-warning-with-lorawan-river-gauges/) | Intermediate | `ESP32 or STM32 with LoRa radio` `Ultrasonic or mmWave radar level sensor` `LoRaWAN with ChirpStack` |
+| [Home Sound Alerts on a Vibrating Wristband for Deaf and Hard of Hearing People](https://www.sefism.com/fyp-ideas/home-sound-alerts-on-a-vibrating-wristband-for-deaf-and-hard-of-hearing-people/) | Intermediate | `ESP32-S3 with I2S microphone` `TensorFlow Lite for Microcontrollers` `Python with TensorFlow or Keras` |
 | [IoT Sensor Readings Store with Bucketed Time Series in MongoDB](https://www.sefism.com/fyp-ideas/iot-sensor-readings-store-with-bucketed-time-series/) | Intermediate | `ESP32 with DHT22 or DS18B20 sensors` `MQTT (Mosquitto)` `Node.js or Python ingestion service` |
+| [Low-Cost Beehive Weight and Temperature Monitor for Migratory Beekeepers](https://www.sefism.com/fyp-ideas/low-cost-beehive-weight-and-temperature-monitor-for-beekeepers/) | Intermediate | `ESP32 or STM32` `Load cells with HX711` `SHT31 temperature and humidity sensor` |
+| [Low-Cost Earthquake Shaking Alarm and Intensity Network for Schools](https://www.sefism.com/fyp-ideas/low-cost-earthquake-shaking-alarm-and-intensity-network-for-schools/) | Intermediate | `ESP32` `Low-noise MEMS accelerometer (ADXL355)` `C with FreeRTOS` |
 | [Non-Intrusive Smart Energy Meter with Live Cost Tracking](https://www.sefism.com/fyp-ideas/non-intrusive-smart-energy-meter/) | Intermediate | `ESP32` `C++ (Arduino or ESP-IDF)` `SCT-013 CT clamp` |
 | [Poultry Shed Climate Controller with Ammonia Alerts for Small Broiler Farms](https://www.sefism.com/fyp-ideas/poultry-shed-climate-controller-with-ammonia-alerts-for-small-broiler-farms/) | Intermediate | `ESP32` `SHT31 or SHT40 humidity sensor` `Electrochemical or MQ-137 ammonia sensor` |
 | [RFID Machine Access and Usage Logger for University Labs and Workshops](https://www.sefism.com/fyp-ideas/rfid-machine-access-and-usage-logger-for-university-labs-and-workshops/) | Intermediate | `ESP32` `RC522 or PN532 RFID reader` `Contactor or rated relay` |
 | [Soil Moisture Driven Irrigation Controller for Small Farms](https://www.sefism.com/fyp-ideas/soil-moisture-driven-irrigation-controller/) | Intermediate | `ESP32` `Capacitive soil moisture probes` `C++ (Arduino or ESP-IDF)` |
 | [Solar Inverter and Battery Logger Over RS485 for Homes and Small Offices](https://www.sefism.com/fyp-ideas/solar-inverter-and-battery-logger-over-rs485-for-homes-and-small-offices/) | Intermediate | `ESP32` `RS485 transceiver (MAX485)` `Modbus RTU` |
+| [Solar Tube-Well Pump Run-Time and Groundwater Level Logger for Farmers](https://www.sefism.com/fyp-ideas/solar-tube-well-pump-run-time-and-groundwater-level-logger/) | Intermediate | `ESP32 (ESP-IDF or Arduino)` `4-20 mA submersible level sensor` `Hall-effect DC current sensor` |
 | [Weight-Sensing Stock Bins for Pharmacy and Spare Parts Shelves](https://www.sefism.com/fyp-ideas/weight-sensing-stock-bins-for-pharmacy-and-spare-parts-shelves/) | Intermediate | `ESP32` `Load cells with HX711` `I2C or RS485 bus between bins` |
 | [Wireless Nurse Call and Response Time Tracker for Small Hospitals](https://www.sefism.com/fyp-ideas/wireless-nurse-call-and-response-time-tracker-for-small-hospitals/) | Intermediate | `ESP32 or ESP32-C3` `ESP-NOW or LoRa radio` `Low-power firmware (deep sleep)` |
 | [Battery Health Monitor for Electric Rickshaws and E-Bikes on STM32 with FreeRTOS](https://www.sefism.com/fyp-ideas/e-rickshaw-battery-health-monitor-on-stm32-with-freertos/) | Advanced | `STM32 (Nucleo board, then custom PCB)` `C with STM32Cube HAL` `FreeRTOS (CMSIS-RTOS v2)` |
@@ -826,59 +896,80 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Fish Pond Dissolved Oxygen Monitor with Night-Time Crash Forecasting](https://www.sefism.com/fyp-ideas/fish-pond-dissolved-oxygen-monitor-with-night-time-crash-forecasting/) | Advanced | `ESP32 with LoRa (SX1276)` `Optical or galvanic DO probe` `DS18B20 temperature sensor` |
 | [Grain Store Spoilage Early Warning with Temperature Cables and CO2 Sensing](https://www.sefism.com/fyp-ideas/grain-store-spoilage-early-warning-with-temperature-cables-and-co2-sensing/) | Advanced | `ESP32 with LoRa (SX1276)` `DS18B20 sensor chains in PVC probes` `NDIR CO2 sensor (SCD40 or MH-Z19)` |
 | [Livestock Health and Movement Monitoring Collar with LoRa Alerts](https://www.sefism.com/fyp-ideas/livestock-health-and-movement-monitoring/) | Advanced | `nRF52840 or ESP32-S3` `C with Zephyr or Arduino core` `IMU accelerometer (e.g. LSM6DS3)` |
+| [Offline Urdu Voice Commands on a Microcontroller for Home Lights and Fans](https://www.sefism.com/fyp-ideas/offline-urdu-voice-commands-on-a-microcontroller-for-home-switches/) | Advanced | `ESP32-S3 or Arduino Nano 33 BLE Sense` `I2S MEMS microphone` `TensorFlow Lite for Microcontrollers` |
+| [Signed, Staged OTA Updates with Automatic Rollback for ESP32 Device Fleets](https://www.sefism.com/fyp-ideas/signed-staged-ota-updates-with-automatic-rollback-for-esp32-fleets/) | Advanced | `ESP-IDF` `ESP32 secure boot and app rollback` `ECDSA signing` |
+| [Single-Point Pressure Sensor for Household Water Leak and Tap Detection](https://www.sefism.com/fyp-ideas/single-point-pressure-sensor-for-household-water-leak-and-tap-detection/) | Advanced | `ESP32` `Analogue pressure transducer` `External ADC such as ADS1115 or ADS1015` |
 | [Tamper-Evident Cold Chain Monitoring for Vaccine Transport](https://www.sefism.com/fyp-ideas/cold-chain-monitoring-for-vaccine-transport/) | Advanced | `ESP32 with RTC and flash storage` `Digital temperature probe (±0.5 °C)` `C (ESP-IDF)` |
 | [Wearable Fall Detection for Older Adults Living Independently](https://www.sefism.com/fyp-ideas/wearable-fall-detection-for-independent-living/) | Advanced | `nRF52840 or ESP32-S3` `IMU (accelerometer + gyroscope)` `C (Zephyr or Arduino)` |
 
 </details>
 
 <details>
-<summary><b>Security</b> &nbsp;<sub>24 ideas</sub></summary>
+<summary><b>Security</b> &nbsp;<sub>35 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
+| [Breached Password and Credential Stuffing Guard Middleware for Small Web Apps](https://www.sefism.com/fyp-ideas/breached-password-and-credential-stuffing-guard-for-small-web-apps/) | Beginner | `Express (Node.js) or Django` `Have I Been Pwned Pwned Passwords API` `Redis` |
 | [Cyber Hygiene Self-Assessment and Action Plan for Small Clinics and Schools](https://www.sefism.com/fyp-ideas/cyber-hygiene-self-assessment-and-action-plan-for-small-clinics-and-schools/) | Beginner | `Next.js or Django` `PostgreSQL` `CIS Controls IG1 mapping` |
 | [Email Spoofing Protection Checker and DMARC Report Dashboard for Small Firms](https://www.sefism.com/fyp-ideas/email-spoofing-protection-checker-and-dmarc-report-dashboard-for-small-firms/) | Beginner | `Python or Go` `FastAPI or Express` `PostgreSQL` |
+| [Home and Small Office Network Device Audit on a Raspberry Pi](https://www.sefism.com/fyp-ideas/home-and-small-office-network-device-audit-on-a-raspberry-pi/) | Beginner | `Raspberry Pi with Raspberry Pi OS` `Python` `Nmap` |
 | [Security Awareness Micro-Lessons and Consent-Based Phishing Drills for Offices](https://www.sefism.com/fyp-ideas/security-awareness-micro-lessons-and-consent-based-phishing-drills-for-offices/) | Beginner | `Node.js` `React` `PostgreSQL` |
+| [Third-Party App Access Auditor for University and School Google Workspace Accounts](https://www.sefism.com/fyp-ideas/third-party-app-access-auditor-for-university-google-workspace/) | Beginner | `Python or TypeScript` `Google Admin SDK (Reports, Directory)` `OAuth 2.0 service account` |
 | [AWS Misconfiguration Scanner with Attack Path Prioritisation for Startups](https://www.sefism.com/fyp-ideas/aws-misconfiguration-scanner-with-attack-path-prioritisation-for-startups/) | Intermediate | `Python` `boto3` `Neo4j or NetworkX` |
+| [Browser Extension Update Watchdog That Flags Risky Changes Before They Reach Company Laptops](https://www.sefism.com/fyp-ideas/browser-extension-update-watchdog-for-company-laptops/) | Intermediate | `Python or Node.js` `Chrome Web Store CRX downloads` `Acorn or Babel for JavaScript parsing` |
 | [Checkout Page Script Monitor Against Card Skimming for Small Online Stores](https://www.sefism.com/fyp-ideas/checkout-page-script-monitor-against-card-skimming-for-small-online-stores/) | Intermediate | `Node.js` `Playwright` `PostgreSQL` |
 | [Dependency Supply Chain Risk Scanner](https://www.sefism.com/fyp-ideas/dependency-supply-chain-risk-scanner/) | Intermediate | `Python or TypeScript` `npm registry and GitHub APIs` `OSV.dev vulnerability API` |
 | [Firewall Rule Audit Tool for Small Business Firewalls](https://www.sefism.com/fyp-ideas/firewall-rule-audit-tool-for-small-business-firewalls/) | Intermediate | `Python` `OPNsense configuration export (XML)` `Cisco IOS ACL parser` |
 | [Honeypot Network with Attack Telemetry Dashboard](https://www.sefism.com/fyp-ideas/honeypot-network-with-attack-telemetry-dashboard/) | Intermediate | `Cowrie and other emulated honeypots` `Docker on a separate cloud VM` `Python ingestion scripts` |
 | [Isolated Security Training Lab with Professional Assessment Reports](https://www.sefism.com/fyp-ideas/isolated-security-training-lab-with-assessment-reports/) | Intermediate | `Docker Compose (internal network only)` `Python (Flask) or Node.js (Express)` `PostgreSQL` |
 | [Leaked Secrets Monitor with Live-Key Verification for Small Dev Teams](https://www.sefism.com/fyp-ideas/leaked-secrets-monitor-with-live-key-verification-for-small-dev-teams/) | Intermediate | `Go or Python` `Git internals` `GitHub App API` |
+| [Loan and Wallet App Privacy Label Checker That Compares Claims With Real Traffic](https://www.sefism.com/fyp-ideas/loan-and-wallet-app-privacy-label-checker-using-real-traffic/) | Intermediate | `Python` `Android emulator and ADB` `Frida` |
 | [Model File Supply Chain Scanner for Open Model Downloads with an AI Bill of Materials](https://www.sefism.com/fyp-ideas/model-file-supply-chain-scanner-for-open-model-downloads/) | Intermediate | `Python` `pickletools and the safetensors library` `Hugging Face Hub API` |
 | [On-Device SMS Scam Detector for Mobile Wallet Users in Roman Urdu](https://www.sefism.com/fyp-ideas/on-device-sms-scam-detector-for-mobile-wallet-users-in-roman-urdu/) | Intermediate | `Kotlin` `Android SMS and notification APIs` `Python` |
 | [Personal Data Discovery and Data Subject Request Workflow for Small Companies](https://www.sefism.com/fyp-ideas/personal-data-discovery-and-data-subject-request-workflow-for-small-companies/) | Intermediate | `Python` `Microsoft Presidio` `PostgreSQL and MySQL connectors` |
+| [Phone Spyware Check Kit for Domestic Abuse Support Workers, in English and Urdu](https://www.sefism.com/fyp-ideas/phone-spyware-check-kit-for-domestic-abuse-support-workers/) | Intermediate | `Python` `ADB (Android Debug Bridge)` `Flask or a desktop UI` |
 | [Privacy-Preserving Phishing Detection Browser Extension](https://www.sefism.com/fyp-ideas/phishing-detection-browser-extension/) | Intermediate | `TypeScript` `Chrome Extension Manifest V3` `Python and scikit-learn` |
 | [Self-Hostable Passkey Login Service with Safe Account Recovery for Small Apps](https://www.sefism.com/fyp-ideas/self-hostable-passkey-login-service-with-safe-account-recovery-for-small-apps/) | Intermediate | `TypeScript` `Node.js` `WebAuthn server library` |
+| [Signed Build Provenance Gate for a Company's Internal Packages and Container Images](https://www.sefism.com/fyp-ideas/signed-build-provenance-gate-for-internal-packages-and-container-images/) | Intermediate | `Go or Python` `Sigstore (cosign, Fulcio, Rekor)` `GitHub Actions OIDC` |
 | [AI Agent Tool Permission Gateway with Human Approval and Audit Log](https://www.sefism.com/fyp-ideas/ai-agent-tool-permission-gateway-with-human-approval/) | Advanced | `Python or TypeScript` `FastAPI or Node.js` `Model Context Protocol (MCP) SDK` |
+| [Broken Object Level Authorization Tester for REST APIs That Runs in CI](https://www.sefism.com/fyp-ideas/broken-object-level-authorization-tester-for-apis-in-ci/) | Advanced | `Python or TypeScript` `OpenAPI 3 parser` `Docker Compose test environments` |
 | [End-to-End Encrypted File Sharing with Verifiable Keys](https://www.sefism.com/fyp-ideas/end-to-end-encrypted-file-sharing-with-verifiable-keys/) | Advanced | `TypeScript` `WebCrypto API` `Next.js or React with Vite` |
 | [Federated Learning with Differential Privacy for Sensitive Data](https://www.sefism.com/fyp-ideas/federated-learning-with-differential-privacy/) | Advanced | `Python` `PyTorch` `Flower federated learning framework` |
+| [Helm Chart Permission Analyser That Finds Kubernetes Cluster Takeover Paths Before Install](https://www.sefism.com/fyp-ideas/helm-chart-permission-analyser-for-kubernetes-cluster-takeover-risk/) | Advanced | `Go or Python` `Helm and kind` `Kubernetes RBAC and Pod Security model` |
 | [Lightweight Sigma Rule Detection Engine for Small Teams Without a SIEM](https://www.sefism.com/fyp-ideas/lightweight-sigma-rule-detection-engine-for-small-teams-without-a-siem/) | Advanced | `Go or Rust` `Sigma rule format` `SQLite or PostgreSQL` |
+| [MCP Server Behaviour Sandbox That Checks Tools Do What Their Descriptions Claim](https://www.sefism.com/fyp-ideas/mcp-server-behaviour-sandbox-that-checks-tools-do-what-they-claim/) | Advanced | `Python or TypeScript` `MCP Python or TypeScript SDK` `Docker or gVisor sandbox` |
 | [Prompt Injection Red-Team Harness for Tool-Using AI Agents](https://www.sefism.com/fyp-ideas/prompt-injection-red-team-harness-for-tool-using-agents/) | Advanced | `Python` `LLM APIs with tool calling` `MCP Python SDK` |
 | [Prompt Injection Regression Test Harness for RAG Support Chatbots](https://www.sefism.com/fyp-ideas/prompt-injection-regression-test-harness-for-rag-support-chatbots/) | Advanced | `Python` `FastAPI` `Ollama or a hosted LLM API` |
 | [Real-Time Transaction Fraud Rules Engine with Case Review for Fintech Startups](https://www.sefism.com/fyp-ideas/real-time-transaction-fraud-rules-engine-with-case-review-for-fintech-startups/) | Advanced | `Go or Java` `Kafka or Redpanda` `Redis` |
 | [Static Analyser for Insecure Code Patterns Using Taint Analysis](https://www.sefism.com/fyp-ideas/static-analyser-for-insecure-code-patterns/) | Advanced | `Python` `tree-sitter or Python ast module` `Control flow graph construction` |
 | [Tamper-Evident Audit Log Service with Merkle Proofs for Fintech Apps](https://www.sefism.com/fyp-ideas/tamper-evident-audit-log-service-with-merkle-proofs-for-fintech-apps/) | Advanced | `Go` `PostgreSQL` `Merkle tree (RFC 6962 style)` |
+| [Vulnerable Function Reachability Checker for JavaScript and TypeScript Dependencies](https://www.sefism.com/fyp-ideas/vulnerable-function-reachability-checker-for-javascript-dependencies/) | Advanced | `TypeScript` `TypeScript compiler API or Jelly` `OSV and GitHub Advisory Database` |
 
 </details>
 
 <details>
-<summary><b>Cloud &amp; DevOps</b> &nbsp;<sub>26 ideas</sub></summary>
+<summary><b>Cloud &amp; DevOps</b> &nbsp;<sub>37 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [Automated Backup Restore Drills for Small Business Databases](https://www.sefism.com/fyp-ideas/backup-restore-drills-for-small-business-databases/) | Beginner | `Bash or Python` `Docker` `PostgreSQL, MySQL, MongoDB` |
 | [Command-Line Log Analyser with a Scheduled Report](https://www.sefism.com/fyp-ideas/command-line-log-analyser-with-scheduled-report/) | Beginner | `Bash` `grep, awk, sort and uniq` `jq` |
+| [Container Image Slimming and Vulnerability Diff Report in CI, Verified by Your Own Tests](https://www.sefism.com/fyp-ideas/container-image-slimming-and-vulnerability-diff-report-in-ci/) | Beginner | `Docker` `SlimToolkit` `Trivy` |
 | [Linux Server Patch and End-of-Life Dashboard for Small IT Teams](https://www.sefism.com/fyp-ideas/linux-server-patch-and-end-of-life-dashboard-for-small-it-teams/) | Beginner | `Go or Python agent` `FastAPI or Express` `PostgreSQL` |
+| [Load-Shedding-Aware Server Shutdown and Restart Orchestrator for Small Offices](https://www.sefism.com/fyp-ideas/load-shedding-aware-server-shutdown-and-restart-orchestrator-for-small-offices/) | Beginner | `Python` `Network UPS Tools (NUT)` `Docker and Docker Compose` |
 | [Serverless Product Photo Pipeline for Small Online Sellers](https://www.sefism.com/fyp-ideas/serverless-product-photo-pipeline-for-small-online-sellers/) | Beginner | `AWS, Azure or Google Cloud` `Object storage events` `Lambda, Azure Functions or Cloud Run` |
 | [Status Page with Multi-Region Uptime Checks for Small SaaS Teams](https://www.sefism.com/fyp-ideas/status-page-with-multi-region-uptime-checks-for-small-saas-teams/) | Beginner | `Node.js or Go` `PostgreSQL` `Cheap VPS in 3 regions` |
+| [Alert Noise Analyser and Replay Tool for Small On-Call Teams](https://www.sefism.com/fyp-ideas/alert-noise-analyser-and-grouping-for-small-on-call-teams/) | Intermediate | `Go or Python` `Prometheus and Alertmanager` `Grafana` |
 | [Carbon-Aware Scheduler for Deferrable Batch and CI Jobs](https://www.sefism.com/fyp-ideas/carbon-aware-scheduler-for-deferrable-batch-and-ci-jobs/) | Intermediate | `Python or Go` `PostgreSQL` `Carbon intensity APIs` |
 | [Chaos Engineering Toolkit for Teaching Distributed Systems](https://www.sefism.com/fyp-ideas/chaos-engineering-toolkit-for-teaching-distributed-systems/) | Intermediate | `Go` `Docker and Docker Compose` `Kubernetes (kind or k3s)` |
 | [Distributed Tracing for a Polyglot Microservice System](https://www.sefism.com/fyp-ideas/distributed-tracing-for-a-polyglot-microservice-system/) | Intermediate | `OpenTelemetry SDKs and Collector` `Go, Python and Node.js` `Jaeger or Grafana Tempo` |
+| [Fair-Share GPU Scheduler for University Lab Workstations and Student Projects](https://www.sefism.com/fyp-ideas/fair-share-gpu-scheduler-for-university-lab-workstations/) | Intermediate | `Python (FastAPI)` `Docker with NVIDIA Container Toolkit` `PostgreSQL` |
 | [Feature Flag Service with Local Evaluation and Stale Flag Cleanup](https://www.sefism.com/fyp-ideas/feature-flag-service-with-local-evaluation-and-stale-flag-cleanup/) | Intermediate | `Go or Node.js` `PostgreSQL` `Server-Sent Events` |
+| [Flaky Test Detector for GitHub Actions That Uses Change Coverage Instead of Reruns](https://www.sefism.com/fyp-ideas/flaky-test-detector-that-uses-change-coverage-instead-of-reruns/) | Intermediate | `Python or TypeScript` `Coverage.py or Istanbul (nyc)` `pytest or Jest` |
 | [GitOps Agent for Docker Compose Servers with Drift Detection](https://www.sefism.com/fyp-ideas/gitops-agent-for-docker-compose-servers-with-drift-detection/) | Intermediate | `Go` `Docker Engine API` `Docker Compose` |
+| [Kubernetes Network Policy Generator With Pre-Apply Connectivity Tests to Stop Lateral Movement](https://www.sefism.com/fyp-ideas/kubernetes-network-policy-generator-with-pre-apply-connectivity-tests/) | Intermediate | `Go or Python` `Kubernetes and kind` `Cilium with Hubble, or Calico` |
 | [Lightweight Internal Developer Portal with Service Scorecards](https://www.sefism.com/fyp-ideas/lightweight-internal-developer-portal-with-service-scorecards/) | Intermediate | `TypeScript` `Next.js` `PostgreSQL` |
+| [Log Volume Cost Reducer With Pattern Mining for Self-Hosted Loki and Vector Pipelines](https://www.sefism.com/fyp-ideas/log-volume-cost-reducer-with-pattern-mining-for-self-hosted-logging/) | Intermediate | `Python` `Drain3 log parser` `Vector or Fluent Bit` |
 | [Multi-Provider Cloud Bill Tracker with Anomaly Alerts for Startups](https://www.sefism.com/fyp-ideas/multi-provider-cloud-bill-tracker-with-anomaly-alerts-for-startups/) | Intermediate | `Python` `PostgreSQL or DuckDB` `AWS Cost and Usage exports` |
 | [Mutation Testing Bot That Grades AI-Written Tests on Pull Requests](https://www.sefism.com/fyp-ideas/mutation-testing-bot-for-ai-written-tests/) | Intermediate | `Python or TypeScript` `Stryker, mutmut or PIT` `GitHub Actions and the GitHub REST API` |
 | [Network Configuration Backup and Drift Detection for University Campus Networks](https://www.sefism.com/fyp-ideas/network-configuration-backup-and-drift-detection-for-campus-networks/) | Intermediate | `Python` `Netmiko or Scrapli` `Git` |
@@ -887,22 +978,28 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Self-Hosted CI Runner Autoscaler with Warm Pools](https://www.sefism.com/fyp-ideas/self-hosted-ci-runner-autoscaler/) | Intermediate | `Go` `Docker` `Kubernetes (kind or k3s)` |
 | [Self-Hosted Web App on a Hardened VPS](https://www.sefism.com/fyp-ideas/self-hosted-web-app-on-a-hardened-vps/) | Intermediate | `Ubuntu Server LTS` `OpenSSH with key-only login` `UFW and Fail2ban` |
 | [Student Cloud Sandboxes with Budgets and Automatic Cleanup for University Labs](https://www.sefism.com/fyp-ideas/student-cloud-sandboxes-with-budgets-and-automatic-cleanup/) | Intermediate | `Terraform` `AWS, Azure or Google Cloud` `AWS Organizations or Azure Policy` |
+| [Terraform Plan Blast Radius Reviewer That Explains Risky Infrastructure Changes on Pull Requests](https://www.sefism.com/fyp-ideas/terraform-plan-blast-radius-reviewer-for-pull-requests/) | Intermediate | `Python or Go` `Terraform or OpenTofu JSON plan` `Open Policy Agent (Rego)` |
 | [Three-Tier Web App on AWS with Infrastructure as Code and a Cost Report](https://www.sefism.com/fyp-ideas/three-tier-web-app-on-aws-with-infrastructure-as-code/) | Intermediate | `AWS (VPC, ECS Fargate, RDS, S3)` `Terraform` `Docker` |
 | [Caching Edge Proxy with Tag-Based Purge for Small Hosting Providers](https://www.sefism.com/fyp-ideas/caching-edge-proxy-with-tag-based-purge-for-hosting-providers/) | Advanced | `Go or Rust` `HTTP/1.1 and HTTP/2` `Disk and memory cache tiers` |
+| [Cloud Data Transfer Cost Attribution from Flow Logs for Small Teams](https://www.sefism.com/fyp-ideas/cloud-data-transfer-cost-attribution-from-flow-logs-for-small-teams/) | Advanced | `Python` `AWS SDK (boto3)` `DuckDB` |
 | [Cloud Landing Zone Starter Kit for Small Teams with Terraform](https://www.sefism.com/fyp-ideas/cloud-landing-zone-starter-kit-for-small-teams/) | Advanced | `Terraform` `AWS, Azure or Google Cloud` `Single sign-on (SSO)` |
 | [Deployment Pipeline with Progressive Rollout and Automatic Rollback](https://www.sefism.com/fyp-ideas/deployment-pipeline-with-progressive-rollout-and-automatic-rollback/) | Advanced | `Go` `Kubernetes and client-go` `NGINX Ingress or Gateway API` |
 | [Kubernetes Resource Right-Sizing Advisor with Cost and Risk Reports](https://www.sefism.com/fyp-ideas/kubernetes-resource-right-sizing-advisor/) | Advanced | `Go` `Kubernetes API (client-go)` `Prometheus and cAdvisor metrics` |
+| [Multi-Model LLM Serving With Scale to Zero on a Few Shared GPUs](https://www.sefism.com/fyp-ideas/multi-model-llm-serving-with-scale-to-zero-on-a-few-shared-gpus/) | Advanced | `Python` `vLLM or llama.cpp server` `Kubernetes or Docker with NVIDIA runtime` |
 | [Multi-Tenant SaaS Control Plane with Pool and Silo Tenant Isolation](https://www.sefism.com/fyp-ideas/multi-tenant-saas-control-plane-with-pool-and-silo-isolation/) | Advanced | `Go or TypeScript` `PostgreSQL with row-level security` `PgBouncer` |
+| [Offline-First Update System for School and Clinic Device Fleets on Poor Connections](https://www.sefism.com/fyp-ideas/offline-first-update-system-for-school-and-clinic-device-fleets-on-poor-connections/) | Advanced | `Go or Rust` `casync or OSTree` `A/B partitions with RAUC or similar` |
 | [Zero-Downtime PostgreSQL Migration Checker with Lock Testing in CI](https://www.sefism.com/fyp-ideas/zero-downtime-postgresql-migration-checker-with-lock-testing/) | Advanced | `Go or Rust` `PostgreSQL` `pg_query parser bindings` |
 
 </details>
 
 <details>
-<summary><b>Games &amp; XR</b> &nbsp;<sub>19 ideas</sub></summary>
+<summary><b>Games &amp; XR</b> &nbsp;<sub>29 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
 | [A Finished Small 2D Game Released on itch.io with a Playtest Log](https://www.sefism.com/fyp-ideas/finished-small-2d-game-with-playtest-log/) | Beginner | `Godot, Unity or Unreal Engine` `GDScript, C# or Blueprints` `Git and Git LFS` |
+| [Adaptive Urdu Typing Game That Trains Your Weakest Keys First](https://www.sefism.com/fyp-ideas/adaptive-urdu-typing-game-with-per-key-error-training/) | Beginner | `TypeScript` `React or Svelte` `HTML Canvas or DOM animations` |
+| [Audio-Only Orientation Game in Urdu for Blind and Low-Vision Children](https://www.sefism.com/fyp-ideas/audio-only-orientation-game-in-urdu-for-blind-children/) | Beginner | `Unity or Godot 4` `Steam Audio or Resonance Audio` `C# or GDScript` |
 | [Hyper-Casual Mobile Game with Ad Mediation, Remote Config and A/B Tests](https://www.sefism.com/fyp-ideas/hyper-casual-mobile-game-with-ad-mediation-remote-config-and-ab-tests/) | Beginner | `Unity or Godot` `C# or GDScript` `AppLovin MAX or Unity LevelPlay` |
 | [Offline Maths Game for Primary Schools in Urdu and Regional Languages](https://www.sefism.com/fyp-ideas/offline-maths-game-for-primary-schools-in-urdu-and-regional-languages/) | Beginner | `Godot 4` `GDScript` `SQLite` |
 | [Web AR Museum Guide with Image Tracking and a Curator CMS](https://www.sefism.com/fyp-ideas/web-ar-museum-guide-with-image-tracking-and-curator-cms/) | Beginner | `MindAR.js` `three.js or A-Frame` `Next.js` |
@@ -910,22 +1007,30 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Accessibility Options Toolkit and Automated Audit for Unity Games](https://www.sefism.com/fyp-ideas/accessibility-options-toolkit-and-automated-audit-for-unity-games/) | Intermediate | `Unity` `C#` `Unity Input System` |
 | [Algorithm Visualisation Puzzle Game for Learning Data Structures](https://www.sefism.com/fyp-ideas/algorithm-visualisation-puzzle-game/) | Intermediate | `TypeScript` `React` `Canvas API or PixiJS` |
 | [Augmented Reality Campus Navigation and Information Layer](https://www.sefism.com/fyp-ideas/augmented-reality-campus-navigation-and-information-layer/) | Intermediate | `Unity` `AR Foundation (ARCore and ARKit)` `ARCore Geospatial API` |
+| [Citizen Science Game for Verifying Brick Kiln Detections from Satellite Images](https://www.sefism.com/fyp-ideas/citizen-science-game-for-verifying-brick-kiln-detections-from-satellite-images/) | Intermediate | `Phaser or Godot 4 (web export)` `Python and PyTorch` `Leaflet or OpenLayers` |
 | [Data-Driven Tower Defence with Balancing Tools and Playtest Telemetry](https://www.sefism.com/fyp-ideas/data-driven-tower-defence-with-balancing-tools/) | Intermediate | `Unity, Godot or Unreal` `C#, GDScript or C++` `Engine editor scripting` |
 | [Driving Theory Hazard Perception Game for Learner Drivers on Local Roads](https://www.sefism.com/fyp-ideas/driving-theory-hazard-perception-game-for-learner-drivers/) | Intermediate | `Flutter` `Dart` `FFmpeg` |
 | [Fire Evacuation Drill Game Generated from Real Building Floor Plans](https://www.sefism.com/fyp-ideas/fire-evacuation-drill-game-generated-from-building-floor-plans/) | Intermediate | `Unity or Godot` `C# or GDScript` `Python (plan processing)` |
+| [Groundwater Commons Serious Game for Farmer Groups and Agriculture Students](https://www.sefism.com/fyp-ideas/groundwater-commons-serious-game-for-farmer-groups/) | Intermediate | `Godot 4 (GDScript)` `WebSocket server on a local network` `Python for the model and analysis` |
 | [Local Multiplayer Party Game with Full Controller Support](https://www.sefism.com/fyp-ideas/local-multiplayer-party-game-with-controller-support/) | Intermediate | `Unity Input System or Godot InputMap` `C#, GDScript or C++ and Blueprints` `Finite state machine for match flow` |
+| [Monsoon Flood Preparedness Strategy Game Built on Real Terrain for School Children](https://www.sefism.com/fyp-ideas/monsoon-flood-preparedness-strategy-game-on-real-terrain/) | Intermediate | `Godot 4 or Unity` `GDScript or C#` `QGIS and open elevation data` |
 | [Scenario-Based First Aid Training Game with Branching Emergencies and Scoring](https://www.sefism.com/fyp-ideas/scenario-based-first-aid-training-game-with-branching-emergencies/) | Intermediate | `Godot 4 or Unity` `C# or GDScript` `JSON scenario format` |
+| [Urdu Misinformation Inoculation Game for WhatsApp Forwards](https://www.sefism.com/fyp-ideas/urdu-misinformation-inoculation-game-for-whatsapp-forwards/) | Intermediate | `TypeScript` `Phaser 3 or React` `Ink or Yarn Spinner for dialogue` |
+| [Urdu Speech Therapy Practice Game for Children with Therapist Review and Sound Scoring](https://www.sefism.com/fyp-ideas/urdu-speech-therapy-practice-game-for-children-with-therapist-review/) | Intermediate | `Unity or Flutter` `Python and PyTorch` `wav2vec 2.0 or a similar speech model` |
 | [VR Laboratory Safety Training with Performance Assessment](https://www.sefism.com/fyp-ideas/vr-laboratory-safety-training-with-performance-assessment/) | Intermediate | `Unity` `XR Interaction Toolkit and OpenXR` `C#` |
 | [WebXR 3D and AR Product Viewer Pipeline for Furniture Retailers](https://www.sefism.com/fyp-ideas/webxr-3d-and-ar-product-viewer-pipeline-for-furniture-retailers/) | Intermediate | `three.js or model-viewer` `glTF Transform` `Blender (Python scripting)` |
 | [Deterministic Replay and Bug Reproduction SDK for Indie Godot Games](https://www.sefism.com/fyp-ideas/deterministic-replay-and-bug-reproduction-sdk-for-godot-games/) | Advanced | `Godot 4` `GDScript and C++ (GDExtension)` `Go or Node.js` |
+| [On-Device Language Model NPCs with Memory and Lore Consistency Checks for Indie Games](https://www.sefism.com/fyp-ideas/on-device-language-model-npcs-with-lore-consistency-checks/) | Advanced | `Godot 4 or Unity` `llama.cpp or ONNX Runtime` `A small open language model` |
 | [Procedural Puzzle Level Generation with Guaranteed Solvability](https://www.sefism.com/fyp-ideas/procedural-level-generation-with-guaranteed-solvability/) | Advanced | `Unity (C#) or Godot` `Python for the generator and experiments` `A* or IDA* search` |
 | [Real-Time Collaborative Web Level Editor for 2D Game Teams](https://www.sefism.com/fyp-ideas/real-time-collaborative-web-level-editor-for-2d-game-teams/) | Advanced | `TypeScript` `Yjs or Automerge` `PixiJS` |
+| [Reinforcement Learning Playtest Agents That Find Stuck Spots and Exploits in Indie Game Levels](https://www.sefism.com/fyp-ideas/reinforcement-learning-playtest-agents-for-indie-level-design/) | Advanced | `Unity with ML-Agents or Godot RL Agents` `Python and PyTorch` `Stable-Baselines3 or similar` |
 | [Server-Authoritative Browser Multiplayer Game with Prediction and Lag Compensation](https://www.sefism.com/fyp-ideas/server-authoritative-browser-multiplayer-with-lag-compensation/) | Advanced | `TypeScript` `Node.js` `WebSockets or WebTransport` |
+| [Server-Side Aimbot Detection from Gameplay Telemetry for Indie Multiplayer Shooters](https://www.sefism.com/fyp-ideas/server-side-aimbot-detection-from-gameplay-telemetry-for-indie-shooters/) | Advanced | `Godot 4 or Unity` `A dedicated game server` `Python and PyTorch` |
 
 </details>
 
 <details>
-<summary><b>Other</b> &nbsp;<sub>24 ideas</sub></summary>
+<summary><b>Other</b> &nbsp;<sub>34 ideas</sub></summary>
 
 | Idea | Level | Stack |
 | :-- | :-- | :-- |
@@ -933,6 +1038,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Bilingual AAC Communication Board for Non-Speaking Children](https://www.sefism.com/fyp-ideas/bilingual-aac-communication-board-for-non-speaking-children/) | Beginner | `Flutter or React Native` `SQLite for offline storage` `Device text-to-speech engines` |
 | [Dotfiles and One-Command Developer Machine Setup](https://www.sefism.com/fyp-ideas/dotfiles-and-one-command-machine-setup/) | Beginner | `Bash` `Git and GitHub` `apt and Homebrew` |
 | [Git Hotspot and Knowledge Risk CLI for Small Dev Teams](https://www.sefism.com/fyp-ideas/git-hotspot-and-knowledge-risk-cli-for-small-dev-teams/) | Beginner | `Python or Go` `Git log parsing` `Lizard or Tree-sitter for complexity` |
+| [Instalment Plan True Cost and APR Calculator for Phone and Appliance Kist Offers](https://www.sefism.com/fyp-ideas/instalment-plan-true-cost-and-apr-calculator-for-consumer-kist/) | Beginner | `TypeScript` `Next.js` `Decimal.js` |
 | [Lead Capture to CRM Automation with AI Qualification](https://www.sefism.com/fyp-ideas/lead-capture-to-crm-automation-with-ai-qualification/) | Beginner | `n8n (self-hosted or cloud)` `HubSpot free CRM or Zoho CRM` `Google Sheets as run log` |
 | [Plain-Text Ledger with Reports and Tests](https://www.sefism.com/fyp-ideas/plain-text-ledger-with-reports-and-tests/) | Beginner | `Python, Java, C# or JavaScript` `Decimal type or integer minor units` `pytest, JUnit or the language equivalent` |
 | [Product Discovery Case Study: From User Interviews to a Tested Prototype](https://www.sefism.com/fyp-ideas/product-discovery-case-study-with-tested-prototype/) | Beginner | `Figma or Penpot` `Google Forms or Tally` `Notion or Google Docs` |
@@ -944,15 +1050,24 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | [Full-Text Search Engine with BM25 Ranking and Urdu Tokenisation](https://www.sefism.com/fyp-ideas/full-text-search-engine-with-bm25-ranking-and-urdu-tokenisation/) | Intermediate | `Rust, Go or Java` `Inverted index on disk` `BM25 scoring` |
 | [HTTP Server from Raw Sockets with a Load Test Report](https://www.sefism.com/fyp-ideas/http-server-from-raw-sockets-with-load-test-report/) | Intermediate | `C, Go or Rust` `POSIX sockets, poll and epoll` `curl and a Python test client` |
 | [Instruction File Linter for AI Coding Agents: AGENTS.md, CLAUDE.md, Cursor Rules and Copilot Instructions](https://www.sefism.com/fyp-ideas/ai-coding-agent-instruction-file-linter/) | Intermediate | `TypeScript or Python` `remark or markdown-it-py` `YAML frontmatter parsing` |
+| [Lecture PDF Accessibility Checker and Accessible HTML Converter for Universities](https://www.sefism.com/fyp-ideas/lecture-pdf-accessibility-checker-and-html-converter-for-universities/) | Intermediate | `Python` `PyMuPDF and pdfplumber` `veraPDF (command line)` |
 | [Rules-as-Code DSL for Payroll Tax with Explainable Payslips](https://www.sefism.com/fyp-ideas/rules-as-code-dsl-for-payroll-tax-with-explainable-payslips/) | Intermediate | `Python or TypeScript` `Lark or Ohm parser, or hand-written` `Type checker for money and dates` |
 | [Unix Shell with Pipes, Redirection and Job Control](https://www.sefism.com/fyp-ideas/unix-shell-with-pipes-redirection-and-job-control/) | Intermediate | `C (C11)` `Linux or WSL` `POSIX system calls` |
+| [Urdu and RTL Accessibility Linter for Nastaliq Web Pages and Government Forms](https://www.sefism.com/fyp-ideas/urdu-rtl-web-accessibility-linter-for-nastaliq-pages/) | Intermediate | `TypeScript` `Playwright` `axe-core custom rules` |
+| [Urdu Explanations for Python Errors with Classroom Error Analytics](https://www.sefism.com/fyp-ideas/urdu-explanations-for-python-errors-with-classroom-error-analytics/) | Intermediate | `Python` `friendly-traceback (extended)` `gettext for translations` |
 | [Verifiable Degree Credentials with Instant Employer Checks](https://www.sefism.com/fyp-ideas/verifiable-degree-credentials-with-instant-employer-checks/) | Intermediate | `TypeScript and Node.js` `W3C Verifiable Credentials` `Ed25519 signatures` |
 | [VS Code Extension for Codebase Onboarding Maps and Guided Tours](https://www.sefism.com/fyp-ideas/vs-code-extension-for-codebase-onboarding-maps-and-guided-tours/) | Intermediate | `TypeScript` `VS Code Extension API` `Tree-sitter parsers` |
+| [Warabandi Canal Water Turn Scheduler and Swap Ledger for Farmers](https://www.sefism.com/fyp-ideas/warabandi-canal-water-turn-scheduler-and-swap-ledger-for-farmers/) | Intermediate | `Python or TypeScript` `PostgreSQL` `Next.js or a Flutter app` |
+| [Dengue and Diarrhoea Cluster Detection from Daily Clinic Case Reports](https://www.sefism.com/fyp-ideas/dengue-and-diarrhoea-cluster-detection-from-clinic-case-reports/) | Advanced | `Python` `pandas and GeoPandas` `PostGIS` |
+| [Dependency Upgrade Impact Checker That Finds Which of Your Calls a Breaking Change Hits](https://www.sefism.com/fyp-ideas/dependency-upgrade-impact-checker-for-breaking-api-changes/) | Advanced | `TypeScript` `TypeScript compiler API` `Node.js` |
 | [Distributed Key-Value Store with Raft Consensus](https://www.sefism.com/fyp-ideas/distributed-key-value-store-with-raft-consensus/) | Advanced | `Go` `gRPC and Protocol Buffers` `bbolt or a write-ahead log file` |
 | [Double-Entry Ledger Service for Marketplace Wallets and Payouts](https://www.sefism.com/fyp-ideas/double-entry-ledger-service-for-marketplace-wallets-and-payouts/) | Advanced | `Go or Kotlin` `PostgreSQL` `gRPC or REST API` |
 | [Interpreter and Type Checker for a Small Language](https://www.sefism.com/fyp-ideas/interpreter-and-type-checker-for-a-small-language/) | Advanced | `Rust, OCaml or TypeScript` `Hand-written recursive descent parser` `Union-find for type unification` |
 | [Persistent Message Broker with Consumer Groups Built From Scratch](https://www.sefism.com/fyp-ideas/persistent-message-broker-with-consumer-groups-built-from-scratch/) | Advanced | `Go or Rust` `TCP with a binary protocol` `Segmented append-only log` |
+| [Privacy-Preserving Beneficiary Deduplication for Relief NGOs After Floods](https://www.sefism.com/fyp-ideas/privacy-preserving-beneficiary-deduplication-for-relief-ngos/) | Advanced | `Python` `pandas` `clkhash or custom Bloom filters` |
+| [Spreadsheet Formula Error Finder for Small Business Workbooks](https://www.sefism.com/fyp-ideas/spreadsheet-formula-error-finder-for-small-business-workbooks/) | Advanced | `Python` `openpyxl` `A formula parser (formulas or pycel)` |
 | [SQL Query Engine with a Cost-Based Optimiser for Analytics Files](https://www.sefism.com/fyp-ideas/sql-query-engine-with-a-cost-based-optimiser-for-analytics-files/) | Advanced | `Rust, C++ or Java` `Apache Arrow columnar format` `Parquet reader` |
+| [Verifiable Committee (ROSCA) Ledger with Provably Fair Payout Draws](https://www.sefism.com/fyp-ideas/verifiable-committee-rosca-ledger-with-provably-fair-draws/) | Advanced | `Flutter or React Native` `Ed25519 signatures (libsodium)` `SQLite on device` |
 
 </details>
 
@@ -962,7 +1077,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Learning resources
 
-1051 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
+1194 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
 
 ### Top picks
 
@@ -1081,13 +1196,13 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Category | Resources | Free | Mostly |
 | :-- | :-: | :-: | :-- |
-| **[AI & Machine Learning](resources/ai.md)** | 224 | 188 | 103 tool, 48 guide, 29 course |
-| **[Web Development](resources/web-development.md)** | 163 | 155 | 73 guide, 29 tool, 22 course |
-| **[System Design](resources/system-design.md)** | 92 | 70 | 52 guide, 12 course, 12 book |
+| **[AI & Machine Learning](resources/ai.md)** | 247 | 211 | 103 tool, 48 guide, 29 course |
+| **[Web Development](resources/web-development.md)** | 190 | 182 | 73 guide, 29 tool, 22 course |
+| **[System Design](resources/system-design.md)** | 96 | 74 | 52 guide, 12 course, 12 book |
 | **[Interview Prep](resources/interview-prep.md)** | 57 | 38 | 18 guide, 13 course, 9 platform |
-| **[Career Growth](resources/career.md)** | 190 | 144 | 58 guide, 36 platform, 22 course |
-| **[Mentorship](resources/mentorship.md)** | 17 | 9 | 9 platform, 1 course, 1 roadmap |
-| **[Other](resources/other.md)** | 308 | 286 | 113 guide, 43 course, 39 tool |
+| **[Career Growth](resources/career.md)** | 231 | 185 | 58 guide, 36 platform, 24 roadmap |
+| **[Mentorship](resources/mentorship.md)** | 21 | 13 | 9 platform, 5 video, 1 course |
+| **[Other](resources/other.md)** | 352 | 330 | 113 guide, 43 course, 39 tool |
 
 <sub>[Filter on sefism.com](https://www.sefism.com/resources/) · [All categories](resources/README.md)</sub>
 
@@ -1095,7 +1210,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Pakistani and global tech companies
 
-506 companies hiring software engineers, 308 Pakistani and 198 top global tech companies, each with interview stages, reported pay ranges, perks and a careers link, and every claim labelled with its source.
+507 companies hiring software engineers, 308 Pakistani and 199 top global tech companies, each with interview stages, reported pay ranges, perks and a careers link, and every claim labelled with its source.
 
 <table>
 <tr>
@@ -1136,7 +1251,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | [Global](https://www.sefism.com/companies/?scope=global), by country | Companies |
 | :-- | :-: |
-| United States | 96 |
+| United States | 97 |
 | India | 13 |
 | China | 12 |
 | United Kingdom | 7 |
@@ -1155,7 +1270,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Jobs
 
-[Tech jobs at Pakistani and global companies](https://www.sefism.com/jobs/), graduate to senior: software, data, QA and design roles. Every job links to the company's own posting and shows when it was last checked. 39 open roles right now (17 in Pakistan, 22 global): 18 graduate · 21 junior.
+[Tech jobs at Pakistani and global companies](https://www.sefism.com/jobs/), graduate to senior: software, data, QA and design roles. Every job links to the company's own posting and shows when it was last checked. 164 open roles right now (115 in Pakistan, 49 global): 25 graduate · 53 junior · 56 mid-level · 30 senior.
 
 Looking beyond the list? [Companies hiring](https://www.sefism.com/jobs/companies/) puts the careers pages of 162 companies in one place. Hiring? Companies can post a role from the jobs page, and every submission is reviewed before it goes live.
 
@@ -1232,6 +1347,6 @@ Found a broken link or want something covered? [Open an issue](../../issues) or 
 ---
 
 <div align="center">
-<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-09-28. The site is always the latest version.</sub><br>
+<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-10-06. The site is always the latest version.</sub><br>
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
 </div>

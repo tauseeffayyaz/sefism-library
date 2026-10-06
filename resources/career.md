@@ -2,22 +2,22 @@
 
 [← Back to the Sefism Library](../README.md)
 
-190 resources, each with a short review on Sefism explaining who it is for.
+231 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=career)
 
 - [Top picks: career growth](#top-picks-career-growth) (6)
 - [Course](#course) (22)
-- [Roadmap](#roadmap) (9)
+- [Roadmap](#roadmap) (24)
 - [Guide](#guide) (58)
-- [Cheat sheet](#cheat-sheet) (1)
+- [Cheat sheet](#cheat-sheet) (16)
 - [Platform](#platform) (36)
 - [Tool](#tool) (20)
 - [GitHub repo](#github-repo) (4)
 - [Book](#book) (22)
-- [Video](#video) (2)
+- [Video](#video) (7)
 - [Community](#community) (7)
-- [Scholarship](#scholarship) (9)
+- [Scholarship](#scholarship) (15)
 
 ## Top picks: career growth
 
@@ -63,6 +63,21 @@
 - [roadmap.sh: DevRel (Developer Relations)](https://www.sefism.com/resources/roadmapsh-devrel/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: Engineering Manager](https://www.sefism.com/resources/roadmapsh-engineering-manager/) · roadmap.sh · Free · Advanced
 - [roadmap.sh: Technical Writer](https://www.sefism.com/resources/roadmapsh-technical-writer/) · roadmap.sh · Free · Beginner
+- [Sefism Automation for Clients Roadmap](https://www.sefism.com/resources/sefism-automation-roadmap/) · Sefism · Free · Beginner
+- [Sefism Build and Sell Your Own Product Roadmap](https://www.sefism.com/resources/sefism-indie-products-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Forward Deployed and Solutions Engineering Roadmap](https://www.sefism.com/resources/sefism-forward-deployed-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Freelancing Roadmap](https://www.sefism.com/resources/sefism-freelancing-roadmap/) · Sefism · Free · Beginner
+- [Sefism Job Search Roadmap](https://www.sefism.com/resources/sefism-job-search-roadmap/) · Sefism · Free
+- [Sefism LinkedIn and Personal Branding Roadmap](https://www.sefism.com/resources/sefism-personal-branding-roadmap/) · Sefism · Free
+- [Sefism Masters and Scholarships Abroad Roadmap](https://www.sefism.com/resources/sefism-higher-studies-roadmap/) · Sefism · Free
+- [Sefism Mid-level to Senior Roadmap](https://www.sefism.com/resources/sefism-career-growth-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Open Source Roadmap](https://www.sefism.com/resources/sefism-open-source-roadmap/) · Sefism · Free · Beginner
+- [Sefism Remote Jobs Roadmap](https://www.sefism.com/resources/sefism-remote-jobs-roadmap/) · Sefism · Free
+- [Sefism Staff and Leadership Roadmap](https://www.sefism.com/resources/sefism-leadership-roadmap/) · Sefism · Free · Advanced
+- [Sefism Switch into Tech Roadmap](https://www.sefism.com/resources/sefism-career-switch-roadmap/) · Sefism · Free · Beginner
+- [Sefism Tech Roles Beyond Coding Roadmap](https://www.sefism.com/resources/sefism-non-coding-roles-roadmap/) · Sefism · Free · Beginner
+- [Sefism University to Job-Ready Roadmap](https://www.sefism.com/resources/sefism-job-ready-roadmap/) · Sefism · Free · Beginner
+- [Sefism Your First Tech Job Roadmap](https://www.sefism.com/resources/sefism-first-job-roadmap/) · Sefism · Free · Beginner
 - [UX Design Roadmap](https://www.sefism.com/resources/roadmapsh-ux-design/) · roadmap.sh · Free · Beginner
 
 ## Guide
@@ -129,6 +144,21 @@
 ## Cheat sheet
 
 - [Engineering Ladders](https://www.sefism.com/resources/engineering-ladders/) · Jorge Fioranelli · Free
+- [Sefism Automation for Clients Cheat Sheet](https://www.sefism.com/resources/sefism-automation-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Build and Sell Your Own Product Cheat Sheet](https://www.sefism.com/resources/sefism-indie-products-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Forward Deployed and Solutions Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-forward-deployed-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Freelancing Cheat Sheet](https://www.sefism.com/resources/sefism-freelancing-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Job Search Cheat Sheet](https://www.sefism.com/resources/sefism-job-search-cheat-sheet/) · Sefism · Free
+- [Sefism LinkedIn and Personal Branding Cheat Sheet](https://www.sefism.com/resources/sefism-personal-branding-cheat-sheet/) · Sefism · Free
+- [Sefism Masters and Scholarships Abroad Cheat Sheet](https://www.sefism.com/resources/sefism-higher-studies-cheat-sheet/) · Sefism · Free
+- [Sefism Mid-level to Senior Cheat Sheet](https://www.sefism.com/resources/sefism-career-growth-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Open Source Cheat Sheet](https://www.sefism.com/resources/sefism-open-source-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Remote Jobs Cheat Sheet](https://www.sefism.com/resources/sefism-remote-jobs-cheat-sheet/) · Sefism · Free
+- [Sefism Staff and Leadership Cheat Sheet](https://www.sefism.com/resources/sefism-leadership-cheat-sheet/) · Sefism · Free · Advanced
+- [Sefism Switch into Tech Cheat Sheet](https://www.sefism.com/resources/sefism-career-switch-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Tech Roles Beyond Coding Cheat Sheet](https://www.sefism.com/resources/sefism-non-coding-roles-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism University to Job-Ready Cheat Sheet](https://www.sefism.com/resources/sefism-job-ready-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Your First Tech Job Cheat Sheet](https://www.sefism.com/resources/sefism-first-job-cheat-sheet/) · Sefism · Free · Beginner
 
 ## Platform
 
@@ -226,8 +256,13 @@
 
 ## Video
 
+- [Ali Abdaal (YouTube channel)](https://www.sefism.com/resources/ali-abdaal-youtube-channel/) · Ali Abdaal · Free · Beginner
+- [Forrest Knight (YouTube channel)](https://www.sefism.com/resources/forrest-knight-youtube-channel/) · Forrest Knight · Free
+- [Jeff Su (YouTube channel)](https://www.sefism.com/resources/jeff-su-youtube-channel/) · Jeff Su · Free · Beginner
 - [Jeremy's IT Lab: CCNA 200-301 Complete Course](https://www.sefism.com/resources/jeremys-it-lab-ccna/) · Jeremy's IT Lab · Free · Beginner
 - [LeadDev](https://www.sefism.com/resources/leaddev/) · LeadDev · Free · Advanced
+- [The Futur (YouTube channel)](https://www.sefism.com/resources/the-futur-youtube-channel/) · The Futur (Chris Do) · Free
+- [The Pragmatic Engineer (YouTube channel)](https://www.sefism.com/resources/the-pragmatic-engineer-youtube-channel/) · Gergely Orosz · Free · Intermediate
 
 ## Community
 
@@ -247,12 +282,18 @@
 - [Commonwealth Scholarships (CSC UK)](https://www.sefism.com/resources/commonwealth-scholarships-uk/) · Commonwealth Scholarship Commission in the UK · Free
 - [DAAD Scholarship Database](https://www.sefism.com/resources/daad-scholarship-database/) · DAAD (German Academic Exchange Service) · Free
 - [Erasmus Mundus Joint Masters Catalogue](https://www.sefism.com/resources/erasmus-mundus-catalogue/) · European Education and Culture Executive Agency (EACEA) · Free
+- [France Excellence Eiffel Scholarship](https://www.sefism.com/resources/eiffel-excellence-scholarship/) · French Ministry for Europe and Foreign Affairs (Campus France) · Free
 - [Fulbright Foreign Student Program](https://www.sefism.com/resources/fulbright-foreign-student-program/) · US Department of State · Free
+- [Gates Cambridge Scholarship](https://www.sefism.com/resources/gates-cambridge-scholarship/) · Gates Cambridge Trust · Free
+- [MEXT Japanese Government Scholarship](https://www.sefism.com/resources/mext-japanese-government-scholarship/) · Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan · Free
+- [Stipendium Hungaricum](https://www.sefism.com/resources/stipendium-hungaricum/) · Government of Hungary (Tempus Public Foundation) · Free
 - [Study in Japan](https://www.sefism.com/resources/study-in-japan/) · Japan Student Services Organization (JASSO) · Free
 - [Study in Korea and the Global Korea Scholarship](https://www.sefism.com/resources/study-in-korea-gks/) · National Institute for International Education (NIIED), Korea · Free
+- [Swedish Institute Scholarships for Global Professionals](https://www.sefism.com/resources/swedish-institute-scholarships-for-global-professionals/) · Swedish Institute · Free
+- [Türkiye Scholarships (Türkiye Bursları)](https://www.sefism.com/resources/turkiye-burslari/) · Presidency for Turks Abroad and Related Communities (YTB), Türkiye · Free
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

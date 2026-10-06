@@ -2,20 +2,20 @@
 
 [← Back to the Sefism Library](../README.md)
 
-308 resources, each with a short review on Sefism explaining who it is for.
+352 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=other)
 
 - [Top picks: cs fundamentals and clean code](#top-picks-cs-fundamentals-and-clean-code) (9)
 - [Course](#course) (43)
-- [Roadmap](#roadmap) (11)
+- [Roadmap](#roadmap) (26)
 - [Guide](#guide) (113)
-- [Cheat sheet](#cheat-sheet) (5)
+- [Cheat sheet](#cheat-sheet) (20)
 - [Platform](#platform) (30)
 - [Tool](#tool) (39)
 - [GitHub repo](#github-repo) (20)
 - [Book](#book) (32)
-- [Video](#video) (9)
+- [Video](#video) (23)
 - [Community](#community) (6)
 
 ## Top picks: cs fundamentals and clean code
@@ -88,6 +88,21 @@
 - [roadmap.sh: Linux](https://www.sefism.com/resources/roadmapsh-linux/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: QA](https://www.sefism.com/resources/roadmapsh-qa/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: Shell / Bash](https://www.sefism.com/resources/roadmapsh-shell-bash/) · roadmap.sh · Free
+- [Sefism Cloud Engineering Roadmap](https://www.sefism.com/resources/sefism-cloud-engineer-roadmap/) · Sefism · Free · Beginner
+- [Sefism Competitive Programming Roadmap](https://www.sefism.com/resources/sefism-competitive-programming-roadmap/) · Sefism · Free
+- [Sefism CS Core Subjects Roadmap](https://www.sefism.com/resources/sefism-cs-core-roadmap/) · Sefism · Free · Beginner
+- [Sefism Cybersecurity Roadmap](https://www.sefism.com/resources/sefism-cybersecurity-roadmap/) · Sefism · Free · Beginner
+- [Sefism Data Analytics Roadmap](https://www.sefism.com/resources/sefism-data-analytics-roadmap/) · Sefism · Free · Beginner
+- [Sefism Data Engineering Roadmap](https://www.sefism.com/resources/sefism-data-engineering-roadmap/) · Sefism · Free · Intermediate
+- [Sefism DevOps and Cloud Roadmap](https://www.sefism.com/resources/sefism-devops-cloud-roadmap/) · Sefism · Free · Intermediate
+- [Sefism DSA and Problem Solving Roadmap](https://www.sefism.com/resources/sefism-dsa-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Embedded Systems and IoT Roadmap](https://www.sefism.com/resources/sefism-embedded-iot-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Game Development Roadmap](https://www.sefism.com/resources/sefism-game-dev-roadmap/) · Sefism · Free · Beginner
+- [Sefism Linux, Terminal and Git Roadmap](https://www.sefism.com/resources/sefism-dev-tools-roadmap/) · Sefism · Free · Beginner
+- [Sefism Network Engineering Roadmap](https://www.sefism.com/resources/sefism-network-engineer-roadmap/) · Sefism · Free · Beginner
+- [Sefism Platform Engineering and SRE Roadmap](https://www.sefism.com/resources/sefism-platform-sre-roadmap/) · Sefism · Free · Advanced
+- [Sefism Programming Foundations Roadmap](https://www.sefism.com/resources/sefism-programming-roadmap/) · Sefism · Free · Beginner
+- [Sefism QA and Test Automation Roadmap](https://www.sefism.com/resources/sefism-qa-testing-roadmap/) · Sefism · Free · Beginner
 - [Teach Yourself Computer Science](https://www.sefism.com/resources/teach-yourself-computer-science/) · Oz Nova and Myles Byrne · Free · Intermediate
 
 ## Guide
@@ -212,6 +227,21 @@
 - [Google Sheets function list](https://www.sefism.com/resources/google-sheets-function-list/) · Google · Free
 - [Kubernetes Production Best Practices](https://www.sefism.com/resources/kubernetes-production-best-practices/) · Learnk8s · Free · Intermediate
 - [Oh Shit, Git!?!](https://www.sefism.com/resources/oh-shit-git/) · Katie Sylor-Miller · Free
+- [Sefism Cloud Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-cloud-engineer-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Competitive Programming Cheat Sheet](https://www.sefism.com/resources/sefism-competitive-programming-cheat-sheet/) · Sefism · Free
+- [Sefism CS Core Subjects Cheat Sheet](https://www.sefism.com/resources/sefism-cs-core-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Cybersecurity Cheat Sheet](https://www.sefism.com/resources/sefism-cybersecurity-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Data Analytics Cheat Sheet](https://www.sefism.com/resources/sefism-data-analytics-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Data Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-data-engineering-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism DevOps and Cloud Cheat Sheet](https://www.sefism.com/resources/sefism-devops-cloud-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism DSA and Problem Solving Cheat Sheet](https://www.sefism.com/resources/sefism-dsa-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Embedded Systems and IoT Cheat Sheet](https://www.sefism.com/resources/sefism-embedded-iot-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Game Development Cheat Sheet](https://www.sefism.com/resources/sefism-game-dev-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Linux, Terminal and Git Cheat Sheet](https://www.sefism.com/resources/sefism-dev-tools-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Network Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-network-engineer-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Platform Engineering and SRE Cheat Sheet](https://www.sefism.com/resources/sefism-platform-sre-cheat-sheet/) · Sefism · Free · Advanced
+- [Sefism Programming Foundations Cheat Sheet](https://www.sefism.com/resources/sefism-programming-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism QA and Test Automation Cheat Sheet](https://www.sefism.com/resources/sefism-qa-testing-cheat-sheet/) · Sefism · Free · Beginner
 - [tldr pages](https://www.sefism.com/resources/tldr-pages/) · tldr pages · Free
 
 ## Platform
@@ -349,15 +379,29 @@
 
 ## Video
 
+- [Abdul Bari (YouTube channel)](https://www.sefism.com/resources/abdul-bari-youtube-channel/) · Abdul Bari · Free · Intermediate
+- [Alex The Analyst (YouTube channel)](https://www.sefism.com/resources/alex-the-analyst-youtube-channel/) · Alex Freberg (Alex The Analyst) · Free · Beginner
+- [Ben Eater (YouTube channel)](https://www.sefism.com/resources/ben-eater-youtube-channel/) · Ben Eater · Free
 - [Brackeys](https://www.sefism.com/resources/brackeys/) · Brackeys (YouTube) · Free · Beginner
 - [Computer Networking: A Top-Down Approach (Video Lectures)](https://www.sefism.com/resources/computer-networking-a-top-down-approach-video-lectures/) · Jim Kurose and Keith Ross · Free · Intermediate
 - [Computerphile](https://www.sefism.com/resources/computerphile/) · Computerphile · Free
+- [Core Dumped (YouTube channel)](https://www.sefism.com/resources/core-dumped-youtube-channel/) · Core Dumped · Free · Intermediate
+- [Corey Schafer (YouTube channel)](https://www.sefism.com/resources/corey-schafer-youtube-channel/) · Corey Schafer · Free · Beginner
 - [Crash Course Computer Science](https://www.sefism.com/resources/crash-course-computer-science/) · CrashCourse · Free · Beginner
+- [David Bombal (YouTube channel)](https://www.sefism.com/resources/david-bombal-youtube-channel/) · David Bombal · Free
 - [Essence of Linear Algebra](https://www.sefism.com/resources/essence-of-linear-algebra/) · 3Blue1Brown · Free · Beginner
 - [Game Maker's Toolkit](https://www.sefism.com/resources/game-makers-toolkit/) · Mark Brown (YouTube) · Free
+- [Gate Smashers (YouTube channel)](https://www.sefism.com/resources/gate-smashers-youtube-channel/) · Gate Smashers · Free · Beginner
 - [GDC Vault](https://www.sefism.com/resources/gdc-vault/) · Game Developers Conference · Free · Intermediate
 - [Introduction to RTOS (video series)](https://www.sefism.com/resources/digikey-introduction-to-rtos/) · DigiKey (Shawn Hymel) · Free · Intermediate
+- [John Hammond (YouTube channel)](https://www.sefism.com/resources/john-hammond-youtube-channel/) · John Hammond · Free · Intermediate
+- [Learn Linux TV (YouTube channel)](https://www.sefism.com/resources/learn-linux-tv-youtube-channel/) · Learn Linux TV · Free · Beginner
+- [Low Level (YouTube channel)](https://www.sefism.com/resources/low-level-youtube-channel/) · Low Level · Free · Intermediate
 - [Modern Embedded Systems Programming (video course)](https://www.sefism.com/resources/modern-embedded-systems-programming/) · Quantum Leaps (Miro Samek) · Free · Intermediate
+- [NetworkChuck (YouTube channel)](https://www.sefism.com/resources/networkchuck-youtube-channel/) · NetworkChuck · Free · Beginner
+- [Sebastian Lague (YouTube channel)](https://www.sefism.com/resources/sebastian-lague-youtube-channel/) · Sebastian Lague · Free
+- [TechWorld with Nana (YouTube channel)](https://www.sefism.com/resources/techworld-with-nana-youtube-channel/) · Nana Janashia · Free · Beginner
+- [The Cherno (YouTube channel)](https://www.sefism.com/resources/the-cherno-youtube-channel/) · Yan Chernikov (The Cherno) · Free · Intermediate
 
 ## Community
 
@@ -370,6 +414,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

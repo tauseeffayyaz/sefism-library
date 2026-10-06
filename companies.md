@@ -2,12 +2,12 @@
 
 [← Back to the Sefism Library](README.md)
 
-506 companies hiring software engineers: 308 Pakistani and 198 top global tech companies. Each page on Sefism covers interview stages, reported pay ranges, perks and the careers page link, and labels every claim with its source.
+507 companies hiring software engineers: 308 Pakistani and 199 top global tech companies. Each page on Sefism covers interview stages, reported pay ranges, perks and the careers page link, and labels every claim with its source.
 
 Browse [Pakistan](https://www.sefism.com/companies/) or [Global](https://www.sefism.com/companies/?scope=global) on sefism.com. Pakistan by city: [Karachi](https://www.sefism.com/companies/?city=karachi) · [Lahore](https://www.sefism.com/companies/?city=lahore) · [Islamabad](https://www.sefism.com/companies/?city=islamabad) · [Rawalpindi](https://www.sefism.com/companies/?city=rawalpindi) · [Faisalabad](https://www.sefism.com/companies/?city=faisalabad) · [Multan](https://www.sefism.com/companies/?city=multan) · [Peshawar](https://www.sefism.com/companies/?city=peshawar) · [Jhelum](https://www.sefism.com/companies/?city=jhelum) · [Remote (Pakistan)](https://www.sefism.com/companies/?city=remote)
 
 - [Pakistan](#pakistan) (308)
-- [Global](#global) (198)
+- [Global](#global) (199)
 
 ## Pakistan
 
@@ -569,6 +569,7 @@ Browse [Pakistan](https://www.sefism.com/companies/) or [Global](https://www.sef
 
 | Company | Country |
 | --- | --- |
+| [Design Gurus](https://www.sefism.com/companies/design-gurus/) | United States |
 | [Duolingo](https://www.sefism.com/companies/duolingo/) | United States |
 
 ### Global: AI & data
@@ -652,6 +653,6 @@ Browse [Pakistan](https://www.sefism.com/companies/) or [Global](https://www.sef
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

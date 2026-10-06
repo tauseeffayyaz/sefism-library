@@ -2,10 +2,38 @@
 
 [← Back to the Sefism Library](README.md)
 
-50 articles on AI engineering, software engineering and career growth, newest first.
+64 articles on AI engineering, software engineering and career growth, newest first.
 
 Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
+- **[IT Fresher Hiring in 2026: What TCS and Infosys Numbers Tell You](https://www.sefism.com/blog/it-fresher-hiring-2026-tcs-infosys/)**  
+  TCS has 25,000 fresher offers for FY27 after hiring more than 44,000 in FY26, and Infosys plans about 20,000.
+- **[Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)**  
+  DigiSkills, NAVTTC's Skills of Tomorrow and Punjab's e-Rozgaar compared: what each offers, eligibility, fees, batch timing, who should take which, and how to turn a free course…
+- **[EU Blue Card Germany for Software Engineers: 2026 Salary and Steps](https://www.sefism.com/blog/eu-blue-card-germany-software-engineer/)**  
+  The 2026 EU Blue Card salary thresholds for IT in Germany, the route for IT specialists without a degree, permanent residence in 21 months, and an honest look at the German tech…
+- **[Is BTech CSE Worth It in 2026? An Honest Answer for Indian Students](https://www.sefism.com/blog/is-btech-cse-worth-it/)**  
+  CS engineers still top India's employability data, but mass fresher hiring has shrunk and AI is changing junior work.
+- **[Graduate Tech Jobs in the UK in 2026: Why It Is Hard and What Works](https://www.sefism.com/blog/graduate-tech-jobs-uk/)**  
+  UK graduate tech vacancies fell sharply in 2026 and the Graduate visa shrinks to 18 months from January 2027.
+- **[How to Get a Job at a GCC in India: A Fresher's Guide (2026)](https://www.sefism.com/blog/how-to-get-a-job-at-a-gcc-in-india/)**  
+  GCC hiring in India is heading for about 5.1 lakh jobs in 2026 and most new roles want AI or data skills.
+- **[Software Engineer Jobs in Japan for Foreigners: A 2026 Guide](https://www.sefism.com/blog/software-engineer-jobs-in-japan-for-foreigners/)**  
+  Which visa software engineers use in Japan, what the 2026 Japanese language rule actually covers, the Highly Skilled Professional fast track, and how English-speaking developers…
+- **[Most In-Demand Tech Skills in India in 2026, Backed by Hiring Data](https://www.sefism.com/blog/in-demand-tech-skills-in-india/)**  
+  Agentic AI engineer demand is up 260%, AI/ML hiring is up 20% while IT services fell 4%, and specialist salaries keep rising.
+- **[AI Automation Freelancing in Pakistan: What Clients Pay For (2026)](https://www.sefism.com/blog/ai-automation-freelancing-in-pakistan/)**  
+  AI work on freelance platforms is growing and paying more per hour, but templates are not a business.
+- **[Germany Opportunity Card for Software Developers: A 2026 Guide](https://www.sefism.com/blog/germany-opportunity-card-software-developers/)**  
+  How Germany's Opportunity Card (Chancenkarte) works for developers: the points, the €13,092 proof of funds, official issue numbers for India and Pakistan, and an honest view of…
+- **[H-1B Changes 2026: What International Students Should Do Now](https://www.sefism.com/blog/h1b-changes-for-international-students/)**  
+  The H-1B lottery is now weighted by wage level, the $100,000 payment is tied up in the courts and the student status rule was paused.
+- **[Is Computer Science Still Worth It in 2026? What the US Data Says](https://www.sefism.com/blog/is-computer-science-worth-it/)**  
+  CS graduates face higher unemployment than average, yet still out-earn almost every major.
+- **[How to Find a Mentor in Tech: A Practical Guide for 2026](https://www.sefism.com/blog/how-to-find-a-mentor-in-tech/)**  
+  Where to find a mentor in tech in the US, UK, Europe and Japan (or remotely from anywhere), how to ask without making it awkward, and how to keep a mentoring relationship useful…
+- **[China's Youth Unemployment in 2026: What It Means for Tech Graduates](https://www.sefism.com/blog/china-youth-unemployment-and-tech-jobs/)**  
+  China's youth unemployment rate hit 18.9% in August 2026 as a record 12.7 million graduates entered the market.
 - **[Freelancing vs Job in Pakistan: An Honest Guide for Developers (2026)](https://www.sefism.com/blog/freelancing-vs-job-in-pakistan-for-developers/)**  
   Freelancing vs job in Pakistan, compared honestly: who should freelance first, how to start as a developer, Upwork vs Fiverr, getting paid through Payoneer and bank channels,…
 - **[No Job After BSCS? A 90 Day Plan for Unemployed CS Graduates](https://www.sefism.com/blog/no-job-after-bscs-90-day-plan/)**  
@@ -109,6 +137,6 @@ Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

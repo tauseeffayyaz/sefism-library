@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-46 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
+47 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
 
 Every roadmap puts the concepts in a clear order, so you always know what to learn next and why it comes before the next thing. They are built for **AI-assisted learning**: you learn with AI, but it does not do the work for you.
 
@@ -20,7 +20,7 @@ A real stage prompt:
 - [Foundations](#foundations) (10)
 - [Build products](#build-products) (8)
 - [Specialise](#specialise) (14)
-- [Career](#career) (10)
+- [Career](#career) (11)
 - [Earn independently](#earn-independently) (4)
 
 ## Foundations
@@ -1178,6 +1178,34 @@ For students and early-career people who like technology but want a role where c
 
 </details>
 
+### [Layoffs and AI](https://www.sefism.com/roadmaps/layoffs-ai/)
+
+For students, junior and experienced engineers worried about layoffs and what AI means for their jobs, and for anyone who has just been laid off. By the end you can read the evidence calmly, see your own risk, make yourself harder to cut, use AI to raise your value, build a safety net, and handle a layoff and the search after it with a plan.
+
+**Inside:** 7 stages · about 115 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **What AI is really doing to tech jobs**: The numbers since 2022, Why companies really cut jobs, When "AI" is the reason, and when it is the story, The junior squeeze: fewer doors, not mass firing, AI changes tasks before it removes jobs
+2. **Read the signals and your own exposure**: How layoff lists are actually made, Warning signs at company level, Warning signs on your team and for you, Audit your own exposure, Cost centres, profit centres and location
+3. **Be hard to cut at work**: Work close to money and customers, Own outcomes, not tickets, Make your impact easy to see, Relationships beyond your manager, Know the business, not only the code
+4. **Work with AI so it raises your value**: Use AI on real work, inside the rules, Measure where AI actually helps you, Keep the skills AI cannot replace sharp, Move towards work that builds with AI, Depth in one area, range around it
+5. **Career insurance before you need it**: An emergency fund in months, not money, Keep fixed costs low and debt small, A CV and profile that are always ready, Keep your network warm, Test the market once a year
+6. **If you are laid off: the first two weeks**: In the meeting itself, Read the severance agreement before you sign, Add up what you are owed, Know the basic rules where you work, On a work visa, start the clock on day one
+7. **Bounce back: the search after a layoff**: Explain the layoff in two sentences, Run the search as a weekly pipeline, Use your network and referrals, Close the gap the market is asking for, Bridge income: contract and freelance work
+
+**By the end you can:**
+
+- Explain what is really driving tech layoffs and what the evidence says about AI, without hype or panic
+- Score your own exposure and spot the warning signs at company, team and personal level
+- Move your work closer to revenue and make your impact visible to the people who decide
+- Use AI tools daily on real work while keeping the judgement skills they cannot replace
+- Build career insurance: an emergency fund, a ready CV, a warm network and a yearly market check
+- Handle a layoff step by step: severance, what you are owed, local rules, visa deadlines and documents
+- Run a job search after a layoff as a weekly pipeline and land somewhere more stable
+
+</details>
+
 ### [Forward deployed and solutions engineering](https://www.sefism.com/roadmaps/forward-deployed/)
 
 For software engineers and students who like people and messy real problems as much as code, and want a customer-facing engineering role: forward deployed engineer, solutions engineer or sales engineer. By the end you can run discovery, integrate with a customer's systems, prototype and demo fast, deploy AI on real customer data, write for non-engineers and plan a realistic way into the role.
@@ -1325,6 +1353,6 @@ For students and early-career engineers who want to build a small product of the
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-09-28. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
