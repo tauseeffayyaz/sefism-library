@@ -11,7 +11,7 @@ Every roadmap puts the concepts in a clear order, so you always know what to lea
 - **AI study prompts that test you.** Paste a stage's prompt into any AI assistant and it quizzes you, from easy to hard, and explains only what you got wrong.
 - **Picked resources, not a pile.** Each stage has at most a few: one to learn from (always with a free option), one to practise on, one to keep open as a reference.
 - **Checklists and projects.** Doing stages come with concrete checklists, and every roadmap ends in real projects from the FYP library.
-- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to 6 roadmaps at once and tick off stages as you go.
+- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to 57 roadmaps at once and tick off stages as you go.
 
 A real stage prompt:
 

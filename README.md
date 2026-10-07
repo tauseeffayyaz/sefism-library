@@ -52,7 +52,7 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <sub>Scoped project briefs with difficulty and a suggested stack</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#project-structures"><b>Project structures</b></a>&nbsp;<sub>22</sub><br>
+<a href="#project-structures"><b>Project structures</b></a>&nbsp;<sub>51</sub><br>
 <sub>Real project trees, every folder and file explained, from Day 1 to Expert</sub>
 </td>
 <td width="33%" valign="top">
@@ -167,7 +167,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <b>Checklists and projects</b><br><sub>Hands-on stages have checklists, and every roadmap ends in real projects.</sub>
 </td>
 <td width="33%" valign="top">
-<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to 6 roadmaps and tick off stages.</sub>
+<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to 57 roadmaps and tick off stages.</sub>
 </td>
 </tr>
 </table>
@@ -1210,16 +1210,17 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Project structures
 
-22 stacks, each an explorer of a real project: every folder and file, why it exists, when you add it and the common mistakes, with a stage switch from Day 1 to Expert. Day 1 and Growing are free to read, no account needed. Members add a stack's Production and Expert stages to their dashboard for 2 credits.
+51 stacks, each an explorer of a real project: every folder and file, why it exists, when you add it and the common mistakes, with a stage switch from Day 1 to Expert. Day 1 and Growing are free to read, no account needed. Members add a stack's Production and Expert stages to their dashboard for 2 credits.
 
 | Category | Stacks |
 | :-- | :-- |
-| **Frontend** | [React with Vite (TypeScript)](https://www.sefism.com/project-structures/react-vite/) · [Next.js (App Router)](https://www.sefism.com/project-structures/nextjs-app-router/) · [Angular](https://www.sefism.com/project-structures/angular/) · [Vue 3 with Vite](https://www.sefism.com/project-structures/vue-vite/) |
-| **Backend** | [Express with TypeScript](https://www.sefism.com/project-structures/express-typescript/) · [NestJS](https://www.sefism.com/project-structures/nestjs/) · [FastAPI](https://www.sefism.com/project-structures/fastapi/) · [Django](https://www.sefism.com/project-structures/django/) · [Spring Boot](https://www.sefism.com/project-structures/spring-boot/) · [ASP.NET Core Web API](https://www.sefism.com/project-structures/aspnet-core-web-api/) · [Go REST API](https://www.sefism.com/project-structures/go-api/) |
-| **Full stack** | [MERN (MongoDB, Express, React, Node)](https://www.sefism.com/project-structures/mern/) · [Next.js full stack (database and auth)](https://www.sefism.com/project-structures/nextjs-fullstack/) · [.NET with Angular](https://www.sefism.com/project-structures/dotnet-angular/) · [Spring Boot with React](https://www.sefism.com/project-structures/spring-boot-react/) |
-| **Mobile** | [Flutter](https://www.sefism.com/project-structures/flutter/) · [React Native with Expo](https://www.sefism.com/project-structures/react-native-expo/) · [Android with Kotlin and Compose](https://www.sefism.com/project-structures/android-compose/) |
-| **AI and ML** | [GenAI RAG app (FastAPI)](https://www.sefism.com/project-structures/genai-rag-app/) · [AI agent with an MCP server](https://www.sefism.com/project-structures/ai-agent-mcp-server/) · [Machine learning project](https://www.sefism.com/project-structures/ml-project/) |
-| **Data and DevOps** | [dbt project](https://www.sefism.com/project-structures/dbt-project/) |
+| **Frontend** | [React with Vite (TypeScript)](https://www.sefism.com/project-structures/react-vite/) · [Next.js (App Router)](https://www.sefism.com/project-structures/nextjs-app-router/) · [Angular](https://www.sefism.com/project-structures/angular/) · [Vue 3 with Vite](https://www.sefism.com/project-structures/vue-vite/) · [Nuxt](https://www.sefism.com/project-structures/nuxt/) · [SvelteKit](https://www.sefism.com/project-structures/sveltekit/) · [Astro](https://www.sefism.com/project-structures/astro/) · [React Router (framework mode, formerly Remix)](https://www.sefism.com/project-structures/react-router-framework/) |
+| **Backend** | [Express with TypeScript](https://www.sefism.com/project-structures/express-typescript/) · [NestJS](https://www.sefism.com/project-structures/nestjs/) · [FastAPI](https://www.sefism.com/project-structures/fastapi/) · [Django](https://www.sefism.com/project-structures/django/) · [Spring Boot](https://www.sefism.com/project-structures/spring-boot/) · [ASP.NET Core Web API](https://www.sefism.com/project-structures/aspnet-core-web-api/) · [Go REST API](https://www.sefism.com/project-structures/go-api/) · [Laravel](https://www.sefism.com/project-structures/laravel/) · [Ruby on Rails](https://www.sefism.com/project-structures/rails/) · [Rust with Axum](https://www.sefism.com/project-structures/rust-axum/) · [Flask](https://www.sefism.com/project-structures/flask/) · [Firebase (Cloud Functions and security rules)](https://www.sefism.com/project-structures/firebase-functions/) |
+| **Full stack** | [MERN (MongoDB, Express, React, Node)](https://www.sefism.com/project-structures/mern/) · [Next.js full stack (database and auth)](https://www.sefism.com/project-structures/nextjs-fullstack/) · [.NET with Angular](https://www.sefism.com/project-structures/dotnet-angular/) · [Spring Boot with React](https://www.sefism.com/project-structures/spring-boot-react/) · [Django with React](https://www.sefism.com/project-structures/django-react/) · [Turborepo monorepo](https://www.sefism.com/project-structures/turborepo-monorepo/) · [T3 app (Next.js, tRPC, Prisma)](https://www.sefism.com/project-structures/t3-app/) · [Blazor web app](https://www.sefism.com/project-structures/blazor/) |
+| **Mobile** | [Flutter](https://www.sefism.com/project-structures/flutter/) · [React Native with Expo](https://www.sefism.com/project-structures/react-native-expo/) · [Android with Kotlin and Compose](https://www.sefism.com/project-structures/android-compose/) · [iOS app with SwiftUI](https://www.sefism.com/project-structures/ios-swiftui/) · [Kotlin Multiplatform](https://www.sefism.com/project-structures/kotlin-multiplatform/) |
+| **AI and ML** | [GenAI RAG app (FastAPI)](https://www.sefism.com/project-structures/genai-rag-app/) · [AI agent with an MCP server](https://www.sefism.com/project-structures/ai-agent-mcp-server/) · [Machine learning project](https://www.sefism.com/project-structures/ml-project/) · [MLOps pipeline](https://www.sefism.com/project-structures/mlops-pipeline/) · [Python AI agent with LangGraph](https://www.sefism.com/project-structures/langgraph-agent/) |
+| **Data and DevOps** | [dbt project](https://www.sefism.com/project-structures/dbt-project/) · [Apache Airflow](https://www.sefism.com/project-structures/airflow/) · [Terraform](https://www.sefism.com/project-structures/terraform/) · [Kubernetes with Helm](https://www.sefism.com/project-structures/kubernetes-helm/) |
+| **More** | [Chrome extension](https://www.sefism.com/project-structures/chrome-extension/) · [Python package and CLI](https://www.sefism.com/project-structures/python-package/) · [TypeScript npm library](https://www.sefism.com/project-structures/typescript-library/) · [VS Code extension](https://www.sefism.com/project-structures/vscode-extension/) · [Discord bot](https://www.sefism.com/project-structures/discord-bot/) · [Unity game](https://www.sefism.com/project-structures/unity-game/) · [ESP32 with PlatformIO](https://www.sefism.com/project-structures/esp32-platformio/) · [WordPress plugin](https://www.sefism.com/project-structures/wordpress-plugin/) · [Electron desktop app](https://www.sefism.com/project-structures/electron-app/) |
 
 <sub>[Browse on sefism.com](https://www.sefism.com/project-structures/) · [Versions and sources for every stack](project-structures.md)</sub>
 
