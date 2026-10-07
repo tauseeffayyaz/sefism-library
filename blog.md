@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-64 articles on AI engineering, software engineering and career growth, newest first.
+65 articles on AI engineering, software engineering and career growth, newest first.
 
 Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
@@ -10,6 +10,8 @@ Read them at [sefism.com/blog](https://www.sefism.com/blog/).
   TCS has 25,000 fresher offers for FY27 after hiring more than 44,000 in FY26, and Infosys plans about 20,000.
 - **[Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)**  
   DigiSkills, NAVTTC's Skills of Tomorrow and Punjab's e-Rozgaar compared: what each offers, eligibility, fees, batch timing, who should take which, and how to turn a free course…
+- **[JEPA vs LLM: Yann LeCun's World Models Explained for Developers](https://www.sefism.com/blog/jepa-vs-llm/)**  
+  What JEPA is, how it differs from next-token LLMs, what V-JEPA 2 and AMI Labs have actually shown as of 2026, the strongest arguments against it, and what a student or developer…
 - **[EU Blue Card Germany for Software Engineers: 2026 Salary and Steps](https://www.sefism.com/blog/eu-blue-card-germany-software-engineer/)**  
   The 2026 EU Blue Card salary thresholds for IT in Germany, the route for IT specialists without a degree, permanent residence in 21 months, and an honest look at the German tech…
 - **[Is BTech CSE Worth It in 2026? An Honest Answer for Indian Students](https://www.sefism.com/blog/is-btech-cse-worth-it/)**  
@@ -137,6 +139,6 @@ Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

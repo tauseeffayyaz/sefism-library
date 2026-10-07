@@ -2,18 +2,18 @@
 
 [← Back to the Sefism Library](../README.md)
 
-190 resources, each with a short review on Sefism explaining who it is for.
+203 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=web_development)
 
 - [Top picks: web development](#top-picks-web-development) (10)
 - [Course](#course) (22)
-- [Roadmap](#roadmap) (15)
-- [Guide](#guide) (73)
-- [Cheat sheet](#cheat-sheet) (12)
+- [Roadmap](#roadmap) (17)
+- [Guide](#guide) (81)
+- [Cheat sheet](#cheat-sheet) (14)
 - [Platform](#platform) (8)
 - [Tool](#tool) (29)
-- [GitHub repo](#github-repo) (11)
+- [GitHub repo](#github-repo) (12)
 - [Book](#book) (5)
 - [Video](#video) (14)
 - [Community](#community) (1)
@@ -65,7 +65,9 @@
 - [roadmap.sh: PostgreSQL DBA](https://www.sefism.com/resources/roadmapsh-postgresql-dba/) · roadmap.sh · Free · Advanced
 - [roadmap.sh: SQL](https://www.sefism.com/resources/roadmapsh-sql/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: WordPress](https://www.sefism.com/resources/roadmapsh-wordpress/) · roadmap.sh · Free
+- [Sefism .NET Developer Roadmap](https://www.sefism.com/resources/sefism-dotnet-roadmap/) · Sefism · Free · Intermediate
 - [Sefism Backend Development Roadmap](https://www.sefism.com/resources/sefism-backend-roadmap/) · Sefism · Free · Intermediate
+- [Sefism Choosing the Right Database Roadmap](https://www.sefism.com/resources/sefism-choosing-databases-roadmap/) · Sefism · Free · Beginner
 - [Sefism Frontend Development Roadmap](https://www.sefism.com/resources/sefism-frontend-roadmap/) · Sefism · Free · Beginner
 - [Sefism Full Stack Development Roadmap](https://www.sefism.com/resources/sefism-fullstack-roadmap/) · Sefism · Free · Intermediate
 - [Sefism Mobile Development Roadmap](https://www.sefism.com/resources/sefism-mobile-roadmap/) · Sefism · Free · Beginner
@@ -76,13 +78,18 @@
 
 ## Guide
 
+- [.NET documentation](https://www.sefism.com/resources/dotnet-documentation/) · Microsoft · Free
 - [Angular Documentation](https://www.sefism.com/resources/angular-documentation/) · Google · Free
 - [ASP.NET Core Documentation](https://www.sefism.com/resources/aspnet-core-documentation/) · Microsoft · Free
+- [Aspire documentation](https://www.sefism.com/resources/aspire-documentation/) · Microsoft · Free · Intermediate
 - [Axum Documentation](https://www.sefism.com/resources/axum-documentation/) · Tokio · Free · Intermediate
+- [Blazor documentation](https://www.sefism.com/resources/blazor-documentation/) · Microsoft · Free · Intermediate
 - [Chrome DevTools Documentation](https://www.sefism.com/resources/chrome-devtools-documentation/) · Google · Free · Beginner
 - [Django REST Framework](https://www.sefism.com/resources/django-rest-framework-documentation/) · Encode · Free · Beginner
 - [Django Tutorial (official)](https://www.sefism.com/resources/django-tutorial/) · Django Software Foundation · Free · Beginner
 - [Docusaurus Documentation](https://www.sefism.com/resources/docusaurus-documentation/) · Meta Open Source · Free · Beginner
+- [Elastic Docs: Elasticsearch](https://www.sefism.com/resources/elasticsearch-documentation/) · Elastic · Free · Intermediate
+- [Entity Framework Core documentation](https://www.sefism.com/resources/ef-core-documentation/) · Microsoft · Free · Intermediate
 - [Express Documentation](https://www.sefism.com/resources/express-documentation/) · OpenJS Foundation · Free · Beginner
 - [FastAPI Tutorial: User Guide](https://www.sefism.com/resources/fastapi-tutorial/) · FastAPI · Free · Intermediate
 - [GitHub Docs: Security and code quality](https://www.sefism.com/resources/github-docs-code-security/) · GitHub · Free · Beginner
@@ -97,6 +104,7 @@
 - [Learn OpenAPI](https://www.sefism.com/resources/openapi-learn/) · OpenAPI Initiative · Free · Beginner
 - [MDN Web Docs](https://www.sefism.com/resources/mdn-web-docs/) · Mozilla · Free
 - [MDN: HTTP](https://www.sefism.com/resources/mdn-http/) · Mozilla · Free · Beginner
+- [Meilisearch Documentation](https://www.sefism.com/resources/meilisearch-documentation/) · Meilisearch · Free · Beginner
 - [MongoDB Java Driver Documentation](https://www.sefism.com/resources/mongodb-java-driver-documentation/) · MongoDB · Free · Intermediate
 - [MongoDB Manual](https://www.sefism.com/resources/mongodb-manual/) · MongoDB · Free
 - [MongoDB Node.js Driver Documentation](https://www.sefism.com/resources/mongodb-node-driver-documentation/) · MongoDB · Free · Intermediate
@@ -114,6 +122,7 @@
 - [Patterns.dev](https://www.sefism.com/resources/patterns-dev/) · Lydia Hallie and Addy Osmani · Free · Intermediate
 - [PHP: The Right Way](https://www.sefism.com/resources/php-the-right-way/) · Josh Lockhart and contributors · Free · Intermediate
 - [Playwright Documentation](https://www.sefism.com/resources/playwright-documentation/) · Microsoft · Free · Intermediate
+- [Polly documentation](https://www.sefism.com/resources/polly-documentation/) · App vNext · Free · Intermediate
 - [PostgreSQL Documentation](https://www.sefism.com/resources/postgresql-documentation/) · PostgreSQL Global Development Group · Free
 - [PostgreSQL Tutorial](https://www.sefism.com/resources/postgresql-tutorial/) · PostgreSQL Global Development Group · Free · Beginner
 - [Postman Learning Center](https://www.sefism.com/resources/postman-learning-center/) · Postman · Free · Beginner
@@ -136,6 +145,7 @@
 - [Stripe Documentation](https://www.sefism.com/resources/stripe-documentation/) · Stripe · Free · Intermediate
 - [Supabase Documentation](https://www.sefism.com/resources/supabase-documentation/) · Supabase · Free · Intermediate
 - [Tailwind CSS Documentation](https://www.sefism.com/resources/tailwind-css-documentation/) · Tailwind Labs · Free
+- [Testcontainers for .NET](https://www.sefism.com/resources/testcontainers-for-dotnet/) · Testcontainers · Free · Intermediate
 - [The TypeScript Handbook](https://www.sefism.com/resources/typescript-handbook/) · Microsoft · Free · Intermediate
 - [Tokio Tutorial](https://www.sefism.com/resources/tokio-tutorial/) · Tokio · Free · Intermediate
 - [Use The Index, Luke](https://www.sefism.com/resources/use-the-index-luke/) · Markus Winand · Free · Intermediate
@@ -155,7 +165,9 @@
 - [DevDocs](https://www.sefism.com/resources/devdocs/) · DevDocs · Free
 - [How to Meet WCAG 2.2 (Quick Reference)](https://www.sefism.com/resources/wcag-quick-reference/) · W3C Web Accessibility Initiative · Free
 - [OWASP Cheat Sheet Series](https://www.sefism.com/resources/owasp-cheat-sheet-series/) · OWASP · Free · Intermediate
+- [Sefism .NET Developer Cheat Sheet](https://www.sefism.com/resources/sefism-dotnet-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism Backend Development Cheat Sheet](https://www.sefism.com/resources/sefism-backend-cheat-sheet/) · Sefism · Free · Intermediate
+- [Sefism Choosing the Right Database Cheat Sheet](https://www.sefism.com/resources/sefism-choosing-databases-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Frontend Development Cheat Sheet](https://www.sefism.com/resources/sefism-frontend-cheat-sheet/) · Sefism · Free
 - [Sefism Full Stack Development Cheat Sheet](https://www.sefism.com/resources/sefism-fullstack-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism Mobile Development Cheat Sheet](https://www.sefism.com/resources/sefism-mobile-cheat-sheet/) · Sefism · Free
@@ -213,6 +225,7 @@
 - [30 Seconds of Code](https://www.sefism.com/resources/30-seconds-of-code/) · Angelos Chalaris · Free · Beginner
 - [Clean Code JavaScript](https://www.sefism.com/resources/clean-code-javascript/) · Ryan McDermott · Free · Beginner
 - [Dawn: Shopify's Reference Theme](https://www.sefism.com/resources/shopify-dawn-theme/) · Shopify · Free · Intermediate
+- [eShop reference application](https://www.sefism.com/resources/eshop-reference-application/) · Microsoft (.NET team) · Free · Advanced
 - [Learning JavaScript Design Patterns](https://www.sefism.com/resources/learning-javascript-design-patterns/) · Addy Osmani · Free · Intermediate
 - [Microsoft REST API Guidelines](https://www.sefism.com/resources/microsoft-rest-api-guidelines/) · Microsoft · Free · Intermediate
 - [OWASP Juice Shop](https://www.sefism.com/resources/owasp-juice-shop/) · OWASP Foundation · Free · Intermediate
@@ -253,6 +266,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

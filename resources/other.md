@@ -2,19 +2,19 @@
 
 [← Back to the Sefism Library](../README.md)
 
-352 resources, each with a short review on Sefism explaining who it is for.
+380 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=other)
 
 - [Top picks: cs fundamentals and clean code](#top-picks-cs-fundamentals-and-clean-code) (9)
-- [Course](#course) (43)
-- [Roadmap](#roadmap) (26)
-- [Guide](#guide) (113)
-- [Cheat sheet](#cheat-sheet) (20)
+- [Course](#course) (48)
+- [Roadmap](#roadmap) (27)
+- [Guide](#guide) (123)
+- [Cheat sheet](#cheat-sheet) (21)
 - [Platform](#platform) (30)
-- [Tool](#tool) (39)
-- [GitHub repo](#github-repo) (20)
-- [Book](#book) (32)
+- [Tool](#tool) (44)
+- [GitHub repo](#github-repo) (21)
+- [Book](#book) (37)
 - [Video](#video) (23)
 - [Community](#community) (6)
 
@@ -36,6 +36,7 @@
 - [A Tour of Go](https://www.sefism.com/resources/a-tour-of-go/) · The Go Authors · Free · Beginner
 - [Android Basics with Compose](https://www.sefism.com/resources/android-basics-with-compose/) · Google · Free · Beginner
 - [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.sefism.com/resources/adrian-cantrill-aws-solutions-architect-associate/) · Adrian Cantrill · Paid · Intermediate
+- [AWS Cloud Financial Management training (Skill Builder)](https://www.sefism.com/resources/aws-cloud-financial-management-training/) · Amazon Web Services · Free · Beginner
 - [AWS Cloud Practitioner Essentials](https://www.sefism.com/resources/aws-cloud-practitioner-essentials/) · Amazon Web Services · Free · Beginner
 - [CMU 15-445/645: Intro to Database Systems](https://www.sefism.com/resources/cmu-15-445-database-systems/) · Carnegie Mellon University · Free · Advanced
 - [Confluent Developer Courses](https://www.sefism.com/resources/confluent-developer-courses/) · Confluent · Free · Beginner
@@ -48,15 +49,18 @@
 - [Docker Training Course for the Absolute Beginner](https://www.sefism.com/resources/kodekloud-docker-for-the-absolute-beginner/) · KodeKloud · Paid · Beginner
 - [Figma Learn](https://www.sefism.com/resources/figma-learn/) · Figma · Free
 - [Godot Docs: Your First 2D Game](https://www.sefism.com/resources/godot-first-2d-game/) · Godot Engine · Free · Beginner
+- [Google Cloud cost management courses (Google Skills)](https://www.sefism.com/resources/google-cloud-cost-management-courses/) · Google Cloud · Free · Beginner
 - [Grokking Design Patterns for Engineers and Managers](https://www.sefism.com/resources/grokking-design-patterns-for-engineers-and-managers/) · Design Gurus · Paid · Intermediate
 - [Grokking Python Fundamentals](https://www.sefism.com/resources/grokking-python-fundamentals/) · Design Gurus · Paid · Beginner
 - [Grokking SOLID Design Principles](https://www.sefism.com/resources/grokking-solid-design-principles/) · Design Gurus · Paid · Beginner
+- [Introduction to FinOps (free course)](https://www.sefism.com/resources/finops-foundation-introduction-to-finops/) · FinOps Foundation · Free · Beginner
 - [Java Programming MOOC](https://www.sefism.com/resources/java-programming-mooc/) · University of Helsinki · Free · Beginner
 - [Khan Academy Statistics and Probability](https://www.sefism.com/resources/khan-academy-statistics-and-probability/) · Khan Academy · Free · Beginner
 - [Kubernetes for the Absolute Beginners: Hands-on Tutorial](https://www.sefism.com/resources/kodekloud-kubernetes-for-the-absolute-beginners/) · KodeKloud · Paid · Beginner
 - [Learn GDScript From Zero](https://www.sefism.com/resources/learn-gdscript-from-zero/) · GDQuest · Free · Beginner
 - [LearnCpp.com](https://www.sefism.com/resources/learncpp/) · LearnCpp.com · Free · Beginner
 - [Linux Upskill Challenge](https://www.sefism.com/resources/linux-upskill-challenge/) · Linux Upskill Challenge · Free · Beginner
+- [Microsoft Learn FinOps modules](https://www.sefism.com/resources/microsoft-learn-finops-training/) · Microsoft · Free · Beginner
 - [Microsoft Learn: Azure Administrator (AZ-104) training](https://www.sefism.com/resources/microsoft-learn-azure-administrator/) · Microsoft · Free · Intermediate
 - [Microsoft Learn: Azure Fundamentals (AZ-900) training](https://www.sefism.com/resources/microsoft-learn-azure-fundamentals/) · Microsoft · Free · Beginner
 - [Microsoft Learn: Design and Implement Microsoft Azure Networking Solutions (AZ-700)](https://www.sefism.com/resources/microsoft-learn-az-700/) · Microsoft · Free · Intermediate
@@ -67,6 +71,7 @@
 - [MIT 6.102: Software Construction](https://www.sefism.com/resources/mit-6-102-software-construction/) · MIT · Free · Intermediate
 - [MIT 6.1810: Operating System Engineering](https://www.sefism.com/resources/mit-6-1810-operating-system-engineering/) · MIT PDOS · Free · Advanced
 - [Nand to Tetris: Build a Modern Computer from First Principles](https://www.sefism.com/resources/nand2tetris/) · Noam Nisan and Shimon Schocken · Free · Beginner
+- [Neo4j GraphAcademy](https://www.sefism.com/resources/neo4j-graphacademy/) · Neo4j · Free · Beginner
 - [Prometheus Certified Associate (PCA) Prep Course](https://www.sefism.com/resources/kodekloud-prometheus-certified-associate/) · KodeKloud · Paid · Intermediate
 - [SQL Tutorial for Data Analysis (formerly Mode)](https://www.sefism.com/resources/mode-sql-tutorial/) · ThoughtSpot · Free · Beginner
 - [SwiftUI Tutorials (Apple)](https://www.sefism.com/resources/swiftui-tutorials/) · Apple · Free · Beginner
@@ -88,6 +93,7 @@
 - [roadmap.sh: Linux](https://www.sefism.com/resources/roadmapsh-linux/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: QA](https://www.sefism.com/resources/roadmapsh-qa/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: Shell / Bash](https://www.sefism.com/resources/roadmapsh-shell-bash/) · roadmap.sh · Free
+- [Sefism Cloud Cost and FinOps Roadmap](https://www.sefism.com/resources/sefism-finops-roadmap/) · Sefism · Free · Intermediate
 - [Sefism Cloud Engineering Roadmap](https://www.sefism.com/resources/sefism-cloud-engineer-roadmap/) · Sefism · Free · Beginner
 - [Sefism Competitive Programming Roadmap](https://www.sefism.com/resources/sefism-competitive-programming-roadmap/) · Sefism · Free
 - [Sefism CS Core Subjects Roadmap](https://www.sefism.com/resources/sefism-cs-core-roadmap/) · Sefism · Free · Beginner
@@ -108,6 +114,8 @@
 ## Guide
 
 - [Algorithms for Competitive Programming (cp-algorithms)](https://www.sefism.com/resources/cp-algorithms/) · cp-algorithms · Free · Intermediate
+- [Amazon DynamoDB Developer Guide](https://www.sefism.com/resources/amazon-dynamodb-developer-guide/) · Amazon Web Services · Free · Intermediate
+- [Amazon S3 User Guide](https://www.sefism.com/resources/amazon-s3-user-guide/) · Amazon Web Services · Free · Beginner
 - [Amazon VPC User Guide](https://www.sefism.com/resources/amazon-vpc-user-guide/) · Amazon Web Services · Free · Intermediate
 - [Android Developers: Develop for Android](https://www.sefism.com/resources/android-developers-documentation/) · Google · Free
 - [Apache Airflow Documentation](https://www.sefism.com/resources/apache-airflow-documentation/) · Apache Software Foundation · Free · Intermediate
@@ -117,6 +125,7 @@
 - [ArchWiki](https://www.sefism.com/resources/arch-wiki/) · Arch Linux · Free
 - [Arduino Documentation](https://www.sefism.com/resources/arduino-documentation/) · Arduino · Free · Beginner
 - [Argo CD Documentation](https://www.sefism.com/resources/argo-cd-documentation/) · Argo Project (CNCF) · Free · Intermediate
+- [AWS Billing and Cost Management documentation](https://www.sefism.com/resources/aws-billing-and-cost-management-documentation/) · Amazon Web Services · Free
 - [AWS Documentation](https://www.sefism.com/resources/aws-documentation/) · Amazon Web Services · Free
 - [AWS Glue Developer Guide](https://www.sefism.com/resources/aws-glue-documentation/) · Amazon Web Services · Free · Intermediate
 - [Azure documentation](https://www.sefism.com/resources/microsoft-azure-documentation/) · Microsoft · Free
@@ -124,6 +133,7 @@
 - [Basic Writing and Formatting Syntax (GitHub Docs)](https://www.sefism.com/resources/github-basic-writing-and-formatting/) · GitHub · Free · Beginner
 - [BigQuery Documentation](https://www.sefism.com/resources/bigquery-documentation/) · Google Cloud · Free · Intermediate
 - [Chaos Mesh Documentation](https://www.sefism.com/resources/chaos-mesh-documentation/) · Chaos Mesh (CNCF) · Free · Intermediate
+- [ClickHouse Documentation](https://www.sefism.com/resources/clickhouse-documentation/) · ClickHouse · Free · Intermediate
 - [Connecting to GitHub with SSH (GitHub Docs)](https://www.sefism.com/resources/github-docs-ssh/) · GitHub · Free · Beginner
 - [Contributing to a Project (GitHub Docs)](https://www.sefism.com/resources/github-docs-contributing-to-a-project/) · GitHub · Free · Beginner
 - [Conventional Comments](https://www.sefism.com/resources/conventional-comments/) · Paul Slaughter · Free · Beginner
@@ -142,6 +152,7 @@
 - [FinOps Framework](https://www.sefism.com/resources/finops-framework/) · FinOps Foundation · Free · Beginner
 - [Firebase Documentation](https://www.sefism.com/resources/firebase-documentation/) · Google · Free
 - [Flutter Documentation](https://www.sefism.com/resources/flutter-documentation/) · Google · Free
+- [FOCUS: the FinOps Open Cost and Usage Specification](https://www.sefism.com/resources/focus-finops-specification/) · FinOps Foundation · Free · Intermediate
 - [FreeRTOS Documentation](https://www.sefism.com/resources/freertos-documentation/) · FreeRTOS (Amazon Web Services) · Free · Intermediate
 - [From Data to Viz](https://www.sefism.com/resources/from-data-to-viz/) · Yan Holtz and Conor Healy · Free
 - [GeeksforGeeks](https://www.sefism.com/resources/geeksforgeeks/) · GeeksforGeeks · Free
@@ -149,8 +160,10 @@
 - [GitHub Actions Documentation](https://www.sefism.com/resources/github-actions-documentation/) · GitHub · Free · Intermediate
 - [Go by Example](https://www.sefism.com/resources/go-by-example/) · Mark McGranaghan and Eli Bendersky · Free · Beginner
 - [Godot Engine Documentation](https://www.sefism.com/resources/godot-docs/) · Godot Engine · Free
+- [Google Cloud Billing documentation](https://www.sefism.com/resources/google-cloud-billing-documentation/) · Google Cloud · Free
 - [Google Cloud Documentation](https://www.sefism.com/resources/google-cloud-documentation/) · Google Cloud · Free
 - [Google Engineering Practices](https://www.sefism.com/resources/google-engineering-practices/) · Google · Free · Intermediate
+- [Google Fonts Knowledge](https://www.sefism.com/resources/google-fonts-knowledge/) · Google Fonts · Free · Beginner
 - [Google Play Billing](https://www.sefism.com/resources/google-play-billing/) · Google · Free · Intermediate
 - [Google Style Guides](https://www.sefism.com/resources/google-style-guides/) · Google · Free
 - [Google Testing Blog](https://www.sefism.com/resources/google-testing-blog/) · Google · Free · Intermediate
@@ -175,6 +188,7 @@
 - [Learn C#](https://www.sefism.com/resources/microsoft-learn-csharp/) · Microsoft · Free · Beginner
 - [Markdown Guide](https://www.sefism.com/resources/markdown-guide/) · Matt Cone · Free · Beginner
 - [Material Design 3](https://www.sefism.com/resources/material-design-3/) · Google · Free
+- [Microsoft Cost Management documentation](https://www.sefism.com/resources/microsoft-cost-management-documentation/) · Microsoft · Free
 - [Microsoft Fabric Documentation](https://www.sefism.com/resources/microsoft-fabric-documentation/) · Microsoft · Free · Intermediate
 - [MITRE ATT&CK](https://www.sefism.com/resources/mitre-attack/) · MITRE Corporation · Free · Intermediate
 - [MQTT Essentials](https://www.sefism.com/resources/hivemq-mqtt-essentials/) · HiveMQ · Free · Beginner
@@ -200,6 +214,7 @@
 - [Rust by Example](https://www.sefism.com/resources/rust-by-example/) · The Rust Project · Free · Beginner
 - [Start Data Engineering](https://www.sefism.com/resources/start-data-engineering/) · Joseph Machado · Free · Intermediate
 - [Starting an Open Source Project](https://www.sefism.com/resources/open-source-guides-starting-a-project/) · Open Source Guides · Free · Intermediate
+- [State of FinOps report](https://www.sefism.com/resources/state-of-finops-report/) · FinOps Foundation · Free
 - [Steamworks Documentation](https://www.sefism.com/resources/steamworks-documentation/) · Valve · Free · Intermediate
 - [STM32 MCU Wiki](https://www.sefism.com/resources/stm32-mcu-wiki/) · STMicroelectronics · Free · Beginner
 - [Tableau Desktop Help and Get Started tutorial](https://www.sefism.com/resources/tableau-help/) · Tableau (Salesforce) · Free
@@ -210,6 +225,7 @@
 - [The Python Standard Library](https://www.sefism.com/resources/python-standard-library/) · Python Software Foundation · Free
 - [The Python Tutorial](https://www.sefism.com/resources/the-python-tutorial/) · Python Software Foundation · Free · Beginner
 - [The Twelve-Factor App](https://www.sefism.com/resources/the-twelve-factor-app/) · Adam Wiggins · Free · Intermediate
+- [TimescaleDB Documentation (Tiger Data)](https://www.sefism.com/resources/timescaledb-documentation/) · Tiger Data (formerly Timescale) · Free · Intermediate
 - [TLDR](https://www.sefism.com/resources/tldr-newsletter/) · TLDR · Free
 - [Tutorialspoint](https://www.sefism.com/resources/tutorialspoint/) · Tutorialspoint · Free · Beginner
 - [Unit Testing C# with xUnit](https://www.sefism.com/resources/dotnet-unit-testing-xunit/) · Microsoft · Free · Beginner
@@ -227,6 +243,7 @@
 - [Google Sheets function list](https://www.sefism.com/resources/google-sheets-function-list/) · Google · Free
 - [Kubernetes Production Best Practices](https://www.sefism.com/resources/kubernetes-production-best-practices/) · Learnk8s · Free · Intermediate
 - [Oh Shit, Git!?!](https://www.sefism.com/resources/oh-shit-git/) · Katie Sylor-Miller · Free
+- [Sefism Cloud Cost and FinOps Cheat Sheet](https://www.sefism.com/resources/sefism-finops-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism Cloud Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-cloud-engineer-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Competitive Programming Cheat Sheet](https://www.sefism.com/resources/sefism-competitive-programming-cheat-sheet/) · Sefism · Free
 - [Sefism CS Core Subjects Cheat Sheet](https://www.sefism.com/resources/sefism-cs-core-cheat-sheet/) · Sefism · Free · Beginner
@@ -279,14 +296,17 @@
 
 ## Tool
 
+- [Adobe Color palette generator](https://www.sefism.com/resources/adobe-color/) · Adobe · Free · Beginner
 - [Blender](https://www.sefism.com/resources/blender/) · Blender Foundation · Free
 - [bpmn.io BPMN Modeler](https://www.sefism.com/resources/bpmn-io/) · bpmn.io (Camunda) · Free · Beginner
+- [CapCut](https://www.sefism.com/resources/capcut/) · CapCut · Free · Beginner
 - [Choose a License](https://www.sefism.com/resources/choose-a-license/) · GitHub · Free · Beginner
 - [Cisco Modeling Labs Free](https://www.sefism.com/resources/cisco-modeling-labs-free/) · Cisco · Free · Intermediate
 - [Cisco Packet Tracer](https://www.sefism.com/resources/cisco-packet-tracer/) · Cisco · Free · Beginner
 - [CodeTriage](https://www.sefism.com/resources/codetriage/) · CodeTriage · Free · Intermediate
 - [Containerlab](https://www.sefism.com/resources/containerlab/) · srl-labs (open source) · Free · Intermediate
 - [CyberChef](https://www.sefism.com/resources/cyberchef/) · GCHQ · Free · Beginner
+- [DaVinci Resolve](https://www.sefism.com/resources/davinci-resolve/) · Blackmagic Design · Free · Beginner
 - [draw.io (diagrams.net)](https://www.sefism.com/resources/drawio/) · draw.io · Free
 - [DuckDB Documentation](https://www.sefism.com/resources/duckdb-documentation/) · DuckDB Foundation · Free · Beginner
 - [Eclipse Mosquitto](https://www.sefism.com/resources/eclipse-mosquitto/) · Eclipse Foundation · Free · Beginner
@@ -296,6 +316,7 @@
 - [GNS3](https://www.sefism.com/resources/gns3/) · GNS3 Technologies · Free · Intermediate
 - [Google Trends](https://www.sefism.com/resources/google-trends/) · Google · Free · Beginner
 - [Homebrew](https://www.sefism.com/resources/homebrew/) · Homebrew · Free · Beginner
+- [Infracost](https://www.sefism.com/resources/infracost/) · Infracost · Free · Intermediate
 - [IntelliJ IDEA](https://www.sefism.com/resources/intellij-idea/) · JetBrains · Free
 - [jsfxr](https://www.sefism.com/resources/jsfxr/) · Eric Fredricksen and Chris McCormick · Free · Beginner
 - [Kenney Game Assets](https://www.sefism.com/resources/kenney-assets/) · Kenney · Free · Beginner
@@ -303,6 +324,7 @@
 - [Lospec](https://www.sefism.com/resources/lospec/) · Lospec · Free · Beginner
 - [Mermaid](https://www.sefism.com/resources/mermaid/) · Mermaid · Free
 - [Node-RED](https://www.sefism.com/resources/node-red/) · OpenJS Foundation · Free · Beginner
+- [OpenCost](https://www.sefism.com/resources/opencost/) · OpenCost (CNCF) · Free · Intermediate
 - [OPNsense](https://www.sefism.com/resources/opnsense/) · Deciso (open source project) · Free · Intermediate
 - [PlantUML](https://www.sefism.com/resources/plantuml/) · PlantUML · Free
 - [PulseView (sigrok)](https://www.sefism.com/resources/sigrok-pulseview/) · sigrok project · Free · Intermediate
@@ -335,6 +357,7 @@
 - [Java Design Patterns](https://www.sefism.com/resources/java-design-patterns/) · iluwatar and contributors · Free · Intermediate
 - [KACTL (KTH Algorithm Competition Template Library)](https://www.sefism.com/resources/kactl/) · KTH Royal Institute of Technology · Free · Advanced
 - [Kubernetes The Hard Way](https://www.sefism.com/resources/kubernetes-the-hard-way/) · Kelsey Hightower · Free · Advanced
+- [Microsoft FinOps toolkit](https://www.sefism.com/resources/microsoft-finops-toolkit/) · Microsoft · Free · Intermediate
 - [Netmiko](https://www.sefism.com/resources/netmiko/) · Kirk Byers (open source) · Free · Intermediate
 - [Open Source Society University: Computer Science](https://www.sefism.com/resources/open-source-society-university-computer-science/) · OSSU · Free · Intermediate
 - [Project Based Learning](https://www.sefism.com/resources/project-based-learning/) · Community maintained · Free · Beginner
@@ -345,10 +368,12 @@
 ## Book
 
 - [A Philosophy of Software Design](https://www.sefism.com/resources/a-philosophy-of-software-design/) · John Ousterhout · Paid · Intermediate
+- [Algorithms (Jeff Erickson)](https://www.sefism.com/resources/algorithms-jeff-erickson/) · Jeff Erickson · Free · Intermediate
 - [All About Circuits Textbook](https://www.sefism.com/resources/all-about-circuits-textbook/) · All About Circuits · Free · Beginner
 - [Automate the Boring Stuff with Python](https://www.sefism.com/resources/automate-the-boring-stuff-with-python/) · Al Sweigart · Free · Beginner
 - [Beej's Guide to Network Programming](https://www.sefism.com/resources/beejs-guide-to-network-programming/) · Brian "Beej Jorgensen" Hall · Free · Intermediate
 - [Clean Code](https://www.sefism.com/resources/clean-code/) · Robert C. Martin · Paid · Beginner
+- [Cloud FinOps, 2nd edition (O'Reilly)](https://www.sefism.com/resources/cloud-finops-book/) · O'Reilly Media · Paid · Intermediate
 - [Code Complete](https://www.sefism.com/resources/code-complete/) · Steve McConnell · Paid · Intermediate
 - [Competitive Programmer's Handbook](https://www.sefism.com/resources/competitive-programmers-handbook/) · Antti Laaksonen · Free · Beginner
 - [Crafting Interpreters](https://www.sefism.com/resources/crafting-interpreters/) · Robert Nystrom · Free · Intermediate
@@ -356,7 +381,9 @@
 - [Design Patterns](https://www.sefism.com/resources/design-patterns/) · Gamma, Helm, Johnson and Vlissides · Paid · Advanced
 - [Everything curl](https://www.sefism.com/resources/everything-curl/) · Daniel Stenberg · Free
 - [Game Programming Patterns](https://www.sefism.com/resources/game-programming-patterns/) · Robert Nystrom · Free · Intermediate
+- [In the Blink of an Eye](https://www.sefism.com/resources/in-the-blink-of-an-eye/) · Walter Murch (Silman-James Press) · Paid · Intermediate
 - [Introduction to Algorithms](https://www.sefism.com/resources/introduction-to-algorithms/) · Cormen, Leiserson, Rivest and Stein · Paid · Advanced
+- [Introduction to Information Retrieval](https://www.sefism.com/resources/introduction-to-information-retrieval/) · Cambridge University Press (free online edition) · Free · Advanced
 - [Making Embedded Systems, 2nd Edition](https://www.sefism.com/resources/making-embedded-systems/) · O'Reilly Media (Elecia White) · Paid · Intermediate
 - [OpenIntro Statistics](https://www.sefism.com/resources/openintro-statistics/) · OpenIntro · Free · Beginner
 - [Operating Systems: Three Easy Pieces](https://www.sefism.com/resources/ostep/) · Remzi and Andrea Arpaci-Dusseau · Free · Intermediate
@@ -370,6 +397,7 @@
 - [Test Driven Development: By Example](https://www.sefism.com/resources/test-driven-development-by-example/) · Kent Beck (Addison-Wesley) · Paid · Intermediate
 - [The C Programming Language](https://www.sefism.com/resources/the-c-programming-language/) · Kernighan and Ritchie · Paid · Intermediate
 - [The Linux Command Line](https://www.sefism.com/resources/the-linux-command-line/) · William Shotts · Free · Beginner
+- [The Non-Designer's Design Book](https://www.sefism.com/resources/the-non-designers-design-book/) · Robin Williams (Peachpit Press) · Paid · Beginner
 - [The Pragmatic Programmer](https://www.sefism.com/resources/the-pragmatic-programmer/) · Hunt and Thomas · Paid · Intermediate
 - [The Rust Programming Language](https://www.sefism.com/resources/the-rust-programming-language/) · The Rust Project · Free · Beginner
 - [The Swift Programming Language](https://www.sefism.com/resources/the-swift-programming-language/) · Apple (Swift.org) · Free
@@ -414,6 +442,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

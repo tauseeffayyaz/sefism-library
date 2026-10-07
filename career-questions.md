@@ -2,15 +2,15 @@
 
 [← Back to the Sefism Library](README.md)
 
-191 real questions developers ask about starting out, learning, job hunting and growing a career, each with a written answer. Anonymised: no names, universities or employers.
+223 real questions developers ask about starting out, learning, job hunting and growing a career, each with a written answer. Anonymised: no names, universities or employers.
 
 Browse them all at [sefism.com/questions](https://www.sefism.com/questions/).
 
-- [Starting out](#starting-out) (36)
+- [Starting out](#starting-out) (40)
 - [Switching into tech](#switching-into-tech) (7)
-- [Job search](#job-search) (33)
-- [Learning and skills](#learning-and-skills) (44)
-- [Career growth](#career-growth) (45)
+- [Job search](#job-search) (44)
+- [Learning and skills](#learning-and-skills) (52)
+- [Career growth](#career-growth) (54)
 - [Confidence and consistency](#confidence-and-consistency) (26)
 
 ## Starting out
@@ -18,15 +18,19 @@ Browse them all at [sefism.com/questions](https://www.sefism.com/questions/).
 _Students and fresh graduates working out the first step._
 
 - [Everyone around me has internships, GitHub projects and achievements, and I have almost nothing. What should I do?](https://www.sefism.com/questions/everyone-has-internships-and-projects-and-i-have-almost-nothing/) · asked 13 times
+- [Fiverr or Upwork: which is better for a beginner freelancer?](https://www.sefism.com/questions/fiverr-or-upwork-for-beginners/) · asked 13 times
+- [GCC, service company or product company: which is best for a fresher in India?](https://www.sefism.com/questions/gcc-service-company-or-product-company-for-a-fresher/) · asked 13 times
 - [What should I learn first to become a software engineer in 2026?](https://www.sefism.com/questions/what-to-learn-first-to-become-a-software-engineer/) · asked 13 times
 - [How do I choose between frontend, backend, mobile, cloud, cybersecurity, data and AI without trying them all for years?](https://www.sefism.com/questions/how-to-choose-between-frontend-backend-mobile-cloud-security-data-and-ai/) · asked 12 times
 - [I am halfway through my computer science degree and still do not know what career I want. Am I already behind?](https://www.sefism.com/questions/halfway-through-cs-degree-and-do-not-know-what-career-i-want/) · asked 12 times
+- [What does proof of work mean for a fresher developer?](https://www.sefism.com/questions/what-does-proof-of-work-mean-for-a-fresher-developer/) · asked 12 times
 - [Which programming language should I learn first?](https://www.sefism.com/questions/which-programming-language-to-learn-first/) · asked 12 times
 - [I am graduating soon and feel like I learned four years of theory but cannot actually build software. What now?](https://www.sefism.com/questions/graduating-with-theory-but-cannot-build-software/) · asked 11 times
 - [Is it too late to start coding at 25 or 30?](https://www.sefism.com/questions/is-it-too-late-to-start-coding-at-25-or-30/) · asked 11 times
 - [Should I start with freelancing on Fiverr or Upwork, or get a job first?](https://www.sefism.com/questions/should-i-start-with-freelancing-or-get-a-job-first/) · asked 11 times
 - [What is the difference between a data analyst, a data scientist and a machine learning engineer?](https://www.sefism.com/questions/difference-between-data-analyst-data-scientist-and-machine-learning-engineer/) · asked 11 times
 - [What projects should I build in my first year of university?](https://www.sefism.com/questions/projects-to-build-in-first-year-of-university/) · asked 11 times
+- [Are AI trainer jobs worth it for graduates?](https://www.sefism.com/questions/are-ai-trainer-jobs-worth-it-for-graduates/) · asked 10 times
 - [How do I get an internship as a first or second-year student?](https://www.sefism.com/questions/how-to-get-an-internship-as-a-first-or-second-year-student/) · asked 10 times
 - [I wasted the first few years of my degree. What can I realistically accomplish before graduation?](https://www.sefism.com/questions/wasted-first-years-of-degree-what-can-i-do-before-graduation/) · asked 10 times
 - [Can I use AI coding tools at my internship, and what should I never paste into them?](https://www.sefism.com/questions/can-i-use-ai-coding-tools-at-my-internship/) · asked 9 times
@@ -71,30 +75,41 @@ _Coming from another degree, another field, or a long break._
 _Applications, shortlisting, technical rounds and remote work._
 
 - [How do I get a job in Europe from Pakistan or India?](https://www.sefism.com/questions/how-to-get-a-tech-job-in-europe-from-pakistan-or-india/) · asked 14 times
+- [How do I receive freelance payments in Pakistan?](https://www.sefism.com/questions/how-to-receive-freelance-payments-in-pakistan/) · asked 14 times
 - [Is it harder to get hired as a new grad in 2026 than before?](https://www.sefism.com/questions/is-it-harder-to-get-hired-as-a-new-grad/) · asked 14 times
+- [Can a fresher get a software job in Dubai?](https://www.sefism.com/questions/software-jobs-in-dubai-for-freshers/) · asked 13 times
 - [How do I get a developer job with no experience when every job asks for experience?](https://www.sefism.com/questions/how-to-get-a-developer-job-with-no-experience/) · asked 13 times
+- [Where are the junior developer jobs in 2026 if entry-level roles are shrinking?](https://www.sefism.com/questions/where-are-junior-developer-jobs-in-2026/) · asked 13 times
+- [Can I go to Germany for work without IELTS?](https://www.sefism.com/questions/can-i-work-in-germany-without-ielts/) · asked 12 times
 - [How do I answer "what are your salary expectations" for my first developer job in Pakistan?](https://www.sefism.com/questions/how-to-answer-salary-expectations-first-job-pakistan/) · asked 12 times
 - [How do I find companies that sponsor visas for software engineers?](https://www.sefism.com/questions/how-to-find-companies-that-sponsor-visas/) · asked 12 times
 - [How do I find remote internships that are real?](https://www.sefism.com/questions/how-to-find-real-remote-internships/) · asked 12 times
+- [How do I get my first order on Fiverr?](https://www.sefism.com/questions/how-to-get-your-first-order-on-fiverr/) · asked 12 times
 - [Can a fresher get a cloud engineering job, or do I need to start in support or DevOps first?](https://www.sefism.com/questions/can-a-fresher-get-a-cloud-engineer-job/) · asked 11 times
 - [Can I get a software job in Germany without speaking German?](https://www.sefism.com/questions/software-job-in-germany-without-german/) · asked 11 times
 - [How can I get a software engineering job abroad from Pakistan with visa sponsorship?](https://www.sefism.com/questions/how-to-get-a-software-job-abroad-from-pakistan/) · asked 11 times
 - [How do I answer "tell me about yourself" in a software engineering interview?](https://www.sefism.com/questions/how-to-answer-tell-me-about-yourself-in-a-tech-interview/) · asked 11 times
+- [How do I check if a job offer from abroad is a scam?](https://www.sefism.com/questions/how-to-check-if-a-job-offer-from-abroad-is-a-scam/) · asked 11 times
 - [How many internships should I apply to before I hear back?](https://www.sefism.com/questions/how-many-internships-to-apply-to-before-hearing-back/) · asked 11 times
 - [How do I know when I am actually ready to apply for software engineering jobs?](https://www.sefism.com/questions/how-to-know-when-you-are-ready-to-apply-for-jobs/) · asked 10 times
 - [How long does it take to get a first developer job after graduating or learning to code?](https://www.sefism.com/questions/how-long-does-it-take-to-find-a-first-developer-job/) · asked 10 times
 - [When do summer internships open, and how early should I apply?](https://www.sefism.com/questions/when-do-summer-internships-open/) · asked 10 times
+- [Do Gulf companies prefer hiring nationals over foreigners?](https://www.sefism.com/questions/do-gulf-companies-prefer-hiring-nationals/) · asked 9 times
 - [How do I cold message recruiters and engineers on LinkedIn and ask for a referral without being ignored?](https://www.sefism.com/questions/how-to-cold-message-recruiters-and-ask-for-referrals-on-linkedin/) · asked 9 times
 - [I failed an interview and now I am scared to apply again. How do I recover?](https://www.sefism.com/questions/how-to-recover-after-failing-a-technical-interview/) · asked 9 times
 - [Should I take the first job I get, or wait for a role closer to the career I actually want?](https://www.sefism.com/questions/should-i-take-the-first-job-offer-or-wait-for-the-right-role/) · asked 9 times
 - [What should I do if my job offer's joining date keeps getting delayed?](https://www.sefism.com/questions/job-offer-joining-date-keeps-getting-delayed/) · asked 9 times
 - [Why is my resume not getting shortlisted for software engineering roles?](https://www.sefism.com/questions/why-is-my-resume-not-getting-shortlisted/) · asked 9 times
+- [How do I get paid from Upwork in Nigeria or Egypt?](https://www.sefism.com/questions/how-to-get-paid-from-upwork-in-nigeria-or-egypt/) · asked 8 times
 - [How do off-campus drives work, and are they worth it?](https://www.sefism.com/questions/how-off-campus-drives-work/) · asked 8 times
 - [How many jobs should I apply to per day as a junior developer?](https://www.sefism.com/questions/how-many-jobs-should-i-apply-to-per-day/) · asked 8 times
 - [I am a fresh graduate applying everywhere and hearing nothing back. What am I doing wrong?](https://www.sefism.com/questions/applying-to-jobs-as-a-fresh-graduate-and-hearing-nothing-back/) · asked 8 times
+- [How do I get a cybersecurity job in Saudi Arabia?](https://www.sefism.com/questions/cybersecurity-jobs-in-saudi-arabia/) · asked 7 times
 - [I get interviews but keep failing the technical round. How do I fix that?](https://www.sefism.com/questions/i-get-interviews-but-keep-failing-the-technical-round/) · asked 7 times
 - [Is an unpaid internship worth it?](https://www.sefism.com/questions/is-an-unpaid-internship-worth-it/) · asked 7 times
+- [Are there good tech jobs in tier-2 cities in India?](https://www.sefism.com/questions/tech-jobs-in-tier-2-cities-in-india/) · asked 6 times
 - [Can I get a junior backend job with Rust, or should I learn it as a second language?](https://www.sefism.com/questions/can-i-get-a-junior-backend-job-with-rust/) · asked 6 times
+- [Can I get a remote data engineering job from Africa?](https://www.sefism.com/questions/remote-data-engineering-jobs-from-africa/) · asked 6 times
 - [How do I approach a take-home coding assignment for a job interview?](https://www.sefism.com/questions/how-to-approach-a-take-home-coding-assignment/) · asked 6 times
 - [How important is the company name on my first software engineering job?](https://www.sefism.com/questions/how-important-is-the-company-name-on-your-first-job/) · asked 6 times
 - [Should I join a trainee program or a direct junior role?](https://www.sefism.com/questions/trainee-program-or-direct-junior-role/) · asked 6 times
@@ -108,6 +123,7 @@ _Applications, shortlisting, technical rounds and remote work._
 
 _What to learn, in what order, and how to learn it properly._
 
+- [Which AI tools do employers expect junior developers to know in 2026?](https://www.sefism.com/questions/which-ai-tools-should-junior-developers-know-in-2026/) · asked 14 times
 - [I understand tutorials but cannot build anything myself. Why does coding feel so different when I am alone?](https://www.sefism.com/questions/can-follow-tutorials-but-cannot-build-anything-alone/) · asked 13 times
 - [Is DSA still worth learning when AI can write code?](https://www.sefism.com/questions/is-dsa-still-worth-learning-with-ai/) · asked 13 times
 - [Should I learn Python or JavaScript first?](https://www.sefism.com/questions/should-i-learn-python-or-javascript-first/) · asked 13 times
@@ -117,6 +133,7 @@ _What to learn, in what order, and how to learn it properly._
 - [How many LeetCode problems are enough, and how do I practise them properly?](https://www.sefism.com/questions/how-many-leetcode-problems-are-enough/) · asked 12 times
 - [My machine learning projects never leave a Jupyter notebook. How do I learn to deploy a model?](https://www.sefism.com/questions/how-to-deploy-a-machine-learning-model-from-a-notebook/) · asked 12 times
 - [Should I start embedded systems with Arduino, ESP32, STM32 or Raspberry Pi?](https://www.sefism.com/questions/arduino-esp32-stm32-or-raspberry-pi-which-board-to-start-with/) · asked 12 times
+- [Should I use PostgreSQL or MongoDB for my project?](https://www.sefism.com/questions/postgres-or-mongodb-for-my-project/) · asked 12 times
 - [Which cloud should I learn first: AWS, Azure or GCP?](https://www.sefism.com/questions/which-cloud-to-learn-first-aws-azure-or-gcp/) · asked 12 times
 - [AI can already code better than me. What skills should I build that AI cannot easily replace?](https://www.sefism.com/questions/skills-ai-cannot-easily-replace-for-software-engineers/) · asked 11 times
 - [How do I improve my English communication for remote and international tech jobs?](https://www.sefism.com/questions/how-to-improve-english-communication-for-tech-jobs/) · asked 11 times
@@ -125,18 +142,24 @@ _What to learn, in what order, and how to learn it properly._
 - [How do I start learning AI agents as a software engineer?](https://www.sefism.com/questions/how-to-start-learning-ai-agents/) · asked 11 times
 - [I am constantly studying but feel like I am making no progress. How can I tell whether I am actually improving?](https://www.sefism.com/questions/how-to-tell-if-you-are-actually-improving-as-a-programmer/) · asked 11 times
 - [I keep changing the technology I want to learn. How do I finally commit to one path?](https://www.sefism.com/questions/how-to-stop-switching-technologies-and-commit-to-one-path/) · asked 11 times
+- [Is a DigiSkills course enough to start freelancing?](https://www.sefism.com/questions/is-digiskills-enough-to-start-freelancing/) · asked 11 times
 - [What is the best way to learn coding for free?](https://www.sefism.com/questions/best-way-to-learn-coding-for-free/) · asked 11 times
 - [When should I stop taking courses and start building things?](https://www.sefism.com/questions/when-to-stop-taking-courses-and-start-building/) · asked 11 times
 - [Do I need Docker and Kubernetes as a junior developer?](https://www.sefism.com/questions/do-junior-developers-need-docker-and-kubernetes/) · asked 10 times
 - [How do I learn system design as a student or junior developer?](https://www.sefism.com/questions/how-to-learn-system-design-as-a-junior-developer/) · asked 10 times
+- [Should I use Firebase or Supabase for my app?](https://www.sefism.com/questions/firebase-or-supabase/) · asked 10 times
 - [Are certifications like AWS or Google Cloud worth it for getting a tech job?](https://www.sefism.com/questions/are-certifications-like-aws-and-google-cloud-worth-it/) · asked 9 times
+- [Do I need a vector database for my AI project?](https://www.sefism.com/questions/do-i-need-a-vector-database/) · asked 9 times
 - [How do I learn to read a large codebase when I can handle small projects but get lost in real ones?](https://www.sefism.com/questions/how-to-read-and-understand-a-large-codebase/) · asked 9 times
 - [How do I practise on AWS, Azure or Google Cloud without getting a surprise bill?](https://www.sefism.com/questions/how-do-i-practise-aws-azure-or-google-cloud-without-a-surprise-bill/) · asked 9 times
 - [How do I start DSA when I cannot solve problems and never know which approach to use?](https://www.sefism.com/questions/how-to-start-dsa-when-you-cannot-solve-problems/) · asked 9 times
+- [Is .NET worth learning in 2026?](https://www.sefism.com/questions/is-dotnet-worth-learning-in-2026/) · asked 9 times
 - [Is CCNA still worth it for a fresh graduate?](https://www.sefism.com/questions/is-ccna-still-worth-it-for-a-fresh-graduate/) · asked 9 times
 - [Should I learn AI and machine learning, or become a strong software engineer first?](https://www.sefism.com/questions/should-i-learn-ai-ml-or-software-engineering-first/) · asked 9 times
 - [Should I learn LangGraph, CrewAI or the OpenAI Agents SDK first, or build AI agents without a framework?](https://www.sefism.com/questions/should-i-learn-an-agent-framework-or-build-agents-from-scratch/) · asked 9 times
 - [What is vibe coding, and can it get me a job?](https://www.sefism.com/questions/what-is-vibe-coding-and-can-it-get-me-a-job/) · asked 9 times
+- [How can students benefit from Pakistan's National AI Policy?](https://www.sefism.com/questions/how-to-benefit-from-pakistans-national-ai-policy/) · asked 8 times
+- [How do I choose which LLM to use for my project?](https://www.sefism.com/questions/how-to-choose-an-llm-for-my-project/) · asked 8 times
 - [How do I get better at debugging instead of immediately asking AI or another developer?](https://www.sefism.com/questions/how-to-get-better-at-debugging-without-asking-ai-first/) · asked 8 times
 - [How do I learn Git and GitHub properly instead of just copying commands?](https://www.sefism.com/questions/how-to-learn-git-and-github-properly/) · asked 8 times
 - [I can build projects with AI, but I do not understand everything it generates. Am I actually learning?](https://www.sefism.com/questions/am-i-learning-if-i-do-not-understand-ai-generated-code/) · asked 8 times
@@ -157,18 +180,24 @@ _What to learn, in what order, and how to learn it properly._
 
 _Changing direction, changing companies, and what comes next._
 
+- [Is a UK master's still worth it in 2026?](https://www.sefism.com/questions/is-a-uk-masters-worth-it-in-2026/) · asked 14 times
+- [Which freelance skills is AI replacing, and what should I switch to?](https://www.sefism.com/questions/which-freelance-skills-is-ai-replacing/) · asked 14 times
 - [How do I negotiate my salary when switching to a new developer job?](https://www.sefism.com/questions/how-to-negotiate-salary-when-switching-developer-jobs/) · asked 13 times
 - [How do I stay relevant as a developer as AI tools improve?](https://www.sefism.com/questions/how-to-stay-relevant-as-a-developer-as-ai-improves/) · asked 12 times
 - [How often should I switch jobs as a developer?](https://www.sefism.com/questions/how-often-should-a-developer-switch-jobs/) · asked 12 times
 - [Can I freelance or do side projects alongside a full-time developer job?](https://www.sefism.com/questions/can-i-freelance-alongside-a-full-time-developer-job/) · asked 11 times
 - [How do I get promoted from junior to mid-level developer?](https://www.sefism.com/questions/how-to-get-promoted-from-junior-to-mid-level-developer/) · asked 11 times
 - [Should I become an AI engineer or stay a full stack developer?](https://www.sefism.com/questions/ai-engineer-or-full-stack-developer/) · asked 11 times
+- [How do I start an n8n automation side business?](https://www.sefism.com/questions/how-to-start-an-n8n-automation-side-business/) · asked 10 times
 - [Should I do a master's abroad or get work experience first?](https://www.sefism.com/questions/should-i-do-a-masters-abroad-or-get-work-experience-first/) · asked 10 times
 - [How do I ask for a raise as a software engineer?](https://www.sefism.com/questions/how-to-ask-for-a-raise-as-a-software-engineer/) · asked 9 times
 - [How do I become an MLOps engineer?](https://www.sefism.com/questions/how-to-become-an-mlops-engineer/) · asked 9 times
 - [How do I go from mid-level to senior software engineer?](https://www.sefism.com/questions/how-to-go-from-mid-level-to-senior-software-engineer/) · asked 9 times
 - [How do I learn to write clean code as a junior developer?](https://www.sefism.com/questions/how-to-learn-to-write-clean-code-as-a-junior-developer/) · asked 9 times
+- [Is data annotation a real career or just gig work?](https://www.sefism.com/questions/is-data-annotation-a-real-career/) · asked 9 times
+- [Should I register as a freelancer with PSEB, and is it worth it?](https://www.sefism.com/questions/pseb-freelancer-registration-is-it-worth-it/) · asked 9 times
 - [What is the difference between a forward deployed engineer, a solutions engineer and a sales engineer?](https://www.sefism.com/questions/forward-deployed-engineer-vs-solutions-engineer-vs-sales-engineer/) · asked 9 times
+- [Can I make a career with AI image and video generation?](https://www.sefism.com/questions/can-i-make-a-career-with-ai-image-and-video-generation/) · asked 8 times
 - [How do I ask for help at work without making people think I am incompetent?](https://www.sefism.com/questions/how-to-ask-for-help-without-looking-incompetent/) · asked 8 times
 - [How do I move into AI engineering, data science or DevOps?](https://www.sefism.com/questions/how-to-move-into-ai-data-science-or-devops/) · asked 8 times
 - [How do I survive my first 90 days in a new developer job?](https://www.sefism.com/questions/first-90-days-in-a-new-developer-job/) · asked 8 times
@@ -176,6 +205,7 @@ _Changing direction, changing companies, and what comes next._
 - [I was laid off from my developer job. What should I do now?](https://www.sefism.com/questions/laid-off-as-a-software-engineer-what-to-do-next/) · asked 7 times
 - [Is a sales engineer or solutions engineer job a step down for a software engineer?](https://www.sefism.com/questions/is-sales-engineer-or-solutions-engineer-a-step-down-from-software-engineering/) · asked 7 times
 - [Is it better to work abroad or work remotely from home?](https://www.sefism.com/questions/work-abroad-or-work-remotely-from-home/) · asked 7 times
+- [What does an AI evals engineer do?](https://www.sefism.com/questions/what-does-an-ai-evals-engineer-do/) · asked 7 times
 - [How do I deal with a toxic manager or workplace as a developer?](https://www.sefism.com/questions/how-to-deal-with-a-toxic-manager-as-a-developer/) · asked 6 times
 - [How do I get promoted faster in a GCC or large company?](https://www.sefism.com/questions/how-to-get-promoted-faster-in-a-large-company/) · asked 6 times
 - [How do I move from a NOC job to a network engineer role?](https://www.sefism.com/questions/how-to-move-from-noc-to-network-engineer/) · asked 6 times
@@ -183,6 +213,7 @@ _Changing direction, changing companies, and what comes next._
 - [How do I move from QA to software development?](https://www.sefism.com/questions/how-to-move-from-qa-to-software-development/) · asked 6 times
 - [I am quiet in meetings and rarely speak up. Will that hurt my software engineering career?](https://www.sefism.com/questions/will-being-quiet-in-meetings-hurt-my-engineering-career/) · asked 6 times
 - [I started coding before AI became popular. Do I need to completely change my career plan now?](https://www.sefism.com/questions/do-i-need-to-change-my-career-plan-because-of-ai/) · asked 6 times
+- [What does an AI governance job involve?](https://www.sefism.com/questions/what-does-an-ai-governance-job-involve/) · asked 6 times
 - [What should I do when I disagree with a senior engineer or tech lead?](https://www.sefism.com/questions/what-to-do-when-you-disagree-with-a-senior-engineer/) · asked 6 times
 - [Why do some developers progress much faster than others, even when they know similar technologies?](https://www.sefism.com/questions/why-some-developers-progress-faster-than-others/) · asked 6 times
 - [How do I tell my team I am blocked without sounding like I cannot solve problems myself?](https://www.sefism.com/questions/how-to-say-you-are-blocked-without-looking-incompetent/) · asked 5 times
@@ -191,6 +222,7 @@ _Changing direction, changing companies, and what comes next._
 - [Should I become a tech lead or engineering manager, or stay an individual contributor?](https://www.sefism.com/questions/tech-lead-engineering-manager-or-individual-contributor/) · asked 5 times
 - [What does a forward deployed engineer do, and is it a good career?](https://www.sefism.com/questions/what-does-a-forward-deployed-engineer-do/) · asked 5 times
 - [What does being a good software engineer actually mean beyond writing code?](https://www.sefism.com/questions/what-makes-a-good-software-engineer-beyond-writing-code/) · asked 5 times
+- [What is FinOps, and is it a good career?](https://www.sefism.com/questions/what-is-finops-and-is-it-a-good-career/) · asked 5 times
 - [What should I do when my manager gives me vague requirements and expects me to figure everything out?](https://www.sefism.com/questions/what-to-do-when-your-manager-gives-vague-requirements/) · asked 5 times
 - [How do I become someone teammates can trust, not just someone who writes good code?](https://www.sefism.com/questions/how-to-become-an-engineer-your-team-trusts/) · asked 4 times
 - [How do I give constructive feedback to another developer without creating conflict?](https://www.sefism.com/questions/how-to-give-code-review-feedback-without-creating-conflict/) · asked 4 times
@@ -236,6 +268,6 @@ _Staying on track, and the feeling of not being good enough._
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

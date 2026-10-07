@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-47 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
+56 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
 
 Every roadmap puts the concepts in a clear order, so you always know what to learn next and why it comes before the next thing. They are built for **AI-assisted learning**: you learn with AI, but it does not do the work for you.
 
@@ -18,10 +18,10 @@ A real stage prompt:
 > I am learning Git and the command line. Give me 8 short scenarios one at a time, such as "you committed to main by mistake" or "you want to see which files changed", from easy to hard. Wait for me to type the commands I would run, then tell me what would actually happen and correct only what I got wrong.
 
 - [Foundations](#foundations) (10)
-- [Build products](#build-products) (8)
-- [Specialise](#specialise) (14)
-- [Career](#career) (11)
-- [Earn independently](#earn-independently) (4)
+- [Build products](#build-products) (11)
+- [Specialise](#specialise) (17)
+- [Career](#career) (12)
+- [Earn independently](#earn-independently) (6)
 
 ## Foundations
 
@@ -536,6 +536,98 @@ For computer engineering, electrical engineering and CS students who want to bui
 
 </details>
 
+### [.NET developer](https://www.sefism.com/roadmaps/dotnet/)
+
+For people who want a .NET developer job, the stack behind banks, telecoms and enterprise software houses across Pakistan, the Gulf, India and beyond. By the end you can build, test, secure and ship a production-ready ASP.NET Core application with EF Core and SQL Server, with a Web API, Angular, React or Blazor front end, and explain the choices behind it.
+
+**Choose your stack:** Web API · Full stack with Angular · Full stack with React · Blazor  
+**Inside:** 10 stages · about 395 hours · 10 AI study prompts · 9 projects
+
+<details><summary>The path (Web API shown) and what you can do at the end</summary>
+
+1. **C# and the .NET platform**: What .NET is, and which version to use, The SDK, the runtime and the dotnet CLI, Projects, solutions and NuGet, Types, classes and interfaces, Records and pattern matching
+2. **C# for real work: LINQ, collections, generics and async**: Collections and when to use each, LINQ: filter, shape, sort and group, Deferred execution, IEnumerable and IQueryable, Generics, delegates and lambdas, async/await and Tasks
+3. **ASP.NET Core basics**: Program.cs, the host and Kestrel, Minimal APIs and controllers, The middleware pipeline and its order, Routing, model binding and validation, Dependency injection and lifetimes
+4. **Data with EF Core and SQL Server**: SQL and SQL Server first, DbContext, entities and relationships, Migrations and evolving the schema, Querying: Include, projections and no-tracking, The N+1 and tracking traps
+5. **Authentication, authorisation and security**: Authentication vs authorisation in ASP.NET Core, ASP.NET Core Identity, JWT bearer tokens, Policies, roles and resource ownership, OWASP basics for .NET APIs
+6. **API design, OpenAPI and your clients**: Designing resources and URLs, One error shape with ProblemDetails, OpenAPI documents, Consuming APIs from a .NET client, CORS when browsers call your API
+7. **Testing .NET applications**: Unit tests with xUnit, Mocks, stubs and fakes, Integration tests with WebApplicationFactory, Testing against a real database, What to test, and how much
+8. **Production-ready ASP.NET Core**: Health checks and metrics, Observability with OpenTelemetry and the Aspire dashboard, Rate limiting and API versioning, Structured logging and what never to log, Caching: memory, output caching, HybridCache and Redis
+9. **Ship it: Docker, CI/CD and Azure**: Containers for .NET apps, CI/CD with GitHub Actions, Azure App Service and Azure SQL, Configuration, secrets and Key Vault, Deploying database changes safely
+10. **The enterprise .NET job**: Clean architecture without over-engineering, Background jobs: hosted services and Hangfire, Working in large existing codebases, What banks and software houses expect, One portfolio project that proves it all
+
+**By the end you can:**
+
+- Write modern C# on .NET 10 (records, pattern matching, nullable reference types, LINQ and async) and drive everything from the dotnet CLI
+- Build an ASP.NET Core API with the right DI lifetimes, a correct middleware order, validation and one consistent error shape
+- Model data with EF Core and SQL Server, write migrations, and find and fix N+1 queries and tracking mistakes
+- Secure it with Identity or JWT bearer tokens and policy-based authorisation, and connect a front end or client safely
+- Test it with xUnit, test doubles and WebApplicationFactory integration tests against a real database
+- Make it production-ready: health checks, OpenTelemetry, rate limiting, versioning, structured logs, caching, SSE, feature flags, ProblemDetails and resilience
+- Ship it with Docker and GitHub Actions to Azure App Service and Azure SQL, with secrets in Key Vault, and talk about it the way enterprise teams expect
+
+</details>
+
+### [Choosing the right database](https://www.sefism.com/roadmaps/choosing-databases/)
+
+For students and developers building apps who keep hearing about SQL, NoSQL, Redis, vector databases and warehouses and want to know which one their project actually needs. By the end you can describe your data, pick a sensible database for each job, try every major type with a small hands-on task and explain your choice in plain words.
+
+**Inside:** 9 stages · about 58 hours · 9 AI study prompts · 7 projects
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Start from the data, not the product**: Structured, semi-structured and unstructured data, Access patterns: the questions your app asks, Reads, writes and how much data, How correct must the data be, and how fast, The questions to ask before naming a product
+2. **Relational databases: the sensible default**: What a relational database gives you, Why PostgreSQL is usually the right default, MySQL, SQLite and SQL Server: when they fit, JSON columns for the flexible parts, Talking to it from code: drivers, ORMs and migrations
+3. **Document databases: MongoDB and Firestore**: The document model, Embed or reference, MongoDB in brief, Firestore in brief, Schema in a "schemaless" database
+4. **Key-value stores and caching**: The key-value model, Redis and its data types, Caching with cache-aside, Keeping a cache honest, Cache or primary store?
+5. **Search: from Postgres full-text to search engines**: Why LIKE is not search, Inverted indexes and relevance, Start with PostgreSQL full-text search, Elasticsearch, OpenSearch, Meilisearch and Typesense, Keeping a search index in sync
+6. **Vector databases for AI features**: Embeddings and similarity, in plain words, Approximate nearest neighbour indexes, pgvector: vectors inside PostgreSQL, Dedicated vector databases, Metadata filters and hybrid search
+7. **Columnar databases and warehouses**: OLTP versus OLAP, Why columnar storage is fast for analytics, Cloud warehouses: BigQuery, Snowflake and Redshift, ClickHouse and DuckDB, Getting app data into analytics
+8. **Graph, time-series and object storage**: Graph databases and Neo4j, Time-series data and databases, Retention and roll-ups, Object storage for files, What Postgres already covers
+9. **Choosing, combining and running it**: Managed or self-hosted, The same database types on AWS, Azure and Google Cloud, Free tiers to learn on, What drives database cost, One Postgres is often enough
+
+**By the end you can:**
+
+- Describe any app's data by its shape, how it is read and written, and how correct it must be, before naming a product
+- Explain why a relational database such as PostgreSQL is the usual default, and use its JSON columns when part of the data is flexible
+- Say when a document store, a key-value store or a cache is the better fit, and the trade-off you accept with each
+- Add search and vector similarity to an app, starting inside PostgreSQL and knowing when a dedicated engine is worth it
+- Tell OLTP from OLAP and know when reports belong in a columnar warehouse, and where graphs, time series and files fit
+- Choose between managed and self-hosted options across AWS, Azure and Google Cloud, learn on free tiers and justify the choice with a short checklist
+
+</details>
+
+### [Choosing an LLM and AI stack](https://www.sefism.com/roadmaps/choosing-llms/)
+
+For developers, students and founders who are about to build something with a large language model and want to pick the model, hosting and tools on evidence rather than hype. By the end you can turn a task into requirements, compare three models on your own data, work out the cost per task, decide between an API and an open-weight model, and pick each layer of the stack with a reason you can defend.
+
+**Inside:** 9 stages · about 54 hours · 9 AI study prompts · 8 projects
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Start from the task, not the model**: Five kinds of task, Write the requirements before you look at models, The cheapest model that is good enough, Model families and tiers, Leaderboards: a shortlist, not a verdict
+2. **Reasoning quality: when a bigger model pays off**: Reasoning models and fast models, Effort and thinking settings, Why multi-step tasks punish small errors, Instruction following, When a bigger model pays for itself
+3. **Speed and cost per task**: Tokens, and why they are not equal, Input price and output price, Cost per task, not per token, Latency: time to first token and tokens per second, Small models: Haiku, Flash, Flash-Lite, Luna and mini
+4. **Context windows and memory**: What a context window holds, Long documents: what really happens, Chat history and memory, When RAG beats a bigger window, Caching long, stable context
+5. **Tools, structured output and agents**: Function calling, Structured output, MCP support, Agent reliability, Controlling when tools are used
+6. **Privacy and deployment: API or your own servers**: What happens to data you send an API, Open-weight models and licences, What self-hosting really costs, Data residency, Compliance and governance
+7. **The rest of the stack**: Model hosting, Choosing an embeddings model, Getting text out of documents, Getting clean text from websites, A framework, or none
+8. **Run your own comparison**: A small golden test set, A scoring rubric, Code checks first, model judges second, Compare three models on your data, Read results as quality, cost and speed together
+9. **Production choices: routing, fallbacks and lock-in**: Routing between cheap and strong models, Fallbacks for outages and limits, Avoiding lock-in, Pinning versions and planning for retirement, Re-evaluate every quarter
+
+**By the end you can:**
+
+- Turn a product idea into model requirements: quality bar, speed, volume, context, tools and privacy
+- Decide when a reasoning model or a bigger model pays for itself, and when a small fast one is enough
+- Work out the cost per task, including output, reasoning, caching and batch discounts, before you build
+- Choose between a long context window, chat history tricks and retrieval for the data your feature needs
+- Judge a model on tool calling, structured output and MCP support for the agent you want to build
+- Decide between a cloud API and an open-weight model on your own servers, with privacy and compliance in view
+- Pick hosting, embeddings, document extraction, a framework (or none) and a vector database with clear reasons
+- Run a small comparison of three models on a golden test set, and re-run it every quarter in production
+
+</details>
+
 ## Specialise
 
 _Go deep in one area of engineering._
@@ -545,17 +637,18 @@ _Go deep in one area of engineering._
 For developers who can already ship a web or backend app and want to build products on large language models. By the end you can build, evaluate and run an LLM feature with retrieval, tools and agents, and explain what it costs, how you measured it and where it fails.
 
 **Choose your language:** Python · TypeScript  
-**Inside:** 7 stages · about 205 hours · 7 AI study prompts · 6 projects
+**Inside:** 8 stages · about 265 hours · 8 AI study prompts · 8 projects
 
 <details><summary>The path (Python shown) and what you can do at the end</summary>
 
 1. **How LLMs work: tokens and context**: What a model does: predicting the next token, Tokens and tokenisation, The context window as a budget, Token pricing and rate limits, Temperature and sampling
 2. **Prompting and model APIs**: The chat messages API, Specific instructions and output format, System prompts, Few-shot examples, Prompts in version control
-3. **RAG: embeddings, chunking and retrieval**: What RAG is and the pipeline, Embedding models, Semantic search and cosine similarity, Chunking strategies, Vector search with pgvector
+3. **RAG: embeddings, chunking and retrieval**: What RAG is and the pipeline, Embedding models, Semantic search and cosine similarity, Getting data in: parsing PDFs, tables and websites, Chunking strategies
 4. **Evals: measure before you add more**: What an eval is and why vibes fail, Error analysis on real outputs, A test set of 20 to 50 questions, Code-based assertions, LLM-as-judge, checked against your labels
 5. **Tool calling, structured output and MCP**: The tool calling loop, Tool names, descriptions and parameters, Structured output with schemas, Validating and repairing model output, Tool errors a model can recover from
 6. **Agents and durable execution**: Workflows vs agents, The agent loop, written by hand, Context engineering across steps, Step, time and cost limits, Checkpoints and resumable runs
 7. **Running AI systems in production**: Tracing model, retrieval and tool calls, Prompt injection defence, Input and output guardrails, Prompt caching, Semantic caching
+8. **Put it together: ship a production GenAI app**: The request flow and who owns each step, A project layout, including files for AI coding agents, Three guard layers, wired in, Evals in CI and traces from day one, Production checklist: Docker, CI/CD, secrets, limits
 
 **By the end you can:**
 
@@ -650,7 +743,7 @@ For developers and sysadmins who want to own how software gets built, shipped an
 
 For students and early-career engineers who want a first job in security, as a SOC analyst, in application security, in AI security or on the road to penetration testing. By the end you understand the foundations, run a safe home lab, have hands-on work in your chosen path to show, and know which certifications and entry routes are worth your time.
 
-**Choose your path:** Defensive (SOC) · Penetration testing · Application security · AI security  
+**Choose your path:** Defensive (SOC) · Penetration testing · Application security  
 **Inside:** 8 stages · about 265 hours · 8 AI study prompts · 9 projects
 
 <details><summary>The path (Defensive (SOC) shown) and what you can do at the end</summary>
@@ -937,6 +1030,97 @@ For students, IT graduates and support engineers who want to build and run netwo
 - Secure a network with ACLs, NAT, hardened device access, Layer 2 protections, firewall zones and an IPsec VPN, and explain every rule you wrote
 - Automate backups, checks and simple changes with Python and Ansible, and read monitoring data from SNMP, syslog and flow logs
 - Pass the CCNA (and the next certificate for your path) with a lab portfolio to show for it, and handle NOC tickets, escalations and change windows in your first role
+
+</details>
+
+### [AI security](https://www.sefism.com/roadmaps/ai-security/)
+
+For developers and security learners who want to secure LLM applications and AI agents, or to test them as a red-teamer. By the end you can threat model an AI feature, defend it in layers against prompt injection, lock down agents, tools and MCP servers, check the data and model supply chain, test it within clear rules, watch it in production and show all of it in a portfolio.
+
+**Choose your path:** App and agent security · Red-teaming and evaluation  
+**Inside:** 9 stages · about 230 hours · 9 AI study prompts · 12 projects
+
+<details><summary>The path (App and agent security shown) and what you can do at the end</summary>
+
+1. **Security foundations for AI builders**: Threat modelling in four questions, Trust boundaries and untrusted input, Least privilege and who is asking, Secrets: keys, tokens and where they live, The web weaknesses AI apps inherit
+2. **How LLM apps and agents work, and where they break**: How a request becomes a context window, Instructions and data share one channel, Where retrieval goes wrong, The agent loop as an attack surface, Probabilistic behaviour and what it means for security
+3. **Risk maps: the OWASP lists and MITRE ATLAS**: Walking the 2025 LLM Top 10, Old web risks through new doors, The OWASP Top 10 for Agentic Applications, Reading MITRE ATLAS, Two more maps: NIST AI 100-2 and Google SAIF
+4. **Prompt injection and layered defences**: Where injected instructions come from, Why no single filter fixes it, Input and content guards, Output guards and safe rendering, Privilege separation and safer agent designs
+5. **Agent, tool and MCP security**: Designing tool permissions, The confused deputy, Trusting an MCP server, MCP authorisation: tokens, audience and scopes, Isolating code the agent runs
+6. **Data and model supply chain**: Poisoning training and fine-tuning data, Poisoned documents in retrieval, Model files that run code, Provenance, model cards and signing, Keeping an AI bill of materials
+7. **Testing: red-teaming and safety evals**: Scope and permission for AI tests, Red-teaming versus evals, A test plan built from the risk list, garak, PyRIT, promptfoo and Inspect by purpose, Scoring results: rules, classifiers and LLM judges
+8. **Monitoring and incident response for AI apps**: What to log for every model and tool call, Logs are sensitive data too, Signals worth an alert, Kill switches and feature flags, An AI incident playbook
+9. **Career: roles, certifications and a first job**: Where AI security work sits, AI security certifications, honestly, Portfolio: a hardened app and its evidence, Portfolio: an assessment report on your own target, Contributing to open source AI security tools
+
+**By the end you can:**
+
+- Threat model an LLM app or agent: trust boundaries, data flows, tools and the worst a fooled model could do
+- Explain each OWASP Top 10 for LLM Applications risk, the agentic risks and MITRE ATLAS techniques in plain words, with the defences that work
+- Build layered defences against prompt injection: input and content guards, output guards, privilege separation and human approval
+- Secure agents, tools and MCP servers with narrow permissions, proper token handling, sandboxes and egress control
+- Check the data and model supply chain: poisoning, unsafe model files, provenance and leakage of data and system prompts
+- Test AI systems within written rules of engagement using red-teaming, security evals and tools such as garak, PyRIT, promptfoo and Inspect, and report findings clearly
+- Monitor an AI app in production, respond to AI incidents and turn each one into a regression test
+
+</details>
+
+### [AI governance](https://www.sefism.com/roadmaps/ai-governance/)
+
+For engineers, data people and students from law, risk, audit or business who want to work on making AI systems accountable, safe and lawful. By the end you can read the main AI rules, build an AI inventory, check data and models, design human oversight, map a system to the EU AI Act and show a governance portfolio project.
+
+**Choose your background:** Technical · Policy and compliance  
+**Inside:** 8 stages · about 114 hours · 8 AI study prompts · 9 projects
+
+<details><summary>The path (Technical shown) and what you can do at the end</summary>
+
+1. **Why AI governance, and the rules**: What AI governance is, and why it is a job now, The EU AI Act: risk tiers and prohibited practices, The EU AI Act timeline, including the 2026 delay, General-purpose AI models under the Act, NIST AI RMF and its Generative AI Profile
+2. **AI inventory: know what you run**: What counts as an AI system, Finding shadow AI, Classifying systems and assigning a risk tier, Ownership: every system has a named person, Model registries and the inventory
+3. **Data foundation**: Source tracking and provenance, Data lineage, Quality validation, Freshness: data that is too old, Bias screening in data
+4. **Data security and access**: Encryption and key management, Anonymisation and pseudonymisation, Role-based access and least privilege, GDPR basics for AI, Implementing data protection in AI systems
+5. **Model assurance**: Model cards, Benchmarks and disaggregated evaluation, Fairness testing, Red-teaming, Drift detection and monitoring
+6. **Human oversight**: Decision review: in, on or out of the loop, Escalation paths, Override authority and the stop button, Output validation, Accountability mapping
+7. **Compliance and audit**: Mapping a system to the EU AI Act, Policy enforcement, Audit trails, Incident reporting, Conformity assessment basics
+8. **A career in AI governance**: The roles, honestly, Certifications and when they help, Your portfolio project: inventory and risk assessment, Staying current, The technical route in
+
+**By the end you can:**
+
+- Explain the EU AI Act risk tiers and dated timeline, the NIST AI RMF, ISO/IEC 42001, the OECD principles and the AI policies of Pakistan, India, the UAE and Saudi Arabia, citing official sources
+- Build an AI inventory that finds shadow AI, classifies each system, assigns a risk tier and names an owner
+- Check the data behind an AI system for source, lineage, quality, freshness, bias and lawful, secure handling
+- Assure a model with a model card, disaggregated evaluation, fairness tests, red-teaming and drift monitoring, or assess that evidence as a reviewer
+- Design human oversight with clear decision review, escalation, override authority and accountability
+- Map a system to its legal obligations, keep audit trails, handle incidents and show a portfolio project to employers
+
+</details>
+
+### [Cloud cost and FinOps](https://www.sefism.com/roadmaps/finops/)
+
+For cloud and DevOps engineers, analysts and students who want to understand, explain and reduce a cloud bill on AWS, Azure or Google Cloud, including the fast-growing AI and GPU part of it. By the end you can read a bill line by line, allocate it to teams, buy commitments safely, cut waste, forecast and catch spikes, and run a monthly cost review that engineers and finance both trust.
+
+**Choose your cloud:** AWS · Azure · Google Cloud  
+**Inside:** 9 stages · about 82 hours · 9 AI study prompts · 8 projects
+
+<details><summary>The path (AWS shown) and what you can do at the end</summary>
+
+1. **How cloud billing works**: What you are billed for: time, quantity and requests, Accounts, AWS Organizations and consolidated billing, Billing accounts, billing profiles and subscriptions, Cloud Billing accounts and projects, List, discounted and effective cost
+2. **Reading the bill and tagging**: Cost Explorer: grouping and filtering, Cost analysis in Microsoft Cost Management, Cloud Billing reports, Data Exports and CUR 2.0, Cost Management exports
+3. **Visibility and allocation: showback, chargeback and unit costs**: Allocate by structure first, tags second, Splitting shared costs, Cost Categories and split charges, Cost allocation rules, Allocation with projects, labels and BigQuery
+4. **Rate optimisation: commitments and spot**: How commitment discounts work, Coverage, utilisation and break-even, Savings Plans and Reserved Instances, Reservations, savings plans and Azure Hybrid Benefit, Committed use and sustained use discounts
+5. **Usage optimisation: rightsizing, waste, storage, data transfer and Kubernetes**: Rightsizing from real metrics, Compute Optimizer and Cost Optimization Hub, Azure Advisor cost recommendations, Recommender and the FinOps hub, Idle and orphaned resources
+6. **Forecasting, budgets and anomaly alerts**: Forecasting: trend and driver-based, AWS Budgets and budget actions, Azure budgets and alerts, Google Cloud budgets and alerts, AWS Cost Anomaly Detection
+7. **AI and GPU spend**: How AI APIs charge: tokens in and out, Caching and batch discounts, The cheapest model that passes, Amazon Bedrock pricing tiers, Microsoft Foundry deployment types and PTUs
+8. **The FinOps Framework and the FOCUS billing spec**: The six FinOps principles, Inform, Optimize, Operate, Domains and capabilities, Who takes part: the personas, Crawl, walk, run
+9. **Working with finance and a FinOps career**: Speaking finance: opex, accruals and cost centres, Invoices and month-end close, Running a monthly cost review, Getting engineers to act, FinOps roles and where they sit
+
+**By the end you can:**
+
+- Explain how your cloud charges, read a bill and a detailed billing export, and answer "what did this team spend and why" with a query
+- Write and enforce a tagging policy, allocate shared costs fairly, and report unit costs such as cost per customer or per request
+- Choose between reservations, savings plans, committed use discounts and spot capacity, and size a commitment from coverage and utilisation
+- Find and fix waste: rightsizing, idle resources, storage tiers, data transfer and Kubernetes cost with OpenCost
+- Forecast spend, set budgets and anomaly alerts that reach the right owner, and investigate a spike to its root cause
+- Estimate and control AI spend: tokens, caching, batch, provisioned throughput and GPU capacity
+- Use the FinOps Framework and the FOCUS billing format to talk to finance, and run a monthly cost review end to end
 
 </details>
 
@@ -1236,6 +1420,35 @@ For software engineers and students who like people and messy real problems as m
 
 </details>
 
+### [Tech jobs abroad](https://www.sefism.com/roadmaps/work-abroad/)
+
+For students, graduates and working engineers who want to relocate for a tech job in the Gulf, Germany and the EU, the UK and Ireland, or East Asia. By the end you can decide whether and where to move with real numbers, read the visa rules from official pages, get your documents attested, present a profile employers abroad shortlist, find employers that sponsor, compare offers and settle in safely.
+
+**Choose your destination:** Gulf · Germany and the EU · UK and Ireland · East Asia  
+**Inside:** 7 stages · about 62 hours · 7 AI study prompts · 5 projects
+
+<details><summary>The path (Gulf shown) and what you can do at the end</summary>
+
+1. **Decide if, and where**: Your reason to move, Net gain, not the gross salary, Family, partner and the life around the job, Why most routes want experience first, Nationals first: Emiratisation, Nitaqat and Qatarization
+2. **Visas and work permits**: Employer-sponsored and job-seeker routes, Official sources, dated, UAE: work permit and employment visa, UAE Golden Visa basics, Saudi Arabia: work visa, iqama and Premium Residency
+3. **Degrees, attestation and documents**: Why your degree must be recognised, Pakistan: HEC, IBCC and the Foreign Office, India, Bangladesh and other countries, Apostille or embassy legalisation, The Gulf attestation chain
+4. **A profile employers abroad will shortlist**: Explain your context, do not assume it, The visa status line, CV norms in the Gulf, CV norms in Germany and the EU, CV norms in the UK and Ireland
+5. **Find employers who hire from abroad**: Who actually sponsors, Where to search: the Gulf, Where to search: Germany and the EU, Where to search: the UK and Ireland, Where to search: Japan, Singapore and Korea
+6. **The offer and the move**: Comparing offers properly, Reading a Gulf package, Contract terms that matter, Negotiating a relocation package, Negotiating salary in a new market
+7. **Your first 90 days**: Residence ID in the Gulf, Registration and residence permit in Germany, eVisa, IRP and the first registrations, Residence cards in Japan, Singapore and Korea, Finding housing without getting scammed
+
+**By the end you can:**
+
+- Decide whether moving beats a remote job from home, and pick a destination on net savings, family rights and your experience level
+- Explain the main work routes for your destination from official pages, with dated salary thresholds and conditions
+- Get your degree and documents attested, apostilled or recognised in the order your destination needs
+- Present a CV and LinkedIn profile that fit local norms and answer the visa question up front
+- Build a list of employers with evidence that they sponsor, and recognise job and visa scams before they cost you
+- Compare offers on what you keep, read the contract and relocation terms, and time your notice and visa without gaps
+- Finish registration, find housing safely and protect yourself with savings and a plan for your next permit
+
+</details>
+
 ## Earn independently
 
 _Freelance, work remotely or sell what you build._
@@ -1351,8 +1564,63 @@ For students and early-career engineers who want to build a small product of the
 
 </details>
 
+### [AI data and training work](https://www.sefism.com/roadmaps/ai-data-work/)
+
+For students and graduates who want paid remote work helping AI companies build their data: labelling images, text and audio, or writing, rating and fixing model answers in your field or in code. By the end you understand what the work is and who pays for it, can spot the scams, have the core skills platforms test, know how to apply, get paid and stay safe, and have a plan to move up into reviewer, specialist, data or ML roles.
+
+**Choose your path:** Data annotation · AI trainer  
+**Inside:** 6 stages · about 61 hours · 6 AI study prompts · 8 projects
+
+<details><summary>The path (Data annotation shown) and what you can do at the end</summary>
+
+1. **What AI data work is and why it exists**: Labelled data and why models need it, What annotators actually label, What AI trainers actually do, Demonstrations, preferences and RLHF, Evals and safety testing
+2. **The honest picture**: Pay varies by country, project and skill, Project-based work that can pause, Never pay for training or registration, Fake recruiters and payment tricks, Your account is yours alone
+3. **Core annotation skills**: Reading a long guideline and following it exactly, Edge cases and asking good questions, Consistency, gold tasks and agreement, A steady pace, without shortcuts, Boxes, polygons and keypoints
+4. **Getting accepted on platforms**: How qualification tests work, The main platforms and what they want, Which platforms work in your country, Identity checks and an honest profile, Annotation clients on Upwork
+5. **Building a track record and getting paid**: Quality scores decide your next project, Using reviewer feedback, Payment methods that work where you live, Keeping records of every payout, Taxes in general terms
+6. **Moving up**: From tasker to QA reviewer, Team leads and project roles, Specialist and expert projects, From rating to evals work, Into data analytics
+
+**By the end you can:**
+
+- Explain what labelled data, demonstrations, preference data, evals and safety testing are, and where your work ends up
+- Judge pay, project gaps and contractor status honestly, and recognise the scams aimed at people looking for this work
+- Follow a long guideline exactly and consistently, and understand how platforms measure quality
+- Annotate images, video, text and audio in Label Studio or CVAT, or write ideal responses, rate against rubrics, fact-check and review code
+- Apply to the platforms that operate in your country, pass their qualification tests and set up payment that works where you live
+- Keep records, handle taxes and registration in general terms, and plan a move into reviewer, specialist, data or ML roles
+
+</details>
+
+### [AI video and design for clients](https://www.sefism.com/roadmaps/ai-creative/)
+
+For students and early-career creatives who want to earn by making ads, explainers, shorts, product shots, thumbnails and brand visuals with AI tools. By the end you can plan work that sells, direct the tools with consistent results, stay inside each tool's terms and each platform's rules, and package, sell and deliver the work like a professional.
+
+**Choose your service:** AI video · AI images and design  
+**Inside:** 8 stages · about 125 hours · 8 AI study prompts · 3 projects
+
+<details><summary>The path (AI video shown) and what you can do at the end</summary>
+
+1. **What clients actually buy**: What the demand data says, What AI changed and what it did not, Video formats clients pay for, UGC-style ads and avatars, honestly, Image work clients pay for
+2. **Video fundamentals AI does not replace**: Hooks and the first second, A simple story structure, Shots, pacing and editing, Sound, voice and captions, Composition and visual hierarchy
+3. **The AI video tool stack**: Choosing tools by job, not by hype, Text-to-video and image-to-video generators, Avatar video tools, Voice and audio tools, The editor at the centre
+4. **Prompting and consistency**: A prompt structure you can reuse, From brief to shot list, References, first and last frames, Style and character references, Iterating without wasting credits
+5. **Rights, ethics and platform rules**: Commercial-use terms per tool, Who owns AI output, Brands, celebrities and other people's work, Faces, voices and consent, Deepfake and labelling laws
+6. **Building a portfolio and offers**: A portfolio without clients, Case notes that sell, A reel and a portfolio page, Presenting image sets, Packages, turnaround and revisions
+7. **Finding and keeping clients**: Marketplace gigs for creative AI work, Outreach to businesses already advertising, Small paid tests, Turning jobs into retainers, Speaking the client's language: testing and results
+8. **Delivering like a pro**: A brief before any work, Versions, review rounds and feedback, Aspect ratios, lengths and safe zones for video, Export settings and captions, Sizes and formats for images
+
+**By the end you can:**
+
+- Name what businesses actually buy in AI video or AI imagery, and read the demand evidence without hype
+- Apply the creative basics AI does not do for you: hooks, story, pacing, composition, colour, type and brand consistency
+- Pick the right tool for each job and keep characters, products and styles consistent across a whole set of assets
+- Check commercial-use terms, consent and platform labelling rules before anything you make is published
+- Offer clear packages, find and keep clients, and deliver the right files in the right formats for every platform
+
+</details>
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

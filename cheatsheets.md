@@ -2,15 +2,15 @@
 
 [← Back to the Sefism Library](README.md)
 
-49 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
+75 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
 
 Each cheat sheet puts the key concepts of a topic on a few pages, with code and the common mistakes, and is written to go with the matching roadmap. Sheets with a language or framework choice have one edition per option.
 
-- [Foundations](#foundations) (10)
-- [Build products](#build-products) (8)
-- [Specialise](#specialise) (17)
-- [Career](#career) (10)
-- [Earn independently](#earn-independently) (4)
+- [Foundations](#foundations) (13)
+- [Build products](#build-products) (12)
+- [Specialise](#specialise) (32)
+- [Career](#career) (12)
+- [Earn independently](#earn-independently) (6)
 
 ## Foundations
 
@@ -44,6 +44,20 @@ For learners. Data structures and patterns.
 **Editions:** [Python](https://www.sefism.com/cheatsheets/dsa/) · [Java](https://www.sefism.com/cheatsheets/dsa/java/) · [C++](https://www.sefism.com/cheatsheets/dsa/cpp/) · [JavaScript](https://www.sefism.com/cheatsheets/dsa/javascript/)
 
 **Chapters:** Complexity and Big-O · Arrays, strings and hashing · Linked lists, stacks and queues · Recursion, sorting and searching · Trees and heaps · Graphs · Coding patterns · Dynamic programming · Timed practice and problem-solving habits
+
+### [Git](https://www.sefism.com/cheatsheets/git/)
+
+For learners and developers. How Git stores your work, the everyday commands, branching, undoing mistakes, remotes, reviews and team workflows.
+
+
+**Chapters:** How Git thinks · Setup and everyday commands · Branching, merging and rebasing · Remotes: fetch, pull and push · Undoing things · History and inspection · Tags, releases and code review · Workflows and commit hygiene · Ignoring, large files, signing and worktrees
+
+### [Linux command line](https://www.sefism.com/cheatsheets/linux/)
+
+For learners. The Linux shell from first commands to safe Bash scripts: files, text tools, permissions, processes, services, SSH and more.
+
+
+**Chapters:** Filesystem and navigation · Files and text tools · Redirection, pipes and the shell · Permissions, users and sudo · Processes, jobs and services · Packages, disks and memory · Networking commands and SSH · Environment, archives and scheduling · Bash scripting
 
 ### [Linux, terminal and Git](https://www.sefism.com/cheatsheets/dev-tools/)
 
@@ -85,6 +99,13 @@ For developers. Queries, design, indexes, transactions.
 
 **Chapters:** Relational model and your setup · Querying one table · Joins and set operations · Aggregation, subqueries and windows · Schema design · Changing data safely · Indexes and query plans · SQL in applications and operations · NoSQL and MongoDB
 
+### [TypeScript](https://www.sefism.com/cheatsheets/typescript/)
+
+For developers. Types, inference, narrowing, generics, type-level tools and strict configuration for real TypeScript codebases.
+
+
+**Chapters:** Types and the compiler · Inference and assignability · Unions and narrowing · Generics · Built-in utility types · Type-level tools · Interfaces, classes and enums · Modules, tsconfig and strictness · JavaScript libraries and runtime data
+
 ### [University to job-ready](https://www.sefism.com/cheatsheets/job-ready/)
 
 For students. Semester by semester plan for CS students.
@@ -95,6 +116,14 @@ For students. Semester by semester plan for CS students.
 
 ## Build products
 
+### [.NET developer](https://www.sefism.com/cheatsheets/dotnet/)
+
+For .NET developers. C#, ASP.NET Core, EF Core, production-ready APIs.
+
+**Editions:** [Web API](https://www.sefism.com/cheatsheets/dotnet/) · [Full stack with Angular](https://www.sefism.com/cheatsheets/dotnet/angular/) · [Full stack with React](https://www.sefism.com/cheatsheets/dotnet/react/) · [Blazor](https://www.sefism.com/cheatsheets/dotnet/blazor/)
+
+**Chapters:** C# syntax you use every day · LINQ · async, await and Tasks · The dotnet CLI and the platform · Dependency injection and configuration · Middleware pipeline, routing and endpoints · EF Core commands and pitfalls · Auth, security and the front end · Testing, shipping and background work · Production checklist
+
 ### [Backend development](https://www.sefism.com/cheatsheets/backend/)
 
 For developers. APIs, databases, auth, deploys.
@@ -102,6 +131,20 @@ For developers. APIs, databases, auth, deploys.
 **Editions:** [Node.js](https://www.sefism.com/cheatsheets/backend/) · [Python](https://www.sefism.com/cheatsheets/backend/python/) · [Java](https://www.sefism.com/cheatsheets/backend/java/) · [C#](https://www.sefism.com/cheatsheets/backend/csharp/) · [Go](https://www.sefism.com/cheatsheets/backend/go/) · [PHP](https://www.sefism.com/cheatsheets/backend/php/) · [Rust](https://www.sefism.com/cheatsheets/backend/rust/)
 
 **Chapters:** Terminal and Git · How HTTP works · Relational databases and SQL · Designing and building APIs · Authentication and API security · Caching, queues and performance · Testing, CI/CD and deployment · Architecture and reliability
+
+### [Choosing an LLM and AI stack](https://www.sefism.com/cheatsheets/choosing-llms/)
+
+For AI builders. Models, hosting and tools for your use case.
+
+
+**Chapters:** Start from the task · Reasoning and quality · Speed and cost · Snapshot: prices and context, October 2026 · Context and memory · Tools and agents · Privacy and deployment · The rest of the stack · Run your own comparison · Production choices
+
+### [Choosing the right database](https://www.sefism.com/cheatsheets/choosing-databases/)
+
+For builders. SQL, document, cache, search, vector and more.
+
+
+**Chapters:** Start from the data · Relational databases · Document databases · Key-value stores and caching · Search · Vector search for AI · Columnar databases and warehouses · Graph, time series and object storage · Choosing, combining and running it · Each type at a glance
 
 ### [Embedded systems and IoT](https://www.sefism.com/cheatsheets/embedded-iot/)
 
@@ -143,6 +186,13 @@ For developers. Apps for Android and iOS.
 
 **Chapters:** UI and layout · State and navigation · Networking and local data · Device features and notifications · Testing, performance and accessibility · Publishing and releases
 
+### [Prompt Engineering](https://www.sefism.com/cheatsheets/prompt-engineering/)
+
+For developers and students. Prompt anatomy, few-shot examples, chain of thought, structured output, long context, prompts for code and study, and testing prompts.
+
+
+**Chapters:** Anatomy of a prompt · Zero-shot and few-shot prompting · Chain of thought and reasoning · Structured output · Long inputs and context · Prompts for code · Prompts for learning · Testing and securing prompts
+
 ### [UI/UX design](https://www.sefism.com/cheatsheets/ui-ux/)
 
 For designers and developers. Figma, usability, design for developers.
@@ -171,11 +221,49 @@ For AI builders. Tool calling, MCP servers, evals.
 
 ### [AI engineering](https://www.sefism.com/cheatsheets/ai-engineering/)
 
-For developers. Build products on LLMs.
+For developers. Build products on LLMs and generative AI.
 
 **Editions:** [Python](https://www.sefism.com/cheatsheets/ai-engineering/) · [TypeScript](https://www.sefism.com/cheatsheets/ai-engineering/typescript/)
 
-**Chapters:** How LLMs work: tokens and context · Prompting and model APIs · RAG: embeddings, chunking and retrieval · Evals: measure before you add more · Tool calling and structured output · MCP: Model Context Protocol · Agents and durable execution · Running AI systems in production
+**Chapters:** How LLMs work: tokens and context · Prompting and model APIs · RAG: embeddings, chunking and retrieval · Evals: measure before you add more · Tool calling and structured output · MCP: Model Context Protocol · Agents and durable execution · Running AI systems in production · Put it together: ship a production GenAI app
+
+### [AI evals](https://www.sefism.com/cheatsheets/ai-evals/)
+
+For developers building with LLMs. Evals for LLM apps and agents: golden datasets, metrics, LLM-as-judge and its biases, RAG and agent metrics, offline and online evals, CI, human review, tools.
+
+
+**Chapters:** What evals are · Golden datasets · Metrics by task type · LLM-as-judge · RAG metrics · Agent and tool-use metrics · Offline, online and in CI · Human review · Tools · A starter eval plan
+
+### [AI governance](https://www.sefism.com/cheatsheets/ai-governance/)
+
+For AI risk and compliance teams. Inventory, oversight, EU AI Act, ISO 42001.
+
+**Editions:** [Technical](https://www.sefism.com/cheatsheets/ai-governance/) · [Policy and compliance](https://www.sefism.com/cheatsheets/ai-governance/policy/)
+
+**Chapters:** Regulations and frameworks · AI inventory and ownership · Data foundation · Data security and access · Model assurance · Human oversight · Compliance and audit
+
+### [AI security](https://www.sefism.com/cheatsheets/ai-security/)
+
+For AI and security engineers. Secure LLM apps and agents, test models safely.
+
+**Editions:** [App and agent security](https://www.sefism.com/cheatsheets/ai-security/) · [Red-teaming and evaluation](https://www.sefism.com/cheatsheets/ai-security/red-team/)
+
+**Chapters:** Security foundations for AI work · How LLM apps and agents break · Risk maps: OWASP, ATLAS, NIST, SAIF · Prompt injection and the guard layers · Agent, tool and MCP security · Data and model supply chain · Testing, red-teaming and evals · Monitoring and incident response · Career: roles, certifications and portfolio
+
+### [AWS](https://www.sefism.com/cheatsheets/aws/)
+
+For engineers. The AWS services and ideas you use to build, secure, run and pay for real workloads, with CLI commands and policy JSON.
+
+
+**Chapters:** Global infrastructure and accounts · IAM and access control · Compute: EC2, Lambda and containers · Storage: S3, EBS and EFS · Databases and caching · Networking: VPC, load balancing and edge · Messaging and events · Observability and audit · Infrastructure as code · Cost control and Well-Architected
+
+### [Cloud cost and FinOps](https://www.sefism.com/cheatsheets/finops/)
+
+For cloud and finance teams. Read the bill, cut waste, forecast spend.
+
+**Editions:** [AWS](https://www.sefism.com/cheatsheets/finops/) · [Azure](https://www.sefism.com/cheatsheets/finops/azure/) · [Google Cloud](https://www.sefism.com/cheatsheets/finops/gcp/)
+
+**Chapters:** How cloud billing works · Reading the bill and tagging · Allocation, showback and unit costs · Rate optimisation: commitments and spot · Usage optimisation · Forecasting, budgets and anomalies · AI and GPU spend · The FinOps Framework and FOCUS · Working with finance and a FinOps career
 
 ### [Cloud engineering](https://www.sefism.com/cheatsheets/cloud-engineer/)
 
@@ -224,6 +312,43 @@ For engineers. Linux, Docker, Kubernetes, AWS.
 
 **Chapters:** Linux, the shell and scripting · Git workflows · Networking for engineers · Containers with Docker · Cloud on AWS: the core services · Infrastructure as code with Terraform · CI/CD pipelines · Kubernetes and GitOps · Observability and incident response · Security basics
 
+### [Docker](https://www.sefism.com/cheatsheets/docker/)
+
+For developers. Images, Dockerfiles, caching, small secure builds, volumes, networks, Compose, registries and debugging containers.
+
+
+**Chapters:** Images, containers and the engine · Writing a Dockerfile · Layers, caching and faster builds · Small and secure images · Storage and networking · Configuration, secrets and limits · Docker Compose · Registries, tagging and multi-arch · Debugging containers
+
+### [GenAI app architecture](https://www.sefism.com/cheatsheets/genai-app-architecture/)
+
+For developers building with LLMs. How a production GenAI app fits together: request flow, layers, RAG, agent loop, memory, caching, guards, evals, tracing, folder layout and launch checklist.
+
+**Editions:** [Python + FastAPI](https://www.sefism.com/cheatsheets/genai-app-architecture/) · [TypeScript + Node](https://www.sefism.com/cheatsheets/genai-app-architecture/typescript/)
+
+**Chapters:** The request flow · Frontend and backend layers · The RAG pipeline · Tools and the agent loop · Memory, caching, rewriting and routing · Three guard layers · The evaluation folder · Observability · A reference project layout · Production checklist
+
+### [Hugging Face](https://www.sefism.com/cheatsheets/hugging-face/)
+
+For engineers. The Hub, transformers, tokenisers, datasets, fine-tuning, LoRA, quantisation, inference and embeddings with the Hugging Face libraries.
+
+
+**Chapters:** The Hub · Running models with transformers · Tokenisers · Datasets · Fine-tuning with Trainer · LoRA, quantisation and accelerate · Evaluation and embeddings · Inference and sharing
+
+### [Kubernetes](https://www.sefism.com/cheatsheets/kubernetes/)
+
+For engineers. Clusters, kubectl, workloads, Services, Gateway API, config, probes, scaling, storage, RBAC, Helm and debugging.
+
+
+**Chapters:** How a cluster works · kubectl essentials · Pods and workload controllers · Probes, rollouts and rollbacks · Services, Ingress and Gateway API · Configuration, resources and scaling · Storage and stateful apps · Namespaces, RBAC and Pod security · Packaging with Helm · Debugging workloads
+
+### [LangChain and LlamaIndex](https://www.sefism.com/cheatsheets/langchain/)
+
+For engineers. RAG pipelines, retrieval quality, agents, tools, memory and evaluation in Python, with LangChain and LangGraph or LlamaIndex.
+
+**Editions:** [LangChain](https://www.sefism.com/cheatsheets/langchain/) · [LlamaIndex](https://www.sefism.com/cheatsheets/langchain/llamaindex/)
+
+**Chapters:** RAG and agents: the big picture · Loading and chunking · Embeddings and vector stores · Retrieval and reranking · Agents, tools and memory · Evaluation and observability
+
 ### [LLM APIs](https://www.sefism.com/cheatsheets/llm-apis/)
 
 For engineers building AI features. Building on OpenAI, Anthropic and Gemini APIs: prompts, streaming, structured output, tools, RAG, caching, cost, evals and safety.
@@ -270,6 +395,13 @@ For network engineers. Routing, switching, CCNA, cloud networks.
 
 **Chapters:** Models, addressing and subnetting · Switching and VLANs · Routing: static, OSPF and BGP · Labs, the CLI and troubleshooting tools · Certification plan · Network security: ACLs, firewalls and VPNs · Wireless networking · Network automation and monitoring · Cloud networking · Your first network role
 
+### [Pandas](https://www.sefism.com/cheatsheets/pandas/)
+
+For data and ML learners. Reading data, selecting, filtering, missing values, groupby, merge and join, reshaping and dates in pandas, with copy-on-write in mind.
+
+
+**Chapters:** Loading and saving data · Selecting rows and columns · Filtering and sorting · Cleaning and missing values · New columns and transformations · Grouping and aggregating · Merge, join and concat · Reshaping · Dates and time series · Performance and good habits
+
 ### [Platform engineering and SRE](https://www.sefism.com/cheatsheets/platform-sre/)
 
 For DevOps engineers. SLOs, observability, Kubernetes platforms.
@@ -277,6 +409,13 @@ For DevOps engineers. SLOs, observability, Kubernetes platforms.
 **Editions:** [Site reliability](https://www.sefism.com/cheatsheets/platform-sre/) · [Platform engineering](https://www.sefism.com/cheatsheets/platform-sre/platform/)
 
 **Chapters:** Reliability basics: SLIs, SLOs and error budgets · Observability: metrics, logs and traces · Incident response and postmortems · Kubernetes in production · Infrastructure as code at scale · GitOps and progressive delivery · Internal developer platforms · Capacity, performance and cost · Chaos and resilience testing · On-call without burnout
+
+### [PyTorch](https://www.sefism.com/cheatsheets/pytorch/)
+
+For engineers. Tensors, autograd, nn.Module, training loops, data loading, GPUs, mixed precision, torch.compile, DDP and export in PyTorch.
+
+
+**Chapters:** Tensors · Autograd · Models with nn.Module · Losses, optimisers and schedulers · Datasets and DataLoaders · Training, evaluation and checkpoints · Speed: GPUs, mixed precision and torch.compile · Debugging training · Distributed training and export
 
 ### [QA and test automation](https://www.sefism.com/cheatsheets/qa-testing/)
 
@@ -286,12 +425,33 @@ For testers. Manual testing to automated suites.
 
 **Chapters:** Testing fundamentals · Manual testing done well · Web and API basics · Programming for testers · Maintainable suites · CI and reporting · Performance, accessibility and security · Your QA career
 
+### [RAG](https://www.sefism.com/cheatsheets/rag/)
+
+For developers building with LLMs. Retrieval augmented generation end to end: chunking, embeddings, hybrid retrieval, reranking, grounded prompts, evaluation and failure modes.
+
+
+**Chapters:** RAG basics · Loading and chunking · Embeddings and the index · Retrieval · Reranking and context building · Grounded generation · Evaluating RAG · Failure modes and advanced patterns
+
+### [Running LLMs locally](https://www.sefism.com/cheatsheets/ollama/)
+
+For engineers. Ollama commands, Modelfiles, quantisation, memory and hardware, the local API, clients, tools, embeddings and safe serving.
+
+
+**Chapters:** Getting started with Ollama · Models, tags and sizes · Quantisation and memory · Hardware and performance · Modelfiles and context length · The local REST API · Clients, structured outputs and tools · Embeddings and local RAG · Serving safely and alternatives
+
 ### [System design](https://www.sefism.com/cheatsheets/system-design/)
 
 For engineers. Systems that scale.
 
 
 **Chapters:** Core concepts: scale, latency and availability · Load balancing, proxies, CDNs and caching · Databases: models, indexes and transactions · Replication, partitioning and sharding · Networking and APIs · Messaging, queues and streams · Distributed systems fundamentals · Architecture and resilience patterns · Observability and safe releases · Estimation, building blocks and a design approach
+
+### [Vector databases](https://www.sefism.com/cheatsheets/vector-databases/)
+
+For engineers. Embeddings, similarity metrics, ANN indexes, filtering, hybrid search, reranking, RAG chunking, pgvector, dedicated stores and evaluation.
+
+
+**Chapters:** Embeddings and similarity · Nearest neighbour search · Index types: HNSW, IVF and PQ · Recall, latency and filtering · Hybrid search and reranking · Chunking for RAG · pgvector in practice · Dedicated stores and choosing · Evaluation and operations
 
 ## Career
 
@@ -309,6 +469,13 @@ For job seekers. Resume, applications, offers.
 
 
 **Chapters:** Know your target · Your resume · Proof of work · Where and how to apply · Coding and system design rounds · Behavioural rounds and your questions · Offers and compensation · Negotiation and a strong start
+
+### [Layoffs and AI](https://www.sefism.com/cheatsheets/layoffs-ai/)
+
+For engineers in a changing market. Stay hard to cut, and recover if laid off.
+
+
+**Chapters:** What AI is really doing to tech jobs · Read the signals and your own exposure · Be hard to cut at work · Work with AI so it raises your value · Career insurance before you need it · If you are laid off: the first two weeks · Bounce back: the search after a layoff
 
 ### [LinkedIn and personal branding](https://www.sefism.com/cheatsheets/personal-branding/)
 
@@ -355,6 +522,14 @@ For career switchers. From another field or no degree.
 
 **Chapters:** An honest reality check · A target role that fits your background · Money, risk and the people around you · A learning plan that fits your life · Proof without a CS degree · Telling your story · Getting in the door · Your first year after switching
 
+### [Tech jobs abroad](https://www.sefism.com/cheatsheets/work-abroad/)
+
+For engineers moving abroad. Relocate for work: Gulf, Europe, UK, East Asia.
+
+**Editions:** [Gulf](https://www.sefism.com/cheatsheets/work-abroad/) · [Germany and the EU](https://www.sefism.com/cheatsheets/work-abroad/germany-eu/) · [UK and Ireland](https://www.sefism.com/cheatsheets/work-abroad/uk-ireland/) · [East Asia](https://www.sefism.com/cheatsheets/work-abroad/east-asia/)
+
+**Chapters:** Decide if, and where · Visas and work permits · Degrees, attestation and documents · A profile employers abroad will shortlist · Find employers who hire from abroad · The offer and the move · Your first 90 days
+
 ### [Tech roles beyond coding](https://www.sefism.com/cheatsheets/non-coding-roles/)
 
 For career explorers. Product, business analysis, writing and devrel.
@@ -371,6 +546,22 @@ For new engineers. First 90 days, reviews, growing fast.
 **Chapters:** Before day one · The first two weeks · Working with your team · Your first pull requests · Communication and visibility · Productivity and learning on the job · Workplace basics · Your first year plan
 
 ## Earn independently
+
+### [AI data and training work](https://www.sefism.com/cheatsheets/ai-data-work/)
+
+For AI data workers. Annotation, model rating and AI trainer roles.
+
+**Editions:** [Data annotation](https://www.sefism.com/cheatsheets/ai-data-work/) · [AI trainer](https://www.sefism.com/cheatsheets/ai-data-work/ai-trainer/)
+
+**Chapters:** What AI data work is · The honest picture · Scam red flags · Core skills every test checks · Getting accepted · Platform comparison · Track record and getting paid · Moving up
+
+### [AI video and design for clients](https://www.sefism.com/cheatsheets/ai-creative/)
+
+For creative freelancers. Ads, shorts and visuals made with AI tools.
+
+**Editions:** [AI video](https://www.sefism.com/cheatsheets/ai-creative/) · [AI images and design](https://www.sefism.com/cheatsheets/ai-creative/images/)
+
+**Chapters:** What clients buy · Creative fundamentals · The tool stack · Prompting and consistency · Rights, consent and labels · Portfolio and offers · Finding and keeping clients · Delivery and specs
 
 ### [Automation for clients](https://www.sefism.com/cheatsheets/automation/)
 
@@ -406,6 +597,6 @@ For remote job seekers. Work for companies in other countries.
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

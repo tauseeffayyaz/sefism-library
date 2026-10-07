@@ -2,19 +2,19 @@
 
 [← Back to the Sefism Library](../README.md)
 
-231 resources, each with a short review on Sefism explaining who it is for.
+271 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=career)
 
 - [Top picks: career growth](#top-picks-career-growth) (6)
-- [Course](#course) (22)
-- [Roadmap](#roadmap) (24)
-- [Guide](#guide) (58)
-- [Cheat sheet](#cheat-sheet) (16)
-- [Platform](#platform) (36)
-- [Tool](#tool) (20)
+- [Course](#course) (24)
+- [Roadmap](#roadmap) (27)
+- [Guide](#guide) (73)
+- [Cheat sheet](#cheat-sheet) (19)
+- [Platform](#platform) (48)
+- [Tool](#tool) (24)
 - [GitHub repo](#github-repo) (4)
-- [Book](#book) (22)
+- [Book](#book) (23)
 - [Video](#video) (7)
 - [Community](#community) (7)
 - [Scholarship](#scholarship) (15)
@@ -33,6 +33,7 @@
 - [AWS Certified Cloud Practitioner (CLF-C02)](https://www.sefism.com/resources/aws-certified-cloud-practitioner/) · Amazon Web Services · Paid · Beginner
 - [AWS Certified Data Engineer: Associate (DEA-C01)](https://www.sefism.com/resources/aws-certified-data-engineer-associate/) · Amazon Web Services · Paid · Intermediate
 - [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.sefism.com/resources/aws-certified-solutions-architect-associate/) · Amazon Web Services · Paid · Intermediate
+- [FinOps Certified Practitioner (FOCP)](https://www.sefism.com/resources/finops-certified-practitioner/) · FinOps Foundation (Linux Foundation) · Paid · Beginner
 - [Georgia Tech Online Master of Science in Computer Science (OMSCS)](https://www.sefism.com/resources/georgia-tech-omscs/) · Georgia Institute of Technology · Paid · Intermediate
 - [Google Career Certificates](https://www.sefism.com/resources/google-career-certificates/) · Google (on Coursera) · Paid · Beginner
 - [Google Cloud Associate Cloud Engineer](https://www.sefism.com/resources/google-associate-cloud-engineer/) · Google Cloud · Paid · Intermediate
@@ -44,6 +45,7 @@
 - [Grokking Engineering Leadership Interviews](https://www.sefism.com/resources/grokking-engineering-leadership-interviews/) · Design Gurus · Paid · Advanced
 - [Grokking Tech Salary Negotiations](https://www.sefism.com/resources/grokking-tech-salary-negotiations/) · Design Gurus · Paid
 - [Grokking the Engineering Manager Interview](https://www.sefism.com/resources/grokking-the-engineering-manager-interview/) · Design Gurus · Paid · Advanced
+- [Meta Blueprint](https://www.sefism.com/resources/meta-blueprint/) · Meta · Free · Beginner
 - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://www.sefism.com/resources/microsoft-azure-administrator-associate-az-104/) · Microsoft · Paid · Intermediate
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.sefism.com/resources/microsoft-azure-fundamentals-az-900/) · Microsoft · Paid · Beginner
 - [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://www.sefism.com/resources/microsoft-fabric-data-engineer-associate/) · Microsoft · Paid · Intermediate
@@ -63,6 +65,8 @@
 - [roadmap.sh: DevRel (Developer Relations)](https://www.sefism.com/resources/roadmapsh-devrel/) · roadmap.sh · Free · Beginner
 - [roadmap.sh: Engineering Manager](https://www.sefism.com/resources/roadmapsh-engineering-manager/) · roadmap.sh · Free · Advanced
 - [roadmap.sh: Technical Writer](https://www.sefism.com/resources/roadmapsh-technical-writer/) · roadmap.sh · Free · Beginner
+- [Sefism AI Data and Training Work Roadmap](https://www.sefism.com/resources/sefism-ai-data-work-roadmap/) · Sefism · Free · Beginner
+- [Sefism AI Video and Design for Clients Roadmap](https://www.sefism.com/resources/sefism-ai-creative-roadmap/) · Sefism · Free · Beginner
 - [Sefism Automation for Clients Roadmap](https://www.sefism.com/resources/sefism-automation-roadmap/) · Sefism · Free · Beginner
 - [Sefism Build and Sell Your Own Product Roadmap](https://www.sefism.com/resources/sefism-indie-products-roadmap/) · Sefism · Free · Intermediate
 - [Sefism Forward Deployed and Solutions Engineering Roadmap](https://www.sefism.com/resources/sefism-forward-deployed-roadmap/) · Sefism · Free · Intermediate
@@ -75,6 +79,7 @@
 - [Sefism Remote Jobs Roadmap](https://www.sefism.com/resources/sefism-remote-jobs-roadmap/) · Sefism · Free
 - [Sefism Staff and Leadership Roadmap](https://www.sefism.com/resources/sefism-leadership-roadmap/) · Sefism · Free · Advanced
 - [Sefism Switch into Tech Roadmap](https://www.sefism.com/resources/sefism-career-switch-roadmap/) · Sefism · Free · Beginner
+- [Sefism Tech Jobs Abroad Roadmap](https://www.sefism.com/resources/sefism-work-abroad-roadmap/) · Sefism · Free
 - [Sefism Tech Roles Beyond Coding Roadmap](https://www.sefism.com/resources/sefism-non-coding-roles-roadmap/) · Sefism · Free · Beginner
 - [Sefism University to Job-Ready Roadmap](https://www.sefism.com/resources/sefism-job-ready-roadmap/) · Sefism · Free · Beginner
 - [Sefism Your First Tech Job Roadmap](https://www.sefism.com/resources/sefism-first-job-roadmap/) · Sefism · Free · Beginner
@@ -95,15 +100,21 @@
 - [EducationUSA](https://www.sefism.com/resources/educationusa/) · US Department of State · Free
 - [Engineering Leadership (Gregor Ojstersek)](https://www.sefism.com/resources/engineering-leadership-newsletter/) · Gregor Ojstersek · Free · Intermediate
 - [Fiverr Help Center: Selling on Fiverr](https://www.sefism.com/resources/fiverr-help-center/) · Fiverr · Free
+- [Freelancer ID (Bangladesh)](https://www.sefism.com/resources/freelancers-gov-bd/) · ICT Division, Government of Bangladesh · Free · Beginner
 - [Get Your Work Recognized: Write a Brag Document](https://www.sefism.com/resources/brag-documents/) · Julia Evans · Free
 - [GitLab Handbook: Communication](https://www.sefism.com/resources/gitlab-handbook-communication/) · GitLab · Free
 - [GitLab's Guide to All-Remote](https://www.sefism.com/resources/gitlab-all-remote-guide/) · GitLab · Free
 - [Google Developer Documentation Style Guide](https://www.sefism.com/resources/google-developer-documentation-style-guide/) · Google · Free
+- [Google Search Quality Rater Guidelines](https://www.sefism.com/resources/google-search-quality-rater-guidelines/) · Google · Free · Beginner
+- [HEC degree attestation, IBCC and MOFA apostille (Pakistan)](https://www.sefism.com/resources/hec-degree-attestation/) · Higher Education Commission (HEC), Pakistan · Paid
+- [HiKorea (Korea's official immigration portal)](https://www.sefism.com/resources/hikorea/) · Korea Immigration Service, Ministry of Justice · Free
 - [How Google Hires](https://www.sefism.com/resources/google-how-we-hire/) · Google · Free
 - [How to Ask Good Questions (Julia Evans)](https://www.sefism.com/resources/julia-evans-asking-good-questions/) · Julia Evans · Free · Beginner
 - [How To Market A Game](https://www.sefism.com/resources/how-to-market-a-game/) · Chris Zukowski · Free · Intermediate
 - [How To Spot, Avoid, and Report Fake Check Scams](https://www.sefism.com/resources/ftc-fake-check-scams/) · US Federal Trade Commission · Free · Beginner
 - [IIBA Business Analysis Certifications (ECBA, CCBA, CBAP)](https://www.sefism.com/resources/iiba-business-analysis-certifications/) · IIBA · Paid
+- [Immigration Services Agency of Japan: work statuses of residence](https://www.sefism.com/resources/japan-isa-status-of-residence/) · Immigration Services Agency of Japan · Free
+- [Ireland employment permits (Critical Skills and General)](https://www.sefism.com/resources/ireland-employment-permits/) · Department of Enterprise, Tourism and Employment, Ireland · Free
 - [Irrational Exuberance (Will Larson)](https://www.sefism.com/resources/irrational-exuberance/) · Will Larson · Free · Advanced
 - [ISC2 Certified in Cybersecurity (CC)](https://www.sefism.com/resources/isc2-certified-in-cybersecurity/) · ISC2 · Paid · Beginner
 - [ISTQB Certified Tester Foundation Level (CTFL) v4.0](https://www.sefism.com/resources/istqb-ctfl/) · ISTQB · Free · Beginner
@@ -113,14 +124,19 @@
 - [Lenny's Newsletter and Lenny's Podcast](https://www.sefism.com/resources/lennys-newsletter/) · Lenny Rachitsky · Free
 - [LinkedIn Help: Create a Good LinkedIn Profile](https://www.sefism.com/resources/linkedin-profile-help/) · LinkedIn · Free
 - [LinkedIn Help: Offer services with your profile (Service Pages)](https://www.sefism.com/resources/linkedin-service-pages/) · LinkedIn · Free · Beginner
+- [Make it in Germany](https://www.sefism.com/resources/make-it-in-germany/) · Federal Government of Germany · Free
 - [Managing Your Profile README (GitHub Docs)](https://www.sefism.com/resources/github-profile-readme/) · GitHub · Free · Beginner
 - [Mental Health at Work (WHO fact sheet)](https://www.sefism.com/resources/who-mental-health-at-work/) · World Health Organization · Free
 - [Microsoft Interview Tips](https://www.sefism.com/resources/microsoft-interview-tips/) · Microsoft · Free
 - [Microsoft Writing Style Guide](https://www.sefism.com/resources/microsoft-writing-style-guide/) · Microsoft · Free
 - [Play Console Help](https://www.sefism.com/resources/google-play-console-help/) · Google · Free
 - [Product Hunt Launch Guide](https://www.sefism.com/resources/product-hunt-launch-guide/) · Product Hunt · Free · Beginner
+- [PSEB Freelance Program (Pakistan)](https://www.sefism.com/resources/pseb-freelance-program/) · Pakistan Software Export Board · Free · Beginner
 - [Purdue OWL: Graduate School Applications](https://www.sefism.com/resources/purdue-owl-graduate-school-applications/) · Purdue University Online Writing Lab · Free
+- [Qiwa (Saudi Ministry of Human Resources platform)](https://www.sefism.com/resources/saudi-qiwa/) · Ministry of Human Resources and Social Development, Saudi Arabia · Free
 - [Refactoring (Luca Rossi)](https://www.sefism.com/resources/refactoring-newsletter/) · Luca Rossi · Free · Intermediate
+- [Saudi Premium Residency](https://www.sefism.com/resources/saudi-premium-residency/) · Premium Residency Center, Saudi Arabia · Free
+- [Singapore Employment Pass and COMPASS (Ministry of Manpower)](https://www.sefism.com/resources/singapore-mom-work-passes/) · Ministry of Manpower, Singapore · Free
 - [Stack Overflow Developer Survey](https://www.sefism.com/resources/stack-overflow-developer-survey/) · Stack Overflow · Free
 - [StaffEng](https://www.sefism.com/resources/staffeng/) · Will Larson · Free · Advanced
 - [Storytelling with Data (book and blog)](https://www.sefism.com/resources/storytelling-with-data/) · Cole Nussbaumer Knaflic · Free · Beginner
@@ -138,12 +154,18 @@
 - [The Engineer/Manager Pendulum](https://www.sefism.com/resources/the-engineer-manager-pendulum/) · Charity Majors · Free · Intermediate
 - [The Pragmatic Engineer](https://www.sefism.com/resources/the-pragmatic-engineer/) · Gergely Orosz · Free
 - [The Scrum Guide (2020)](https://www.sefism.com/resources/scrum-guide/) · Ken Schwaber and Jeff Sutherland · Free · Beginner
+- [UAE Golden Visa (Golden Residence)](https://www.sefism.com/resources/uae-golden-visa/) · Federal Authority for Identity, Citizenship, Customs and Port Security (ICP), UAE · Free
+- [UAE Ministry of Human Resources and Emiratisation (MOHRE)](https://www.sefism.com/resources/uae-mohre/) · Ministry of Human Resources and Emiratisation, United Arab Emirates · Free
+- [UK Skilled Worker visa (GOV.UK)](https://www.sefism.com/resources/gov-uk-skilled-worker-visa/) · UK Home Office (GOV.UK) · Free
 - [Upwork Help Center for freelancers](https://www.sefism.com/resources/upwork-help-center/) · Upwork · Free
+- [Upwork In-Demand Skills 2026](https://www.sefism.com/resources/upwork-in-demand-skills-2026/) · Upwork · Free
 - [Write the Docs: Documentation Guide](https://www.sefism.com/resources/write-the-docs-guide/) · Write the Docs · Free · Beginner
 
 ## Cheat sheet
 
 - [Engineering Ladders](https://www.sefism.com/resources/engineering-ladders/) · Jorge Fioranelli · Free
+- [Sefism AI Data and Training Work Cheat Sheet](https://www.sefism.com/resources/sefism-ai-data-work-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism AI Video and Design for Clients Cheat Sheet](https://www.sefism.com/resources/sefism-ai-creative-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Automation for Clients Cheat Sheet](https://www.sefism.com/resources/sefism-automation-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Build and Sell Your Own Product Cheat Sheet](https://www.sefism.com/resources/sefism-indie-products-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism Forward Deployed and Solutions Engineering Cheat Sheet](https://www.sefism.com/resources/sefism-forward-deployed-cheat-sheet/) · Sefism · Free · Intermediate
@@ -156,18 +178,24 @@
 - [Sefism Remote Jobs Cheat Sheet](https://www.sefism.com/resources/sefism-remote-jobs-cheat-sheet/) · Sefism · Free
 - [Sefism Staff and Leadership Cheat Sheet](https://www.sefism.com/resources/sefism-leadership-cheat-sheet/) · Sefism · Free · Advanced
 - [Sefism Switch into Tech Cheat Sheet](https://www.sefism.com/resources/sefism-career-switch-cheat-sheet/) · Sefism · Free · Beginner
+- [Sefism Tech Jobs Abroad Cheat Sheet](https://www.sefism.com/resources/sefism-work-abroad-cheat-sheet/) · Sefism · Free
 - [Sefism Tech Roles Beyond Coding Cheat Sheet](https://www.sefism.com/resources/sefism-non-coding-roles-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism University to Job-Ready Cheat Sheet](https://www.sefism.com/resources/sefism-job-ready-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Your First Tech Job Cheat Sheet](https://www.sefism.com/resources/sefism-first-job-cheat-sheet/) · Sefism · Free · Beginner
 
 ## Platform
 
+- [Alignerr](https://www.sefism.com/resources/alignerr/) · Labelbox · Free · Intermediate
 - [Arc](https://www.sefism.com/resources/arc-dev/) · Arc · Free · Intermediate
+- [Bayt.com](https://www.sefism.com/resources/bayt/) · Bayt.com · Free
 - [BBC Learning English](https://www.sefism.com/resources/bbc-learning-english/) · BBC · Free
 - [Course Report](https://www.sefism.com/resources/course-report/) · Course Report · Free · Beginner
+- [CrowdGen by Appen](https://www.sefism.com/resources/crowdgen-by-appen/) · Appen · Free · Beginner
+- [DataAnnotation](https://www.sefism.com/resources/dataannotation/) · DataAnnotation · Free · Beginner
 - [Deel](https://www.sefism.com/resources/deel/) · Deel · Free
 - [Duolingo English Test](https://www.sefism.com/resources/duolingo-english-test/) · Duolingo · Free
 - [EURAXESS](https://www.sefism.com/resources/euraxess/) · European Commission · Free · Advanced
+- [EURES, the European Job Mobility Portal](https://www.sefism.com/resources/eures/) · European Commission (EURES network) · Free
 - [FindAPhD](https://www.sefism.com/resources/findaphd/) · FindAPhD · Free · Advanced
 - [Fiverr](https://www.sefism.com/resources/fiverr/) · Fiverr · Free
 - [Glassdoor](https://www.sefism.com/resources/glassdoor/) · Glassdoor · Free
@@ -179,17 +207,24 @@
 - [IELTS](https://www.sefism.com/resources/ielts/) · IELTS (British Council, IDP, Cambridge University Press and Assessment) · Free
 - [Indeed](https://www.sefism.com/resources/indeed/) · Indeed · Free
 - [iRelaunch](https://www.sefism.com/resources/irelaunch/) · iRelaunch · Free
+- [Japan Dev](https://www.sefism.com/resources/japan-dev/) · Japan Dev · Free
 - [LinkedIn Jobs](https://www.sefism.com/resources/linkedin-jobs/) · LinkedIn · Free
 - [Mastersportal](https://www.sefism.com/resources/mastersportal/) · Studyportals · Free
+- [Meta Ad Library](https://www.sefism.com/resources/meta-ad-library/) · Meta · Free
+- [Mindrift](https://www.sefism.com/resources/mindrift/) · Toloka · Free · Intermediate
 - [MLH Fellowship](https://www.sefism.com/resources/mlh-fellowship/) · Major League Hacking · Free · Intermediate
 - [MLH Hackathons](https://www.sefism.com/resources/mlh-hackathons/) · Major League Hacking · Free · Beginner
+- [MyCareersFuture (Singapore government job portal)](https://www.sefism.com/resources/mycareersfuture/) · Government of Singapore · Free
+- [Outlier](https://www.sefism.com/resources/outlier-ai/) · Scale AI · Free · Intermediate
 - [Outreachy](https://www.sefism.com/resources/outreachy/) · Outreachy · Free · Beginner
 - [Oyster](https://www.sefism.com/resources/oyster-hr/) · Oyster · Free
 - [PTE Academic](https://www.sefism.com/resources/pte-academic/) · Pearson · Free
+- [Relocate.me](https://www.sefism.com/resources/relocate-me/) · Relocate.me · Free
 - [Remote](https://www.sefism.com/resources/remote-com/) · Remote · Free
 - [Remote OK](https://www.sefism.com/resources/remote-ok/) · Remote OK · Free
 - [Remotive](https://www.sefism.com/resources/remotive/) · Remotive · Free
 - [Rozee.pk](https://www.sefism.com/resources/rozee-pk/) · Rozee.pk · Free
+- [TikTok Creative Center (Top Ads)](https://www.sefism.com/resources/tiktok-creative-center/) · TikTok · Free
 - [TOEFL iBT](https://www.sefism.com/resources/toefl-ibt/) · ETS · Free
 - [Toptal](https://www.sefism.com/resources/toptal/) · Toptal · Free · Advanced
 - [Turing](https://www.sefism.com/resources/turing/) · Turing · Free · Advanced
@@ -201,10 +236,12 @@
 
 ## Tool
 
+- [anabin and the ZAB Statement of Comparability](https://www.sefism.com/resources/anabin/) · Central Office for Foreign Education (ZAB), KMK · Free
 - [Contract Killer](https://www.sefism.com/resources/contract-killer/) · Stuff & Nonsense · Paid
 - [Europass CV](https://www.sefism.com/resources/europass-cv/) · European Union · Free
 - [Freelancers Union Contract Creator](https://www.sefism.com/resources/freelancers-union-contract-creator/) · Freelancers Union · Free · Beginner
 - [GitHub Pages](https://www.sefism.com/resources/github-pages/) · GitHub · Free · Beginner
+- [Google Fact Check Explorer](https://www.sefism.com/resources/google-fact-check-explorer/) · Google · Free · Beginner
 - [Google Scholar](https://www.sefism.com/resources/google-scholar/) · Google · Free
 - [Hemingway Editor](https://www.sefism.com/resources/hemingway-editor/) · Boondoggle Studio · Free
 - [Jake's Resume Template (Overleaf)](https://www.sefism.com/resources/jakes-resume-template/) · Jake Gutierrez · Free
@@ -212,11 +249,13 @@
 - [Kit (formerly ConvertKit)](https://www.sefism.com/resources/kit/) · Kit · Free · Beginner
 - [levels.fyi](https://www.sefism.com/resources/levelsfyi/) · levels.fyi · Free
 - [Loom](https://www.sefism.com/resources/loom/) · Atlassian · Free
+- [Numbeo cost of living comparisons](https://www.sefism.com/resources/numbeo-cost-of-living/) · Numbeo · Free
 - [OBS Studio](https://www.sefism.com/resources/obs-studio/) · OBS Project · Free · Beginner
 - [Payoneer](https://www.sefism.com/resources/payoneer/) · Payoneer · Free
 - [Resume Review](https://www.sefism.com/resources/resume-review/) · Design Gurus · Paid
 - [Stripe Atlas](https://www.sefism.com/resources/stripe-atlas/) · Stripe · Paid · Intermediate
 - [Toggl Track](https://www.sefism.com/resources/toggl-track/) · Toggl · Free
+- [UK register of licensed sponsors: workers](https://www.sefism.com/resources/uk-register-of-licensed-sponsors/) · UK Home Office (GOV.UK) · Free
 - [Vale: Prose Linter](https://www.sefism.com/resources/vale/) · Vale (open source) · Free · Intermediate
 - [Wise](https://www.sefism.com/resources/wise/) · Wise · Free
 - [World Time Buddy](https://www.sefism.com/resources/worldtimebuddy/) · World Time Buddy · Free
@@ -238,6 +277,7 @@
 - [Great Demo!](https://www.sefism.com/resources/great-demo/) · Peter E. Cohan · Paid · Beginner
 - [How to Learn to Code and Get a Developer Job](https://www.sefism.com/resources/learn-to-code-and-get-a-developer-job/) · freeCodeCamp (Quincy Larson) · Free · Beginner
 - [Inspired: How to Create Tech Products Customers Love (2nd edition)](https://www.sefism.com/resources/inspired-marty-cagan/) · Marty Cagan (Wiley) · Paid · Beginner
+- [Made to Stick](https://www.sefism.com/resources/made-to-stick/) · Chip Heath and Dan Heath (Random House) · Paid · Beginner
 - [Mastering Technical Sales: The Sales Engineer's Handbook](https://www.sefism.com/resources/mastering-technical-sales/) · John Care (Artech House) · Paid · Beginner
 - [Never Split the Difference](https://www.sefism.com/resources/never-split-the-difference/) · Chris Voss · Paid
 - [On Writing Well](https://www.sefism.com/resources/on-writing-well/) · William Zinsser · Paid
@@ -294,6 +334,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-06. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
