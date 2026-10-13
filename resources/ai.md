@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-303 resources, each with a short review on Sefism explaining who it is for.
+313 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=ai)
 
@@ -12,6 +12,8 @@
 - [Roadmap](#roadmap) (11)
 - [Guide](#guide) (67)
 - [Cheat sheet](#cheat-sheet) (14)
+- [Best practices](#best-practices) (4)
+- [Checklist](#checklist) (6)
 - [Platform](#platform) (13)
 - [Tool](#tool) (118)
 - [GitHub repo](#github-repo) (19)
@@ -182,6 +184,22 @@
 - [Sefism MLflow Cheat Sheet](https://www.sefism.com/resources/sefism-mlflow-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism MLOps and LLMOps Cheat Sheet](https://www.sefism.com/resources/sefism-mlops-cheat-sheet/) · Sefism · Free · Intermediate
 - [Sefism Model Context Protocol Cheat Sheet](https://www.sefism.com/resources/sefism-mcp-cheat-sheet/) · Sefism · Free · Intermediate
+
+## Best practices
+
+- [Best Practices for AI Coding Assistants](https://www.sefism.com/resources/sefism-ai-coding-assistant-best-practices/) · Sefism · Free · Intermediate
+- [Best Practices for Building AI Agents](https://www.sefism.com/resources/sefism-ai-agent-best-practices/) · Sefism · Free · Intermediate
+- [Best Practices for Building LLM Apps](https://www.sefism.com/resources/sefism-llm-app-best-practices/) · Sefism · Free · Intermediate
+- [Prompt Engineering Best Practices](https://www.sefism.com/resources/sefism-prompt-engineering-best-practices/) · Sefism · Free · Intermediate
+
+## Checklist
+
+- [AI Agent Security Checklist](https://www.sefism.com/resources/sefism-ai-agent-security-checklist/) · Sefism · Free · Intermediate
+- [AI Feature Launch Checklist](https://www.sefism.com/resources/sefism-ai-feature-launch-checklist/) · Sefism · Free · Intermediate
+- [EU AI Act Readiness Checklist](https://www.sefism.com/resources/sefism-eu-ai-act-readiness-checklist/) · Sefism · Free · Intermediate
+- [LLM Cost Optimization Checklist](https://www.sefism.com/resources/sefism-llm-cost-optimization-checklist/) · Sefism · Free · Intermediate
+- [LLM Evaluation Checklist](https://www.sefism.com/resources/sefism-llm-evaluation-checklist/) · Sefism · Free · Intermediate
+- [RAG Production Checklist](https://www.sefism.com/resources/sefism-rag-checklist/) · Sefism · Free · Intermediate
 
 ## Platform
 
@@ -380,6 +398,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

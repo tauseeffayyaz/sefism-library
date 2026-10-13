@@ -2,13 +2,13 @@
 
 [← Back to the Sefism Library](README.md)
 
-24 universities teaching Computer Science, Software Engineering, AI and IT. Each page covers campuses, degrees, admission windows, entry tests, merit formulas, fees and the companies that recruit from it.
+25 universities teaching Computer Science, Software Engineering, AI and IT. Each page covers campuses, degrees, admission windows, entry tests, merit formulas, fees and the companies that recruit from it.
 
 Browse at [sefism.com/universities](https://www.sefism.com/universities/).
 
 - [Islamabad](#islamabad) (10)
 - [Jamshoro](#jamshoro) (1)
-- [Karachi](#karachi) (4)
+- [Karachi](#karachi) (5)
 - [Lahore](#lahore) (5)
 - [Peshawar](#peshawar) (1)
 - [Sukkur](#sukkur) (1)
@@ -42,6 +42,7 @@ Browse at [sefism.com/universities](https://www.sefism.com/universities/).
 | --- | --- | --- |
 | [Habib University](https://www.sefism.com/universities/habib-university/) | Private | Karachi |
 | [Institute of Business Administration, Karachi](https://www.sefism.com/universities/iba-karachi/) | Public | Karachi |
+| [Muhammad Ali Jinnah University](https://www.sefism.com/universities/muhammad-ali-jinnah-university/) | Private | Karachi |
 | [NED University of Engineering and Technology](https://www.sefism.com/universities/ned-university/) | Public | Karachi, Hyderabad |
 | [University of Karachi](https://www.sefism.com/universities/university-of-karachi/) | Public | Karachi |
 
@@ -81,6 +82,6 @@ Browse at [sefism.com/universities](https://www.sefism.com/universities/).
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

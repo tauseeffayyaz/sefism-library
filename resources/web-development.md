@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-203 resources, each with a short review on Sefism explaining who it is for.
+223 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=web_development)
 
@@ -11,6 +11,8 @@
 - [Roadmap](#roadmap) (17)
 - [Guide](#guide) (81)
 - [Cheat sheet](#cheat-sheet) (14)
+- [Best practices](#best-practices) (17)
+- [Checklist](#checklist) (3)
 - [Platform](#platform) (8)
 - [Tool](#tool) (29)
 - [GitHub repo](#github-repo) (12)
@@ -177,6 +179,32 @@
 - [Sefism WordPress and Shopify Cheat Sheet](https://www.sefism.com/resources/sefism-cms-sites-cheat-sheet/) · Sefism · Free · Beginner
 - [The A11Y Project Checklist](https://www.sefism.com/resources/a11y-project-checklist/) · The A11Y Project · Free · Beginner
 
+## Best practices
+
+- [ASP.NET Core Best Practices](https://www.sefism.com/resources/sefism-aspnet-core-best-practices/) · Sefism · Free · Intermediate
+- [Code Review Best Practices](https://www.sefism.com/resources/sefism-code-review-best-practices/) · Sefism · Free · Intermediate
+- [Docker Best Practices](https://www.sefism.com/resources/sefism-docker-best-practices/) · Sefism · Free · Intermediate
+- [Flutter Best Practices](https://www.sefism.com/resources/sefism-flutter-best-practices/) · Sefism · Free · Intermediate
+- [Git Best Practices for Developers](https://www.sefism.com/resources/sefism-git-best-practices/) · Sefism · Free · Intermediate
+- [Modern CSS Best Practices](https://www.sefism.com/resources/sefism-css-best-practices/) · Sefism · Free · Intermediate
+- [MongoDB Best Practices](https://www.sefism.com/resources/sefism-mongodb-best-practices/) · Sefism · Free · Intermediate
+- [Next.js App Router Best Practices](https://www.sefism.com/resources/sefism-nextjs-best-practices/) · Sefism · Free · Intermediate
+- [Node.js API Best Practices](https://www.sefism.com/resources/sefism-nodejs-api-best-practices/) · Sefism · Free · Intermediate
+- [PostgreSQL Best Practices](https://www.sefism.com/resources/sefism-postgresql-best-practices/) · Sefism · Free · Intermediate
+- [Python Best Practices](https://www.sefism.com/resources/sefism-python-best-practices/) · Sefism · Free · Intermediate
+- [React Best Practices](https://www.sefism.com/resources/sefism-react-best-practices/) · Sefism · Free · Intermediate
+- [React Native Best Practices](https://www.sefism.com/resources/sefism-react-native-best-practices/) · Sefism · Free · Intermediate
+- [REST API Design Best Practices](https://www.sefism.com/resources/sefism-rest-api-design-best-practices/) · Sefism · Free · Intermediate
+- [Software Testing Best Practices](https://www.sefism.com/resources/sefism-testing-best-practices/) · Sefism · Free · Intermediate
+- [Spring Boot Best Practices](https://www.sefism.com/resources/sefism-spring-boot-best-practices/) · Sefism · Free · Intermediate
+- [TypeScript Best Practices](https://www.sefism.com/resources/sefism-typescript-best-practices/) · Sefism · Free · Intermediate
+
+## Checklist
+
+- [Pull Request Checklist: Before You Open a PR](https://www.sefism.com/resources/sefism-pull-request-checklist/) · Sefism · Free · Intermediate
+- [Web Accessibility Checklist](https://www.sefism.com/resources/sefism-web-accessibility-checklist/) · Sefism · Free · Intermediate
+- [Web Performance Checklist](https://www.sefism.com/resources/sefism-web-performance-checklist/) · Sefism · Free · Intermediate
+
 ## Platform
 
 - [freeCodeCamp](https://www.sefism.com/resources/freecodecamp/) · freeCodeCamp · Free · Beginner
@@ -266,6 +294,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

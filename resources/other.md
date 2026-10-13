@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-380 resources, each with a short review on Sefism explaining who it is for.
+412 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=other)
 
@@ -11,6 +11,8 @@
 - [Roadmap](#roadmap) (27)
 - [Guide](#guide) (123)
 - [Cheat sheet](#cheat-sheet) (21)
+- [Best practices](#best-practices) (16)
+- [Checklist](#checklist) (16)
 - [Platform](#platform) (30)
 - [Tool](#tool) (44)
 - [GitHub repo](#github-repo) (21)
@@ -261,6 +263,44 @@
 - [Sefism QA and Test Automation Cheat Sheet](https://www.sefism.com/resources/sefism-qa-testing-cheat-sheet/) · Sefism · Free · Beginner
 - [tldr pages](https://www.sefism.com/resources/tldr-pages/) · tldr pages · Free
 
+## Best practices
+
+- [Authentication Best Practices](https://www.sefism.com/resources/sefism-authentication-best-practices/) · Sefism · Free · Intermediate
+- [Authorization Best Practices](https://www.sefism.com/resources/sefism-authorization-best-practices/) · Sefism · Free · Intermediate
+- [Browser Security Best Practices](https://www.sefism.com/resources/sefism-browser-security-best-practices/) · Sefism · Free · Intermediate
+- [CI/CD Best Practices](https://www.sefism.com/resources/sefism-ci-cd-best-practices/) · Sefism · Free · Intermediate
+- [Cryptography Best Practices for Developers](https://www.sefism.com/resources/sefism-cryptography-best-practices/) · Sefism · Free · Intermediate
+- [Data Analysis Best Practices](https://www.sefism.com/resources/sefism-data-analysis-best-practices/) · Sefism · Free · Intermediate
+- [Data Modeling Best Practices](https://www.sefism.com/resources/sefism-data-modeling-best-practices/) · Sefism · Free · Intermediate
+- [Data Pipeline Best Practices](https://www.sefism.com/resources/sefism-data-pipeline-best-practices/) · Sefism · Free · Intermediate
+- [Data Visualization Best Practices](https://www.sefism.com/resources/sefism-data-visualization-best-practices/) · Sefism · Free · Intermediate
+- [Kubernetes Best Practices](https://www.sefism.com/resources/sefism-kubernetes-best-practices/) · Sefism · Free · Intermediate
+- [Machine Learning Best Practices](https://www.sefism.com/resources/sefism-machine-learning-best-practices/) · Sefism · Free · Intermediate
+- [Observability Best Practices](https://www.sefism.com/resources/sefism-observability-best-practices/) · Sefism · Free · Intermediate
+- [Secrets Management Best Practices](https://www.sefism.com/resources/sefism-secrets-management-best-practices/) · Sefism · Free · Intermediate
+- [Secure Coding Best Practices](https://www.sefism.com/resources/sefism-secure-coding-best-practices/) · Sefism · Free · Intermediate
+- [Terraform Best Practices](https://www.sefism.com/resources/sefism-terraform-best-practices/) · Sefism · Free · Intermediate
+- [Threat Modeling Best Practices](https://www.sefism.com/resources/sefism-threat-modeling-best-practices/) · Sefism · Free · Intermediate
+
+## Checklist
+
+- [Analytics Dashboard Checklist](https://www.sefism.com/resources/sefism-analytics-dashboard-checklist/) · Sefism · Free · Intermediate
+- [API Security Checklist](https://www.sefism.com/resources/sefism-api-security-checklist/) · Sefism · Free · Intermediate
+- [AWS Account Security Checklist](https://www.sefism.com/resources/sefism-aws-account-security-checklist/) · Sefism · Free · Intermediate
+- [Cloud Cost Optimization Checklist](https://www.sefism.com/resources/sefism-cloud-cost-optimization-checklist/) · Sefism · Free · Intermediate
+- [Data Privacy Checklist for Engineers and Analysts](https://www.sefism.com/resources/sefism-data-privacy-checklist/) · Sefism · Free · Intermediate
+- [Data Quality Checklist](https://www.sefism.com/resources/sefism-data-quality-checklist/) · Sefism · Free · Intermediate
+- [Database Migration Checklist](https://www.sefism.com/resources/sefism-database-migration-checklist/) · Sefism · Free · Intermediate
+- [Disaster Recovery Checklist](https://www.sefism.com/resources/sefism-disaster-recovery-checklist/) · Sefism · Free · Intermediate
+- [Incident Response Checklist](https://www.sefism.com/resources/sefism-incident-response-checklist/) · Sefism · Free · Intermediate
+- [Kubernetes Production Checklist](https://www.sefism.com/resources/sefism-kubernetes-production-checklist/) · Sefism · Free · Intermediate
+- [Linux Server Hardening Checklist](https://www.sefism.com/resources/sefism-linux-server-hardening-checklist/) · Sefism · Free · Intermediate
+- [ML Model Deployment Checklist](https://www.sefism.com/resources/sefism-ml-model-deployment-checklist/) · Sefism · Free · Intermediate
+- [Mobile App Security Checklist](https://www.sefism.com/resources/sefism-mobile-app-security-checklist/) · Sefism · Free · Intermediate
+- [Production Readiness Checklist](https://www.sefism.com/resources/sefism-production-readiness-checklist/) · Sefism · Free · Intermediate
+- [Software Supply Chain Security Checklist](https://www.sefism.com/resources/sefism-software-supply-chain-security-checklist/) · Sefism · Free · Intermediate
+- [Web Application Security Checklist](https://www.sefism.com/resources/sefism-web-app-security-checklist/) · Sefism · Free · Intermediate
+
 ## Platform
 
 - [AtCoder](https://www.sefism.com/resources/atcoder/) · AtCoder · Free
@@ -442,6 +482,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

@@ -2,12 +2,12 @@
 
 [← Back to the Sefism Library](README.md)
 
-75 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
+76 cheat sheets. Every sheet has a public page on [sefism.com/cheatsheets](https://www.sefism.com/cheatsheets/) with its first chapters open and the rest listed. A member keeps a sheet for 2 credits, and a sheet comes with its roadmap.
 
 Each cheat sheet puts the key concepts of a topic on a few pages, with code and the common mistakes, and is written to go with the matching roadmap. Sheets with a language or framework choice have one edition per option.
 
 - [Foundations](#foundations) (13)
-- [Build products](#build-products) (12)
+- [Build products](#build-products) (13)
 - [Specialise](#specialise) (32)
 - [Career](#career) (12)
 - [Earn independently](#earn-independently) (6)
@@ -145,6 +145,13 @@ For builders. SQL, document, cache, search, vector and more.
 
 
 **Chapters:** Start from the data · Relational databases · Document databases · Key-value stores and caching · Search · Vector search for AI · Columnar databases and warehouses · Graph, time series and object storage · Choosing, combining and running it · Each type at a glance
+
+### [Design Patterns](https://www.sefism.com/cheatsheets/design-patterns/)
+
+For developers. All 23 Gang of Four patterns with intent, when to use and a TypeScript sketch, plus SOLID, related principles and a problem to pattern map.
+
+
+**Chapters:** How to use patterns · Creational patterns · Structural patterns · Behavioural patterns: requests and events · Behavioural patterns: varying behaviour · SOLID principles · Principles beyond SOLID · Choosing a pattern
 
 ### [Embedded systems and IoT](https://www.sefism.com/cheatsheets/embedded-iot/)
 
@@ -597,6 +604,6 @@ For remote job seekers. Work for companies in other countries.
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

@@ -9,15 +9,15 @@
 
 ### Learn with a plan. Build with feedback. Grow with a mentor.
 
-A free library for developers: AI-assisted roadmaps, cheat sheets, career questions answered,<br>
-final year project ideas, curated resources, jobs, and guides to Pakistani and global tech companies and universities.
+A free library for developers: AI-assisted roadmaps, cheat sheets, best practices, checklists,<br>
+career questions answered, final year project ideas, curated resources, jobs, and guides to Pakistani and global tech companies and universities.
 
 <a href="#free-membership"><img src="https://img.shields.io/badge/Membership-Free-5865f2?style=flat-square" alt="Membership: Free"></a>
 <a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-56-5865f2?style=flat-square" alt="Roadmaps: 56"></a>
-<a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-75-5865f2?style=flat-square" alt="Cheat sheets: 75"></a>
+<a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-76-5865f2?style=flat-square" alt="Cheat sheets: 76"></a>
 <a href="#career-questions"><img src="https://img.shields.io/badge/Questions-223-5865f2?style=flat-square" alt="Questions: 223"></a>
 <a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-413-5865f2?style=flat-square" alt="FYP ideas: 413"></a>
-<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1331-5865f2?style=flat-square" alt="Resources: 1331"></a>
+<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1418-5865f2?style=flat-square" alt="Resources: 1418"></a>
 
 <b><a href="https://www.sefism.com/">Website</a></b> &nbsp;·&nbsp;
 <b><a href="https://www.sefism.com/auth/signup/">Join free</a></b> &nbsp;·&nbsp;
@@ -38,7 +38,7 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <sub>Step-by-step paths in your language or stack, with AI prompts that test you</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#cheat-sheets"><b>Cheat sheets</b></a>&nbsp;<sub>75</sub><br>
+<a href="#cheat-sheets"><b>Cheat sheets</b></a>&nbsp;<sub>76</sub><br>
 <sub>The key concepts of a topic on a few pages, with code</sub>
 </td>
 <td width="33%" valign="top">
@@ -56,15 +56,25 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <sub>Real project trees, every folder and file explained, from Day 1 to Expert</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1331</sub><br>
-<sub>Curated courses, books, guides, tools and repos</sub>
+<a href="#best-practices"><b>Best practices</b></a>&nbsp;<sub>46</sub><br>
+<sub>How experienced engineers work with a technology, each practice with a real example</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="#checklists"><b>Checklists</b></a>&nbsp;<sub>41</sub><br>
+<sub>Go through a release, a codebase or your career step by step</sub>
+</td>
+<td width="33%" valign="top">
+<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1418</sub><br>
+<sub>Curated courses, books, guides, tools and repos</sub>
+</td>
+<td width="33%" valign="top">
 <a href="#blog"><b>Blog</b></a>&nbsp;<sub>65</sub><br>
 <sub>AI engineering, software engineering and careers</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="#pakistani-and-global-tech-companies"><b>Companies</b></a>&nbsp;<sub>507</sub><br>
 <sub>Pakistani and global: hiring process, pay ranges and perks, every claim sourced</sub>
@@ -73,12 +83,12 @@ final year project ideas, curated resources, jobs, and guides to Pakistani and g
 <a href="#jobs"><b>Jobs</b></a><br>
 <sub>Graduate to senior roles, each linked to the company posting and dated</sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
-<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>24</sub><br>
+<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>25</sub><br>
 <sub>Computing degrees, admissions, merit and fees</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="#internships"><b>Internships</b></a><br>
 <sub>Open internships, kept current on the site</sub>
@@ -130,6 +140,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <li>Start with <b>15 credits</b> when you join, and your first roadmap is free</li>
 <li>Each roadmap after that is <b>3</b>, and keeping a cheat sheet is <b>2</b> (a roadmap's own sheet comes with it)</li>
 <li>A project structure's Production and Expert stages are <b>2</b></li>
+<li>Keeping a best practices guide or a checklist is <b>2</b>, and the first 2 chapters are open to read first</li>
 <li>A query or a new project discussion is <b>2</b>, follow-ups use none, and a 1:1 session is <b>5</b></li>
 <li>Earn <b>2</b> for each accepted company or university contribution</li>
 <li>Learning seriously and run out? Ask for 5, 10, 20 more</li>
@@ -279,7 +290,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Cheat sheets
 
-75 cheat sheets, one for each roadmap. Each puts the key concepts of a topic on a few pages, with code and the common mistakes. Sheets with a language or framework choice come in one edition per option.
+76 cheat sheets, one for each roadmap. Each puts the key concepts of a topic on a few pages, with code and the common mistakes. Sheets with a language or framework choice come in one edition per option.
 
 | Cheat sheet | For | Editions | Chapters | Concepts |
 | :-- | :-- | :-- | :-: | :-: |
@@ -300,6 +311,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | **[Backend development](https://www.sefism.com/cheatsheets/backend/)** | developers | [`Node.js`](https://www.sefism.com/cheatsheets/backend/) [`Python`](https://www.sefism.com/cheatsheets/backend/python/) [`Java`](https://www.sefism.com/cheatsheets/backend/java/) [`C#`](https://www.sefism.com/cheatsheets/backend/csharp/) [`Go`](https://www.sefism.com/cheatsheets/backend/go/) [`PHP`](https://www.sefism.com/cheatsheets/backend/php/) [`Rust`](https://www.sefism.com/cheatsheets/backend/rust/) | 8 | 78 |
 | **[Choosing an LLM and AI stack](https://www.sefism.com/cheatsheets/choosing-llms/)** | AI builders | One edition | 10 | 75 |
 | **[Choosing the right database](https://www.sefism.com/cheatsheets/choosing-databases/)** | builders | One edition | 10 | 78 |
+| **[Design Patterns](https://www.sefism.com/cheatsheets/design-patterns/)** | developers | One edition | 8 | 45 |
 | **[Embedded systems and IoT](https://www.sefism.com/cheatsheets/embedded-iot/)** | hardware learners | [`Arduino and ESP32`](https://www.sefism.com/cheatsheets/embedded-iot/) [`STM32`](https://www.sefism.com/cheatsheets/embedded-iot/stm32/) [`Raspberry Pi`](https://www.sefism.com/cheatsheets/embedded-iot/raspberry-pi/) | 10 | 74 |
 | **[Frontend development](https://www.sefism.com/cheatsheets/frontend/)** | developers | [`React`](https://www.sefism.com/cheatsheets/frontend/) [`Vue`](https://www.sefism.com/cheatsheets/frontend/vue/) [`Angular`](https://www.sefism.com/cheatsheets/frontend/angular/) | 9 | 83 |
 | **[Full stack development](https://www.sefism.com/cheatsheets/fullstack/)** | developers | [`Next.js and PostgreSQL`](https://www.sefism.com/cheatsheets/fullstack/) [`MERN`](https://www.sefism.com/cheatsheets/fullstack/mern/) [`Django and React`](https://www.sefism.com/cheatsheets/fullstack/django-react/) [`Spring Boot and React`](https://www.sefism.com/cheatsheets/fullstack/java-react/) | 5 | 65 |
@@ -1226,9 +1238,45 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
+## Best practices
+
+46 guides. How experienced engineers actually work with a technology: each practice with why it matters, what to do, what to avoid and a real example. The first 2 chapters of each are open to read, no account needed. Members keep the whole guide, with progress and chapter quizzes, for 2 credits, and some are free in full.
+
+| Category | Best practices |
+| :-- | :-- |
+| **Stacks and tools** | [React Best Practices](https://www.sefism.com/best-practices/react-best-practices/) · [Modern CSS Best Practices](https://www.sefism.com/best-practices/css-best-practices/) · [TypeScript Best Practices](https://www.sefism.com/best-practices/typescript-best-practices/) · [Next.js App Router Best Practices](https://www.sefism.com/best-practices/nextjs-best-practices/) · [Node.js API Best Practices](https://www.sefism.com/best-practices/nodejs-api-best-practices/) · [Git Best Practices for Developers](https://www.sefism.com/best-practices/git-best-practices/) · [Code Review Best Practices](https://www.sefism.com/best-practices/code-review-best-practices/) · [Docker Best Practices](https://www.sefism.com/best-practices/docker-best-practices/) · [PostgreSQL Best Practices](https://www.sefism.com/best-practices/postgresql-best-practices/) · [Python Best Practices](https://www.sefism.com/best-practices/python-best-practices/) · [React Native Best Practices](https://www.sefism.com/best-practices/react-native-best-practices/) · [Software Testing Best Practices](https://www.sefism.com/best-practices/testing-best-practices/) · [Flutter Best Practices](https://www.sefism.com/best-practices/flutter-best-practices/) · [Spring Boot Best Practices](https://www.sefism.com/best-practices/spring-boot-best-practices/) · [ASP.NET Core Best Practices](https://www.sefism.com/best-practices/aspnet-core-best-practices/) · [REST API Design Best Practices](https://www.sefism.com/best-practices/rest-api-design-best-practices/) · [MongoDB Best Practices](https://www.sefism.com/best-practices/mongodb-best-practices/) |
+| **Cloud and DevOps** | [Kubernetes Best Practices](https://www.sefism.com/best-practices/kubernetes-best-practices/) · [Terraform Best Practices](https://www.sefism.com/best-practices/terraform-best-practices/) · [CI/CD Best Practices](https://www.sefism.com/best-practices/ci-cd-best-practices/) · [Observability Best Practices](https://www.sefism.com/best-practices/observability-best-practices/) |
+| **Data and ML** | [Data Pipeline Best Practices](https://www.sefism.com/best-practices/data-pipeline-best-practices/) · [Data Analysis Best Practices](https://www.sefism.com/best-practices/data-analysis-best-practices/) · [Data Modeling Best Practices](https://www.sefism.com/best-practices/data-modeling-best-practices/) · [Machine Learning Best Practices](https://www.sefism.com/best-practices/machine-learning-best-practices/) · [Data Visualization Best Practices](https://www.sefism.com/best-practices/data-visualization-best-practices/) |
+| **Security** | [Secrets Management Best Practices](https://www.sefism.com/best-practices/secrets-management-best-practices/) · [Authentication Best Practices](https://www.sefism.com/best-practices/authentication-best-practices/) · [Secure Coding Best Practices](https://www.sefism.com/best-practices/secure-coding-best-practices/) · [Authorization Best Practices](https://www.sefism.com/best-practices/authorization-best-practices/) · [Browser Security Best Practices](https://www.sefism.com/best-practices/browser-security-best-practices/) · [Cryptography Best Practices for Developers](https://www.sefism.com/best-practices/cryptography-best-practices/) · [Threat Modeling Best Practices](https://www.sefism.com/best-practices/threat-modeling-best-practices/) |
+| **AI** | [Best Practices for Building LLM Apps](https://www.sefism.com/best-practices/llm-app-best-practices/) · [Prompt Engineering Best Practices](https://www.sefism.com/best-practices/prompt-engineering-best-practices/) · [Best Practices for Building AI Agents](https://www.sefism.com/best-practices/ai-agent-best-practices/) · [Best Practices for AI Coding Assistants](https://www.sefism.com/best-practices/ai-coding-assistant-best-practices/) |
+| **Career** | [Tech Lead Best Practices](https://www.sefism.com/best-practices/tech-lead-best-practices/) · [Engineering Career Growth Best Practices](https://www.sefism.com/best-practices/engineering-career-growth-best-practices/) · [Technical Writing Best Practices for Engineers](https://www.sefism.com/best-practices/technical-writing-best-practices/) · [How to Learn a New Programming Language or Framework](https://www.sefism.com/best-practices/learning-new-technologies-best-practices/) · [Developer Career Best Practices for the AI Era](https://www.sefism.com/best-practices/ai-era-developer-career-best-practices/) · [Personal Branding Best Practices for Developers](https://www.sefism.com/best-practices/personal-branding-best-practices/) · [Content Creation Best Practices for Developers](https://www.sefism.com/best-practices/developer-content-creation-best-practices/) |
+| **Build and earn** | [Freelancing Best Practices for Developers](https://www.sefism.com/best-practices/freelancing-best-practices/) · [SaaS Product Best Practices for Developers](https://www.sefism.com/best-practices/saas-product-best-practices/) |
+
+<sub>[Browse on sefism.com](https://www.sefism.com/best-practices/) · [Every guide with its chapters](best-practices.md)</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+## Checklists
+
+41 checklists. Go through a release, a codebase or your own career step by step: each check says how to verify it and how much it matters. The first 2 chapters of each are open to read, no account needed. Members keep the whole checklist, with progress and chapter quizzes, for 2 credits, and some are free in full.
+
+| Category | Checklists |
+| :-- | :-- |
+| **Stacks and tools** | [Web Accessibility Checklist](https://www.sefism.com/checklists/web-accessibility-checklist/) · [Web Performance Checklist](https://www.sefism.com/checklists/web-performance-checklist/) · [Pull Request Checklist: Before You Open a PR](https://www.sefism.com/checklists/pull-request-checklist/) |
+| **Cloud and DevOps** | [Incident Response Checklist](https://www.sefism.com/checklists/incident-response-checklist/) · [Production Readiness Checklist](https://www.sefism.com/checklists/production-readiness-checklist/) · [Kubernetes Production Checklist](https://www.sefism.com/checklists/kubernetes-production-checklist/) · [Cloud Cost Optimization Checklist](https://www.sefism.com/checklists/cloud-cost-optimization-checklist/) · [Disaster Recovery Checklist](https://www.sefism.com/checklists/disaster-recovery-checklist/) · [Software Supply Chain Security Checklist](https://www.sefism.com/checklists/software-supply-chain-security-checklist/) · [Database Migration Checklist](https://www.sefism.com/checklists/database-migration-checklist/) |
+| **Data and ML** | [ML Model Deployment Checklist](https://www.sefism.com/checklists/ml-model-deployment-checklist/) · [Data Quality Checklist](https://www.sefism.com/checklists/data-quality-checklist/) · [Analytics Dashboard Checklist](https://www.sefism.com/checklists/analytics-dashboard-checklist/) · [Data Privacy Checklist for Engineers and Analysts](https://www.sefism.com/checklists/data-privacy-checklist/) |
+| **Security** | [Web Application Security Checklist](https://www.sefism.com/checklists/web-app-security-checklist/) · [API Security Checklist](https://www.sefism.com/checklists/api-security-checklist/) · [Linux Server Hardening Checklist](https://www.sefism.com/checklists/linux-server-hardening-checklist/) · [AWS Account Security Checklist](https://www.sefism.com/checklists/aws-account-security-checklist/) · [Mobile App Security Checklist](https://www.sefism.com/checklists/mobile-app-security-checklist/) |
+| **AI** | [RAG Production Checklist](https://www.sefism.com/checklists/rag-checklist/) · [LLM Evaluation Checklist](https://www.sefism.com/checklists/llm-evaluation-checklist/) · [AI Feature Launch Checklist](https://www.sefism.com/checklists/ai-feature-launch-checklist/) · [AI Agent Security Checklist](https://www.sefism.com/checklists/ai-agent-security-checklist/) · [EU AI Act Readiness Checklist](https://www.sefism.com/checklists/eu-ai-act-readiness-checklist/) · [LLM Cost Optimization Checklist](https://www.sefism.com/checklists/llm-cost-optimization-checklist/) |
+| **Career** | [LinkedIn Profile Checklist for Developers](https://www.sefism.com/checklists/linkedin-profile-checklist/) · [GitHub Profile Checklist for Developers](https://www.sefism.com/checklists/github-profile-checklist/) · [First 90 Days in a New Developer Job: Checklist](https://www.sefism.com/checklists/first-90-days-developer-checklist/) · [Freelance Developer Client Checklist](https://www.sefism.com/checklists/freelance-developer-client-checklist/) · [Open Source Contribution Checklist](https://www.sefism.com/checklists/open-source-contribution-checklist/) · [Remote Developer Job Checklist](https://www.sefism.com/checklists/remote-job-checklist/) · [Relocating Abroad for a Tech Job: Developer Checklist](https://www.sefism.com/checklists/relocating-abroad-developer-checklist/) · [Job Offer Evaluation Checklist for Developers](https://www.sefism.com/checklists/job-offer-evaluation-checklist/) · [Layoff Preparedness Checklist for Developers](https://www.sefism.com/checklists/layoff-preparedness-checklist/) · [Career Switch into Tech Checklist](https://www.sefism.com/checklists/career-switch-into-tech-checklist/) · [Developer Portfolio Website Checklist](https://www.sefism.com/checklists/portfolio-website-checklist/) |
+| **Build and earn** | [App Store and Google Play Launch Checklist](https://www.sefism.com/checklists/app-store-launch-checklist/) · [Getting Paid Internationally Checklist for Freelancers](https://www.sefism.com/checklists/getting-paid-internationally-checklist/) · [Freelance Platform Profile Checklist](https://www.sefism.com/checklists/freelance-platform-profile-checklist/) · [Selling Digital Products Checklist for Developers](https://www.sefism.com/checklists/selling-digital-products-checklist/) · [Indie Product Launch Checklist for Developers](https://www.sefism.com/checklists/indie-product-launch-checklist/) |
+
+<sub>[Browse on sefism.com](https://www.sefism.com/checklists/) · [Every checklist with its chapters](checklists.md)</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ## Learning resources
 
-1331 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
+1418 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
 
 ### Top picks
 
@@ -1347,13 +1395,13 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Category | Resources | Free | Mostly |
 | :-- | :-: | :-: | :-- |
-| **[AI & Machine Learning](resources/ai.md)** | 303 | 256 | 118 tool, 67 guide, 34 course |
-| **[Web Development](resources/web-development.md)** | 203 | 195 | 81 guide, 29 tool, 22 course |
+| **[AI & Machine Learning](resources/ai.md)** | 313 | 266 | 118 tool, 67 guide, 34 course |
+| **[Web Development](resources/web-development.md)** | 223 | 215 | 81 guide, 29 tool, 22 course |
 | **[System Design](resources/system-design.md)** | 96 | 74 | 52 guide, 12 course, 12 book |
 | **[Interview Prep](resources/interview-prep.md)** | 57 | 38 | 18 guide, 13 course, 9 platform |
-| **[Career Growth](resources/career.md)** | 271 | 222 | 73 guide, 48 platform, 27 roadmap |
+| **[Career Growth](resources/career.md)** | 296 | 247 | 73 guide, 48 platform, 27 roadmap |
 | **[Mentorship](resources/mentorship.md)** | 21 | 13 | 9 platform, 5 video, 1 course |
-| **[Other](resources/other.md)** | 380 | 355 | 123 guide, 48 course, 44 tool |
+| **[Other](resources/other.md)** | 412 | 387 | 123 guide, 48 course, 44 tool |
 
 <sub>[Filter on sefism.com](https://www.sefism.com/resources/) · [All categories](resources/README.md)</sub>
 
@@ -1431,10 +1479,10 @@ Jobs open and close often, so they live on the site rather than here.
 
 ## Universities in Pakistan
 
-24 universities teaching Computer Science, Software Engineering, AI and IT, with campuses, admission windows, entry tests, merit formulas, fees and the companies that recruit from each.
+25 universities teaching Computer Science, Software Engineering, AI and IT, with campuses, admission windows, entry tests, merit formulas, fees and the companies that recruit from each.
 
 <details>
-<summary><b>All 24 universities</b></summary>
+<summary><b>All 25 universities</b></summary>
 
 | University | City | Sector |
 | :-- | :-- | :-- |
@@ -1449,6 +1497,7 @@ Jobs open and close often, so they live on the site rather than here.
 | [International Islamic University, Islamabad](https://www.sefism.com/universities/iiui/) | Islamabad | Public |
 | [Lahore University of Management Sciences](https://www.sefism.com/universities/lums/) | Lahore | Private |
 | [Mehran University of Engineering and Technology](https://www.sefism.com/universities/mehran-uet/) | Jamshoro | Public |
+| [Muhammad Ali Jinnah University](https://www.sefism.com/universities/muhammad-ali-jinnah-university/) | Karachi | Private |
 | [National University of Computer and Emerging Sciences](https://www.sefism.com/universities/fast-nuces/) | Islamabad | Private |
 | [National University of Sciences and Technology](https://www.sefism.com/universities/nust/) | Islamabad | Public |
 | [NED University of Engineering and Technology](https://www.sefism.com/universities/ned-university/) | Karachi | Public |
@@ -1498,6 +1547,6 @@ Found a broken link or want something covered? [Open an issue](../../issues) or 
 ---
 
 <div align="center">
-<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-10-07. The site is always the latest version.</sub><br>
+<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-10-13. The site is always the latest version.</sub><br>
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
 </div>

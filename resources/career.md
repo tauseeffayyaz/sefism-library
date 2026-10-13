@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-271 resources, each with a short review on Sefism explaining who it is for.
+296 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=career)
 
@@ -11,6 +11,8 @@
 - [Roadmap](#roadmap) (27)
 - [Guide](#guide) (73)
 - [Cheat sheet](#cheat-sheet) (19)
+- [Best practices](#best-practices) (9)
+- [Checklist](#checklist) (16)
 - [Platform](#platform) (48)
 - [Tool](#tool) (24)
 - [GitHub repo](#github-repo) (4)
@@ -183,6 +185,37 @@
 - [Sefism University to Job-Ready Cheat Sheet](https://www.sefism.com/resources/sefism-job-ready-cheat-sheet/) · Sefism · Free · Beginner
 - [Sefism Your First Tech Job Cheat Sheet](https://www.sefism.com/resources/sefism-first-job-cheat-sheet/) · Sefism · Free · Beginner
 
+## Best practices
+
+- [Content Creation Best Practices for Developers](https://www.sefism.com/resources/sefism-developer-content-creation-best-practices/) · Sefism · Free
+- [Developer Career Best Practices for the AI Era](https://www.sefism.com/resources/sefism-ai-era-developer-career-best-practices/) · Sefism · Free
+- [Engineering Career Growth Best Practices](https://www.sefism.com/resources/sefism-engineering-career-growth-best-practices/) · Sefism · Free
+- [Freelancing Best Practices for Developers](https://www.sefism.com/resources/sefism-freelancing-best-practices/) · Sefism · Free
+- [How to Learn a New Programming Language or Framework](https://www.sefism.com/resources/sefism-learning-new-technologies-best-practices/) · Sefism · Free
+- [Personal Branding Best Practices for Developers](https://www.sefism.com/resources/sefism-personal-branding-best-practices/) · Sefism · Free
+- [SaaS Product Best Practices for Developers](https://www.sefism.com/resources/sefism-saas-product-best-practices/) · Sefism · Free
+- [Tech Lead Best Practices](https://www.sefism.com/resources/sefism-tech-lead-best-practices/) · Sefism · Free
+- [Technical Writing Best Practices for Engineers](https://www.sefism.com/resources/sefism-technical-writing-best-practices/) · Sefism · Free
+
+## Checklist
+
+- [App Store and Google Play Launch Checklist](https://www.sefism.com/resources/sefism-app-store-launch-checklist/) · Sefism · Free
+- [Career Switch into Tech Checklist](https://www.sefism.com/resources/sefism-career-switch-into-tech-checklist/) · Sefism · Free
+- [Developer Portfolio Website Checklist](https://www.sefism.com/resources/sefism-portfolio-website-checklist/) · Sefism · Free
+- [First 90 Days in a New Developer Job: Checklist](https://www.sefism.com/resources/sefism-first-90-days-developer-checklist/) · Sefism · Free
+- [Freelance Developer Client Checklist](https://www.sefism.com/resources/sefism-freelance-developer-client-checklist/) · Sefism · Free
+- [Freelance Platform Profile Checklist](https://www.sefism.com/resources/sefism-freelance-platform-profile-checklist/) · Sefism · Free
+- [Getting Paid Internationally Checklist for Freelancers](https://www.sefism.com/resources/sefism-getting-paid-internationally-checklist/) · Sefism · Free
+- [GitHub Profile Checklist for Developers](https://www.sefism.com/resources/sefism-github-profile-checklist/) · Sefism · Free
+- [Indie Product Launch Checklist for Developers](https://www.sefism.com/resources/sefism-indie-product-launch-checklist/) · Sefism · Free
+- [Job Offer Evaluation Checklist for Developers](https://www.sefism.com/resources/sefism-job-offer-evaluation-checklist/) · Sefism · Free
+- [Layoff Preparedness Checklist for Developers](https://www.sefism.com/resources/sefism-layoff-preparedness-checklist/) · Sefism · Free
+- [LinkedIn Profile Checklist for Developers](https://www.sefism.com/resources/sefism-linkedin-profile-checklist/) · Sefism · Free
+- [Open Source Contribution Checklist](https://www.sefism.com/resources/sefism-open-source-contribution-checklist/) · Sefism · Free
+- [Relocating Abroad for a Tech Job: Developer Checklist](https://www.sefism.com/resources/sefism-relocating-abroad-developer-checklist/) · Sefism · Free
+- [Remote Developer Job Checklist](https://www.sefism.com/resources/sefism-remote-job-checklist/) · Sefism · Free
+- [Selling Digital Products Checklist for Developers](https://www.sefism.com/resources/sefism-selling-digital-products-checklist/) · Sefism · Free
+
 ## Platform
 
 - [Alignerr](https://www.sefism.com/resources/alignerr/) · Labelbox · Free · Intermediate
@@ -334,6 +367,6 @@
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-07. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
