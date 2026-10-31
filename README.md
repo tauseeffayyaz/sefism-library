@@ -84,15 +84,25 @@ career questions answered, final year project ideas, curated resources, jobs, an
 <sub>Graduate to senior roles, each linked to the company posting and dated</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>27</sub><br>
-<sub>Computing degrees, admissions, merit and fees</sub>
+<a href="#salary-guide"><b>Salary guide</b></a>&nbsp;<sub>40</sub><br>
+<sub>What tech roles and stacks pay in Pakistan, plus a take-home pay calculator</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
+<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>27</sub><br>
+<sub>Computing degrees, admissions, merit and fees</sub>
+</td>
+<td width="33%" valign="top">
 <a href="#internships"><b>Internships</b></a><br>
 <sub>Open internships, kept current on the site</sub>
 </td>
+<td width="33%" valign="top">
+<a href="#programmes-and-competitions"><b>Programmes</b></a>&nbsp;<sub>29</sub><br>
+<sub>Open source programmes, hackathons and contests for students</sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.sefism.com/learn-for-free/"><b>Learn for free</b></a><br>
 <sub>Where to start: roadmaps, cheat sheets, resources and answers in one place</sub>
@@ -1503,6 +1513,32 @@ Jobs open and close often, so they live on the site rather than here.
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
+## Salary guide
+
+Typical monthly pay in 2026, before tax, in PKR (k = thousand), at software houses and product companies in Lahore, Karachi and Islamabad. These are Sefism's estimates, checked against published salary data. Smaller cities tend to pay less, and remote roles for foreign companies often pay more.
+
+| Role | Fresh graduate<br><sub>Under 1 year</sub> | Junior<br><sub>1 to 4 years</sub> | Mid-level<br><sub>5 to 9 years</sub> | Senior<br><sub>10 years or more</sub> |
+| :-- | :-- | :-- | :-- | :-- |
+| **Software engineer** | 60k to 100k | 100k to 220k | 250k to 550k | 450k to 900k |
+| **Frontend developer** | 50k to 90k | 90k to 200k | 220k to 450k | 400k to 800k |
+| **Backend developer** | 60k to 100k | 100k to 220k | 250k to 550k | 450k to 900k |
+| **Full stack developer** | 60k to 100k | 100k to 220k | 250k to 550k | 450k to 900k |
+| **Mobile developer** | 55k to 95k | 95k to 210k | 230k to 480k | 420k to 850k |
+| **DevOps and cloud engineer** | 60k to 100k | 120k to 260k | 300k to 600k | 550k to 1M |
+| **Data analyst** | 45k to 80k | 80k to 170k | 180k to 350k | 300k to 550k |
+| **Machine learning and AI engineer** | 70k to 120k | 120k to 280k | 300k to 650k | 550k to 1.1M |
+| **QA and test engineer** | 45k to 80k | 80k to 170k | 180k to 350k | 300k to 550k |
+| **UI/UX designer** | 40k to 75k | 75k to 170k | 180k to 360k | 300k to 600k |
+| **Product manager** | 70k to 110k | 120k to 280k | 300k to 650k | 550k to 1.1M |
+| **PHP and Laravel developer** | 45k to 80k | 80k to 180k | 200k to 380k | 350k to 650k |
+| **MERN stack developer** | 60k to 100k | 100k to 220k | 250k to 500k | 450k to 850k |
+
+**Take-home pay:** [the calculator on sefism.com](https://www.sefism.com/salaries/#take-home) applies this year's salaried tax slabs (2026-27) to your gross pay, monthly or yearly.
+
+<sub>[Compare on sefism.com](https://www.sefism.com/salaries/) · [All 40 roles and stacks, and the tax slabs](salaries.md)</sub>
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ## Universities in Pakistan
 
 27 universities teaching Computer Science, Software Engineering, AI and IT, with campuses, admission windows, entry tests, merit formulas, fees and the companies that recruit from each.
@@ -1549,6 +1585,49 @@ Jobs open and close often, so they live on the site rather than here.
 ## Internships
 
 [Open internships at Pakistani and global tech companies](https://www.sefism.com/internships/), with deadlines, pay and eligibility, and a link to apply on the company site. They open and close often, so they live on the site rather than here.
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+## Programmes and competitions
+
+29 programmes for students and early-career developers, from open source programmes and fellowships to hackathons and programming contests, each with who can apply and when it opens.
+
+<details>
+<summary><b>All 29 programmes</b></summary>
+
+- [AWS Student Builder Groups (formerly AWS Cloud Clubs)](https://www.sefism.com/resources/aws-student-builder-groups/)
+- [Azure for Students](https://www.sefism.com/resources/azure-for-students/)
+- [CERN openlab Summer Student Programme](https://www.sefism.com/resources/cern-openlab-summer-student-programme/)
+- [Figma for Education](https://www.sefism.com/resources/figma-for-education/)
+- [GirlScript Summer of Code (GSSoC)](https://www.sefism.com/resources/girlscript-summer-of-code/)
+- [GitHub Campus Experts](https://www.sefism.com/resources/github-campus-experts/)
+- [GitHub Student Developer Pack](https://www.sefism.com/resources/github-student-developer-pack/)
+- [Google Developer Groups on Campus](https://www.sefism.com/resources/gdg-on-campus/)
+- [Google Summer of Code](https://www.sefism.com/resources/google-summer-of-code/)
+- [Hacktoberfest](https://www.sefism.com/resources/hacktoberfest/)
+- [ICPC (International Collegiate Programming Contest)](https://www.sefism.com/resources/icpc-global/)
+- [ICPC Asia Topi Regional (Pakistan)](https://www.sefism.com/resources/icpc-asia-topi-regional/)
+- [IEEEXtreme](https://www.sefism.com/resources/ieeextreme/)
+- [JetBrains free educational licences](https://www.sefism.com/resources/jetbrains-educational-licences/)
+- [LFX Mentorship](https://www.sefism.com/resources/lfx-mentorship/)
+- [Meta Hacker Cup](https://www.sefism.com/resources/meta-hacker-cup/)
+- [Microsoft Imagine Cup](https://www.sefism.com/resources/microsoft-imagine-cup/)
+- [Microsoft Student Ambassadors](https://www.sefism.com/resources/microsoft-student-ambassadors/)
+- [MLH Fellowship](https://www.sefism.com/resources/mlh-fellowship/)
+- [MLH Global Hack Week](https://www.sefism.com/resources/mlh-global-hack-week/)
+- [MLH Hackathons](https://www.sefism.com/resources/mlh-hackathons/)
+- [NASA International Space Apps Challenge](https://www.sefism.com/resources/nasa-space-apps-challenge/)
+- [Notion Education Plan](https://www.sefism.com/resources/notion-for-education/)
+- [Outreachy](https://www.sefism.com/resources/outreachy/)
+- [Season of KDE](https://www.sefism.com/resources/season-of-kde/)
+- [Smart India Hackathon](https://www.sefism.com/resources/smart-india-hackathon/)
+- [SOFTEC (FAST-NUCES Lahore)](https://www.sefism.com/resources/softec/)
+- [Summer of Bitcoin](https://www.sefism.com/resources/summer-of-bitcoin/)
+- [TCS CodeVita](https://www.sefism.com/resources/tcs-codevita/)
+
+</details>
+
+<sub>[By month on sefism.com](https://www.sefism.com/programmes/) · [With summaries](programmes.md)</sub>
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
