@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-412 resources, each with a short review on Sefism explaining who it is for.
+408 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=other)
 
@@ -13,12 +13,12 @@
 - [Cheat sheet](#cheat-sheet) (21)
 - [Best practices](#best-practices) (16)
 - [Checklist](#checklist) (16)
-- [Platform](#platform) (30)
-- [Tool](#tool) (44)
+- [Platform](#platform) (29)
+- [Tool](#tool) (43)
 - [GitHub repo](#github-repo) (21)
 - [Book](#book) (37)
 - [Video](#video) (23)
-- [Community](#community) (6)
+- [Community](#community) (4)
 
 ## Top picks: cs fundamentals and clean code
 
@@ -312,7 +312,6 @@
 - [Exercism](https://www.sefism.com/resources/exercism/) · Exercism · Free · Beginner
 - [Freesound](https://www.sefism.com/resources/freesound/) · Music Technology Group, Universitat Pompeu Fabra · Free
 - [GDQuest](https://www.sefism.com/resources/gdquest/) · GDQuest · Free
-- [GitHub Student Developer Pack](https://www.sefism.com/resources/github-student-developer-pack/) · GitHub · Free
 - [Good First Issue](https://www.sefism.com/resources/good-first-issue/) · DeepSource · Free · Beginner
 - [Google Skills (formerly Google Cloud Skills Boost)](https://www.sefism.com/resources/google-cloud-skills-boost/) · Google · Free
 - [Hack The Box Academy](https://www.sefism.com/resources/hack-the-box-academy/) · Hack The Box · Free · Intermediate
@@ -351,7 +350,6 @@
 - [DuckDB Documentation](https://www.sefism.com/resources/duckdb-documentation/) · DuckDB Foundation · Free · Beginner
 - [Eclipse Mosquitto](https://www.sefism.com/resources/eclipse-mosquitto/) · Eclipse Foundation · Free · Beginner
 - [explainshell](https://www.sefism.com/resources/explainshell/) · Idan Kamara · Free
-- [Figma for Education](https://www.sefism.com/resources/figma-for-education/) · Figma · Free
 - [GitHub CLI](https://www.sefism.com/resources/github-cli/) · GitHub · Free · Beginner
 - [GNS3](https://www.sefism.com/resources/gns3/) · GNS3 Technologies · Free · Intermediate
 - [Google Trends](https://www.sefism.com/resources/google-trends/) · Google · Free · Beginner
@@ -476,12 +474,10 @@
 - [CTFtime](https://www.sefism.com/resources/ctftime/) · CTFtime team · Free · Intermediate
 - [GMTK Game Jam](https://www.sefism.com/resources/gmtk-game-jam/) · Game Maker's Toolkit · Free
 - [Hacker News](https://www.sefism.com/resources/hacker-news/) · Y Combinator · Free
-- [Hacktoberfest](https://www.sefism.com/resources/hacktoberfest/) · Major League Hacking and DEV · Free · Beginner
-- [ICPC (International Collegiate Programming Contest)](https://www.sefism.com/resources/icpc-global/) · ICPC Foundation · Free
 - [Ludum Dare](https://www.sefism.com/resources/ludum-dare/) · Ludum Dare · Free
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

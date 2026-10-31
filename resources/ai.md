@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](../README.md)
 
-313 resources, each with a short review on Sefism explaining who it is for.
+315 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=ai)
 
@@ -20,6 +20,7 @@
 - [Book](#book) (11)
 - [Video](#video) (12)
 - [Community](#community) (4)
+- [Programme](#programme) (2)
 
 ## Top picks: learn ai
 
@@ -396,8 +397,13 @@
 - [n8n Community Forum](https://www.sefism.com/resources/n8n-community-forum/) · n8n · Free
 - [Zapier Community](https://www.sefism.com/resources/zapier-community/) · Zapier · Free
 
+## Programme
+
+- [Hacktoberfest](https://www.sefism.com/resources/hacktoberfest/) · Major League Hacking and DEV · Free · Beginner
+- [Microsoft Imagine Cup](https://www.sefism.com/resources/microsoft-imagine-cup/) · Microsoft · Free · Intermediate
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

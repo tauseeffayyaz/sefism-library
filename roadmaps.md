@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-56 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
+64 roadmaps. Every roadmap has a public page on [sefism.com/roadmaps](https://www.sefism.com/roadmaps/) with its first stages open and the rest listed. [Join Sefism](https://www.sefism.com/auth/signup/) to follow one: your first roadmap is free, and each one after that is 3 credits.
 
 Every roadmap puts the concepts in a clear order, so you always know what to learn next and why it comes before the next thing. They are built for **AI-assisted learning**: you learn with AI, but it does not do the work for you.
 
@@ -11,7 +11,7 @@ Every roadmap puts the concepts in a clear order, so you always know what to lea
 - **AI study prompts that test you.** Paste a stage's prompt into any AI assistant and it quizzes you, from easy to hard, and explains only what you got wrong.
 - **Picked resources, not a pile.** Each stage has at most a few: one to learn from (always with a free option), one to practise on, one to keep open as a reference.
 - **Checklists and projects.** Doing stages come with concrete checklists, and every roadmap ends in real projects from the FYP library.
-- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to 57 roadmaps at once and tick off stages as you go.
+- **Your pace, your budget.** Set your hours per week and the plan turns into weeks. Choose free-only and paid picks are hidden. Follow up to 65 roadmaps at once and tick off stages as you go.
 
 A real stage prompt:
 
@@ -22,6 +22,7 @@ A real stage prompt:
 - [Specialise](#specialise) (17)
 - [Career](#career) (12)
 - [Earn independently](#earn-independently) (6)
+- [Life skills](#life-skills) (8)
 
 ## Foundations
 
@@ -1619,8 +1620,235 @@ For students and early-career creatives who want to earn by making ads, explaine
 
 </details>
 
+## Life skills
+
+_Confidence, wellbeing and the skills nobody teaches you._
+
+### [Building real confidence](https://www.sefism.com/roadmaps/confidence/)
+
+For students and early-career people who doubt themselves, feel like impostors, compare themselves with everyone on LinkedIn or stay quiet when they have something to say. By the end you can quieten your inner critic, collect real evidence of your ability, speak up in class and at work, and keep going when things go badly.
+
+**Inside:** 6 stages · about 34 hours · 6 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **What confidence really is**: Confidence, self-esteem and arrogance, Confidence follows action, Impostor feelings, Where your doubt comes from, Where you hold back
+2. **Your inner critic and self-talk**: Noticing your inner critic, Thinking traps behind self-doubt, Testing a self-doubting thought, Stepping back from thoughts, Self-compassion, not self-criticism
+3. **Comparison, LinkedIn and your own timeline**: Why we compare, LinkedIn and highlight reels, Your own timeline, When family compares you, Using envy as information
+4. **Collecting evidence and small wins**: Your evidence file, The power of small wins, Knowing your strengths, Real skill is the foundation, A ladder of small challenges
+5. **Speaking up in class and at work**: Asking questions in class, Speaking in meetings, Speaking with an accent or in a second language, Saying no and setting limits, Disagreeing respectfully
+6. **Setbacks, rejection and keeping your confidence**: When it goes badly, Getting used to rejection, Mistakes as part of learning, Teaching and helping others, Keeping confidence over time
+
+**By the end you can:**
+
+- Explain what confidence is and why acting first, before you feel ready, builds it
+- Recognise impostor feelings and harsh self-talk, and answer them with evidence
+- Treat yourself with the kindness and honesty you would offer a friend
+- Keep comparison on LinkedIn and social media from setting your standards
+- Keep an evidence file of wins, skills and feedback that you can use when doubt hits
+- Ask questions, share ideas and disagree politely in class, meetings and with seniors
+- Recover from mistakes and rejection without deciding you are not good enough
+
+</details>
+
+### [Looking after your mental health](https://www.sefism.com/roadmaps/mental-health/)
+
+For students and early-career people dealing with exam pressure, job-hunt stress, burnout, poor sleep or low mood, and for anyone who wants to look after a friend. By the end you can recognise what you are feeling, use evidence-based ways to manage stress, know when something needs a professional and how to get that help, and keep a simple plan that keeps you well.
+
+**Inside:** 7 stages · about 42 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Start here: help now, and what mental health is**: If you are in crisis right now, Mental health is something everyone has, What this roadmap can and cannot do, Stress, anxiety, low mood and depression, The foundations that protect you
+2. **Understanding and calming stress**: What stress does in your body, When stress helps and when it harms, Knowing your own stress signs, Calming your body in the moment, Thinking traps
+3. **Exam and job-hunt stress**: Exam anxiety and preparation, The night before and the day itself, Results day and what comes after, Job-hunt stress, Focus on what you can control
+4. **Burnout, sleep and energy**: What burnout is, Early signs of burnout, Recovering properly, Why sleep matters so much, Habits for better sleep
+5. **Low mood and the signs of depression**: Low mood or depression?, Signs that need a professional, Doing comes before feeling better, Being kinder to yourself, Coping that makes things worse
+6. **How to actually get help**: Counsellor, psychologist, psychiatrist: who does what, Your university counselling service, Help you can afford, Choosing someone good, What to say at a first appointment
+7. **Helping a friend, and staying well**: Noticing when a friend is struggling, How to listen well, Asking directly about suicide, If a friend is in danger, Looking after yourself as a helper
+
+**By the end you can:**
+
+- Know where to get urgent help, in your country, if you or someone else is in danger
+- Explain what stress does to your body and calm it with tools that are backed by evidence
+- Handle exam and job-hunt pressure, and spot burnout and poor sleep before they take over
+- Tell ordinary low mood apart from signs that need a doctor, counsellor or psychologist
+- Find professional help that fits your budget, and know what to say at a first appointment
+- Talk about mental health with family and friends, and support a friend who is struggling
+- Keep a written plan with your warning signs, what helps and who to contact
+
+</details>
+
+### [Knowing yourself](https://www.sefism.com/roadmaps/self-awareness/)
+
+For students and early-career people who are not sure what they are good at, what they care about or what they want, and who are tired of choosing by what is expected. By the end you can name your strengths, values, emotions and energy patterns with evidence, see your blind spots through honest feedback, and turn all of it into clearer choices about courses, careers and jobs.
+
+**Inside:** 7 stages · about 40 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Start noticing: what self-knowledge is, and is not**: Two kinds of self-awareness, Ask "what", not "why", Why personality types are weak evidence, Journaling that actually helps, Three questions to write about
+2. **Find your real strengths**: Strengths, skills and talents, The VIA character strengths survey, Evidence from your own best moments, Ask others when you were at your best, Good at it, but drained by it
+3. **Values, and what you want vs what is expected**: Values are directions, goals are destinations, Finding your values, Clues in anger, envy and pride, Want vs should, Expectations often carry love and real limits
+4. **Name your emotions and read what they tell you**: Emotions are information, Name it precisely, What your body notices first, Thoughts shape feelings, Your triggers and patterns
+5. **Your energy and how you work best**: An energy audit, Your best hours, People and your energy, What actually motivates you, Where and how you work best
+6. **Blind spots and feedback from others**: Why everyone has blind spots, Choose who to ask, Ask specific questions, Hear it without defending, Separate signal from noise
+7. **Turn self-knowledge into choices**: Turn what you know into criteria, Choosing courses, electives and a specialisation, Sketch three possible lives, Test before you commit, Choosing a job that fits
+
+**By the end you can:**
+
+- Explain the difference between how you see yourself and how others see you, and why both matter
+- Name your top strengths with evidence from your own life and from people who know you
+- Write down your values in your own words and separate what you want from what is expected of you
+- Name your emotions precisely and spot the thoughts and situations that trigger them
+- Know when and where you work best, and what gives and drains your energy
+- Ask for feedback, hear it without defending, and act on the patterns
+- Turn self-knowledge into criteria for choosing a course, a career direction and a job
+
+</details>
+
+### [Building your support system](https://www.sefism.com/roadmaps/support-system/)
+
+For students and early-career people who feel alone, have moved to a hostel, a new city or a new country, or simply have nobody to think out loud with about their studies and career. By the end you can make and keep friends, find peers who study and build with you, approach mentors, join communities online and offline, ask for help without shame, and be real support for others.
+
+**Inside:** 7 stages · about 35 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Loneliness is common and changeable**: You are not the only one, Being alone is not the same as being lonely, The different kinds of support, Why loneliness grows after a move, Map the support you already have
+2. **Making friends at university, hostel or a new city**: Friendship takes time, and time can be planned, Go to the same places again and again, Starting a conversation, Invite, then follow up, Hostel life and roommates
+3. **Peers who study and build with you**: Study groups that actually work, An accountability partner, Build things together, Peers online, Peers, not competitors
+4. **Finding and keeping mentors**: What a mentor is, and is not, Many small mentors, Where to find mentors, The first message, Asking good questions
+5. **Communities online and offline**: Choosing communities that fit, Going to events in person, Online and offline: use both, Contribute, do not only consume, Faith, family and local roots
+6. **Asking for help without shame**: Why asking feels so hard, What to ask, and whom, How to ask clearly, Help your university or workplace already offers, Family as support, when it works
+7. **Being support, and when support is not enough**: Give and take, Being a good listener, When a friend is in serious difficulty, Helping without burning out, When friends are not enough
+
+**By the end you can:**
+
+- Understand loneliness as common and changeable, and map the support you already have
+- Make friends in a new place on purpose: repeated places, small invitations and follow-ups
+- Build a circle of peers who study, build and hold each other accountable
+- Find and approach mentors, ask good questions and keep the relationship going
+- Join and contribute to communities online and offline that fit you
+- Ask for specific help without shame, and know where to go when support from friends is not enough
+- Be good support for others while protecting your own time and energy
+
+</details>
+
+### [Family expectations and your own path](https://www.sefism.com/roadmaps/family-expectations/)
+
+For students and early-career people whose family wants a different degree, career, city or life for them than the one they want, in Pakistan, India, Bangladesh and family-centred cultures everywhere. By the end you can understand where the pressure comes from, get clear on what you want, build a calm case with evidence, have the conversation, agree a compromise or trial, set boundaries with respect, and live with a choice when one has to be made.
+
+**Inside:** 7 stages · about 40 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Why your family pushes**: Love and fear, usually together, Status, relatives and "log kya kahenge", The world your parents grew up in, Money, sacrifice and security, The information gap
+2. **Name the pressure you are under**: Doctor, engineer, CSS or nothing, Switching from the "safe" degree, Going abroad, or not being allowed to, Marriage timing and career, Being the eldest, and supporting siblings
+3. **Understand before you argue**: Listen to understand, not to reply, Find the goal you share, Do you want it, or want to escape?, Test your interest with small experiments, What you will accept, and what you will not
+4. **Build your case with evidence**: Real salaries and real demand, Show them real people, A plan on one page, Your plan B, Answer their fears one by one
+5. **Prepare for and have the conversation**: Choose the time and the place, Your opening lines, Practise with role-play, When it gets heated, One conversation is rarely enough
+6. **Allies, compromise and trial periods**: A trusted relative on your side, A mentor, teacher or professional, Compromise plans that respect both sides, Trial periods with clear checkpoints, Keep every agreement you make
+7. **Boundaries, independence and hard choices**: Boundaries with respect, Money and independence, Contributing to home on your terms, When you have to choose, Living with the choice
+
+**By the end you can:**
+
+- Explain why your parents want what they want, in their words, without dismissing it
+- Separate what you truly want from what you are trying to escape, and test it with small experiments
+- Build a one-page case with real salaries, real people, a timeline and a plan B
+- Prepare for and hold a calm conversation, and keep it going over weeks rather than one big fight
+- Bring in a trusted relative or mentor, and agree a compromise or trial period with clear checkpoints
+- Set boundaries with respect and build the financial independence that makes your choices real
+- Recognise when pressure has become coercion or abuse, and know that safety and professional help come first
+
+</details>
+
+### [Handling rejection and setbacks](https://www.sefism.com/roadmaps/rejection-setbacks/)
+
+For students and early-career people who have failed an exam, been rejected for an internship or job, watched a project or startup fail, or received feedback that hurt. By the end you can get through the first days without making things worse, learn from what happened without blaming yourself, and start again with a written plan.
+
+**Inside:** 7 stages · about 37 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Why rejection hurts**: Rejection is a real kind of pain, The event is not your worth, The three stories that make it worse, The CV nobody shows you, Skills grow, so results can change
+2. **The first 48 hours**: Let yourself feel it, for a while, Look after your body first, No big decisions for now, Tell one or two people, Pause the feed
+3. **Failed exams and a low CGPA**: Find out what actually happened, Fix how you study, not only how much, Know your options: resits, repeats and help, Telling your family about results, What a low CGPA does and does not close
+4. **Internship and job rejections**: Why most applications end in no, Track every application, Find the stage where you drop out, When they never reply, Asking why, and what to do with silence
+5. **Failed projects and startups**: Why projects usually fail, Stop, change course or keep going, Closing it properly, Money, debt and family after a failed venture, What a failed project gives you
+6. **Feedback that stings**: Why feedback stings, Understand it before you judge it, Find the useful part, Harsh code review comments, When feedback is unfair or unkind
+7. **Resilience, a post-mortem and starting again**: Comparison after a setback, Self-compassion, not self-pity, Habits that make setbacks easier to carry, Write a post-mortem without blame, Turn it into a plan with dates
+
+**By the end you can:**
+
+- Explain why rejection hurts and separate what happened from what it says about your worth
+- Get through the first 48 hours after a bad result with a simple plan instead of a spiral
+- Recover from a failed exam or a low CGPA with a study fix and an honest way to talk about it
+- Treat internship and job applications as a pipeline, find where you drop out and fix that stage
+- Close a failed project or startup properly and keep the skills and story it gave you
+- Take stinging feedback, find the useful part and act on it
+- Write a post-mortem without self-blame and turn it into a dated plan to start again
+
+</details>
+
+### [Speaking and being heard](https://www.sefism.com/roadmaps/speaking-up/)
+
+For students and early-career people who stay quiet in class, meetings and events, whether from nerves, respect for seniors or speaking English as a second language. By the end you can ask questions, present, contribute in meetings and calls, make small talk, disagree politely, say no and back it all up in clear writing.
+
+**Inside:** 7 stages · about 40 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Why speaking up is hard**: The fear of being judged, Respect, hierarchy and staying quiet, Speaking in a second language is extra work, Quiet is not a flaw, Use the nerves instead of fighting them
+2. **Asking questions in class and at work**: Why your question helps others too, Prepare one question before you walk in, Asking in class, At work: show what you have tried, Asking in group chats and public channels
+3. **Preparing and giving a presentation**: Start with one message, A simple structure, Slides that help instead of distract, Rehearse out loud, more than once, Voice, pace and where to look
+4. **Meetings, stand-ups and online calls**: Clear stand-up updates, Speak in the first ten minutes, Getting a word in, and not being talked over, Teams where it is safe to speak, Online calls that work
+5. **Small talk and networking events**: Why small talk matters, Starting a conversation, Keep it going by listening, Finding the right events, Leaving a conversation politely
+6. **Speaking English as a second language**: Clarity matters more than accent, Slow down and pause, Word stress and intonation, Shadowing: copy a speaker, A 15-minute daily routine
+7. **Disagreeing, saying no and writing clearly**: Disagreeing politely, Disagreeing with seniors and teachers, Saying no without guilt, Harder conversations, Writing clearly as your backup channel
+
+**By the end you can:**
+
+- Explain why speaking up feels hard and lower the fear with small, regular practice
+- Ask clear questions in class and at work, showing what you have already tried
+- Prepare and give a short presentation with one clear message, and handle questions
+- Contribute in meetings, stand-ups and online calls instead of only listening
+- Start and end conversations at events and follow up afterwards
+- Speak English clearly with your own accent, using a regular practice routine
+- Disagree politely, say no without guilt, and use writing as your backup channel
+
+</details>
+
+### [Focus, habits and time](https://www.sefism.com/roadmaps/focus-habits/)
+
+For students and early-career people who procrastinate, lose hours to their phone or keep restarting routines that never stick. By the end you can understand why you avoid things, protect your attention, start when motivation is gone, build study and work habits that last, plan a realistic week with deep work and rest, and restart calmly after a bad week.
+
+**Inside:** 7 stages · about 36 hours · 7 AI study prompts
+
+<details><summary>The path and what you can do at the end</summary>
+
+1. **Why you procrastinate (it is not laziness)**: Procrastination is about feelings, What makes a task easy to avoid, Perfectionism and fear of judgement, Forgive yourself to start sooner, Find your own pattern
+2. **Your attention and your phone**: Attention is limited, and switching costs, Why your phone is so hard to put down, Measure your real use, Add friction, remove triggers, Out of sight while you focus
+3. **Start when motivation is gone**: If-then plans, Make the first step tiny, Name the next physical action, The Pomodoro Technique, Action comes before motivation
+4. **Habits that stick**: How habits really form, Habits take longer than 21 days, Anchor it to something you already do, Start tiny, then grow, Design your environment
+5. **Study routines that work**: Test yourself instead of rereading, Space it out, Mix up your practice, A steady daily study block, Plan exams and deadlines backwards
+6. **Plan your week and protect deep work**: A 30-minute weekly review, Choose three priorities, Block time on your calendar, Everything takes longer than you think, Protect deep work
+7. **Rest, sleep and restarting after a bad week**: Rest is part of the work, Sleep basics, Breaks and movement, Notice burnout early, After a bad week
+
+**By the end you can:**
+
+- Explain why you procrastinate in terms of feelings, not laziness, and spot your own pattern
+- Measure your phone and social media use and set it up so it serves you
+- Start hard tasks with if-then plans, tiny first steps and timed work sessions
+- Design habits around cues and your environment so they last beyond the first week
+- Study with methods that work: testing yourself, spacing and a steady daily routine
+- Plan a realistic week with priorities, deep work blocks and a clear end to the day
+- Rest and sleep enough, notice burnout early and restart after a bad week without guilt
+
+</details>
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

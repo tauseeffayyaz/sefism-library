@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-41 checklists on [sefism.com/checklists](https://www.sefism.com/checklists/). Go through a release, a codebase or your own career step by step: each check says how to verify it and how much it matters. The first 2 chapters of each are open to read, no account needed. Members keep the whole checklist, with progress and chapter quizzes, for 2 credits, and some are free in full.
+42 checklists on [sefism.com/checklists](https://www.sefism.com/checklists/). Go through a release, a codebase or your own career step by step: each check says how to verify it and how much it matters. The first 2 chapters of each are open to read, no account needed. Members keep the whole checklist, with progress and chapter quizzes, for 2 credits, and some are free in full.
 
 - [Stacks and tools](#stacks-and-tools) (3)
 - [Cloud and DevOps](#cloud-and-devops) (7)
@@ -11,6 +11,7 @@
 - [AI](#ai) (6)
 - [Career](#career) (11)
 - [Build and earn](#build-and-earn) (5)
+- [Students](#students) (1)
 
 ## Stacks and tools
 
@@ -315,8 +316,18 @@ Launch a side project or indie product properly: validate the idea, cut scope, b
 - **Chapters:** 8, with 36 checks
 - **For:** developers launching a side project or indie product
 
+## Students
+
+### [FYP Team and Supervisor Checklist](https://www.sefism.com/checklists/fyp-team-and-supervisor-checklist/)
+
+Run your final year project team well: pick teammates, choose a supervisor, meet and take notes, split work fairly, use Git as a team, keep evidence and handle a teammate who does not contribute.
+
+- **Chapters:** 8, with 34 checks
+- **For:** final year and capstone project teams
+- **Free in full**
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

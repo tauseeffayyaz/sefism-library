@@ -2,7 +2,7 @@
 
 [← Back to the Sefism Library](README.md)
 
-46 guides on [sefism.com/best-practices](https://www.sefism.com/best-practices/). How experienced engineers actually work with a technology: each practice with why it matters, what to do, what to avoid and a real example. The first 2 chapters of each are open to read, no account needed. Members keep the whole guide, with progress and chapter quizzes, for 2 credits, and some are free in full.
+49 guides on [sefism.com/best-practices](https://www.sefism.com/best-practices/). How experienced engineers actually work with a technology: each practice with why it matters, what to do, what to avoid and a real example. The first 2 chapters of each are open to read, no account needed. Members keep the whole guide, with progress and chapter quizzes, for 2 credits, and some are free in full.
 
 - [Stacks and tools](#stacks-and-tools) (17)
 - [Cloud and DevOps](#cloud-and-devops) (4)
@@ -11,6 +11,7 @@
 - [AI](#ai) (4)
 - [Career](#career) (7)
 - [Build and earn](#build-and-earn) (2)
+- [Students](#students) (3)
 
 ## Stacks and tools
 
@@ -350,8 +351,34 @@ Build and grow a small software product as a developer: validate demand, scope t
 - **Chapters:** 8, with 32 practices
 - **For:** developers building their own software product
 
+## Students
+
+### [Final Year Project Proposal Best Practices](https://www.sefism.com/best-practices/fyp-proposal-best-practices/)
+
+Choose and scope a final year project, then write a proposal with a clear problem, testable objectives, a short literature review, method, feasibility, timeline and risks.
+
+- **Chapters:** 8, with 29 practices
+- **For:** final year and capstone students in computing
+- **Free in full**
+
+### [Final Year Project Report Best Practices](https://www.sefism.com/best-practices/fyp-report-best-practices/)
+
+Write a final year project report or thesis: chapters, literature review, design, testing and results, IEEE and APA citations, figures, similarity checks and honest AI use.
+
+- **Chapters:** 9, with 31 practices
+- **For:** final year and capstone students in computing
+- **Free in full**
+
+### [Final Year Project Presentation and Defence Best Practices](https://www.sefism.com/best-practices/fyp-presentation-and-defence-best-practices/)
+
+Present and defend your final year project well: clear slides, a live demo with a backup video, honest answers, explaining your own code and decisions, and team presentations.
+
+- **Chapters:** 7, with 23 practices
+- **For:** final year and capstone students in computing
+- **Free in full**
+
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

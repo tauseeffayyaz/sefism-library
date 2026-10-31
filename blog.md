@@ -2,10 +2,28 @@
 
 [← Back to the Sefism Library](README.md)
 
-65 articles on AI engineering, software engineering and career growth, newest first.
+74 articles on AI engineering, software engineering and career growth, newest first.
 
 Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
+- **[Self-Awareness for Students: Strengths, Values and What You Want](https://www.sefism.com/blog/self-awareness-for-students-strengths-values-and-what-you-want/)**  
+  A practical guide to knowing your strengths, values and energy, separating what you want from what is expected, and using it to choose a degree, a specialisation or a first job.
+- **[How to Stop Procrastinating as a Student: Methods That Work](https://www.sefism.com/blog/how-to-stop-procrastinating-as-a-student/)**  
+  Why procrastination is about feelings, not laziness, and the methods that help: tiny first steps, if-then plans, taming your phone, Pomodoro, a weekly plan and restarting after a…
+- **[How to Speak Confidently in Class and Meetings, Even in a Second Language](https://www.sefism.com/blog/how-to-speak-confidently-in-class-and-meetings/)**  
+  Practical steps for asking questions in class, giving presentations and speaking up in meetings, including when English is your second language, with the research on why the fear…
+- **[Impostor Syndrome for CS Students and Junior Developers: What Helps](https://www.sefism.com/blog/impostor-syndrome-cs-students-and-junior-developers/)**  
+  Why so many CS students and junior developers feel like frauds, what the research from Clance and Imes onwards says, how to tell impostor feelings from real skill gaps, and…
+- **[When Your Parents Want a Different Career for You: A Respectful Guide](https://www.sefism.com/blog/when-your-parents-want-a-different-career-for-you/)**  
+  Parents pushing medicine, engineering, CSS or a government job?
+- **[Studying With No Support System: How to Build One From Scratch](https://www.sefism.com/blog/studying-with-no-support-system/)**  
+  For students who are first in their family at university, far from home, in a hostel or without a mentor: what the research says about loneliness and how to build a support…
+- **[Student Burnout: Signs, Recovery and When It Is More Than Burnout](https://www.sefism.com/blog/student-burnout-signs-and-recovery/)**  
+  What burnout is (and what WHO's ICD-11 actually says), the signs in students and job seekers, what helps with exam and job-hunt stress, and when to see a professional.
+- **[Feeling Low at University: Signs of Depression and How to Get Help](https://www.sefism.com/blog/feeling-low-at-university-signs-of-depression-and-getting-help/)**  
+  A careful guide for students: how low mood differs from depression, signs to notice, how to talk to someone, how to find a counsellor, dealing with stigma in South Asian…
+- **[How to Handle Rejection as a Student or Job Seeker](https://www.sefism.com/blog/how-to-handle-rejection-as-a-student-or-job-seeker/)**  
+  Failed exams, a low CGPA, internship and job rejections, projects that did not work: what to do in the first 48 hours, how to learn without blaming yourself, and how to keep going.
 - **[IT Fresher Hiring in 2026: What TCS and Infosys Numbers Tell You](https://www.sefism.com/blog/it-fresher-hiring-2026-tcs-infosys/)**  
   TCS has 25,000 fresher offers for FY27 after hiring more than 44,000 in FY26, and Infosys plans about 20,000.
 - **[Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)**  
@@ -139,6 +157,6 @@ Read them at [sefism.com/blog](https://www.sefism.com/blog/).
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>

@@ -13,11 +13,11 @@ A free library for developers: AI-assisted roadmaps, cheat sheets, best practice
 career questions answered, final year project ideas, curated resources, jobs, and guides to Pakistani and global tech companies and universities.
 
 <a href="#free-membership"><img src="https://img.shields.io/badge/Membership-Free-5865f2?style=flat-square" alt="Membership: Free"></a>
-<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-56-5865f2?style=flat-square" alt="Roadmaps: 56"></a>
+<a href="#roadmaps"><img src="https://img.shields.io/badge/Roadmaps-64-5865f2?style=flat-square" alt="Roadmaps: 64"></a>
 <a href="#cheat-sheets"><img src="https://img.shields.io/badge/Cheat%20sheets-76-5865f2?style=flat-square" alt="Cheat sheets: 76"></a>
 <a href="#career-questions"><img src="https://img.shields.io/badge/Questions-223-5865f2?style=flat-square" alt="Questions: 223"></a>
 <a href="#final-year-project-ideas"><img src="https://img.shields.io/badge/FYP%20ideas-413-5865f2?style=flat-square" alt="FYP ideas: 413"></a>
-<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1418-5865f2?style=flat-square" alt="Resources: 1418"></a>
+<a href="#learning-resources"><img src="https://img.shields.io/badge/Resources-1495-5865f2?style=flat-square" alt="Resources: 1495"></a>
 
 <b><a href="https://www.sefism.com/">Website</a></b> &nbsp;·&nbsp;
 <b><a href="https://www.sefism.com/auth/signup/">Join free</a></b> &nbsp;·&nbsp;
@@ -34,7 +34,7 @@ career questions answered, final year project ideas, curated resources, jobs, an
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>56</sub><br>
+<a href="#roadmaps"><b>Roadmaps</b></a>&nbsp;<sub>64</sub><br>
 <sub>Step-by-step paths in your language or stack, with AI prompts that test you</sub>
 </td>
 <td width="33%" valign="top">
@@ -56,21 +56,21 @@ career questions answered, final year project ideas, curated resources, jobs, an
 <sub>Real project trees, every folder and file explained, from Day 1 to Expert</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#best-practices"><b>Best practices</b></a>&nbsp;<sub>46</sub><br>
+<a href="#best-practices"><b>Best practices</b></a>&nbsp;<sub>49</sub><br>
 <sub>How experienced engineers work with a technology, each practice with a real example</sub>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="#checklists"><b>Checklists</b></a>&nbsp;<sub>41</sub><br>
+<a href="#checklists"><b>Checklists</b></a>&nbsp;<sub>42</sub><br>
 <sub>Go through a release, a codebase or your career step by step</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1418</sub><br>
+<a href="#learning-resources"><b>Resources</b></a>&nbsp;<sub>1495</sub><br>
 <sub>Curated courses, books, guides, tools and repos</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#blog"><b>Blog</b></a>&nbsp;<sub>65</sub><br>
+<a href="#blog"><b>Blog</b></a>&nbsp;<sub>74</sub><br>
 <sub>AI engineering, software engineering and careers</sub>
 </td>
 </tr>
@@ -84,7 +84,7 @@ career questions answered, final year project ideas, curated resources, jobs, an
 <sub>Graduate to senior roles, each linked to the company posting and dated</sub>
 </td>
 <td width="33%" valign="top">
-<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>25</sub><br>
+<a href="#universities-in-pakistan"><b>Universities</b></a>&nbsp;<sub>27</sub><br>
 <sub>Computing degrees, admissions, merit and fees</sub>
 </td>
 </tr>
@@ -156,7 +156,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Roadmaps
 
-56 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
+64 roadmaps built for **AI-assisted learning**: you learn with AI, but it never does the work for you. Every roadmap puts the concepts in a clear order, so you always know what to learn next and why.
 
 <table>
 <tr>
@@ -178,7 +178,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 <b>Checklists and projects</b><br><sub>Hands-on stages have checklists, and every roadmap ends in real projects.</sub>
 </td>
 <td width="33%" valign="top">
-<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to 57 roadmaps and tick off stages.</sub>
+<b>Your pace</b><br><sub>Set hours per week, go free-only, follow up to 65 roadmaps and tick off stages.</sub>
 </td>
 </tr>
 </table>
@@ -280,6 +280,21 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | **[Build and sell your own product](https://www.sefism.com/roadmaps/indie-products/)** | Validate, launch and get paid | [`SaaS`](https://www.sefism.com/roadmaps/indie-products/) [`Digital products`](https://www.sefism.com/roadmaps/indie-products/digital/) [`Mobile app`](https://www.sefism.com/roadmaps/indie-products/mobile-app/) | 8 |
 | **[AI data and training work](https://www.sefism.com/roadmaps/ai-data-work/)** | Annotation, model rating and AI trainer roles | [`Data annotation`](https://www.sefism.com/roadmaps/ai-data-work/) [`AI trainer`](https://www.sefism.com/roadmaps/ai-data-work/ai-trainer/) | 6 |
 | **[AI video and design for clients](https://www.sefism.com/roadmaps/ai-creative/)** | Ads, shorts and visuals made with AI tools | [`AI video`](https://www.sefism.com/roadmaps/ai-creative/) [`AI images and design`](https://www.sefism.com/roadmaps/ai-creative/images/) | 8 |
+
+#### Life skills
+
+<sub>Confidence, wellbeing and the skills nobody teaches you.</sub>
+
+| Roadmap | Covers | Choose your path | Stages |
+| :-- | :-- | :-- | :-: |
+| **[Building real confidence](https://www.sefism.com/roadmaps/confidence/)** | Impostor feelings, self-talk and speaking up | One path | 6 |
+| **[Looking after your mental health](https://www.sefism.com/roadmaps/mental-health/)** | Stress, burnout, low mood and getting help | One path | 7 |
+| **[Knowing yourself](https://www.sefism.com/roadmaps/self-awareness/)** | Strengths, values and what you actually want | One path | 7 |
+| **[Building your support system](https://www.sefism.com/roadmaps/support-system/)** | Friends, mentors and asking for help | One path | 7 |
+| **[Family expectations and your own path](https://www.sefism.com/roadmaps/family-expectations/)** | Talking to family about your choices | One path | 7 |
+| **[Handling rejection and setbacks](https://www.sefism.com/roadmaps/rejection-setbacks/)** | Failed exams, rejections and starting again | One path | 7 |
+| **[Speaking and being heard](https://www.sefism.com/roadmaps/speaking-up/)** | Presenting, meetings and speaking up | One path | 7 |
+| **[Focus, habits and time](https://www.sefism.com/roadmaps/focus-habits/)** | Procrastination, routines and your phone | One path | 7 |
 
 > [!NOTE]
 > Every roadmap has a public page on [sefism.com/roadmaps/](https://www.sefism.com/roadmaps/) with the first stages open and the rest listed. Following one adds the full plan to your dashboard: your first roadmap is free, and each one after that is 3 credits. [Create an account](https://www.sefism.com/auth/signup/) to start.
@@ -647,20 +662,29 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Blog
 
-65 articles on AI engineering, software engineering and career growth.
+74 articles on AI engineering, software engineering and career growth.
 
 | Latest articles |
 | :-- |
-| **[IT Fresher Hiring in 2026: What TCS and Infosys Numbers Tell You](https://www.sefism.com/blog/it-fresher-hiring-2026-tcs-infosys/)**<br><sub>TCS has 25,000 fresher offers for FY27 after hiring more than 44,000 in FY26, and Infosys plans about 20,000. What changed in IT services fresher…</sub> |
-| **[Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)**<br><sub>DigiSkills, NAVTTC's Skills of Tomorrow and Punjab's e-Rozgaar compared: what each offers, eligibility, fees, batch timing, who should take which…</sub> |
-| **[JEPA vs LLM: Yann LeCun's World Models Explained for Developers](https://www.sefism.com/blog/jepa-vs-llm/)**<br><sub>What JEPA is, how it differs from next-token LLMs, what V-JEPA 2 and AMI Labs have actually shown as of 2026, the strongest arguments against it…</sub> |
-| **[EU Blue Card Germany for Software Engineers: 2026 Salary and Steps](https://www.sefism.com/blog/eu-blue-card-germany-software-engineer/)**<br><sub>The 2026 EU Blue Card salary thresholds for IT in Germany, the route for IT specialists without a degree, permanent residence in 21 months, and an…</sub> |
-| **[Is BTech CSE Worth It in 2026? An Honest Answer for Indian Students](https://www.sefism.com/blog/is-btech-cse-worth-it/)**<br><sub>CS engineers still top India's employability data, but mass fresher hiring has shrunk and AI is changing junior work. When a BTech in CSE is worth…</sub> |
-| **[Graduate Tech Jobs in the UK in 2026: Why It Is Hard and What Works](https://www.sefism.com/blog/graduate-tech-jobs-uk/)**<br><sub>UK graduate tech vacancies fell sharply in 2026 and the Graduate visa shrinks to 18 months from January 2027. The latest data, the visa clock for…</sub> |
+| **[Self-Awareness for Students: Strengths, Values and What You Want](https://www.sefism.com/blog/self-awareness-for-students-strengths-values-and-what-you-want/)**<br><sub>A practical guide to knowing your strengths, values and energy, separating what you want from what is expected, and using it to choose a degree, a…</sub> |
+| **[How to Stop Procrastinating as a Student: Methods That Work](https://www.sefism.com/blog/how-to-stop-procrastinating-as-a-student/)**<br><sub>Why procrastination is about feelings, not laziness, and the methods that help: tiny first steps, if-then plans, taming your phone, Pomodoro, a…</sub> |
+| **[How to Speak Confidently in Class and Meetings, Even in a Second Language](https://www.sefism.com/blog/how-to-speak-confidently-in-class-and-meetings/)**<br><sub>Practical steps for asking questions in class, giving presentations and speaking up in meetings, including when English is your second language…</sub> |
+| **[Impostor Syndrome for CS Students and Junior Developers: What Helps](https://www.sefism.com/blog/impostor-syndrome-cs-students-and-junior-developers/)**<br><sub>Why so many CS students and junior developers feel like frauds, what the research from Clance and Imes onwards says, how to tell impostor feelings…</sub> |
+| **[When Your Parents Want a Different Career for You: A Respectful Guide](https://www.sefism.com/blog/when-your-parents-want-a-different-career-for-you/)**<br><sub>Parents pushing medicine, engineering, CSS or a government job? How to understand their worries, prepare the conversation with evidence, find…</sub> |
+| **[Studying With No Support System: How to Build One From Scratch](https://www.sefism.com/blog/studying-with-no-support-system/)**<br><sub>For students who are first in their family at university, far from home, in a hostel or without a mentor: what the research says about loneliness…</sub> |
 
 <details>
-<summary><b>All 65 articles</b></summary>
+<summary><b>All 74 articles</b></summary>
 
+- [Student Burnout: Signs, Recovery and When It Is More Than Burnout](https://www.sefism.com/blog/student-burnout-signs-and-recovery/)
+- [Feeling Low at University: Signs of Depression and How to Get Help](https://www.sefism.com/blog/feeling-low-at-university-signs-of-depression-and-getting-help/)
+- [How to Handle Rejection as a Student or Job Seeker](https://www.sefism.com/blog/how-to-handle-rejection-as-a-student-or-job-seeker/)
+- [IT Fresher Hiring in 2026: What TCS and Infosys Numbers Tell You](https://www.sefism.com/blog/it-fresher-hiring-2026-tcs-infosys/)
+- [Free IT Courses in Pakistan: DigiSkills, NAVTTC and e-Rozgaar (2026)](https://www.sefism.com/blog/free-it-courses-in-pakistan/)
+- [JEPA vs LLM: Yann LeCun's World Models Explained for Developers](https://www.sefism.com/blog/jepa-vs-llm/)
+- [EU Blue Card Germany for Software Engineers: 2026 Salary and Steps](https://www.sefism.com/blog/eu-blue-card-germany-software-engineer/)
+- [Is BTech CSE Worth It in 2026? An Honest Answer for Indian Students](https://www.sefism.com/blog/is-btech-cse-worth-it/)
+- [Graduate Tech Jobs in the UK in 2026: Why It Is Hard and What Works](https://www.sefism.com/blog/graduate-tech-jobs-uk/)
 - [How to Get a Job at a GCC in India: A Fresher's Guide (2026)](https://www.sefism.com/blog/how-to-get-a-job-at-a-gcc-in-india/)
 - [Software Engineer Jobs in Japan for Foreigners: A 2026 Guide](https://www.sefism.com/blog/software-engineer-jobs-in-japan-for-foreigners/)
 - [Most In-Demand Tech Skills in India in 2026, Backed by Hiring Data](https://www.sefism.com/blog/in-demand-tech-skills-in-india/)
@@ -1240,7 +1264,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Best practices
 
-46 guides. How experienced engineers actually work with a technology: each practice with why it matters, what to do, what to avoid and a real example. The first 2 chapters of each are open to read, no account needed. Members keep the whole guide, with progress and chapter quizzes, for 2 credits, and some are free in full.
+49 guides. How experienced engineers actually work with a technology: each practice with why it matters, what to do, what to avoid and a real example. The first 2 chapters of each are open to read, no account needed. Members keep the whole guide, with progress and chapter quizzes, for 2 credits, and some are free in full.
 
 | Category | Best practices |
 | :-- | :-- |
@@ -1251,6 +1275,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | **AI** | [Best Practices for Building LLM Apps](https://www.sefism.com/best-practices/llm-app-best-practices/) · [Prompt Engineering Best Practices](https://www.sefism.com/best-practices/prompt-engineering-best-practices/) · [Best Practices for Building AI Agents](https://www.sefism.com/best-practices/ai-agent-best-practices/) · [Best Practices for AI Coding Assistants](https://www.sefism.com/best-practices/ai-coding-assistant-best-practices/) |
 | **Career** | [Tech Lead Best Practices](https://www.sefism.com/best-practices/tech-lead-best-practices/) · [Engineering Career Growth Best Practices](https://www.sefism.com/best-practices/engineering-career-growth-best-practices/) · [Technical Writing Best Practices for Engineers](https://www.sefism.com/best-practices/technical-writing-best-practices/) · [How to Learn a New Programming Language or Framework](https://www.sefism.com/best-practices/learning-new-technologies-best-practices/) · [Developer Career Best Practices for the AI Era](https://www.sefism.com/best-practices/ai-era-developer-career-best-practices/) · [Personal Branding Best Practices for Developers](https://www.sefism.com/best-practices/personal-branding-best-practices/) · [Content Creation Best Practices for Developers](https://www.sefism.com/best-practices/developer-content-creation-best-practices/) |
 | **Build and earn** | [Freelancing Best Practices for Developers](https://www.sefism.com/best-practices/freelancing-best-practices/) · [SaaS Product Best Practices for Developers](https://www.sefism.com/best-practices/saas-product-best-practices/) |
+| **Students** | [Final Year Project Proposal Best Practices](https://www.sefism.com/best-practices/fyp-proposal-best-practices/) · [Final Year Project Report Best Practices](https://www.sefism.com/best-practices/fyp-report-best-practices/) · [Final Year Project Presentation and Defence Best Practices](https://www.sefism.com/best-practices/fyp-presentation-and-defence-best-practices/) |
 
 <sub>[Browse on sefism.com](https://www.sefism.com/best-practices/) · [Every guide with its chapters](best-practices.md)</sub>
 
@@ -1258,7 +1283,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Checklists
 
-41 checklists. Go through a release, a codebase or your own career step by step: each check says how to verify it and how much it matters. The first 2 chapters of each are open to read, no account needed. Members keep the whole checklist, with progress and chapter quizzes, for 2 credits, and some are free in full.
+42 checklists. Go through a release, a codebase or your own career step by step: each check says how to verify it and how much it matters. The first 2 chapters of each are open to read, no account needed. Members keep the whole checklist, with progress and chapter quizzes, for 2 credits, and some are free in full.
 
 | Category | Checklists |
 | :-- | :-- |
@@ -1269,6 +1294,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 | **AI** | [RAG Production Checklist](https://www.sefism.com/checklists/rag-checklist/) · [LLM Evaluation Checklist](https://www.sefism.com/checklists/llm-evaluation-checklist/) · [AI Feature Launch Checklist](https://www.sefism.com/checklists/ai-feature-launch-checklist/) · [AI Agent Security Checklist](https://www.sefism.com/checklists/ai-agent-security-checklist/) · [EU AI Act Readiness Checklist](https://www.sefism.com/checklists/eu-ai-act-readiness-checklist/) · [LLM Cost Optimization Checklist](https://www.sefism.com/checklists/llm-cost-optimization-checklist/) |
 | **Career** | [LinkedIn Profile Checklist for Developers](https://www.sefism.com/checklists/linkedin-profile-checklist/) · [GitHub Profile Checklist for Developers](https://www.sefism.com/checklists/github-profile-checklist/) · [First 90 Days in a New Developer Job: Checklist](https://www.sefism.com/checklists/first-90-days-developer-checklist/) · [Freelance Developer Client Checklist](https://www.sefism.com/checklists/freelance-developer-client-checklist/) · [Open Source Contribution Checklist](https://www.sefism.com/checklists/open-source-contribution-checklist/) · [Remote Developer Job Checklist](https://www.sefism.com/checklists/remote-job-checklist/) · [Relocating Abroad for a Tech Job: Developer Checklist](https://www.sefism.com/checklists/relocating-abroad-developer-checklist/) · [Job Offer Evaluation Checklist for Developers](https://www.sefism.com/checklists/job-offer-evaluation-checklist/) · [Layoff Preparedness Checklist for Developers](https://www.sefism.com/checklists/layoff-preparedness-checklist/) · [Career Switch into Tech Checklist](https://www.sefism.com/checklists/career-switch-into-tech-checklist/) · [Developer Portfolio Website Checklist](https://www.sefism.com/checklists/portfolio-website-checklist/) |
 | **Build and earn** | [App Store and Google Play Launch Checklist](https://www.sefism.com/checklists/app-store-launch-checklist/) · [Getting Paid Internationally Checklist for Freelancers](https://www.sefism.com/checklists/getting-paid-internationally-checklist/) · [Freelance Platform Profile Checklist](https://www.sefism.com/checklists/freelance-platform-profile-checklist/) · [Selling Digital Products Checklist for Developers](https://www.sefism.com/checklists/selling-digital-products-checklist/) · [Indie Product Launch Checklist for Developers](https://www.sefism.com/checklists/indie-product-launch-checklist/) |
+| **Students** | [FYP Team and Supervisor Checklist](https://www.sefism.com/checklists/fyp-team-and-supervisor-checklist/) |
 
 <sub>[Browse on sefism.com](https://www.sefism.com/checklists/) · [Every checklist with its chapters](checklists.md)</sub>
 
@@ -1276,7 +1302,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Learning resources
 
-1418 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
+1495 curated resources, each reviewed on Sefism with who it suits and the level it assumes.
 
 ### Top picks
 
@@ -1395,13 +1421,13 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 | Category | Resources | Free | Mostly |
 | :-- | :-: | :-: | :-- |
-| **[AI & Machine Learning](resources/ai.md)** | 313 | 266 | 118 tool, 67 guide, 34 course |
+| **[AI & Machine Learning](resources/ai.md)** | 315 | 268 | 118 tool, 67 guide, 34 course |
 | **[Web Development](resources/web-development.md)** | 223 | 215 | 81 guide, 29 tool, 22 course |
 | **[System Design](resources/system-design.md)** | 96 | 74 | 52 guide, 12 course, 12 book |
 | **[Interview Prep](resources/interview-prep.md)** | 57 | 38 | 18 guide, 13 course, 9 platform |
-| **[Career Growth](resources/career.md)** | 296 | 247 | 73 guide, 48 platform, 27 roadmap |
-| **[Mentorship](resources/mentorship.md)** | 21 | 13 | 9 platform, 5 video, 1 course |
-| **[Other](resources/other.md)** | 412 | 387 | 123 guide, 48 course, 44 tool |
+| **[Career Growth](resources/career.md)** | 368 | 302 | 78 guide, 44 platform, 38 book |
+| **[Mentorship](resources/mentorship.md)** | 28 | 19 | 14 platform, 5 video, 3 community |
+| **[Other](resources/other.md)** | 408 | 383 | 123 guide, 48 course, 43 tool |
 
 <sub>[Filter on sefism.com](https://www.sefism.com/resources/) · [All categories](resources/README.md)</sub>
 
@@ -1469,7 +1495,7 @@ Sefism is free: no subscription, no paywall, no sales call. [Create an account](
 
 ## Jobs
 
-[Tech jobs at Pakistani and global companies](https://www.sefism.com/jobs/), graduate to senior: software, data, QA and design roles. Every job links to the company's own posting and shows when it was last checked. 164 open roles right now (115 in Pakistan, 49 global): 25 graduate · 53 junior · 56 mid-level · 30 senior.
+[Tech jobs at Pakistani and global companies](https://www.sefism.com/jobs/), graduate to senior: software, data, QA and design roles. Every job links to the company's own posting and shows when it was last checked. 202 open roles right now (92 in Pakistan, 110 global): 45 graduate · 90 junior · 33 mid-level · 34 senior.
 
 Looking beyond the list? [Companies hiring](https://www.sefism.com/jobs/companies/) puts the careers pages of 162 companies in one place. Hiring? Companies can post a role from the jobs page, and every submission is reviewed before it goes live.
 
@@ -1479,15 +1505,16 @@ Jobs open and close often, so they live on the site rather than here.
 
 ## Universities in Pakistan
 
-25 universities teaching Computer Science, Software Engineering, AI and IT, with campuses, admission windows, entry tests, merit formulas, fees and the companies that recruit from each.
+27 universities teaching Computer Science, Software Engineering, AI and IT, with campuses, admission windows, entry tests, merit formulas, fees and the companies that recruit from each.
 
 <details>
-<summary><b>All 25 universities</b></summary>
+<summary><b>All 27 universities</b></summary>
 
 | University | City | Sector |
 | :-- | :-- | :-- |
 | [Air University](https://www.sefism.com/universities/air-university/) | Islamabad | Public |
 | [Bahria University](https://www.sefism.com/universities/bahria-university/) | Islamabad | Public |
+| [Capital University of Science and Technology](https://www.sefism.com/universities/cust/) | Islamabad | Private |
 | [COMSATS University Islamabad](https://www.sefism.com/universities/comsats/) | Islamabad | Public |
 | [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology](https://www.sefism.com/universities/giki/) | Topi | Private |
 | [Habib University](https://www.sefism.com/universities/habib-university/) | Karachi | Private |
@@ -1504,6 +1531,7 @@ Jobs open and close often, so they live on the site rather than here.
 | [Pakistan Institute of Engineering and Applied Sciences](https://www.sefism.com/universities/pieas/) | Islamabad | Public |
 | [Quaid-i-Azam University](https://www.sefism.com/universities/quaid-i-azam-university/) | Islamabad | Public |
 | [Sukkur IBA University](https://www.sefism.com/universities/sukkur-iba/) | Sukkur | Public |
+| [University of Central Punjab](https://www.sefism.com/universities/ucp/) | Lahore | Private |
 | [University of Engineering & Technology, Peshawar](https://www.sefism.com/universities/uet-peshawar/) | Peshawar | Public |
 | [University of Engineering and Technology, Lahore](https://www.sefism.com/universities/uet-lahore/) | Lahore | Public |
 | [University of Engineering and Technology, Taxila](https://www.sefism.com/universities/uet-taxila/) | Taxila | Public |
@@ -1547,6 +1575,6 @@ Found a broken link or want something covered? [Open an issue](../../issues) or 
 ---
 
 <div align="center">
-<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-10-13. The site is always the latest version.</sub><br>
+<sub>Generated from <a href="https://www.sefism.com/">sefism.com</a> on 2026-10-31. The site is always the latest version.</sub><br>
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
 </div>

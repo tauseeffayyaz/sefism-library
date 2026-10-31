@@ -2,19 +2,19 @@
 
 [← Back to the Sefism Library](../README.md)
 
-21 resources, each with a short review on Sefism explaining who it is for.
+28 resources, each with a short review on Sefism explaining who it is for.
 
 [← All resource categories](README.md) · [This category on sefism.com](https://www.sefism.com/resources/?category=mentorship)
 
 - [Course](#course) (1)
 - [Roadmap](#roadmap) (1)
 - [Guide](#guide) (1)
-- [Platform](#platform) (9)
+- [Platform](#platform) (14)
 - [Tool](#tool) (1)
 - [GitHub repo](#github-repo) (1)
 - [Book](#book) (1)
 - [Video](#video) (5)
-- [Community](#community) (1)
+- [Community](#community) (3)
 
 ## Course
 
@@ -30,15 +30,20 @@
 
 ## Platform
 
+- [7 Cups (free peer listening)](https://www.sefism.com/resources/7-cups/) · 7 Cups · Free
 - [ADPList](https://www.sefism.com/resources/adplist/) · ADPList · Free
 - [Arslan Ahmad: Interview Coaching](https://www.sefism.com/resources/arslan-ahmad-interview-coaching/) · Design Gurus · Paid
+- [Befrienders Worldwide](https://www.sefism.com/resources/befrienders-worldwide/) · Befrienders Worldwide · Free
 - [Codementor](https://www.sefism.com/resources/codementor/) · Codementor · Paid
 - [Design Gurus Interview Coaching](https://www.sefism.com/resources/design-gurus-interview-coaching/) · Design Gurus · Paid
 - [Design Gurus Mock Interviews](https://www.sefism.com/resources/design-gurus-mock-interviews/) · Design Gurus · Paid
-- [LFX Mentorship](https://www.sefism.com/resources/lfx-mentorship/) · The Linux Foundation · Free · Intermediate
+- [Find A Helpline](https://www.sefism.com/resources/find-a-helpline/) · ThroughLine · Free
 - [MentorCruise](https://www.sefism.com/resources/mentorcruise/) · MentorCruise · Paid
 - [Rafay Abbasi: Interview Coaching](https://www.sefism.com/resources/rafay-abbasi-interview-coaching/) · Design Gurus · Paid
+- [Rozan Counselling Helpline](https://www.sefism.com/resources/rozan-counselling-helpline/) · Rozan · Free
 - [Sefism 1:1 Mentorship](https://www.sefism.com/resources/sefism-11-mentorship/) · Sefism · Free
+- [Tele-MANAS (India mental health helpline)](https://www.sefism.com/resources/tele-manas/) · Ministry of Health and Family Welfare, Government of India · Free
+- [Umang Pakistan mental health helpline](https://www.sefism.com/resources/umang-pakistan-helpline/) · Umang · Free
 
 ## Tool
 
@@ -62,10 +67,12 @@
 
 ## Community
 
+- [Meetup](https://www.sefism.com/resources/meetup/) · Meetup · Free
 - [Sefism Discord](https://www.sefism.com/resources/sefism-discord/) · Sefism · Free
+- [Toastmasters International](https://www.sefism.com/resources/toastmasters-international/) · Toastmasters International · Paid
 
 ---
 
-Generated from [sefism.com](https://www.sefism.com/) on 2026-10-13. The site is always the latest version.
+Generated from [sefism.com](https://www.sefism.com/) on 2026-10-31. The site is always the latest version.
 
 <sub>Sefism is an independent project by Tauseef Fayyaz. It is not affiliated with, endorsed by, or operated on behalf of any current or former employer. All views are my own.</sub>
